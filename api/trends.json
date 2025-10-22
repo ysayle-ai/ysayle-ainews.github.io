@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T03:20:27.722801+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-10-23T04:31:33.382305+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
           "url": "https://wallstreetcn.com/articles/3757603",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -46,11 +47,26 @@
           "source": "今日头条",
           "ranks": [
             5,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普称大陆不想进攻台湾 国台办回应",
+          "url": "https://www.toutiao.com/trending/7563604843634544147/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -75,39 +91,73 @@
           "time_info": "01时23分"
         },
         {
-          "title": "报道称特朗普政府允许乌克兰使用西方的某些远程导弹",
-          "url": "https://wallstreetcn.com/livenews/2992048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普称大陆不想进攻台湾 国台办回应",
-          "url": "https://www.toutiao.com/trending/7563604843634544147/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
-        },
-        {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普开始创造性破坏白宫",
+          "url": "https://www.toutiao.com/trending/7563916723658244105/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成协议",
+          "url": "https://www.douyin.com/hot/2278821",
+          "source": "抖音",
+          "ranks": [
+            21,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
@@ -115,11 +165,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）活牛期货跌幅重新扩大至1%，饲牛期货跌幅扩大至2%。 该国总统特朗普称，“那些饲养牛的农场主们必须降价。（我所挑起的）美国关税让养殖户们做得很好。”",
@@ -135,15 +186,16 @@
           "time_info": "[01时23分 ~ 03时20分]"
         },
         {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
+          "title": "报道称特朗普政府允许乌克兰使用西方的某些远程导弹",
+          "url": "https://wallstreetcn.com/livenews/2992048",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时31分]"
         },
         {
           "title": "哥伦比亚比索兑美元跌幅收窄至0.35%，报3907.27比索。 这个南美洲国家的总统Gustavo Petro称，哥伦比亚向美国提议，特朗普政府应该对其出口到美国的粮食和农产品免征关税。",
@@ -158,62 +210,29 @@
           "time_info": "[02时39分 ~ 03时20分]"
         },
         {
-          "title": "特朗普开始创造性破坏白宫",
-          "url": "https://www.toutiao.com/trending/7563916723658244105/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
-        },
-        {
-          "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.douyin.com/hot/2278821",
-          "source": "抖音",
-          "ranks": [
-            21,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
-        },
-        {
-          "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
-        },
-        {
           "title": "希拉里痛批特朗普2.5亿美元改造白宫",
           "url": "https://www.baidu.com/s?wd=%E5%B8%8C%E6%8B%89%E9%87%8C%E7%97%9B%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE2.5%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B9%E9%80%A0%E7%99%BD%E5%AE%AB",
           "source": "百度热搜",
           "ranks": [
             29,
-            30
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
+          "url": "https://www.cls.cn/detail/2177223",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
@@ -228,16 +247,16 @@
           "time_info": "[02时39分 ~ 03时20分]"
         },
         {
-          "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
-          "url": "https://www.cls.cn/detail/2177223",
-          "source": "财联社热门",
+          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
+          "url": "https://wallstreetcn.com/livenews/2992039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            11,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时31分]"
         },
         {
           "title": "美国众议长约翰逊：（由于特朗普政府关门问题）我们在一些必要的事务上丧失时间。",
@@ -261,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
-          "url": "https://wallstreetcn.com/livenews/2992039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         },
         {
           "title": "美国总统特朗普：畜牧场主必须降低价格。",
@@ -310,7 +318,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -320,8 +328,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -333,6 +341,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 03时20分]"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251023040545784800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251023040507331800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
@@ -349,6 +390,19 @@
           "time_info": "[00时36分 ~ 03时20分]"
         },
         {
+          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
+          "url": "https://wallstreetcn.com/articles/3757661",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
           "title": "美股短线跳水，标普500指数跌超1%。",
           "url": "https://flash.jin10.com/detail/20251023003249960800",
           "source": "金十数据",
@@ -361,16 +415,15 @@
           "time_info": "[00时36分 ~ 01时23分]"
         },
         {
-          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
-          "url": "https://wallstreetcn.com/articles/3757661",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大股指齐跌 网易跌超4%",
+          "url": "https://flash.jin10.com/detail/20251023040118815800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -484,8 +537,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "金价",
@@ -498,8 +551,22 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "金价下跌的关键原因是什么",
+          "url": "https://www.toutiao.com/trending/7564035029894958638/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            28,
+            29,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时20分]"
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -515,26 +582,13 @@
           "time_info": "[00时36分 ~ 02时39分]"
         },
         {
-          "title": "金价下跌的关键原因是什么",
-          "url": "https://www.toutiao.com/trending/7564035029894958638/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时39分]"
-        },
-        {
           "title": "黄金价格大跳水 金价到顶了吗",
           "url": "https://www.toutiao.com/trending/7563965781701037609/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         }
@@ -542,7 +596,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -550,11 +604,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
@@ -566,6 +621,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
+          "url": "https://wallstreetcn.com/livenews/2992057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "短中期美债收益率跌超1个基点",
+          "url": "https://wallstreetcn.com/livenews/2992056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（10月22日）纽约尾盘，ICE美元指数跌0.04%，报98.897点，日内交投区间为99.139-98.786点，全天冲高回落。 彭博美元指数跌0.03%，报1212.28点，日内交投区间为1214.18-1211.38点。",
+          "url": "https://wallstreetcn.com/livenews/2992055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     }
