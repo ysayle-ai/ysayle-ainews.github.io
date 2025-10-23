@@ -1,5 +1,5 @@
-DeepSeek
-梁文锋
+科技
+AI
 
 谷歌
 google
@@ -8,18 +8,9 @@ gemini
 chatgpt
 openai
 
-金价
+经济
 
-黄金
-+价格
+社会
 
-美债
+人文
 
-美股
-
-美元
-+指数
-
-特朗普
-
-伊朗
