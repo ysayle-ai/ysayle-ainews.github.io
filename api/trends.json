@@ -1,29 +1,29 @@
 {
-  "generated_at": "2025-10-24T15:25:43.733810+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-10-24T16:34:22.307518+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "【早报】“十五五”时期经济社会发展主要目标确定；国际油价飙升，大涨超5%",
-          "url": "https://www.cls.cn/detail/2179030",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时25分]"
-        },
         {
           "title": "十五五经济社会发展主要目标",
           "url": "https://www.douyin.com/hot/2280222",
           "source": "抖音",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 16时34分]"
+        },
+        {
+          "title": "【早报】“十五五”时期经济社会发展主要目标确定；国际油价飙升，大涨超5%",
+          "url": "https://www.cls.cn/detail/2179030",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 16时34分]"
         },
         {
           "title": "中央政策研究室主任江金权：我国经济增速继续领跑全球主要经济体 预计今年国内生产总值达到140万亿元左右",
@@ -153,6 +153,17 @@
           "time_info": "12时30分"
         },
         {
+          "title": "未来五年中国经济的新风口在哪里",
+          "url": "https://www.toutiao.com/trending/7564652919887236659/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "日本首相高市早苗：将打造全球投资者信任的经济环境。 将研究外国人财产所有权相关规定。",
           "url": "https://wallstreetcn.com/livenews/2993077",
           "source": "华尔街见闻-快讯",
@@ -167,8 +178,19 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "Anthropic将使用价值数百亿美元的谷歌AI芯片，Alphabet(GOOG.O)盘前上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251024160713714800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
         {
           "title": "A股算力硬件股午后持续走强，中际旭创大涨10%，方正科技触及涨停，胜宏科技、景旺电子、新易盛、工业富联多股涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2993074",
@@ -188,11 +210,26 @@
             2,
             3,
             9,
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 16时34分]"
+        },
+        {
+          "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
+          "url": "https://www.cls.cn/detail/2179115",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 16时34分]"
         },
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
@@ -206,17 +243,16 @@
           "time_info": "[12时30分 ~ 15时25分]"
         },
         {
-          "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
-          "url": "https://www.cls.cn/detail/2179115",
-          "source": "财联社热门",
+          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
+          "url": "https://www.zhihu.com/question/1964293577816408687",
+          "source": "知乎",
           "ranks": [
-            10,
-            12,
-            11
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时25分]"
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时34分]"
         },
         {
           "title": "超三千名海内外科技领袖联名呼吁暂停开发“超级智能”",
@@ -241,15 +277,15 @@
           "time_info": "12时30分"
         },
         {
-          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
-          "url": "https://www.zhihu.com/question/1964293577816408687",
-          "source": "知乎",
+          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2993207",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "16时34分"
         },
         {
           "title": "吉利联合中国汽车工程学会发布行业首个《AI CAR白皮书》",
