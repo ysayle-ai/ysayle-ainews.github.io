@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-24T18:28:01.578224+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2025-10-24T19:22:12.569158+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "重视中国经济也重视中国人经济",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%9F%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%8F%E6%B5%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D2%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D3%26stream_entry_id%3D31%26band_rank%3D3%26flag%3D0%26q%3D%2523%25E9%2587%258D%25E8%25A7%2586%25E4%25B8%25AD%25E5%259B%25BD%25E7%25BB%258F%25E6%25B5%258E%25E4%25B9%259F%25E9%2587%258D%25E8%25A7%2586%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E7%25BB%258F%25E6%25B5%258E%2523%26display_time%3D1761298088%26pre_seqid%3D176129808866203667900131",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 19时22分]"
+        },
         {
           "title": "十五五经济社会发展主要目标",
           "url": "https://www.douyin.com/hot/2280222",
@@ -30,17 +41,6 @@
           "time_info": "[12时30分 ~ 15时25分]"
         },
         {
-          "title": "重视中国经济也重视中国人经济",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%9F%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%8F%E6%B5%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D2%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D3%26stream_entry_id%3D31%26band_rank%3D3%26flag%3D0%26q%3D%2523%25E9%2587%258D%25E8%25A7%2586%25E4%25B8%25AD%25E5%259B%25BD%25E7%25BB%258F%25E6%25B5%258E%25E4%25B9%259F%25E9%2587%258D%25E8%25A7%2586%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E7%25BB%258F%25E6%25B5%258E%2523%26display_time%3D1761298088%26pre_seqid%3D176129808866203667900131",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时28分]"
-        },
-        {
           "title": "《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》审议通过，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965001781726679266",
           "source": "知乎",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[14时37分 ~ 19时22分]"
         },
         {
           "title": "巴克莱料市场不太可能改变美联储降息预期 美国经济乐观叙事或得以延续",
@@ -88,6 +88,18 @@
           "time_info": "[12时30分 ~ 15时25分]"
         },
         {
+          "title": "一图速览丨“十五五”时期经济社会发展指导方针",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827784",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 19时22分]"
+        },
+        {
           "title": "中央政策研究室主任江金权：我国经济增速继续领跑全球主要经济体 预计今年国内生产总值达到140万亿元左右",
           "url": "https://wallstreetcn.com/livenews/2993034",
           "source": "华尔街见闻-快讯",
@@ -112,17 +124,6 @@
           "time_info": "[17时28分 ~ 18时28分]"
         },
         {
-          "title": "一图速览丨“十五五”时期经济社会发展指导方针",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31827784",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
           "title": "日本首相高市早苗：将成立日本增长战略委员会以发展经济。",
           "url": "https://flash.jin10.com/detail/20251024131147910800",
           "source": "金十数据",
@@ -143,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "中国央行：提高金融服务实体经济的适配性，支持国民经济的重点领域和薄弱环节",
+          "url": "https://wallstreetcn.com/livenews/2993374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "中央财办副主任韩文秀：充分释放经济增长潜力 努力从中等收入国家向中等发达国家水平迈进",
@@ -225,7 +237,7 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI续写你的名字",
@@ -251,7 +263,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -276,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "金风科技：第三季度净利润10.97亿元，同比增长170.64%；前三季度净利润25.8亿元，同比增长44.21%。",
+          "url": "https://wallstreetcn.com/livenews/2993379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
@@ -306,6 +329,18 @@
           "time_info": "[15时25分 ~ 18时28分]"
         },
         {
+          "title": "【每日收评】沪指刷新年内新高！科技股再迎集体爆发，算力硬件、半导体联袂领涨",
+          "url": "https://www.cls.cn/detail/2179767",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 19时22分]"
+        },
+        {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
           "url": "https://www.cls.cn/detail/2179066",
           "source": "财联社热门",
@@ -317,16 +352,15 @@
           "time_info": "[12时30分 ~ 15时25分]"
         },
         {
-          "title": "【每日收评】沪指刷新年内新高！科技股再迎集体爆发，算力硬件、半导体联袂领涨",
-          "url": "https://www.cls.cn/detail/2179767",
-          "source": "财联社热门",
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 19时22分]"
         },
         {
           "title": "AirPods Pro3值得买吗",
@@ -339,17 +373,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时28分 ~ 18时28分]"
-        },
-        {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "超三千名海内外科技领袖联名呼吁暂停开发“超级智能”",
@@ -369,7 +392,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -380,7 +403,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
