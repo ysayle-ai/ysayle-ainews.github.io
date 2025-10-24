@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T17:28:53.355099+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-10-24T18:28:01.578224+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "十五五经济社会发展主要目标",
@@ -30,24 +30,38 @@
           "time_info": "[12时30分 ~ 15时25分]"
         },
         {
-          "title": "巴克莱料市场不太可能改变美联储降息预期 美国经济乐观叙事或得以延续",
-          "url": "https://flash.jin10.com/detail/20251024171002293800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "重视中国经济也重视中国人经济",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%9F%E9%87%8D%E8%A7%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%8F%E6%B5%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D2%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D3%26stream_entry_id%3D31%26band_rank%3D3%26flag%3D0%26q%3D%2523%25E9%2587%258D%25E8%25A7%2586%25E4%25B8%25AD%25E5%259B%25BD%25E7%25BB%258F%25E6%25B5%258E%25E4%25B9%259F%25E9%2587%258D%25E8%25A7%2586%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E7%25BB%258F%25E6%25B5%258E%2523%26display_time%3D1761298088%26pre_seqid%3D176129808866203667900131",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》审议通过，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965001781726679266",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 18时28分]"
+        },
+        {
+          "title": "巴克莱料市场不太可能改变美联储降息预期 美国经济乐观叙事或得以延续",
+          "url": "https://flash.jin10.com/detail/20251024171002293800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -61,19 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
-        },
-        {
-          "title": "《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》审议通过，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1965001781726679266",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 17时28分]"
         },
         {
           "title": "如何看待湖北省计划将一切国有资源、国有资产、国有资金尽可能资产化、证券化、杠杆化，有何经济学的深意？",
@@ -97,6 +98,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 13时23分]"
+        },
+        {
+          "title": "广东：加大对低空经济企业上市培育力度，支持符合条件的优质企业境内外上市",
+          "url": "https://wallstreetcn.com/livenews/2993249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "一图速览丨“十五五”时期经济社会发展指导方针",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31827784",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "日本首相高市早苗：将成立日本增长战略委员会以发展经济。",
@@ -130,17 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
-        },
-        {
-          "title": "广东：加大对低空经济企业上市培育力度，支持符合条件的优质企业境内外上市",
-          "url": "https://wallstreetcn.com/livenews/2993249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "日本财相暗示可能增发债券为经济刺激计划融资",
@@ -212,7 +225,7 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI续写你的名字",
@@ -224,11 +237,23 @@
             9,
             16,
             6,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时30分 ~ 18时28分]"
+        },
+        {
+          "title": "闻泰科技：若安世控制权在年末前无法恢复，公司或面临收入、利润及现金流阶段性下调风险",
+          "url": "https://wallstreetcn.com/livenews/2993317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "Anthropic将使用价值数百亿美元的谷歌AI芯片，Alphabet(GOOG.O)盘前上涨1%。",
@@ -268,6 +293,19 @@
           "time_info": "[12时30分 ~ 17时28分]"
         },
         {
+          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
+          "url": "https://www.zhihu.com/question/1964293577816408687",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时28分]"
+        },
+        {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
           "url": "https://www.cls.cn/detail/2179066",
           "source": "财联社热门",
@@ -279,16 +317,39 @@
           "time_info": "[12时30分 ~ 15时25分]"
         },
         {
-          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
-          "url": "https://www.zhihu.com/question/1964293577816408687",
-          "source": "知乎",
+          "title": "【每日收评】沪指刷新年内新高！科技股再迎集体爆发，算力硬件、半导体联袂领涨",
+          "url": "https://www.cls.cn/detail/2179767",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            9
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时28分]"
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "AirPods Pro3值得买吗",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%20Pro3%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "超三千名海内外科技领袖联名呼吁暂停开发“超级智能”",
@@ -302,15 +363,26 @@
           "time_info": "[12时30分 ~ 13时23分]"
         },
         {
-          "title": "【每日收评】沪指刷新年内新高！科技股再迎集体爆发，算力硬件、半导体联袂领涨",
-          "url": "https://www.cls.cn/detail/2179767",
-          "source": "财联社热门",
+          "title": "闻泰科技：第三季度净利润10.4亿元，同比增长279.29%",
+          "url": "https://wallstreetcn.com/livenews/2993290",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时28分"
+        },
+        {
+          "title": "腾讯AI智能工作台ima发布2.0版本，月活增长突破80倍",
+          "url": "https://wallstreetcn.com/livenews/2993280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "印度Sensex指数开盘上涨0.1%，报84667.23点，科技股领涨。",
@@ -322,17 +394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
-        },
-        {
-          "title": "AirPods Pro3值得买吗",
-          "url": "https://search.bilibili.com/all?keyword=AirPods%20Pro3%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
@@ -374,7 +435,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
