@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T22:25:54.858865+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2025-10-24T23:26:57.186428+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "重视中国经济也重视中国人经济",
@@ -66,15 +66,26 @@
           "time_info": "21时37分"
         },
         {
-          "title": "白宫经济顾问哈塞特：特朗普对加拿大非常失望",
-          "url": "https://wallstreetcn.com/livenews/2993515",
+          "title": "日本（负责贸易事务的）经济产业省大臣Akazawa与美国商务部长卢特尼克通话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/2993536",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "23时26分"
+        },
+        {
+          "title": "未来五年 中国经济里蕴藏这些新机遇",
+          "url": "https://www.toutiao.com/trending/7564405247674974271/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "巴克莱料市场不太可能改变美联储降息预期 美国经济乐观叙事或得以延续",
@@ -88,6 +99,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "未来五年中国经济如何走",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A6%82%E4%BD%95%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "日本首相高市早苗：将打造全球投资者信任的经济环境。",
           "url": "https://wallstreetcn.com/livenews/2993077",
           "source": "华尔街见闻-快讯",
@@ -97,6 +119,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：特朗普对加拿大非常失望",
+          "url": "https://wallstreetcn.com/livenews/2993515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时26分]"
         },
         {
           "title": "一图速览丨“十五五”时期经济社会发展指导方针",
@@ -147,6 +181,18 @@
           "time_info": "[17时28分 ~ 18时28分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：预计未来的报告中通胀将进一步下降。 没有证据表明关税正在引发通胀。",
+          "url": "https://wallstreetcn.com/livenews/2993498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时26分]"
+        },
+        {
           "title": "惠誉：通胀维持在约3%水平竟被视为“好消息”需尽快让经济数据发布恢复正常",
           "url": "https://flash.jin10.com/detail/20251024211517665800",
           "source": "金十数据",
@@ -164,7 +210,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -197,7 +243,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -219,7 +265,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -244,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
+        },
+        {
+          "title": "美国密歇根大学消费者调查负责人Joanne Hsu：总体而言，（美国）消费者认为当前经济状况与上月变化不大；通胀和高物价依然是人们最关心的问题。 10月几乎没有迹象表明消费者将联邦政府停摆与经济状况联系起来。",
+          "url": "https://wallstreetcn.com/livenews/2993520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "中央财办副主任韩文秀：充分释放经济增长潜力 努力从中等收入国家向中等发达国家水平迈进",
@@ -279,24 +336,13 @@
           "time_info": "13时23分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：预计未来的报告中通胀将进一步下降。 没有证据表明关税正在引发通胀。",
-          "url": "https://wallstreetcn.com/livenews/2993498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：（有关加拿大贸易）随着时间的推移，挫败感越来越大。",
           "url": "https://flash.jin10.com/detail/20251024220012762800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -307,7 +353,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -318,7 +364,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -362,7 +408,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -376,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "美国消费者信心微幅下滑，通胀担忧持续主导经济预期",
+          "url": "https://flash.jin10.com/detail/20251024222541143800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "未来五年中国经济的新风口在哪里",
@@ -395,7 +452,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -406,7 +463,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -425,7 +482,7 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI续写你的名字",
@@ -457,28 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
-        },
-        {
-          "title": "英国央行调查数据中心贷款 警惕AI泡沫风险",
-          "url": "https://flash.jin10.com/detail/20251024221602118800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
-          "url": "https://wallstreetcn.com/livenews/2993513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "Anthropic将使用价值数百亿美元的谷歌AI芯片，Alphabet(GOOG.O)盘前上涨1%。",
@@ -514,6 +549,19 @@
           "time_info": "19时22分"
         },
         {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 23时26分]"
+        },
+        {
           "title": "【每日收评】沪指刷新年内新高！科技股再迎集体爆发，算力硬件、半导体联袂领涨",
           "url": "https://www.cls.cn/detail/2179767",
           "source": "财联社热门",
@@ -525,18 +573,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[17时28分 ~ 22时25分]"
-        },
-        {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时27分 ~ 22时25分]"
         },
         {
           "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
@@ -552,6 +588,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时30分 ~ 17时28分]"
+        },
+        {
+          "title": "英国央行调查数据中心贷款 警惕AI泡沫风险",
+          "url": "https://flash.jin10.com/detail/20251024221602118800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时26分]"
+        },
+        {
+          "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
+          "url": "https://wallstreetcn.com/livenews/2993513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时26分]"
         },
         {
           "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
@@ -602,6 +662,17 @@
           "time_info": "[20时54分 ~ 21时37分]"
         },
         {
+          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
+          "url": "https://wallstreetcn.com/articles/3757786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时26分]"
+        },
+        {
           "title": "超三千名海内外科技领袖联名呼吁暂停开发“超级智能”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31826389",
           "source": "澎湃新闻",
@@ -635,15 +706,15 @@
           "time_info": "18时28分"
         },
         {
-          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
-          "url": "https://wallstreetcn.com/articles/3757786",
-          "source": "华尔街见闻",
+          "title": "美光科技(MU.O)延续涨势，最新上涨4.9%。",
+          "url": "https://flash.jin10.com/detail/20251024225346280800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "23时26分"
         },
         {
           "title": "印度Sensex指数开盘上涨0.1%，报84667.23点，科技股领涨。",
@@ -704,7 +775,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本首相高市早苗：将在跨党派会议上讨论税收和社会保障的综合改革。",
@@ -727,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "法国社会党威胁称，将因预算问题而罢免政府",
+          "url": "https://wallstreetcn.com/livenews/2993529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "国家卫健委：建设生育友好型社会",
