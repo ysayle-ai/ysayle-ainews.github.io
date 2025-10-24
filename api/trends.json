@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T12:30:46.886588+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-10-24T13:23:42.070204+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】“十五五”时期经济社会发展主要目标确定；国际油价飙升，大涨超5%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时23分]"
         },
         {
           "title": "十五五经济社会发展主要目标",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时23分]"
+        },
+        {
+          "title": "日本首相高市早苗：将打造全球投资者信任的经济环境。",
+          "url": "https://wallstreetcn.com/livenews/2993077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时30分"
+          "time_info": "13时23分"
         },
         {
           "title": "如何看待湖北省计划将一切国有资源、国有资产、国有资金尽可能资产化、证券化、杠杆化，有何经济学的深意？",
@@ -37,19 +48,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时23分]"
         },
         {
           "title": "中央政策研究室主任江金权：我国经济增速继续领跑全球主要经济体 预计今年国内生产总值达到140万亿元左右",
           "url": "https://wallstreetcn.com/livenews/2993034",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时23分]"
+        },
+        {
+          "title": "日本首相高市早苗：将成立日本增长战略委员会以发展经济。",
+          "url": "https://flash.jin10.com/detail/20251024131147910800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时30分"
+          "time_info": "13时23分"
+        },
+        {
+          "title": "日本首相高市早苗：政府财政依赖于经济状况。 扩张性财政政策要具有战略性和责任感。 求在不提高税收的情况下增加政府收入。 将迅速制定经济措施，并向议会提交必要的补充预算。 需降低债务占GDP比率以维持市场信任。",
+          "url": "https://wallstreetcn.com/livenews/2993070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "中央财办副主任韩文秀：充分释放经济增长潜力 努力从中等收入国家向中等发达国家水平迈进",
@@ -74,6 +108,28 @@
           "time_info": "12时30分"
         },
         {
+          "title": "日本首相高市早苗：将迅速制定经济措施，并向议会提交必要的补充预算。",
+          "url": "https://flash.jin10.com/detail/20251024130718559800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "日本首相高市早苗：先经济，后财政的原则将是我们方针的基础。",
+          "url": "https://flash.jin10.com/detail/20251024130518993800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "山东：“十四五”时期经济总量预计增加近3万亿元",
           "url": "https://wallstreetcn.com/livenews/2993005",
           "source": "华尔街见闻-快讯",
@@ -88,18 +144,30 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI续写你的名字",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时23分]"
+        },
+        {
+          "title": "A股算力硬件股午后持续走强，中际旭创大涨10%，方正科技触及涨停，胜宏科技、景旺电子、新易盛、工业富联多股涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/2993074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时30分"
+          "time_info": "13时23分"
         },
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
@@ -109,19 +177,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时23分]"
         },
         {
           "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
           "url": "https://www.cls.cn/detail/2179115",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时23分]"
         },
         {
           "title": "超三千名海内外科技领袖联名呼吁暂停开发“超级智能”",
@@ -131,8 +200,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时23分]"
         },
         {
           "title": "印度Sensex指数开盘上涨0.1%，报84667.23点，科技股领涨。",
@@ -155,6 +224,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本首相高市早苗：将在跨党派会议上讨论税收和社会保障的综合改革。",
+          "url": "https://flash.jin10.com/detail/20251024131900645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "国家卫健委：建设生育友好型社会",
+          "url": "https://www.toutiao.com/trending/7564615808024707078/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
