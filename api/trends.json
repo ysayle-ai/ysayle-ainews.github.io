@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T01:22:15.775483+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-10-25T02:34:49.696700+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时34分]"
         },
         {
           "title": "未来五年中国经济如何走",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时34分]"
         },
         {
           "title": "日本（负责贸易事务的）经济产业省大臣Akazawa与美国商务部长卢特尼克通话。（共同社）",
@@ -79,7 +80,7 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -89,8 +90,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时34分]"
         },
         {
           "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
@@ -100,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时34分]"
         },
         {
           "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
@@ -113,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "AI续写你的名字",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     },
