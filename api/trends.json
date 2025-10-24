@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T20:54:37.078298+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-10-24T21:37:54.285460+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "重视中国经济也重视中国人经济",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 21时37分]"
         },
         {
           "title": "《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》审议通过，哪些信息值得关注？",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时37分 ~ 20时54分]"
+          "appearance_count": 10,
+          "time_info": "[14时37分 ~ 21时37分]"
         },
         {
           "title": "十五五经济社会发展主要目标",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时30分 ~ 15时25分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：通胀正在放缓，减轻了美联储的压力。",
+          "url": "https://wallstreetcn.com/livenews/2993476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "巴克莱料市场不太可能改变美联储降息预期 美国经济乐观叙事或得以延续",
@@ -125,6 +136,17 @@
           "time_info": "[17时28分 ~ 18时28分]"
         },
         {
+          "title": "惠誉：通胀维持在约3%水平竟被视为“好消息”需尽快让经济数据发布恢复正常",
+          "url": "https://flash.jin10.com/detail/20251024211517665800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "日本首相高市早苗：将成立日本增长战略委员会以发展经济。",
           "url": "https://flash.jin10.com/detail/20251024131147910800",
           "source": "金十数据",
@@ -156,6 +178,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "经济学家：通胀“粘性”仍存但未失控，CPI数据强化美联储降息路径",
+          "url": "https://flash.jin10.com/detail/20251024211040050800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "资管机构：市场很可能会继续挤压空头 美国经济和企业韧性远超预期",
+          "url": "https://flash.jin10.com/detail/20251024210942760800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "中央财办副主任韩文秀：充分释放经济增长潜力 努力从中等收入国家向中等发达国家水平迈进",
@@ -197,7 +241,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -211,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "经济学家：美国住房和租金市场“正常化”迹象料将持续 通胀压力总体上较为温和",
+          "url": "https://flash.jin10.com/detail/20251024210330602800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "山东：“十四五”时期经济总量预计增加近3万亿元",
@@ -263,11 +318,12 @@
             6,
             18,
             19,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时30分 ~ 20时54分]"
+          "appearance_count": 10,
+          "time_info": "[12时30分 ~ 21时37分]"
         },
         {
           "title": "闻泰科技：若安世控制权在年末前无法恢复，公司或面临收入、利润及现金流阶段性下调风险",
@@ -314,6 +370,30 @@
           "time_info": "19时22分"
         },
         {
+          "title": "【每日收评】沪指刷新年内新高！科技股再迎集体爆发，算力硬件、半导体联袂领涨",
+          "url": "https://www.cls.cn/detail/2179767",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 21时37分]"
+        },
+        {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 21时37分]"
+        },
+        {
           "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
           "url": "https://www.cls.cn/detail/2179115",
           "source": "财联社热门",
@@ -327,30 +407,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时30分 ~ 17时28分]"
-        },
-        {
-          "title": "【每日收评】沪指刷新年内新高！科技股再迎集体爆发，算力硬件、半导体联袂领涨",
-          "url": "https://www.cls.cn/detail/2179767",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 20时54分]"
-        },
-        {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 20时54分]"
         },
         {
           "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
@@ -389,6 +445,18 @@
           "time_info": "[17时28分 ~ 18时28分]"
         },
         {
+          "title": "国家发展改革委：加快高水平科技自立自强、建设强大国内市场",
+          "url": "https://wallstreetcn.com/livenews/2993436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时37分]"
+        },
+        {
           "title": "超三千名海内外科技领袖联名呼吁暂停开发“超级智能”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31826389",
           "source": "澎湃新闻",
@@ -420,17 +488,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
-        },
-        {
-          "title": "国家发展改革委：加快高水平科技自立自强、建设强大国内市场",
-          "url": "https://wallstreetcn.com/livenews/2993436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "印度Sensex指数开盘上涨0.1%，报84667.23点，科技股领涨。",
@@ -511,7 +568,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -539,7 +596,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
