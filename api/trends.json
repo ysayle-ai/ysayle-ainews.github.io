@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T12:30:11.004304+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2025-10-25T13:25:34.331091+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 12时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 13时25分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -51,11 +51,12 @@
             3,
             13,
             15,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 13时25分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.36%，报26256点。 恒生科技指数主连夜盘收涨0.28%，报6087点。",
@@ -101,11 +102,12 @@
           "url": "https://wallstreetcn.com/articles/3757873",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 13时25分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
@@ -179,7 +181,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "未来五年 中国经济里蕴藏这些新机遇",
@@ -189,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 12时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 13时25分]"
         },
         {
           "title": "未来五年中国经济如何走",
@@ -205,8 +207,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 12时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 13时25分]"
         },
         {
           "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
@@ -225,18 +227,6 @@
           "time_info": "[05时22分 ~ 12时30分]"
         },
         {
-          "title": "穆迪：美国经济勉强避衰退 加州与纽约成关键",
-          "url": "https://flash.jin10.com/detail/20251025104349967800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时30分]"
-        },
-        {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
           "url": "https://www.cls.cn/detail/2180455",
           "source": "财联社热门",
@@ -246,8 +236,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时25分]"
+        },
+        {
+          "title": "穆迪：美国经济勉强避衰退 加州与纽约成关键",
+          "url": "https://flash.jin10.com/detail/20251025104349967800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时25分]"
         },
         {
           "title": "美联储改革压力测试 将公布保密模型和经济场景设计过程",
@@ -271,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时22分]"
+        },
+        {
+          "title": "哈萨克斯坦总统：2019年以来哈经济累计增长16%",
+          "url": "https://flash.jin10.com/detail/20251025121716008800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "经济学家呼吁美最高法院推翻关税政策",
@@ -351,11 +365,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31833551",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 13时25分]"
         }
       ]
     },
