@@ -1,311 +1,123 @@
 {
-  "generated_at": "2025-10-27T20:26:05.840987+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-10-28T02:20:13.717727+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 24,
+      "match_count": 7,
       "titles": [
         {
-          "title": "四中全会公报10次提到“科技”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A510%E6%AC%A1%E6%8F%90%E5%88%B0%E2%80%9C%E7%A7%91%E6%8A%80%E2%80%9D",
-          "source": "百度热搜",
+          "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
+          "url": "https://flash.jin10.com/detail/20251028015303563800",
+          "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
-          "title": "新城市志︱中国科技城，争当文旅优等生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31839165",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 14时22分]"
-        },
-        {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 20时26分]"
-        },
-        {
-          "title": "解放日报论上海全面发力“十五五”：提升创新效能，抢占科技“制高点”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31841072",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 20时26分]"
-        },
-        {
-          "title": "养老基金Q3重仓股曝光！新进20只个股前十大流通股东榜，鼎通科技获增持家数最多",
-          "url": "https://www.cls.cn/detail/2180655",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 08时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
+          "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "如何看待超千名科技领袖呼吁暂停开发超级智能？",
-          "url": "https://www.zhihu.com/question/1964957293809493824",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 14时22分]"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
-          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
-          "url": "https://www.cls.cn/detail/2180802",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 08时59分]"
-        },
-        {
-          "title": "网民用AI编造3儿子不养老人被罚",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E7%94%A8AI%E7%BC%96%E9%80%A03%E5%84%BF%E5%AD%90%E4%B8%8D%E5%85%BB%E8%80%81%E4%BA%BA%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 08时59分]"
-        },
-        {
-          "title": "姚润昊退出上海叠纸科技公司",
-          "url": "https://www.douyin.com/hot/2284806",
-          "source": "抖音",
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "source": "bilibili 热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
+          "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "GAI周延沧海一声笑",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E5%91%A8%E5%BB%B6%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91",
-          "source": "bilibili 热搜",
+          "title": "解放日报论上海全面发力“十五五”：提升创新效能，抢占科技“制高点”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31841072",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 08时59分]"
+          "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "澜起科技宣布量产DDR5第四子代RCD芯片",
-          "url": "https://wallstreetcn.com/livenews/2993861",
+          "title": "为了不被裁员硅谷科技男扎堆做医美",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%A2%AB%E8%A3%81%E5%91%98%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%94%B7%E6%89%8E%E5%A0%86%E5%81%9A%E5%8C%BB%E7%BE%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D23%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26flag%3D0%26q%3D%2523%25E4%25B8%25BA%25E4%25BA%2586%25E4%25B8%258D%25E8%25A2%25AB%25E8%25A3%2581%25E5%2591%2598%25E7%25A1%2585%25E8%25B0%25B7%25E7%25A7%2591%25E6%258A%2580%25E7%2594%25B7%25E6%2589%258E%25E5%25A0%2586%25E5%2581%259A%25E5%258C%25BB%25E7%25BE%258E%2523%26stream_entry_id%3D31%26band_rank%3D23%26pos%3D24%26display_time%3D1761588612%26pre_seqid%3D17615886123510122699428",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994482",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "印度科技部：印度批准7个电子项目，总投资达550亿卢比。",
-          "url": "https://flash.jin10.com/detail/20251027194631909800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "02时20分"
         },
         {
-          "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757943",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
-          "url": "https://www.zhihu.com/question/1965079758955050850",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
-          "url": "https://wallstreetcn.com/articles/3757917",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "特朗普耗资3亿美元的白宫宴会厅项目 获币圈和科技行业盟友“鼎力相助”",
-          "url": "https://wallstreetcn.com/livenews/2994020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
-          "url": "https://www.zhihu.com/question/1965049071443075345",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "A股存储芯片板块午后再度上攻，江波龙涨超10％再创新高，大为股份、时空科技此前涨停，德明利、精智达、微导纳米跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "科技日报：新方法提升机器人复杂地形自主导航能力",
-          "url": "https://wallstreetcn.com/livenews/2993845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "剑桥科技：第三季度净利润1.38亿元，同比增长92.92%；前三季度净利润2.6亿元，同比增长70.88%。",
-          "url": "https://wallstreetcn.com/livenews/2993745",
+          "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
+          "url": "https://wallstreetcn.com/livenews/2994457",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
+          "url": "https://flash.jin10.com/detail/20251028015838753800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
-          "title": "报告：2025年上半年，百度智能云市场份额位居中国AI云市场第二",
-          "url": "https://wallstreetcn.com/livenews/2994000",
+          "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/2994485",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "英唐智控：正在筹划发行股份等方式购买桂林光隆集成科技有限公司、上海奥简微电子科技有限公司，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/2993739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "02时20分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "把党的领导贯穿经济社会发展",
-          "url": "https://www.toutiao.com/trending/7564607784621359167/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 08时59分]"
-        },
-        {
-          "title": "从三个“没有变”看中国经济稳、进、韧",
-          "url": "https://www.toutiao.com/trending/7564864554468114475/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
         {
           "title": "税收数据揭示我国经济态势",
           "url": "https://www.douyin.com/hot/2284484",
@@ -314,41 +126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "加拿大至10月24日全国经济信心指数 49.6，前值49.6。",
-          "url": "https://flash.jin10.com/detail/20251027200029933800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "专家：房地产再度成经济增长拖累因素",
-          "url": "https://www.toutiao.com/trending/7565675014498815531/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "巴基斯坦央行：巴基斯坦宏观经济前景较此前评估有所改善。",
-          "url": "https://flash.jin10.com/detail/20251027192953022800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
         }
       ]
     }
