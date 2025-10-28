@@ -1,479 +1,210 @@
 {
-  "generated_at": "2025-10-28T20:23:49.773772+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2025-10-29T02:19:31.778843+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 28,
+      "match_count": 14,
       "titles": [
         {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 14时19分]"
-        },
-        {
-          "title": "Adobe(ADBE.O)首席执行官：Adobe将OpenAI和谷歌AI模型加入Photoshop及其他工具。",
-          "url": "https://flash.jin10.com/detail/20251028200047881800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "红杉资本领投初创公司Rogo 押注AI工具取代初级银行家的前景",
-          "url": "https://wallstreetcn.com/livenews/2994620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
-          "url": "https://flash.jin10.com/detail/20251028015303563800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "中信建投：持续推荐AI算力板块",
-          "url": "https://wallstreetcn.com/livenews/2994618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 14时19分]"
-        },
-        {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时00分]"
-        },
-        {
-          "title": "为了不被裁员硅谷科技男扎堆做医美",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%A2%AB%E8%A3%81%E5%91%98%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%94%B7%E6%89%8E%E5%A0%86%E5%81%9A%E5%8C%BB%E7%BE%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D23%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26flag%3D0%26q%3D%2523%25E4%25B8%25BA%25E4%25BA%2586%25E4%25B8%258D%25E8%25A2%25AB%25E8%25A3%2581%25E5%2591%2598%25E7%25A1%2585%25E8%25B0%25B7%25E7%25A7%2591%25E6%258A%2580%25E7%2594%25B7%25E6%2589%258E%25E5%25A0%2586%25E5%2581%259A%25E5%258C%25BB%25E7%25BE%258E%2523%26stream_entry_id%3D31%26band_rank%3D23%26pos%3D24%26display_time%3D1761588612%26pre_seqid%3D17615886123510122699428",
-          "source": "微博",
-          "ranks": [
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时00分]"
-        },
-        {
-          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
-          "url": "https://wallstreetcn.com/articles/3758015",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时23分]"
-        },
-        {
-          "title": "解放日报论上海全面发力“十五五”：提升创新效能，抢占科技“制高点”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31841072",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2994482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "MiniMax发布Hailuo 2.3模型、Media Agent",
-          "url": "https://wallstreetcn.com/livenews/2995135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "胜宏科技Q3净利11.02亿元，产能扩张激进、在建工程暴增1283.08% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "姚润昊退出上海叠纸科技公司",
-          "url": "https://www.douyin.com/hot/2284806",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "鸿海拟投资最高420亿元新台币采购AI算力云端业务营业用资讯设备。",
-          "url": "https://wallstreetcn.com/livenews/2994610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
-          "url": "https://www.cls.cn/detail/2182582",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "恒生科技指数跌超1%，恒生指数跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/2994801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "达华智能：公司关注到近期市场对于量子科技相关概念的关注度较高，公司暂无相关业务，公司目前经营业绩不受影响。",
-          "url": "https://wallstreetcn.com/livenews/2995125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "胜宏科技成交额达200亿元，现跌2.82%。",
-          "url": "https://wallstreetcn.com/livenews/2994790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
-          "url": "https://www.zhihu.com/question/1959993472921633455",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "中信建投：AI+IP助力高增长，漫剧高潜力赛道爆发",
-          "url": "https://wallstreetcn.com/livenews/2994600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "谷歌宣布重启一核电站为AI基础设施供电",
-          "url": "https://flash.jin10.com/detail/20251028124839536800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "A股军工板块持续走强，江龙船艇20cm涨停，国瑞科技涨超10%，北方长龙、天海防务、航天智装、中科海讯等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2994785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "瑞穗银行：将美光科技(MU.O)目标价从240美元上调至265美元。",
-          "url": "https://flash.jin10.com/detail/20251028192756752800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（10月28日）",
-          "url": "https://flash.jin10.com/detail/20251028073044282800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
-          "url": "https://wallstreetcn.com/livenews/2994457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "澜起科技：股东中电投控及其一致行动人合计持股比例降至5%以下",
-          "url": "https://wallstreetcn.com/livenews/2995095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "税收数据揭示我国经济态势",
-          "url": "https://www.douyin.com/hot/2284484",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 09时00分]"
-        },
-        {
-          "title": "中共中央关于制定国民经济和社会发展第十五个五年规划的建议",
-          "url": "https://www.cls.cn/detail/2183401",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：政府将通过制定经济方案来应对通货膨胀带来的生活成本上升。",
-          "url": "https://flash.jin10.com/detail/20251028083035242800",
+          "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
+          "url": "https://flash.jin10.com/detail/20251029020349283800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时00分"
+          "time_info": "02时19分"
         },
         {
-          "title": "日本经济财政大臣城内实：将仔细审视外汇变动对日本经济的影响。",
-          "url": "https://flash.jin10.com/detail/20251028083023167800",
+          "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
+          "url": "https://flash.jin10.com/detail/20251029020259228800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时00分"
+          "time_info": "02时19分"
         },
         {
-          "title": "日本经济财政政策大臣城内实：汇率波动受多种因素影响。 日元疲软通过增加进口成本推高了国内通胀，可能会降低家庭和一些公司的有效购买力。 日元疲软提高出口商的利润和国内资本支出，这对经济有利。 重要的是外汇走势要反映基本面，保持稳定。 避免外汇市场的短期快速波动是很重要的。 将密切关注外汇走势对日本经济的影响。 政府将通过编制一揽子经济计划来应对通胀带来的生活成本上升。",
-          "url": "https://wallstreetcn.com/livenews/2994621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：避免外汇市场出现快速、短期的波动至关重要。",
-          "url": "https://flash.jin10.com/detail/20251028083000671800",
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251029015946232800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时00分"
+          "time_info": "02时19分"
         },
         {
-          "title": "日本经济财政大臣城内实：外汇走势反映基本面并保持稳定至关重要。",
-          "url": "https://flash.jin10.com/detail/20251028082955981800",
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20251029015512703800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时00分"
+          "time_info": "02时19分"
         },
         {
-          "title": "日本经济财政大臣城内实：日元疲软能够提升出口商利润和国内资本支出，对经济有利。",
-          "url": "https://flash.jin10.com/detail/20251028082931590800",
-          "source": "金十数据",
+          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
+          "url": "https://wallstreetcn.com/articles/3758015",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时00分"
+          "time_info": "02时19分"
         },
         {
-          "title": "日本经济财政大臣城内实：日元疲软导致进口成本上升，从而推高国内通胀，可能降低家庭和部分企业的实际购买力。",
-          "url": "https://flash.jin10.com/detail/20251028082911026800",
-          "source": "金十数据",
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时00分"
+          "time_info": "02时19分"
         },
         {
-          "title": "日本经济财政大臣城内实：外汇走势由多种因素决定。",
-          "url": "https://flash.jin10.com/detail/20251028082836158800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "中国央行行长潘功胜：跟踪研判海外经济形势及政策对我影响，坚决维护国家金融安全",
-          "url": "https://wallstreetcn.com/livenews/2995096",
+          "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
+          "url": "https://wallstreetcn.com/livenews/2995302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时19分"
+        },
+        {
+          "title": "华懋科技前三季度营收达17.84亿元，主业稳健、新业可期",
+          "url": "https://www.cls.cn/detail/2183741",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)及各行业合作伙伴计划将美国制造业迁回国内，打造充满机器人的AI工厂。",
+          "url": "https://flash.jin10.com/detail/20251029014416918800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋宣布，与Palantir在运转人工智能（AI）方面构建合作伙伴关系。 将企业数据转化为动态决策智能（DDI）。",
+          "url": "https://wallstreetcn.com/livenews/2995292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Palantir AIP平台也将支持英伟达面向政府参考设计的全新AI工厂。",
+          "url": "https://flash.jin10.com/detail/20251029013926234800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "沙特阿美与主权财富基金PIF达成共识，将对Humain持有少数股权。",
+          "url": "https://wallstreetcn.com/livenews/2995285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋拟访韩签约 将为三星现代供应AI芯片",
+          "url": "https://flash.jin10.com/detail/20251029013502568800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
+          "url": "https://wallstreetcn.com/livenews/2995268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "经济",
       "match_count": 2,
       "titles": [
         {
-          "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
-          "url": "https://flash.jin10.com/detail/20251028015838753800",
-          "source": "金十数据",
+          "title": "「十五五」规划建议全文公布，明确了经济社会发展目标，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1966549840210124854",
+          "source": "知乎",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "02时19分"
         },
         {
-          "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/2994485",
-          "source": "华尔街见闻-快讯",
+          "title": "【明日主题前瞻】冰雪经济热度持续走高，相关预订已经开始“起量”",
+          "url": "https://www.cls.cn/detail/2183607",
+          "source": "财联社热门",
           "ranks": [
-            3
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
+          "url": "https://www.cls.cn/detail/2183840",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
@@ -482,15 +213,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "央行将研究实施支持个人修复信用的政策措施，此举对我国社会信用体系建设有何意义？",
-          "url": "https://www.zhihu.com/question/1966211659388417091",
-          "source": "知乎",
+          "title": "英伟达与优步（Uber）构建合作伙伴关系，从而扫描（社会）流动性网络。 优步考虑从2027年开始，部署10万辆基于英伟达技术的无人驾驶出租车（RoboTaxi）。 斯泰兰蒂斯Stellantis将向优步交付至少5000辆英伟达无人驾驶出租车。 Stellantis将从2028年开始生产英伟达无人驾驶出租车产品。 优步涨幅扩大至1.2%。",
+          "url": "https://wallstreetcn.com/livenews/2995300",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 14时19分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人文",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三体人文明在现实的三星系统中有诞生的可能性吗？",
+          "url": "https://www.zhihu.com/question/1962119123040465325",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     }
