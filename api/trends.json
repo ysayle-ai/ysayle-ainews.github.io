@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-10-28T02:20:13.717727+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-28T09:00:26.191979+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "红杉资本领投初创公司Rogo 押注AI工具取代初级银行家的前景",
+          "url": "https://wallstreetcn.com/livenews/2994620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
         {
           "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
           "url": "https://flash.jin10.com/detail/20251028015303563800",
@@ -14,31 +36,56 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "中信建投：持续推荐AI算力板块",
+          "url": "https://wallstreetcn.com/livenews/2994618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 09时00分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 09时00分]"
+        },
+        {
+          "title": "为了不被裁员硅谷科技男扎堆做医美",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%A2%AB%E8%A3%81%E5%91%98%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%94%B7%E6%89%8E%E5%A0%86%E5%81%9A%E5%8C%BB%E7%BE%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D23%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26flag%3D0%26q%3D%2523%25E4%25B8%25BA%25E4%25BA%2586%25E4%25B8%258D%25E8%25A2%25AB%25E8%25A3%2581%25E5%2591%2598%25E7%25A1%2585%25E8%25B0%25B7%25E7%25A7%2591%25E6%258A%2580%25E7%2594%25B7%25E6%2589%258E%25E5%25A0%2586%25E5%2581%259A%25E5%258C%25BB%25E7%25BE%258E%2523%26stream_entry_id%3D31%26band_rank%3D23%26pos%3D24%26display_time%3D1761588612%26pre_seqid%3D17615886123510122699428",
+          "source": "微博",
+          "ranks": [
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 09时00分]"
         },
         {
           "title": "解放日报论上海全面发力“十五五”：提升创新效能，抢占科技“制高点”",
@@ -52,26 +99,70 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "为了不被裁员硅谷科技男扎堆做医美",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%A2%AB%E8%A3%81%E5%91%98%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E7%94%B7%E6%89%8E%E5%A0%86%E5%81%9A%E5%8C%BB%E7%BE%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D23%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26flag%3D0%26q%3D%2523%25E4%25B8%25BA%25E4%25BA%2586%25E4%25B8%258D%25E8%25A2%25AB%25E8%25A3%2581%25E5%2591%2598%25E7%25A1%2585%25E8%25B0%25B7%25E7%25A7%2591%25E6%258A%2580%25E7%2594%25B7%25E6%2589%258E%25E5%25A0%2586%25E5%2581%259A%25E5%258C%25BB%25E7%25BE%258E%2523%26stream_entry_id%3D31%26band_rank%3D23%26pos%3D24%26display_time%3D1761588612%26pre_seqid%3D17615886123510122699428",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
           "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/2994482",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "姚润昊退出上海叠纸科技公司",
+          "url": "https://www.douyin.com/hot/2284806",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "鸿海拟投资最高420亿元新台币采购AI算力云端业务营业用资讯设备。",
+          "url": "https://wallstreetcn.com/livenews/2994610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
+          "url": "https://www.cls.cn/detail/2182582",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "中信建投：AI+IP助力高增长，漫剧高潜力赛道爆发",
+          "url": "https://wallstreetcn.com/livenews/2994600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（10月28日）",
+          "url": "https://flash.jin10.com/detail/20251028073044282800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -80,9 +171,114 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "税收数据揭示我国经济态势",
+          "url": "https://www.douyin.com/hot/2284484",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 09时00分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：政府将通过制定经济方案来应对通货膨胀带来的生活成本上升。",
+          "url": "https://flash.jin10.com/detail/20251028083035242800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：将仔细审视外汇变动对日本经济的影响。",
+          "url": "https://flash.jin10.com/detail/20251028083023167800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "日本经济财政政策大臣城内实：汇率波动受多种因素影响。 日元疲软通过增加进口成本推高了国内通胀，可能会降低家庭和一些公司的有效购买力。 日元疲软提高出口商的利润和国内资本支出，这对经济有利。 重要的是外汇走势要反映基本面，保持稳定。 避免外汇市场的短期快速波动是很重要的。 将密切关注外汇走势对日本经济的影响。 政府将通过编制一揽子经济计划来应对通胀带来的生活成本上升。",
+          "url": "https://wallstreetcn.com/livenews/2994621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：避免外汇市场出现快速、短期的波动至关重要。",
+          "url": "https://flash.jin10.com/detail/20251028083000671800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：外汇走势反映基本面并保持稳定至关重要。",
+          "url": "https://flash.jin10.com/detail/20251028082955981800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日元疲软能够提升出口商利润和国内资本支出，对经济有利。",
+          "url": "https://flash.jin10.com/detail/20251028082931590800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日元疲软导致进口成本上升，从而推高国内通胀，可能降低家庭和部分企业的实际购买力。",
+          "url": "https://flash.jin10.com/detail/20251028082911026800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：外汇走势由多种因素决定。",
+          "url": "https://flash.jin10.com/detail/20251028082836158800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         }
       ]
     },
@@ -97,7 +293,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -108,26 +304,26 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
       ]
     },
     {
-      "keyword_group": "经济",
+      "keyword_group": "社会",
       "match_count": 1,
       "titles": [
         {
-          "title": "税收数据揭示我国经济态势",
-          "url": "https://www.douyin.com/hot/2284484",
-          "source": "抖音",
+          "title": "央行将研究实施支持个人修复信用的政策措施，此举对我国社会信用体系建设有何意义？",
+          "url": "https://www.zhihu.com/question/1966211659388417091",
+          "source": "知乎",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时00分"
         }
       ]
     }
