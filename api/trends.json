@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-10-29T08:57:50.438698+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2025-10-29T14:19:50.323568+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
+          "url": "https://www.cls.cn/detail/2184071",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时19分]"
+        },
+        {
+          "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时19分]"
+        },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
           "url": "https://flash.jin10.com/detail/20251029020349283800",
@@ -19,17 +41,6 @@
           "time_info": "02时19分"
         },
         {
-          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
-          "url": "https://www.cls.cn/detail/2184071",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
           "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
           "url": "https://flash.jin10.com/detail/20251029020259228800",
           "source": "金十数据",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3758056",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "俄罗斯亚马尔液化天然气公司表示，将暂停受美国制裁的雅库特液化天然气项目，以专注于其他开发项目，例如为数字和高科技设施提供天然气。",
+          "url": "https://flash.jin10.com/detail/20251029141331595800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
@@ -125,9 +136,53 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时19分]"
+        },
+        {
+          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
+          "url": "https://www.cls.cn/detail/2184178",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "14时19分"
+        },
+        {
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
+          "url": "https://www.cls.cn/detail/2184173",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "10月29日投资避雷针：四连板人气股公告暂无量子科技业务 前三季度净亏损1.03亿元",
+          "url": "https://www.cls.cn/detail/2184158",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "华懋科技前三季度营收达17.84亿元，主业稳健、新业可期",
@@ -139,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "老年人需要 AI 吗？当未来已来，我们能为长辈做些什么小事？",
+          "url": "https://www.zhihu.com/question/1961814182115632287",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)及各行业合作伙伴计划将美国制造业迁回国内，打造充满机器人的AI工厂。",
@@ -169,7 +235,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -213,7 +279,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -235,7 +301,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
@@ -243,7 +309,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "「十五五」规划建议全文公布，明确了经济社会发展目标，哪些信息值得关注？",
@@ -257,15 +323,26 @@
           "time_info": "[02时19分 ~ 08时57分]"
         },
         {
+          "title": "国台办：和平统一将给台湾经济社会发展创造巨大机遇",
+          "url": "https://www.cls.cn/detail/2184345",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "习近平：关于《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》的说明",
           "url": "https://wallstreetcn.com/articles/3758063",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时19分]"
         },
         {
           "title": "【明日主题前瞻】冰雪经济热度持续走高，相关预订已经开始“起量”",
@@ -285,7 +362,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -296,9 +373,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达与优步（Uber）构建合作伙伴关系，从而扫描（社会）流动性网络。 优步考虑从2027年开始，部署10万辆基于英伟达技术的无人驾驶出租车（RoboTaxi）。 斯泰兰蒂斯Stellantis将向优步交付至少5000辆英伟达无人驾驶出租车。 Stellantis将从2028年开始生产英伟达无人驾驶出租车产品。 优步涨幅扩大至1.2%。",
+          "url": "https://wallstreetcn.com/livenews/2995300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "人力资源社会保障部：将继续会同有关部门加大国家职业标准开发力度",
+          "url": "https://wallstreetcn.com/livenews/2995635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
@@ -312,23 +417,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达与优步（Uber）构建合作伙伴关系，从而扫描（社会）流动性网络。 优步考虑从2027年开始，部署10万辆基于英伟达技术的无人驾驶出租车（RoboTaxi）。 斯泰兰蒂斯Stellantis将向优步交付至少5000辆英伟达无人驾驶出租车。 Stellantis将从2028年开始生产英伟达无人驾驶出租车产品。 优步涨幅扩大至1.2%。",
-          "url": "https://wallstreetcn.com/livenews/2995300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
