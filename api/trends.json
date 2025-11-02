@@ -1,340 +1,166 @@
 {
-  "generated_at": "2025-11-02T20:22:04.029667+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-11-03T02:15:21.800444+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 7,
       "titles": [
         {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时58分]"
-        },
-        {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 14时18分]"
-        },
-        {
-          "title": "我国核能科技实现新突破",
-          "url": "https://www.douyin.com/hot/2291785",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
-          "title": "OpenAI重组对AI产业链意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%87%8D%E7%BB%84%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E9%93%BE%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
-          "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
-          "url": "https://wallstreetcn.com/livenews/2998096",
+          "title": "第二届中欧科学家论坛在德举办 共探科技合作",
+          "url": "https://wallstreetcn.com/livenews/2998172",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
-          "url": "https://www.zhihu.com/question/1967900167182181978",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://flash.jin10.com/detail/20251102131630826800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://wallstreetcn.com/livenews/2998093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
-          "url": "https://flash.jin10.com/detail/20251102131553800800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "02时15分"
         },
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
           "url": "https://wallstreetcn.com/articles/3758489",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
-          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
-          "url": "https://wallstreetcn.com/articles/3758471",
+          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
+          "url": "https://wallstreetcn.com/articles/3758501",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 14时18分]"
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "AI医疗为何引发巨头押注",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "中国核能科技实现新突破",
+          "url": "https://www.douyin.com/hot/2292521",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
           "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
-          "title": "世界唯一！中国核能科技实现新突破",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E5%94%AF%E4%B8%80%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%83%BD%E7%A7%91%E6%8A%80%E5%AE%9E%E7%8E%B0%E6%96%B0%E7%AA%81%E7%A0%B4",
+          "title": "马斯克：AI在2026年超越单个人类智商",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
           "source": "百度热搜",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时58分]"
-        },
-        {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
-        },
-        {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
-        },
-        {
-          "title": "据港交所文件：广州豪特节能环保科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://wallstreetcn.com/livenews/2998133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "燧原科技启动上市辅导，辅导机构为中信证券",
-          "url": "https://wallstreetcn.com/livenews/2998081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "AI革命美国企业疯狂裁员背后",
-          "url": "https://www.toutiao.com/trending/7567900229551263258/",
-          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "据港交所文件：广州豪特节能环保科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20251102181440300800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "02时15分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "新城市志｜前三季度GDP：经济大省挑大梁，中部地区很亮眼",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31872609",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时58分]"
-        },
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
           "url": "https://wallstreetcn.com/articles/3758424",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "美国财长贝森特：有些经济部门陷入衰退。",
+          "url": "https://flash.jin10.com/detail/20251102221357256800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "美国财长贝森特：（谈及经济衰退）我们正处于转型期。",
+          "url": "https://flash.jin10.com/detail/20251102221346547800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
           "title": "造谣遭制裁?经济学教父账号被封",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346630&amp;topic_name=%E9%80%A0%E8%B0%A3%E9%81%AD%E5%88%B6%E8%A3%81%3F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%95%99%E7%88%B6%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81",
           "source": "贴吧",
           "ranks": [
-            8
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
           "title": "没建模没经济的我",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%A1%E5%BB%BA%E6%A8%A1%E6%B2%A1%E7%BB%8F%E6%B5%8E%E7%9A%84%E6%88%91",
           "source": "bilibili 热搜",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "低空经济蓝皮书：2030年有望实现低空载人出行的商业化运行",
-          "url": "https://wallstreetcn.com/livenews/2998086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "陈茂波：全年经济增长目标料可顺利达到",
-          "url": "https://wallstreetcn.com/livenews/2998121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "厦门经济特区个人破产保护条例施行",
-          "url": "https://wallstreetcn.com/livenews/2998007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "02时15分"
         }
       ]
     },
     {
-      "keyword_group": "人文",
-      "match_count": 2,
+      "keyword_group": "社会",
+      "match_count": 1,
       "titles": [
         {
-          "title": "中俄人文合作委员会第二十六次会议召开 谌贻琴与戈利科娃共同主持",
-          "url": "https://wallstreetcn.com/livenews/2998033",
-          "source": "华尔街见闻-快讯",
+          "title": "孩子应该早点见识社会真正的一面还是晚一点呢？",
+          "url": "https://www.zhihu.com/question/1958906719741675199",
+          "source": "知乎",
           "ranks": [
-            5,
-            16
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 08时58分]"
-        },
-        {
-          "title": "中俄人文合作委员会第二十六次会议召开 谌贻琴与戈利科娃共同主持",
-          "url": "https://flash.jin10.com/detail/20251101220210392800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 08时58分]"
+          "appearance_count": 1,
+          "time_info": "02时15分"
         }
       ]
     }
