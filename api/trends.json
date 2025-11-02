@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T14:18:06.192297+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2025-11-02T20:22:04.029667+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -60,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -104,9 +104,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 20时22分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -120,6 +132,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时15分 ~ 14时18分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 20时22分]"
         },
         {
           "title": "世界唯一！中国核能科技实现新突破",
@@ -145,28 +168,6 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
-        },
-        {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
@@ -178,13 +179,24 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
+          "title": "据港交所文件：广州豪特节能环保科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/2998133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "燧原科技启动上市辅导，辅导机构为中信证券",
           "url": "https://wallstreetcn.com/livenews/2998081",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -198,12 +210,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "据港交所文件：广州豪特节能环保科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20251102181440300800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "新城市志｜前三季度GDP：经济大省挑大梁，中部地区很亮眼",
@@ -218,15 +241,59 @@
           "time_info": "[02时15分 ~ 08时58分]"
         },
         {
+          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "造谣遭制裁?经济学教父账号被封",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346630&amp;topic_name=%E9%80%A0%E8%B0%A3%E9%81%AD%E5%88%B6%E8%A3%81%3F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%95%99%E7%88%B6%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "没建模没经济的我",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%A1%E5%BB%BA%E6%A8%A1%E6%B2%A1%E7%BB%8F%E6%B5%8E%E7%9A%84%E6%88%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "低空经济蓝皮书：2030年有望实现低空载人出行的商业化运行",
           "url": "https://wallstreetcn.com/livenews/2998086",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "陈茂波：全年经济增长目标料可顺利达到",
+          "url": "https://wallstreetcn.com/livenews/2998121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "厦门经济特区个人破产保护条例施行",
