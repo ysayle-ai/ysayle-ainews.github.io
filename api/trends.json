@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-04T08:57:10.891981+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2025-11-04T14:21:00.560349+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
           "url": "https://wallstreetcn.com/articles/3758553",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 14时21分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -26,8 +27,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 14时21分]"
+        },
+        {
+          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
+          "url": "https://www.cls.cn/detail/2190323",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -39,6 +51,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 14时21分]"
+        },
+        {
+          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
+          "url": "https://wallstreetcn.com/articles/3758569",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 14时21分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -53,26 +87,48 @@
           "time_info": "[02时19分 ~ 08时57分]"
         },
         {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
+          "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
+          "url": "https://www.cls.cn/detail/2190328",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
-          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
-          "url": "https://wallstreetcn.com/articles/3758569",
-          "source": "华尔街见闻",
+          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
+          "url": "https://www.cls.cn/detail/2190148",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "AI还原福建舰电磁弹射全过程",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
+          "url": "https://www.cls.cn/detail/2190043",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "轻奢女装self-portrait直播“翻车”",
@@ -86,13 +142,35 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "AI养老的真正任务：让老人不必退场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "马斯克：体力劳动更难被AI取代",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
           "url": "https://flash.jin10.com/detail/20251104083844613800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -119,13 +197,24 @@
           "time_info": "02时19分"
         },
         {
+          "title": "恒生科技指数跌1%，恒生指数跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/2999005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "“AI+国风”推动新型玩具出口订单大幅增长",
           "url": "https://wallstreetcn.com/livenews/2998807",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -144,29 +233,31 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "丁薛祥人民日报撰文：“十五五”时期经济社会发展的主要目标",
           "url": "https://www.cls.cn/detail/2190115",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 14时21分]"
         },
         {
           "title": "报道称「全球投资者正以惊人速度从印度撤资」，实际情况如何？印度经济怎么了？",
           "url": "https://www.zhihu.com/question/1966903323778053260",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 14时21分]"
         },
         {
           "title": "美联储戴利：经济状况良好，但也更为脆弱。",
@@ -241,9 +332,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "日本首相高市早苗表示，扩大自由贸易是经济外交的核心支柱。",
+          "url": "https://wallstreetcn.com/livenews/2998996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "巴拿马运河负责人：随着经济放缓，明年全球贸易可能会出现下降。",
@@ -252,9 +354,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "日本首相高市早苗：希望日本央行针对通胀目标采取适当的政策。 “安倍经济学” 造成了通缩环境。",
+          "url": "https://wallstreetcn.com/livenews/2998991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
