@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T02:19:32.157216+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-04T08:57:10.891981+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时57分]"
+        },
+        {
+          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
+          "url": "https://www.cls.cn/detail/2190089",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -34,11 +45,56 @@
           "url": "https://wallstreetcn.com/articles/3758523",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时57分]"
+        },
+        {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
+          "url": "https://wallstreetcn.com/articles/3758569",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "轻奢女装self-portrait直播“翻车”",
+          "url": "https://www.toutiao.com/trending/7568484009387232774/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
+          "url": "https://flash.jin10.com/detail/20251104083844613800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "08时57分"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
@@ -63,6 +119,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "“AI+国风”推动新型玩具出口订单大幅增长",
+          "url": "https://wallstreetcn.com/livenews/2998807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "黄仁勋：美低估中国科技发展潜力",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E7%BE%8E%E4%BD%8E%E4%BC%B0%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E6%BD%9C%E5%8A%9B",
           "source": "百度热搜",
@@ -77,8 +144,30 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "丁薛祥人民日报撰文：“十五五”时期经济社会发展的主要目标",
+          "url": "https://www.cls.cn/detail/2190115",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "报道称「全球投资者正以惊人速度从印度撤资」，实际情况如何？印度经济怎么了？",
+          "url": "https://www.zhihu.com/question/1966903323778053260",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
         {
           "title": "美联储戴利：经济状况良好，但也更为脆弱。",
           "url": "https://flash.jin10.com/detail/20251104015801431800",
@@ -144,6 +233,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "经济日报：“大股东”将上市公司视为“提款机”行为可休矣",
+          "url": "https://wallstreetcn.com/livenews/2998823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "巴拿马运河负责人：随着经济放缓，明年全球贸易可能会出现下降。",
+          "url": "https://flash.jin10.com/detail/20251104075405553800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
@@ -176,8 +287,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时57分]"
         }
       ]
     }
