@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T08:54:17.451270+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-11-08T14:17:27.415920+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -14,9 +14,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 14时17分]"
+        },
+        {
+          "title": "“六小龙”乌镇对话思考AI和未来",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "14时17分"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -41,6 +63,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
+          "url": "https://wallstreetcn.com/articles/3758895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 14时17分]"
+        },
+        {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
           "source": "澎湃新闻",
@@ -52,26 +85,37 @@
           "time_info": "02时17分"
         },
         {
-          "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
-          "url": "https://wallstreetcn.com/articles/3758895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
           "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
           "url": "https://wallstreetcn.com/livenews/3001443",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "阿里研究院院长袁媛：生成式AI浪潮下，软件成为连接科技创新与产业创新的桥梁",
+          "url": "https://wallstreetcn.com/livenews/3001497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
+          "url": "https://www.cls.cn/detail/2194802",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "科技日报：科学家探测到最亮黑洞耀斑",
@@ -80,7 +124,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -91,7 +135,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -102,7 +146,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -113,7 +157,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -124,7 +168,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         },
@@ -135,7 +179,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
         }
@@ -143,7 +187,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -155,6 +199,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "商务部新闻发言人就安世半导体问题答记者问：中方同意荷经济部派员来华磋商的请求",
+          "url": "https://flash.jin10.com/detail/20251108133206608800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "商务部新闻发言人就安世半导体问题答记者问：中方同意荷经济部派员来华磋商的请求",
+          "url": "https://wallstreetcn.com/livenews/3001502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "中方同意荷经济部派员来华磋商",
+          "url": "https://www.toutiao.com/trending/7570223207924649498/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "英国央行首席经济学家Pill淡化利率指引措辞的变化",
