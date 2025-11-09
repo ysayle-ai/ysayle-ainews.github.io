@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-09T08:59:04.273626+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-11-09T14:17:16.153411+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
+          "url": "https://www.zhihu.com/question/1970150431255684262",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 14时17分]"
+        },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
           "url": "https://wallstreetcn.com/articles/3758970",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 08时59分]"
-        },
-        {
-          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
-          "url": "https://www.zhihu.com/question/1970150431255684262",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
         },
         {
           "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -54,6 +54,43 @@
           "time_info": "[02时17分 ~ 08时59分]"
         },
         {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 14时17分]"
+        },
+        {
+          "title": "用AI前瞻S15决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 14时17分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年11月8日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 14时17分]"
+        },
+        {
           "title": "言短意长｜福耀科技大学的策略选择",
           "url": "https://m.thepaper.cn/newsDetail_forward_31922132",
           "source": "澎湃新闻",
@@ -66,28 +103,16 @@
           "time_info": "[02时17分 ~ 08时59分]"
         },
         {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
+          "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
+          "url": "https://wallstreetcn.com/livenews/3001608",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            9
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时59分]"
-        },
-        {
-          "title": "用AI前瞻S15决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时59分]"
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 14时17分]"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
@@ -101,6 +126,17 @@
           "time_info": "[08时58分 ~ 08时59分]"
         },
         {
+          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
+          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
           "title": "微软遭遇2011年来最长连跌，AI投资疑虑打压科技股",
           "url": "https://wallstreetcn.com/articles/3758960",
           "source": "华尔街见闻",
@@ -110,6 +146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时58分 ~ 08时59分]"
+        },
+        {
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -124,15 +171,15 @@
           "time_info": "[02时17分 ~ 08时59分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年11月8日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
-          "source": "澎湃新闻",
+          "title": "硕士论文火了 宇树科技王兴兴回应",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E7%81%AB%E4%BA%86+%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%8E%8B%E5%85%B4%E5%85%B4%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -146,39 +193,39 @@
           "time_info": "[08时58分 ~ 08时59分]"
         },
         {
-          "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
-          "url": "https://wallstreetcn.com/livenews/3001608",
-          "source": "华尔街见闻-快讯",
+          "title": "分析师：科技热潮若出现问题，日股将暴跌",
+          "url": "https://flash.jin10.com/detail/20251109104518345800",
+          "source": "金十数据",
           "ranks": [
-            8
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "14时17分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "加拿大总理：加美经济关系已结束",
-          "url": "https://news.ifeng.com/c/8o77uXOnLOZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时59分]"
-        },
         {
           "title": "加方宣布：加美经济关系已结束",
           "url": "https://www.cls.cn/detail/2194987",
           "source": "财联社热门",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 14时17分]"
+        },
+        {
+          "title": "加拿大总理：加美经济关系已结束",
+          "url": "https://news.ifeng.com/c/8o77uXOnLOZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -207,6 +254,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 08时59分]"
+        },
+        {
+          "title": "为什么德国的经济越来越差？",
+          "url": "https://www.zhihu.com/question/1944839613060460803",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "百余个数字经济领域项目在浙江乌镇签约，金额逾千亿元",
