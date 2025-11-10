@@ -1,558 +1,149 @@
 {
-  "generated_at": "2025-11-10T20:24:16.785610+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2025-11-11T02:18:18.762442+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 30,
+      "match_count": 11,
       "titles": [
         {
-          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
-          "url": "https://wallstreetcn.com/articles/3758988",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "安徽省发改委主任：安徽量子科技正处于从技术突破迈向规模化产业应用的关键时期",
-          "url": "https://wallstreetcn.com/livenews/3002160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "中信建投：Meta确认6000亿美元AI投资计划，中科曙光发布640卡超节点",
-          "url": "https://wallstreetcn.com/livenews/3001963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
-          "url": "https://wallstreetcn.com/livenews/3001961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
-          "url": "https://flash.jin10.com/detail/20251110140226573800",
+          "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
+          "url": "https://flash.jin10.com/detail/20251111020735747800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时18分"
         },
         {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
+          "title": "12岁小孩做一张AI图吓坏整个小区",
+          "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%81%9A%E4%B8%80%E5%BC%A0AI%E5%9B%BE%E5%90%93%E5%9D%8F%E6%95%B4%E4%B8%AA%E5%B0%8F%E5%8C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
+          "url": "https://wallstreetcn.com/articles/3759030",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "02时18分"
         },
         {
-          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
-          "url": "https://www.cls.cn/detail/2195310",
-          "source": "财联社热门",
+          "title": "硬刚真Air标准!联想官方遭怒喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
+          "source": "贴吧",
           "ranks": [
-            6,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 14时20分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
+          "url": "https://www.cls.cn/detail/2196371",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 20时24分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
+          "url": "https://wallstreetcn.com/livenews/3002262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "现在的 AI 能够给黑白漫画上色了吗？",
+          "url": "https://www.zhihu.com/question/1450725457",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "每天一个奇吧—novelai吧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
           "source": "贴吧",
           "ranks": [
-            7,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 20时24分]"
-        },
-        {
-          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
-          "url": "https://www.cls.cn/detail/2195609",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 20时24分]"
-        },
-        {
-          "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
-          "url": "https://flash.jin10.com/detail/20251110081812830800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "02时18分"
         },
         {
-          "title": "恒生科技指数涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3001951",
+          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
+          "url": "https://wallstreetcn.com/livenews/3002253",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "超级AI临界点逼近：OpenAI发出警告",
-          "url": "https://www.toutiao.com/trending/7571055203147845126/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "当机构约60%的持仓与AI相关",
-          "url": "https://wallstreetcn.com/articles/3758994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
-          "url": "https://www.cls.cn/detail/2195198",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "康养机器人、跌倒监测相机……当养老遇见AI ，如何撬动“老有所AI”的万亿级市场？",
-          "url": "https://www.cls.cn/detail/2195107",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "东南亚网约车巨头布局未来科技 打造“半人半自动”出行新模式",
-          "url": "https://flash.jin10.com/detail/20251110195112459800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "尚太科技：与山西转型综合改革示范区管理委员会及相关单位就“年产20万吨锂离子电池负极材料项目”的投资合作事宜签署项目投资发展协议或补充协议；同意公司或子公司新设项目公司，使用自有或自筹资金在山西省山西转型综合改革示范区辖区内投资新建本项目，本项目总投资初步预计约40.7亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3002144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "钢琴奶奶给AI打分评歌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "A股CPO概念午后回升，剑桥科技涨超8%，斯瑞新材涨超7%，徕木股份、本川智能、长电科技、杰普特等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3001939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
-          "url": "https://wallstreetcn.com/livenews/3001788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "GAI演唱会江湖流大合唱",
-          "url": "https://www.douyin.com/hot/2300262",
-          "source": "抖音",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "02时18分"
         },
         {
-          "title": "方直科技：拟以支付现金方式收购北京执象科技发展有限公司100%股权，最终确定转让价格为人民币1.16亿元。",
-          "url": "https://wallstreetcn.com/livenews/3002120",
+          "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
+          "url": "https://wallstreetcn.com/livenews/3002251",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "张朝阳：有些时候我们要拒绝AI",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
-          "source": "百度热搜",
-          "ranks": [
-            26
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "最新风口是让AI当“狗”吗",
-          "url": "https://www.toutiao.com/trending/7571013604158213682/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "澳洲联储副主席豪瑟拒绝提供澳洲联储非加速通胀失业率（NAIRU）及中性利率预估。",
-          "url": "https://wallstreetcn.com/livenews/3001775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 17,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "加方宣布：加美经济关系已结束",
-          "url": "https://www.cls.cn/detail/2194987",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "下周重磅日程：腾讯京东中芯国际财报，中国10月经济数据",
-          "url": "https://wallstreetcn.com/articles/3758998",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 20时24分]"
-        },
         {
           "title": "“美国资金流入日本速度是安倍经济学实施以来最快”！高盛称：美资涌入意味着日股风格转向成长",
           "url": "https://wallstreetcn.com/articles/3759012",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "美国财长贝森特：政府停摆对经济的影响正变得“越来越糟”。",
-          "url": "https://flash.jin10.com/detail/20251109221032091800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "日本首相经济顾问称日本央行应避免12月加息",
-          "url": "https://flash.jin10.com/detail/20251110133925945800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "日本央行10月会议意见摘要：一名委员表示，由于美国政府正转向减税和放松管制等提振经济的政策，关税不太可能引发进一步的负面发展。",
-          "url": "https://flash.jin10.com/detail/20251110080316968800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "日本首相高市早苗称，希望在明年的经济大纲出台前明确基本财政收支平衡的实现路径。 国债的定义方式有多种。 并非意在取消当前的基本财政收支平衡目标。",
-          "url": "https://wallstreetcn.com/livenews/3001793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "日本央行10月会议意见摘要：一名委员表示，在当前阶段加息是正常化进程的一部分，通过这一进程，日本央行未来可以抑制经济扭曲。",
-          "url": "https://flash.jin10.com/detail/20251110075934554800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "前日本央行政策委员：日本必须采取强有力的财政行动来支持经济",
-          "url": "https://wallstreetcn.com/livenews/3002135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "日本央行10月会议意见摘要：一名委员表示，如果全球经济或市场没有负面消息，并且日本央行能够确认企业积极的薪资设定行为将得以维持，日本央行可以调整政策。",
-          "url": "https://flash.jin10.com/detail/20251110075808072800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "超千亿元数字经济领域重点项目在浙江乌镇签约",
-          "url": "https://wallstreetcn.com/livenews/3001681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "日本央行发布10月政策会议意见摘要： 一名日本央行委员称，财政政策是影响经济前景的关键因素。 一名日本央行委员称，需密切关注房地产价格走势。",
-          "url": "https://wallstreetcn.com/livenews/3001785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "报道：日本经济方案考虑纳入芯片、矿产、国防三大领域",
-          "url": "https://wallstreetcn.com/livenews/3002126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "澳洲联储副主席豪瑟：将根据中性利率逐步推进，通过判断宏观经济来确定政策是偏紧还是偏松。金融状况比我们此前认为的更接近中性。",
-          "url": "https://flash.jin10.com/detail/20251110075612675800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "日本央行10月会议意见摘要：尽管前景仍存在不确定性，但日本将迎来有利环境，可根据经济和物价前景调整政策利率。",
-          "url": "https://flash.jin10.com/detail/20251110075446751800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "日本拟推经济刺激计划，聚焦促投资",
-          "url": "https://flash.jin10.com/detail/20251110075345502800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "日本央行发布10月政策会议意见摘要： 一名日本央行委员称，务必在无政策预设的情况下审视经济前景。 一名日本央行委员称，若经济前景达标将加息。 一名日本央行委员称，应在不错失时机的情况下加息。 一名日本央行委员称，关注薪资增长的势头至关重要。 一名日本央行委员称，加息的条件正逐步形成。 一名日本央行委员称，有必要进一步审视美国带来的风险。 一名日本央行委员称，当下加息将是利率正常化的一步。",
-          "url": "https://wallstreetcn.com/livenews/3001774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国务院国资委：中央企业190个中试验证平台面向社会累计提供超过400项中试服务",
-          "url": "https://wallstreetcn.com/livenews/3002132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "02时18分"
         }
       ]
     }
