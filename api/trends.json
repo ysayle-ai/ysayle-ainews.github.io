@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-11T14:19:57.042275+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2025-11-11T20:23:59.958692+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 20时23分]"
+        },
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
           "url": "https://wallstreetcn.com/articles/3759030",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时18分 ~ 14时19分]"
-        },
-        {
-          "title": "美政府关门有望结束，科技股引领纳指大反弹，英伟达涨近6%，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -58,9 +59,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "硬刚真Air标准!联想官方遭怒喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 20时23分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -75,17 +90,16 @@
           "time_info": "[02时18分 ~ 08时57分]"
         },
         {
-          "title": "硬刚真Air标准!联想官方遭怒喷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
-          "source": "贴吧",
+          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
+          "url": "https://wallstreetcn.com/articles/3759101",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            7,
-            17
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 14时19分]"
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 20时23分]"
         },
         {
           "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
@@ -135,15 +149,37 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
-          "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
-          "url": "https://wallstreetcn.com/articles/3759101",
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "中国-英国科技创新合作联委会第11次会议在京召开",
+          "url": "https://wallstreetcn.com/livenews/3002788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
@@ -152,9 +188,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -174,7 +232,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -199,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "Meta首席AI科学家离职 公司AI战略加速重组",
+          "url": "https://flash.jin10.com/detail/20251111193748153800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -268,7 +337,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -279,7 +348,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -301,7 +370,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -312,7 +381,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -331,7 +400,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "台湾逼近“超高龄社会”",
@@ -343,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "人力资源社会保障部党组书记：健全就业促进机制，推动就业质的有效提升和量的合理增长",
+          "url": "https://wallstreetcn.com/livenews/3002771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     }
