@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T14:19:45.410889+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2025-11-12T20:24:14.037465+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "“大空头”切换“战斗模式”！Burry：科技巨头“低估折旧导致利润虚高”，2028年甲骨文利润虚高26.9%，Meta虚高20.8%",
@@ -71,7 +71,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -88,6 +88,18 @@
           "time_info": "[02时19分 ~ 14时19分]"
         },
         {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 20时24分]"
+        },
+        {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
           "url": "https://www.cls.cn/detail/2197694",
           "source": "财联社热门",
@@ -98,6 +110,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 14时19分]"
+        },
+        {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 20时24分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -146,17 +170,6 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
@@ -174,18 +187,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -196,7 +198,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -237,7 +239,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "【白宫国家经济委员会主任：美国部分10月数据可能永远丢失】白宫国家经济委员会主任凯文·哈塞特表示，时长创纪录的政府停摆意味着一些本应于10月收集的经济数据可能永远不会被记录下来，这使得全面评估美国经济健康状况变得困难。“据我了解，有些调查实际上根本没有完成，所以我们可能永远也无法知道那个月发生了什么，”哈塞特说，“在数据机构恢复运作之前，我们可能还要经历一段阴云笼罩的时期。”",
@@ -307,6 +309,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "美国次级车贷逾期率创历史新高 凸显消费者面临的经济困境",
+          "url": "https://flash.jin10.com/detail/20251112200559370800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "阿根廷经济部长Caputo重申，阿根廷将维持本币比索的区间波动系统（而不会像美国机构建议的那样采用浮动汇率制度）。",
           "url": "https://wallstreetcn.com/livenews/3002903",
           "source": "华尔街见闻-快讯",
@@ -324,7 +337,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -340,13 +353,24 @@
           "time_info": "02时19分"
         },
         {
+          "title": "欧洲央行管委：财政刺激叠加经济复苏 使欧元区通胀风险倾向于上行",
+          "url": "https://flash.jin10.com/detail/20251112200228141800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "印尼央行预计2026年印尼GDP增长率5.3%。 如果财政支出加快，2026年经济增长有望达到政府设定的5.4%目标。",
           "url": "https://wallstreetcn.com/livenews/3003165",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -363,7 +387,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -377,6 +401,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部：加大产业链薄弱环节优质企业培育力度，引导更多社会资本支持初创期中小企业成长",
+          "url": "https://wallstreetcn.com/livenews/3003396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     }
