@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T08:57:12.565009+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-11-13T14:19:45.839086+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：今年就业增幅达到129%。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -173,6 +173,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：美国金融体系存在风险 且监管可能落后于现实",
+          "url": "https://wallstreetcn.com/livenews/3003874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：赤字下降的三分之一来自关税收入，三分之一来自经济带动的税收收入，还有三分之一来自支出削减。",
           "url": "https://flash.jin10.com/detail/20251113015122644800",
           "source": "金十数据",
@@ -234,7 +245,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -256,7 +267,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -289,7 +300,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -300,7 +311,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -314,12 +325,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
+          "url": "https://wallstreetcn.com/livenews/3003857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -329,8 +351,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -340,8 +362,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -456,15 +478,48 @@
           "time_info": "02时18分"
         },
         {
+          "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
+          "url": "https://www.cls.cn/detail/2199055",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "宇树科技发布人形机器人数采训练全栈解决方案",
+          "url": "https://wallstreetcn.com/livenews/3003876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
           "url": "https://wallstreetcn.com/livenews/3003702",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "天齐锂业：安达科技系公司产业链下游公司，目前公司与其没有权益关系",
+          "url": "https://wallstreetcn.com/livenews/3003859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
