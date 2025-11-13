@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T14:19:45.839086+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2025-11-13T20:25:16.998352+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
@@ -179,7 +179,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -333,7 +333,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -341,7 +341,7 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -351,8 +351,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 20时25分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -364,6 +364,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 14时19分]"
+        },
+        {
+          "title": "智能科技为体育带来这些改变",
+          "url": "https://www.toutiao.com/trending/7571991442848055334/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -423,6 +456,17 @@
           "time_info": "[02时18分 ~ 08时57分]"
         },
         {
+          "title": "腾讯Q3净利润同比增长19%，国际游戏业务收入大增43%，AI云推动企业服务收入双位数增长 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
           "url": "https://www.cls.cn/detail/2198606",
           "source": "财联社热门",
@@ -456,6 +500,17 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "英国博主：中国惊人科技不可思议",
           "url": "https://www.toutiao.com/trending/7571744650684579903/",
           "source": "今日头条",
@@ -484,7 +539,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -495,9 +550,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "佛塑科技：拟与紫金矿业下属子公司紫金锂元、厦门紫金以及广新研究院共同出资设立项目公司，在福建省龙岩市上杭工业区蛟洋新材料产业园区投资建设电池级硫化锂中试平台项目。本项目计划投资总额为1.13亿元（含增值税），建设100吨/年硫化锂生产线，主要研发、生产、经营高纯度电池级硫化锂产品。",
+          "url": "https://wallstreetcn.com/livenews/3004140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
@@ -517,7 +583,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -525,8 +591,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌：欧盟委员会新调查有可能损害欧洲用户利益。",
+          "url": "https://wallstreetcn.com/livenews/3004151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "谷歌：欧盟新的反垄断调查或将损害欧洲用户利益。",
+          "url": "https://flash.jin10.com/detail/20251113191351975800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
         {
           "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
           "url": "https://wallstreetcn.com/livenews/3003554",
@@ -537,6 +625,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家能源局：鼓励符合条件的社会资本参与油气储备库、液化天然气接收站等投资建设",
+          "url": "https://wallstreetcn.com/livenews/3004178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     }
