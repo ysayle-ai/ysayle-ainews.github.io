@@ -1,675 +1,172 @@
 {
-  "generated_at": "2025-11-13T20:25:16.998352+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2025-11-14T02:17:53.029256+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "经济",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：今年就业增幅达到129%。",
-          "url": "https://wallstreetcn.com/livenews/3003580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "《中国与欧亚经济联盟经贸合作协定》联委会第五次会议在莫斯科召开",
-          "url": "https://wallstreetcn.com/livenews/3003731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行行长植田和男：从更长期来看，货币因素可能会通过经济的需求端影响通胀。",
-          "url": "https://flash.jin10.com/detail/20251113083909241800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行行长植田和男：短期内，通货膨胀由经济中的供需因素决定。",
-          "url": "https://flash.jin10.com/detail/20251113083711258800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本首相植田和男：短期内，通胀由经济中的供需因素决定；长期来看，货币因素可能透过经济的需求面影响通胀。",
-          "url": "https://wallstreetcn.com/livenews/3003724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：预计将看到进口商品价格大幅下降。",
-          "url": "https://flash.jin10.com/detail/20251113020200772800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：贸易赤字和美国政府的财政赤字都在下滑。 301关税和122关税都被视作应急计划。",
-          "url": "https://wallstreetcn.com/livenews/3003572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：（谈贸易）哈塞特谈贸易：任何成本影响都是水平调整效应，而不是通胀。",
-          "url": "https://flash.jin10.com/detail/20251113020004409800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：（谈贸易）若最高法院在关税案中的裁定对政府不利，将考虑其他选项和替代权限。",
-          "url": "https://flash.jin10.com/detail/20251113015904860800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：我非常尊重美联储主席鲍威尔。 我认同美国总统特朗普关于“利率可以更低”的看法。 如果特朗普提出要求，我会担任下一任美联储主席。",
-          "url": "https://wallstreetcn.com/livenews/3003570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：50年期抵押贷款可能会让购房变得更容易。",
-          "url": "https://flash.jin10.com/detail/20251113015629297800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：美国政府停摆将影响到四季度GDP。 预计本季度增幅介于1.5%-2%。 预计全年将增长2%左右。 通胀不会一直处于人们希望看到的水平。 通胀动能相当具有方向性。",
-          "url": "https://wallstreetcn.com/livenews/3003569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特谈住房问题：不知道美国总统特朗普是否已决定推出50年期抵押贷款。",
-          "url": "https://flash.jin10.com/detail/20251113015411099800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：将利用未来的和解法案来应对美国经济。",
-          "url": "https://flash.jin10.com/detail/20251113015254843800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：我们正在使赤字相对于目标有所减少，并对经济增长持乐观态度。",
-          "url": "https://flash.jin10.com/detail/20251113015231386800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：美国金融体系存在风险 且监管可能落后于现实",
-          "url": "https://wallstreetcn.com/livenews/3003874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：赤字下降的三分之一来自关税收入，三分之一来自经济带动的税收收入，还有三分之一来自支出削减。",
-          "url": "https://flash.jin10.com/detail/20251113015122644800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：本财年美国财政赤字可能减少6000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251113015031127800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国贸易和财政赤字正在下降。",
-          "url": "https://flash.jin10.com/detail/20251113015012810800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：从历史上看，美元现在正处于强势地位。",
-          "url": "https://flash.jin10.com/detail/20251113014931444800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：如果想让通货膨胀来解决赤字问题，那就是在走向金融危机。",
-          "url": "https://flash.jin10.com/detail/20251113014926137800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "日本首相高市早苗：我们将努力打造强劲的经济，从而在不增税的情况下增加税收。 政府将考虑将基本财政收支目标从每年衡量，修改为以数年为周期衡量。",
-          "url": "https://wallstreetcn.com/livenews/3003706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：强势美元政策是一项明智的政策。任何国家都需要稳健的货币。",
-          "url": "https://flash.jin10.com/detail/20251113014902733800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "日本首相高市早苗：我们将努力打造强劲经济，使税收在不提高税率的情况下实现增长。",
-          "url": "https://flash.jin10.com/detail/20251113081410090800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美联储主席提名的混乱可能会影响宣布的时间。",
-          "url": "https://flash.jin10.com/detail/20251113014827718800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美联储理事米兰：我认为我们有责任确保货币政策得当，避免处于过于收紧的状态，从而消除部分经济下行风险。",
-          "url": "https://flash.jin10.com/detail/20251113014756455800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "经济日报金观平：标准引领助产业强而优",
-          "url": "https://wallstreetcn.com/livenews/3003701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "日本央行行长植田和男：日本央行正努力通过帮助改善经济，来实现以工资增长为支撑的温和通胀。 日本央行的目标是实现有利于公众的持续经济增长。 由于家庭收入和就业状况的改善，消费具有弹性。 价格趋势正逐步向2%的目标迈进。 很难将通胀分解为成本推动因素驱动的通胀和需求驱动的通胀。 最近的食品价格上涨可能是由原材料成本上涨驱动的一次性因素。 随着就业市场趋紧，工资正在上涨，形成了工资上涨和通货膨胀的温和循环。",
-          "url": "https://wallstreetcn.com/livenews/3003700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：我同意特朗普的观点，利率可以低得多。",
-          "url": "https://flash.jin10.com/detail/20251113014622086800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
-          "url": "https://wallstreetcn.com/livenews/3003857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
           "url": "https://wallstreetcn.com/articles/3759214",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 20时25分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
-          "url": "https://www.cls.cn/detail/2198992",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 14时19分]"
-        },
-        {
-          "title": "智能科技为体育带来这些改变",
-          "url": "https://www.toutiao.com/trending/7571991442848055334/",
-          "source": "今日头条",
-          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "AI造世界的时代来了",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3004181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "02时17分"
         },
         {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3759214",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
-          "url": "https://www.cls.cn/detail/2198609",
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
           "source": "财联社热门",
           "ranks": [
-            8,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时57分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2198795",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时57分]"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，国际游戏业务收入大增43%，AI云推动企业服务收入双位数增长 | 财报见闻",
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
           "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
-          "url": "https://www.cls.cn/detail/2198606",
-          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "七部门：以科学、技术、工程、数学为重点，加强中小学科技教育",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31947543",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
-          "url": "https://www.zhihu.com/question/1970221380470568183",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
           "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
           "source": "澎湃新闻",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "英国博主：中国惊人科技不可思议",
-          "url": "https://www.toutiao.com/trending/7571744650684579903/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
-          "url": "https://www.cls.cn/detail/2198526",
-          "source": "财联社热门",
-          "ranks": [
-            6
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "路透调查：预计哥伦比亚经济预计在第三季度同比增长3.05%。",
+          "url": "https://flash.jin10.com/detail/20251114014529704800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
-          "url": "https://www.cls.cn/detail/2199055",
-          "source": "财联社热门",
+          "title": "世贸组织：关税阴影下，各经济体相继出台贸易便利化措施",
+          "url": "https://wallstreetcn.com/livenews/3004321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
+          "url": "https://wallstreetcn.com/livenews/3004318",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "02时17分"
         },
         {
-          "title": "宇树科技发布人形机器人数采训练全栈解决方案",
-          "url": "https://wallstreetcn.com/livenews/3003876",
-          "source": "华尔街见闻-快讯",
+          "title": "分析师：本次美国政府停摆对经济的冲击超过2018-19年停摆",
+          "url": "https://flash.jin10.com/detail/20251114013625431800",
+          "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "02时17分"
         },
         {
-          "title": "佛塑科技：拟与紫金矿业下属子公司紫金锂元、厦门紫金以及广新研究院共同出资设立项目公司，在福建省龙岩市上杭工业区蛟洋新材料产业园区投资建设电池级硫化锂中试平台项目。本项目计划投资总额为1.13亿元（含增值税），建设100吨/年硫化锂生产线，主要研发、生产、经营高纯度电池级硫化锂产品。",
-          "url": "https://wallstreetcn.com/livenews/3004140",
-          "source": "华尔街见闻-快讯",
+          "title": "政府停摆结束美国经济怎么走",
+          "url": "https://www.douyin.com/hot/2304968",
+          "source": "抖音",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "OpenAI宣布推出GPT-5.1系列模型，新版本将从本周开始向用户推送。",
-          "url": "https://wallstreetcn.com/livenews/3003702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "天齐锂业：安达科技系公司产业链下游公司，目前公司与其没有权益关系",
-          "url": "https://wallstreetcn.com/livenews/3003859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌：欧盟委员会新调查有可能损害欧洲用户利益。",
-          "url": "https://wallstreetcn.com/livenews/3004151",
+          "title": "欧盟就网站搜索排名问题对谷歌启动调查",
+          "url": "https://wallstreetcn.com/livenews/3004312",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "谷歌：欧盟新的反垄断调查或将损害欧洲用户利益。",
-          "url": "https://flash.jin10.com/detail/20251113191351975800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
-          "url": "https://wallstreetcn.com/livenews/3003554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家能源局：鼓励符合条件的社会资本参与油气储备库、液化天然气接收站等投资建设",
-          "url": "https://wallstreetcn.com/livenews/3004178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "02时17分"
         }
       ]
     }
