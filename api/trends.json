@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T14:19:25.283281+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2025-11-14T20:24:29.820558+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 20时24分]"
         },
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -49,9 +50,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 20时24分]"
+        },
+        {
+          "title": "科技股、数字币被抛售，美国市场继续本月开启的“避险模式”",
+          "url": "https://wallstreetcn.com/articles/3759350",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 20时24分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -61,18 +87,6 @@
             5,
             7,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 14时19分]"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -104,13 +118,35 @@
           "time_info": "[02时17分 ~ 08时56分]"
         },
         {
+          "title": "【数据看盘】机构、一线游资联合买入中一科技 两家实力游资抢筹航天发展",
+          "url": "https://www.cls.cn/detail/2201018",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美银调查：市场对AI驱动未来利率前景陷入分歧",
+          "url": "https://flash.jin10.com/detail/20251114200741227800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
           "url": "https://flash.jin10.com/detail/20251114134034298800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -126,15 +162,48 @@
           "time_info": "08时56分"
         },
         {
-          "title": "科技股、数字币被抛售，美国市场继续本月开启的“避险模式”",
-          "url": "https://wallstreetcn.com/articles/3759350",
-          "source": "华尔街见闻",
+          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
+          "url": "https://www.cls.cn/detail/2200800",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "20时24分"
+        },
+        {
+          "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
+          "url": "https://www.cls.cn/detail/2200994",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "OpenAI：与爱尔兰企业、旅游和就业部将于2026年推出一项“中小企业助推计划”。",
+          "url": "https://flash.jin10.com/detail/20251114200449772800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美股抛售加剧 企业盈利乐观与AI泡沫担忧形成对冲",
+          "url": "https://flash.jin10.com/detail/20251114200402077800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "机构：百度AI新模型未能提振市场信心，股价单日重挫近10%",
@@ -143,7 +212,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -154,9 +223,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "广汽集团与阿里云签署全栈AI战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3004840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
@@ -165,9 +245,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "欧洲斯托克600科技指数跌3%，创7周新低。",
+          "url": "https://flash.jin10.com/detail/20251114194044895800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
@@ -176,7 +267,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -184,8 +275,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "10月国民经济运行基本平稳",
+          "url": "https://www.douyin.com/hot/2306010",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
         {
           "title": "路透调查：预计哥伦比亚经济预计在第三季度同比增长3.05%。",
           "url": "https://flash.jin10.com/detail/20251114014529704800",
@@ -219,6 +321,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 08时56分]"
+        },
+        {
+          "title": "财政部：推进财政改革管理 加快构建高水平社会主义市场经济体制",
+          "url": "https://wallstreetcn.com/livenews/3004856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
@@ -277,7 +390,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -303,11 +416,12 @@
           "url": "https://www.zhihu.com/question/1924169782795671267",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 20时24分]"
         },
         {
           "title": "富宝资讯：碳酸锂期货盘面偏弱整理，富宝碳酸锂社会总库存11.95万吨，环减3.24%",
@@ -316,7 +430,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
