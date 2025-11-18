@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T02:18:13.290011+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-18T08:56:29.684801+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时56分]"
         },
         {
           "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
@@ -26,8 +26,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时56分]"
+        },
+        {
+          "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，学校称其已被警方带走调查，暴露了哪些问题？",
+          "url": "https://www.zhihu.com/question/1973879336030463533",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
+          "url": "https://www.zhihu.com/question/1972861967086666313",
+          "source": "知乎",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时56分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -35,17 +58,6 @@
           "source": "财联社热门",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
-        },
-        {
-          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
-          "url": "https://www.zhihu.com/question/1972861967086666313",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -61,6 +73,144 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
+          "url": "https://wallstreetcn.com/articles/3759546",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
+          "url": "https://wallstreetcn.com/livenews/3006131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "美股收跌 英伟达及科技股普跌",
+          "url": "https://www.toutiao.com/trending/7572747124203372594/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "知情人士透露，苹果明星设计师Abidur Chowdhury最近离职，加入了一家人工智能初创公司。Chowdhury曾参与开发iPhone Air。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日本经济财政大臣城内实：正密切关注市场动向，包括长期利率。",
+          "url": "https://flash.jin10.com/detail/20251118084102635800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：长期利率的走势由市场决定。",
+          "url": "https://flash.jin10.com/detail/20251118084034491800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本经济财政政策大臣城内实：不对经济刺激方案的规模置评。 第三季GDP公布后，我们对日本经济温和改善的看法没有改变。 长期利率走势由市场决定。 密切关注市场动态，包括长期利率。",
+          "url": "https://wallstreetcn.com/livenews/3006136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本经济大臣：第三季度GDP数据公布后，我们对日本经济温和改善的看法没有改变。",
+          "url": "https://flash.jin10.com/detail/20251118083628502800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "澳洲联储11月货币政策会议纪要：委员会一致认为本次会议无需调整指标利率。 保持谨慎和依赖数据是合适的。 委员们认为，在评估闲置产能规模的最新数据时，可以保持耐心。 政策是否继续保持紧缩的态势尚不明朗，与2024年出现明显信号的情况截然不同。 如果需求复苏强于预期，现金利率可以维持在当前水平；如果劳动力市场实质性走弱，或者经济增长令人失望，澳洲联储仍将放松政策。不能确定哪种情况更有可能发生。 潜在的通胀压力可能比之前评估的要大一些。 澳元汇率仍然接近预估的均衡水平。 2025年下半年全球经济增长可能放缓，但出现严重下行情况的可能性已经降低。",
+          "url": "https://wallstreetcn.com/livenews/3006134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "澳洲联储会议纪要：经济前景双向均存在重大风险。",
+          "url": "https://flash.jin10.com/detail/20251118083452945800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：即将发布的经济刺激方案规模庞大。 目前无法告知一揽子刺激计划的总体规模。 GDP虽避开最糟情况，但负增长的状况仍需大规模刺激计划。",
+          "url": "https://wallstreetcn.com/livenews/3006124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -69,22 +219,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2202991",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时56分]"
+        },
+        {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
           "url": "https://wallstreetcn.com/articles/3759493",
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
-        },
-        {
-          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2202991",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
