@@ -1,101 +1,55 @@
 {
-  "generated_at": "2025-11-18T20:27:10.907463+08:00",
-  "total_titles_processed": 840,
-  "failed_sources": [
-    "toutiao",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-19T02:19:18.353152+08:00",
+  "total_titles_processed": 315,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 15,
       "titles": [
         {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 20时25分]"
-        },
-        {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时56分]"
-        },
-        {
-          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
-          "url": "https://wallstreetcn.com/articles/3759501",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时56分]"
-        },
-        {
-          "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，知情人称其已被带走调查，暴露了哪些问题？",
-          "url": "https://www.zhihu.com/question/1973879336030463533",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "科技融汇十五运 可感智慧与温情",
-          "url": "https://www.toutiao.com/trending/7573280046891515958/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "网传江苏科技大学首席科学家仅高中学历，伪造履历欺诈科研经费，学校称其已被警方带走调查，暴露了哪些问题？",
-          "url": "https://www.zhihu.com/question/1973879336030463533",
-          "source": "知乎",
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时19分"
+        },
+        {
+          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
+          "url": "https://www.cls.cn/detail/2203967",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "外资密集唱多！小摩：中国是亚洲市场最大驱动力 科技股涨势才刚起步",
+          "url": "https://www.cls.cn/detail/2203806",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -106,257 +60,117 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "02时19分"
+        },
+        {
+          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
+          "url": "https://www.cls.cn/detail/2203937",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2204220",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3006673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
           "url": "https://wallstreetcn.com/articles/3759559",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
-          "url": "https://www.zhihu.com/question/1972861967086666313",
-          "source": "知乎",
-          "ranks": [
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时56分]"
-        },
-        {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 20时25分]"
-        },
-        {
-          "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
-          "url": "https://www.zhihu.com/question/1970226468920471782",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
           "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
-        },
-        {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
-        },
-        {
-          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
-          "url": "https://wallstreetcn.com/articles/3759546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
-          "url": "https://wallstreetcn.com/livenews/3006131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "恒生科技指数跌2%，恒生指数跌1.72%。小鹏汽车跌约10%，赣锋锂业跌约8%，天齐锂业跌约7%。",
-          "url": "https://wallstreetcn.com/livenews/3006268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "A股储能概念持续调整，海博思创跌超10%，阿特斯、鹏辉能源、永福股份、奥特迅、派能科技等多股跌逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3006267",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "美股收跌 英伟达及科技股普跌",
-          "url": "https://www.toutiao.com/trending/7572747124203372594/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时19分"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
           "url": "https://www.douyin.com/hot/2310465",
           "source": "抖音",
           "ranks": [
-            23
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "02时19分"
         },
         {
-          "title": "知情人士透露，苹果明星设计师Abidur Chowdhury最近离职，加入了一家人工智能初创公司。Chowdhury曾参与开发iPhone Air。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3006113",
+          "title": "沙特Humain、贝佐斯旗下亚马逊、AMD、马斯克旗下xAI将打造多个数据中心。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3006653",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "日本经济财政大臣城内实：正密切关注市场动向，包括长期利率。",
-          "url": "https://flash.jin10.com/detail/20251118084102635800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时19分"
         },
         {
-          "title": "日本经济财政大臣城内实：长期利率的走势由市场决定。",
-          "url": "https://flash.jin10.com/detail/20251118084034491800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "日本经济财政政策大臣城内实：不对经济刺激方案的规模置评。 第三季GDP公布后，我们对日本经济温和改善的看法没有改变。 长期利率走势由市场决定。 密切关注市场动态，包括长期利率。",
-          "url": "https://wallstreetcn.com/livenews/3006136",
+          "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
+          "url": "https://wallstreetcn.com/livenews/3006652",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时19分"
         },
         {
-          "title": "日本经济大臣：第三季度GDP数据公布后，我们对日本经济温和改善的看法没有改变。",
-          "url": "https://flash.jin10.com/detail/20251118083628502800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "澳洲联储11月货币政策会议纪要：委员会一致认为本次会议无需调整指标利率。 保持谨慎和依赖数据是合适的。 委员们认为，在评估闲置产能规模的最新数据时，可以保持耐心。 政策是否继续保持紧缩的态势尚不明朗，与2024年出现明显信号的情况截然不同。 如果需求复苏强于预期，现金利率可以维持在当前水平；如果劳动力市场实质性走弱，或者经济增长令人失望，澳洲联储仍将放松政策。不能确定哪种情况更有可能发生。 潜在的通胀压力可能比之前评估的要大一些。 澳元汇率仍然接近预估的均衡水平。 2025年下半年全球经济增长可能放缓，但出现严重下行情况的可能性已经降低。",
-          "url": "https://wallstreetcn.com/livenews/3006134",
+          "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006649",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "澳洲联储会议纪要：经济前景双向均存在重大风险。",
-          "url": "https://flash.jin10.com/detail/20251118083452945800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "申万宏源刘健：新要素体系已成激活经济增长新引擎",
-          "url": "https://wallstreetcn.com/livenews/3006264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：即将发布的经济刺激方案规模庞大。 目前无法告知一揽子刺激计划的总体规模。 GDP虽避开最糟情况，但负增长的状况仍需大规模刺激计划。",
-          "url": "https://wallstreetcn.com/livenews/3006124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时19分"
         }
       ]
     },
@@ -365,44 +179,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2202991",
-          "source": "财联社热门",
+          "title": "谷歌正式发布Gemini3",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时56分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
+          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
+          "url": "https://wallstreetcn.com/livenews/3006669",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
@@ -415,12 +211,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31985253",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 20时25分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     }
