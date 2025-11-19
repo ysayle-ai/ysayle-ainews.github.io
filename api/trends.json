@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T20:24:34.664347+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2025-11-20T02:18:38.323139+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 53,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -15,30 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 20时24分]"
-        },
-        {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
-          "url": "https://www.cls.cn/detail/2203967",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
         },
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -47,560 +25,196 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "02时18分"
         },
         {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
+          "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
+          "url": "https://wallstreetcn.com/livenews/3007373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "OpenAI：推出面向教师的ChatGPT，并将其免费开放至2027年6月。2027年6月之后可能会调整定价，但目标是让面向教师的ChatGPT对教育工作者来说仍然负担得起。",
+          "url": "https://flash.jin10.com/detail/20251120021224475800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "外资密集唱多！小摩：中国是亚洲市场最大驱动力 科技股涨势才刚起步",
-          "url": "https://www.cls.cn/detail/2203806",
-          "source": "财联社热门",
+          "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3007372",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "华泰证券：建议持续关注“千问”项目相关业务进展及相应受益的AI基础设施上游标的",
-          "url": "https://flash.jin10.com/detail/20251119081732338800",
+          "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
+          "url": "https://flash.jin10.com/detail/20251120021055474800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
-          "url": "https://www.cls.cn/detail/2203937",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
-          "url": "https://www.cls.cn/detail/2204346",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2204220",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 08时56分]"
+          "time_info": "02时18分"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
           "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时24分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 20时24分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 08时56分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时24分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            20,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 14时19分]"
-        },
-        {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 14时19分]"
-        },
-        {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            29
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时24分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
+          "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
+          "url": "https://flash.jin10.com/detail/20251120020650627800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时24分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
+          "url": "https://wallstreetcn.com/livenews/3007369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时24分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
-          "url": "https://flash.jin10.com/detail/20251119200941299800",
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
+          "url": "https://flash.jin10.com/detail/20251120020202388800",
           "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "A股船舶板块涨势扩大，江龙船艇、中船防务午后涨停，天海防务涨超15%，亚星锚链此前封板，国瑞科技、中科海讯、中国海防、海兰信、中国船舶跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3006961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "江苏科技大学通报郭某学术造假事件，已解聘并报案，此事还有哪些疑点？校方在引进审核中是否存在失职责任？",
-          "url": "https://www.zhihu.com/question/1974396544791834987",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
-          "url": "https://wallstreetcn.com/articles/3759594",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美国科技股抛售潮持续！瑞银高呼：是时候将目光投向中国了",
-          "url": "https://www.cls.cn/detail/2204445",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3006673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "20年来首现“过度投资”！美银基金经理调查：AI泡沫已成市场上最大“尾部投资”",
-          "url": "https://wallstreetcn.com/articles/3759640",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
-          "url": "https://www.cls.cn/detail/2204353",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "A股水产养殖板块再度拉升，獐子岛、大湖股份、好当家午后涨停，开创国际、东方海洋、中水渔业此前封板，百洋股份、天马科技等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3006953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
+          "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
+          "url": "https://flash.jin10.com/detail/20251120020145207800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
-          "url": "https://www.cls.cn/detail/2204415",
+          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
+          "url": "https://www.cls.cn/detail/2205150",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "金十数据整理：每日科技要闻速递（11月19日）",
-          "url": "https://flash.jin10.com/detail/20251119073922369800",
+          "title": "沙特人工智能初创公司Humain：未来三年内，将在沙特和美国部署英伟达(NVDA.O)人工智能基础设施，配备多达60万个英伟达GPU。将使用英伟达的NeMo-Tron开源技术来训练Humain Chat。",
+          "url": "https://flash.jin10.com/detail/20251120020056406800",
           "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时18分"
         },
         {
-          "title": "美股科技股遭抛售 英伟达跌近3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%913%25",
-          "source": "百度热搜",
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "OpenAI与Target公司宣布合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3007199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "02时18分"
         },
         {
           "title": "江苏科技大学造假者郭某商业版图曝光，经营多家材料企业",
           "url": "https://m.thepaper.cn/newsDetail_forward_31998987",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "如果 AI 能完美模拟已故亲友的思维和记忆，你会选择「复活」他们吗？",
-          "url": "https://www.zhihu.com/question/1920764981328221242",
-          "source": "知乎",
-          "ranks": [
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "02时18分"
         },
         {
-          "title": "华尔街日报：xAI正就融资150亿美元深入谈判 估值显著提升",
-          "url": "https://flash.jin10.com/detail/20251119121305471800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "蚂蚁旗下AI产品“灵光”首日下载破20万",
-          "url": "https://wallstreetcn.com/livenews/3006939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "报道：xAI正就融资150亿美元深入谈判 估值显著提升",
-          "url": "https://wallstreetcn.com/livenews/3006936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "夸克AI眼镜与支付宝合作再升级 新增骨传导拾音、准心等能力",
-          "url": "https://wallstreetcn.com/livenews/3007192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "AI 为什么会先淘汰写字楼里的人？",
-          "url": "https://www.zhihu.com/question/582917350",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119120532267800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "港交所：将推出恒生生物科技指数期货",
-          "url": "https://wallstreetcn.com/livenews/3006935",
+          "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
+          "url": "https://wallstreetcn.com/livenews/3007352",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "浙商银行与阿里巴巴集团战略合作签约。未来，双方将深化科技创新合作，共同推动金融服务智能化升级，构建开放共赢的金融科技生态。",
-          "url": "https://wallstreetcn.com/livenews/3007189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "沙特Humain、贝佐斯旗下亚马逊、AMD、马斯克旗下xAI将打造多个数据中心。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3006653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
-          "url": "https://wallstreetcn.com/livenews/3006652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3006926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3006649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "申万宏源： 明年年中或迎全面行情，看好科技和制造业板块",
-          "url": "https://wallstreetcn.com/livenews/3006781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时18分"
         }
       ]
     },
@@ -613,44 +227,44 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%97%85%E6%B8%B8%E4%B8%9A%E4%BA%BA%E5%A3%AB%E7%A7%B0%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E6%8B%96%E7%B4%AF%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "02时18分"
         },
         {
-          "title": "高盛总裁John Waldron：目前整体倾向仍是“未来利率将进一步走低”。 美国经济依然强劲且具有韧性，当前市场出现的是一次健康的回调。",
-          "url": "https://wallstreetcn.com/livenews/3006962",
+          "title": "工业经济高质量发展扎实推进",
+          "url": "https://www.toutiao.com/trending/7574343975445872681/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "日本经济学家：中国游客数量锐减或将使日本每年损失上万亿日元",
+          "url": "https://www.cls.cn/detail/2205275",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：股市上扬正在提振美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3007361",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "中方向世贸组织通报中非共同发展经济伙伴关系协定重要进展",
-          "url": "https://wallstreetcn.com/livenews/3006951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "经济学家：澳洲联储可能已收起降息武器",
-          "url": "https://flash.jin10.com/detail/20251119124856808800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "02时18分"
         },
         {
           "title": "韩国深陷 5 年内十大产业或全线失守恐慌，在中国的高速发展和美国的贸易保护政策之下，韩国经济何去何从？",
@@ -659,31 +273,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "02时18分"
         },
         {
-          "title": "十五运会官方IP走红 “体育+”激活湾区文旅经济新动能",
-          "url": "https://wallstreetcn.com/livenews/3006795",
+          "title": "加拿大央行副行长Vincent：加拿大必须投资（劳动力）培训。 需要在银行、电信、交通领域提高竞争力。 加拿大的经济可承受问题是一个生产力问题。 加拿大在生产力问题上陷入“凶险的周期”。 加拿大必须简化监管，升级基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3007357",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时18分"
         },
         {
-          "title": "没经济没建模小猫什么梗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%A1%E7%BB%8F%E6%B5%8E%E6%B2%A1%E5%BB%BA%E6%A8%A1%E5%B0%8F%E7%8C%AB%E4%BB%80%E4%B9%88%E6%A2%97",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：我坚决反对拜登旨在消除石油和天然气的激进议程，它们是不可或缺的能源来源。各国因风力涡轮机而遭受经济损失，这是一种灾难，损害了地方和环境。我呼吁财政困难的国家停止安装风力涡轮机，因为他们在这些项目上持续亏损。",
+          "url": "https://flash.jin10.com/detail/20251120015137484800",
+          "source": "金十数据",
           "ranks": [
-            28
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时18分"
         }
       ]
     },
@@ -692,55 +306,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "谷歌正式发布Gemini3",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 08时56分]"
-        },
-        {
-          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1974260216498500253",
-          "source": "知乎",
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "02时18分"
         },
         {
-          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
-          "url": "https://wallstreetcn.com/livenews/3006669",
-          "source": "华尔街见闻-快讯",
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
+          "time_info": "02时18分"
+        },
         {
-          "title": "韩国环境部部长答澎湃：决心向世界证明脱碳社会可行性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31985253",
-          "source": "澎湃新闻",
+          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
+          "url": "https://wallstreetcn.com/articles/3759713",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时18分"
         }
       ]
     }
