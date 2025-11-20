@@ -1,22 +1,47 @@
 {
-  "generated_at": "2025-11-20T14:18:48.482007+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2025-11-20T20:24:05.628780+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 20时24分]"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 20时24分]"
+        },
+        {
+          "title": "Nvidia大涨是AI泡沫吗",
+          "url": "https://search.bilibili.com/all?keyword=Nvidia%E5%A4%A7%E6%B6%A8%E6%98%AFAI%E6%B3%A1%E6%B2%AB%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 14时18分]"
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -50,6 +75,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "江苏科技大学首席科学家被曝仅高中学历，他的科研成果是真实的吗？ 之前发表的论文有哪些漏洞？",
+          "url": "https://www.zhihu.com/question/1974197993361072520",
+          "source": "知乎",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 20时24分]"
         },
         {
           "title": "OpenAI：推出面向教师的ChatGPT，并将其免费开放至2027年6月。2027年6月之后可能会调整定价，但目标是让面向教师的ChatGPT对教育工作者来说仍然负担得起。",
@@ -113,7 +150,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -135,7 +172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -162,28 +199,16 @@
           "time_info": "02时18分"
         },
         {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 14时18分]"
-        },
-        {
-          "title": "江苏科技大学首席科学家被曝仅高中学历，他的科研成果是真实的吗？ 之前发表的论文有哪些漏洞？",
-          "url": "https://www.zhihu.com/question/1974197993361072520",
-          "source": "知乎",
-          "ranks": [
-            2,
-            12
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时54分 ~ 14时18分]"
+          "time_info": "[14时18分 ~ 20时24分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -216,11 +241,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 14时18分]"
+          "appearance_count": 6,
+          "time_info": "[02时18分 ~ 20时24分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -258,6 +284,18 @@
           "time_info": "[02时18分 ~ 08时55分]"
         },
         {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 20时24分]"
+        },
+        {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
           "url": "https://wallstreetcn.com/articles/3759684",
           "source": "华尔街见闻",
@@ -280,6 +318,17 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
+          "title": "江苏科技大学造假者郭某曾申请多项专利，合作者包括校内领导",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32006610",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
           "title": "闻泰科技：对安世的控制权仍受限",
           "url": "https://www.toutiao.com/trending/7574052258440249386/",
           "source": "今日头条",
@@ -289,17 +338,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -330,18 +368,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -374,7 +401,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -385,7 +412,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -407,7 +434,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -429,7 +456,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -440,7 +467,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -456,13 +483,24 @@
           "time_info": "02时18分"
         },
         {
+          "title": "马斯克、黄仁勋同台对话：AI和人形机器人会消除贫困",
+          "url": "https://wallstreetcn.com/livenews/3007912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "中国科技部副部长陈家昌访问芬兰",
           "url": "https://wallstreetcn.com/livenews/3007656",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -487,12 +525,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "广东：要大力发展前沿科技",
+          "url": "https://wallstreetcn.com/livenews/3007908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "工业经济高质量发展扎实推进",
@@ -542,13 +591,35 @@
           "time_info": "[02时18分 ~ 08时55分]"
         },
         {
+          "title": "日元韩元正比谁更惨？亚洲经济体打响货币保卫战！",
+          "url": "https://www.cls.cn/detail/2205922",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
+          "title": "如何理解「人生就是一场康波」的观点？经济发展真的存在康波周期吗？",
+          "url": "https://www.zhihu.com/question/1974054878285362125",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
           "title": "欧盟外长又想使坏：再搞个“经济北约”，一起对付中国",
           "url": "https://news.ifeng.com/c/8oQjYulWkOf",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -562,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "德国央行预计第四季度德国经济有望增长",
+          "url": "https://wallstreetcn.com/livenews/3007929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "加拿大央行副行长Vincent：加拿大必须投资（劳动力）培训。 需要在银行、电信、交通领域提高竞争力。 加拿大的经济可承受问题是一个生产力问题。 加拿大在生产力问题上陷入“凶险的周期”。 加拿大必须简化监管，升级基础设施。",
@@ -581,7 +663,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -592,7 +674,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -611,7 +693,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中信证券：Gemini 3 Pro多模态领先，关注应用新机会",
@@ -660,15 +742,43 @@
           "time_info": "[02时18分 ~ 14时18分]"
         },
         {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
           "url": "https://www.zhihu.com/question/1974483598263476355",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么「情绪稳定」逐渐成为现代社会衡量一个人成熟度的重要标准？",
+          "url": "https://www.zhihu.com/question/1971533957301540827",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
         }
       ]
     }
