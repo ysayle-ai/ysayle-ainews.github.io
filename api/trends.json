@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-11-20T02:18:38.323139+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T08:55:28.635956+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "江苏科技大学首席科学家被曝仅高中学历，他的科研成果是真实的吗？ 之前发表的论文有哪些漏洞？",
+          "url": "https://www.zhihu.com/question/1974197993361072520",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
           "url": "https://wallstreetcn.com/articles/3759603",
@@ -74,6 +96,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "英伟达财报为科技板块带来宽慰 日经指数强劲反弹",
+          "url": "https://flash.jin10.com/detail/20251120083014168800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
           "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
@@ -85,15 +118,15 @@
           "time_info": "02时18分"
         },
         {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "与爱泼斯坦关系密切，美前财长萨默斯辞去OpenAI董事等职务",
+          "url": "https://flash.jin10.com/detail/20251120082746009800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "08时55分"
         },
         {
           "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
@@ -118,6 +151,18 @@
           "time_info": "02时18分"
         },
         {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
           "source": "澎湃新闻",
@@ -125,8 +170,98 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
+          "url": "https://www.cls.cn/detail/2205150",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "江苏科技大学造假者郭某商业版图曝光，经营多家材料企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31998987",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
+          "url": "https://wallstreetcn.com/articles/3759684",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "有哪些物种看起来像 AI 生成的，但在自然界真实存在？",
+          "url": "https://www.zhihu.com/question/1971586666897563752",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "闻泰科技：对安世的控制权仍受限",
+          "url": "https://www.toutiao.com/trending/7574052258440249386/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -140,6 +275,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "日经指数上涨逾3% 科技股受英伟达财报提振而上涨",
+          "url": "https://flash.jin10.com/detail/20251120081634973800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
           "url": "https://flash.jin10.com/detail/20251120020202388800",
           "source": "金十数据",
@@ -151,22 +297,22 @@
           "time_info": "02时18分"
         },
         {
+          "title": "英伟达CEO黄仁勋：对投资OpenAI 采取审慎态度。",
+          "url": "https://wallstreetcn.com/livenews/3007502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
           "url": "https://flash.jin10.com/detail/20251120020145207800",
           "source": "金十数据",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
-          "url": "https://www.cls.cn/detail/2205150",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -184,28 +330,6 @@
           "time_info": "02时18分"
         },
         {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "江苏科技大学造假者郭某商业版图曝光，经营多家材料企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31998987",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
           "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
           "url": "https://wallstreetcn.com/livenews/3007352",
           "source": "华尔街见闻-快讯",
@@ -215,6 +339,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（11月20日）",
+          "url": "https://flash.jin10.com/detail/20251120074232742800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3007479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -223,17 +369,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "日旅游业人士称高市言论拖累经济",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%97%85%E6%B8%B8%E4%B8%9A%E4%BA%BA%E5%A3%AB%E7%A7%B0%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E6%8B%96%E7%B4%AF%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
           "title": "工业经济高质量发展扎实推进",
           "url": "https://www.toutiao.com/trending/7574343975445872681/",
           "source": "今日头条",
@@ -241,30 +376,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "日旅游业人士称高市言论拖累经济",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%97%85%E6%B8%B8%E4%B8%9A%E4%BA%BA%E5%A3%AB%E7%A7%B0%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E6%8B%96%E7%B4%AF%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
         },
         {
           "title": "日本经济学家：中国游客数量锐减或将使日本每年损失上万亿日元",
           "url": "https://www.cls.cn/detail/2205275",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国总统特朗普：股市上扬正在提振美国经济。",
-          "url": "https://wallstreetcn.com/livenews/3007361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
         },
         {
           "title": "韩国深陷 5 年内十大产业或全线失守恐慌，在中国的高速发展和美国的贸易保护政策之下，韩国经济何去何从？",
@@ -272,6 +409,17 @@
           "source": "知乎",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "美国总统特朗普：股市上扬正在提振美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3007361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -303,8 +451,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "中信证券：Gemini 3 Pro多模态领先，关注应用新机会",
+          "url": "https://wallstreetcn.com/livenews/3007512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
           "url": "https://wallstreetcn.com/articles/3759700",
@@ -324,19 +483,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
           "url": "https://wallstreetcn.com/articles/3759713",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
         }
       ]
     }
