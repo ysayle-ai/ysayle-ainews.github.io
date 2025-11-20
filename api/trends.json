@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T08:55:28.635956+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-11-20T14:18:48.482007+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 32,
+      "match_count": 43,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "江苏科技大学首席科学家被曝仅高中学历，他的科研成果是真实的吗？ 之前发表的论文有哪些漏洞？",
-          "url": "https://www.zhihu.com/question/1974197993361072520",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 14时18分]"
         },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -102,7 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -118,15 +107,37 @@
           "time_info": "02时18分"
         },
         {
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "与爱泼斯坦关系密切，美前财长萨默斯辞去OpenAI董事等职务",
           "url": "https://flash.jin10.com/detail/20251120082746009800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "香港为新田科技城210公顷新创科用地订下发展方略",
+          "url": "https://wallstreetcn.com/livenews/3007689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
@@ -159,8 +170,57 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 14时18分]"
+        },
+        {
+          "title": "江苏科技大学首席科学家被曝仅高中学历，他的科研成果是真实的吗？ 之前发表的论文有哪些漏洞？",
+          "url": "https://www.zhihu.com/question/1974197993361072520",
+          "source": "知乎",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
+          "time_info": "[08时54分 ~ 14时18分]"
+        },
+        {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 14时18分]"
+        },
+        {
+          "title": "江苏科技大学造假者郭某商业版图曝光，经营多家材料企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31998987",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 14时18分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 14时18分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -172,6 +232,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 14时18分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -186,56 +258,11 @@
           "time_info": "[02时18分 ~ 08时55分]"
         },
         {
-          "title": "江苏科技大学造假者郭某商业版图曝光，经营多家材料企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31998987",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
-        },
-        {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
           "url": "https://wallstreetcn.com/articles/3759684",
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
-          "url": "https://www.cls.cn/detail/2205653",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
-          "url": "https://www.cls.cn/detail/2205637",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -264,6 +291,17 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
@@ -281,9 +319,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "菲方称中方在仁爱礁用上“黑科技”，军方人士：纯属无中生有",
+          "url": "https://news.ifeng.com/c/8oQlKcvn24m",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "沙特人工智能初创公司Humain：与Global AI建立合作伙伴关系，利用最新的英伟达AI基础设施，在美国和全球建设大规模AI数据中心和计算能力。",
@@ -303,9 +363,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "近日，在IMT-2020（5G）推进组的组织下，爱立信携手联发科技率先完成了LTM（L1/L2 Triggered Mobility）技术测试。（5G推进组微信公号）",
+          "url": "https://wallstreetcn.com/livenews/3007681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
+          "url": "https://www.cls.cn/detail/2205868",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
@@ -319,6 +401,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：未来三年内，将在沙特和美国部署英伟达(NVDA.O)人工智能基础设施，配备多达60万个英伟达GPU。将使用英伟达的NeMo-Tron开源技术来训练Humain Chat。",
           "url": "https://flash.jin10.com/detail/20251120020056406800",
           "source": "金十数据",
@@ -328,6 +421,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "知情人回应菲称中方在仁爱礁用黑科技",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%8F%B2%E7%A7%B0%E4%B8%AD%E6%96%B9%E5%9C%A8%E4%BB%81%E7%88%B1%E7%A4%81%E7%94%A8%E9%BB%91%E7%A7%91%E6%8A%80",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3007668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
@@ -341,13 +456,24 @@
           "time_info": "02时18分"
         },
         {
+          "title": "中国科技部副部长陈家昌访问芬兰",
+          "url": "https://wallstreetcn.com/livenews/3007656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（11月20日）",
           "url": "https://flash.jin10.com/detail/20251120074232742800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -358,7 +484,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -366,7 +492,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "工业经济高质量发展扎实推进",
@@ -385,11 +511,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 14时18分]"
         },
         {
           "title": "日本经济学家：中国游客数量锐减或将使日本每年损失上万亿日元",
@@ -415,6 +542,17 @@
           "time_info": "[02时18分 ~ 08时55分]"
         },
         {
+          "title": "欧盟外长又想使坏：再搞个“经济北约”，一起对付中国",
+          "url": "https://news.ifeng.com/c/8oQjYulWkOf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "美国总统特朗普：股市上扬正在提振美国经济。",
           "url": "https://wallstreetcn.com/livenews/3007361",
           "source": "华尔街见闻-快讯",
@@ -437,6 +575,28 @@
           "time_info": "02时18分"
         },
         {
+          "title": "解析欧洲经济的困局",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E6%AC%A7%E6%B4%B2%E7%BB%8F%E6%B5%8E%E7%9A%84%E5%9B%B0%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "日本央行审议委员小枝淳子：在决定日本央行是否应迅速推进政策正常化时，必须仔细审视潜在的经济和物价发展情况。",
+          "url": "https://flash.jin10.com/detail/20251120134043377800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "美国总统特朗普：我坚决反对拜登旨在消除石油和天然气的激进议程，它们是不可或缺的能源来源。各国因风力涡轮机而遭受经济损失，这是一种灾难，损害了地方和环境。我呼吁财政困难的国家停止安装风力涡轮机，因为他们在这些项目上持续亏损。",
           "url": "https://flash.jin10.com/detail/20251120015137484800",
           "source": "金十数据",
@@ -451,7 +611,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中信证券：Gemini 3 Pro多模态领先，关注应用新机会",
@@ -460,7 +620,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -483,8 +643,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 14时18分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -492,11 +652,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 14时18分]"
+        },
+        {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     }
