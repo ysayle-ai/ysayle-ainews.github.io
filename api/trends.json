@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-21T02:19:01.592544+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-21T08:55:58.122967+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "江苏科技大学造假者郭某曾申请多项专利，合作者包括校内领导",
           "url": "https://m.thepaper.cn/newsDetail_forward_32006610",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -25,9 +26,55 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
+          "url": "https://www.zhihu.com/question/1974839795554484978",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -35,17 +82,6 @@
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -63,26 +99,26 @@
           "time_info": "[02时18分 ~ 02时19分]"
         },
         {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
+          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
+          "url": "https://wallstreetcn.com/articles/3759810",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -91,9 +127,64 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "“创世纪计划”！特朗普下周一签署AI新政，类比“曼哈顿计划”和“太空竞赛”",
+          "url": "https://wallstreetcn.com/articles/3759760",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
+          "url": "https://www.cls.cn/detail/2206796",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://www.douyin.com/hot/2311060",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "做空巨头却站多头阵营？浑水创始人警告勿碰大科技空单",
+          "url": "https://www.cls.cn/detail/2206641",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "日韩股市跟随隔夜美股科技股下跌",
+          "url": "https://flash.jin10.com/detail/20251121081349760800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "AMD跌5.7%，英伟达跌2.2%，美光科技跌9.2%。 英特尔下跌2.2%，Arm控股跌1.2%。",
@@ -102,7 +193,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -113,7 +204,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -124,15 +215,98 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
       ]
     },
     {
+      "keyword_group": "经济",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日本财务大臣片山皋月：具体的货币政策应该由日本央行作出。 对近期的汇率快速波动感到担忧。 将对外汇过度波动采取适当行动。 与日本央行行长植田和男确认，需要与市场进行沟通。 植田和男植田称日本央行将根据经济和物价的改善情况逐步调整货币支持力度。",
+          "url": "https://wallstreetcn.com/livenews/3008266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee（2025年FOMC票委）：如果政府可以告诉央行（美联储）如何处理利率，通胀就会上升，经济增长就会放缓。 如果美联储失去独立性，我和市场都会感到痛苦。 我对此并不担心。",
+          "url": "https://wallstreetcn.com/livenews/3008124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美联储古尔斯比：如果政府可以告诉中央银行如何处理利率问题，通货膨胀就会上升，经济增长就会放缓。如果美联储失去独立性，将令我及市场感到痛心。不过我目前对此并不担心。",
+          "url": "https://flash.jin10.com/detail/20251121021107440800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美联储古尔斯比：对工资增长放缓预示着经济衰退的说法表示怀疑。",
+          "url": "https://flash.jin10.com/detail/20251121020614011800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：在我与日本央行行长植田和男及经济大臣的会晤中，植田和男解释说，日本央行将根据经济和物价的改善情况，逐步调整货币支持力度。",
+          "url": "https://flash.jin10.com/detail/20251121081457920800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "解析欧洲经济的困局",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E6%AC%A7%E6%B4%B2%E7%BB%8F%E6%B5%8E%E7%9A%84%E5%9B%B0%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美国费城联储主席Paulson：正“谨慎地”对待12月的利率决定。 到目前为止的降息是适当的，但每一次降息都会提高下一次降息的门槛。 鉴于通胀存在上行风险，就业存在下行风险，货币政策必须走钢丝，小心谨慎。 从边际上看，相比于通胀，自己仍然更担心劳动力市场。 预计从现在到12月美联储会议之间，我们会了解很多新情况。 美国经济表现尚可。 从更长远的角度考虑货币政策时，重点是平衡通胀和劳动力市场的风险。 经济分化可能已加剧，中低收入家庭正面临困境。 总体而言，9月份的就业市场报告是“令人鼓舞的”。 关税的影响小于预期，整体需求环境有助于抑制通胀。",
+          "url": "https://wallstreetcn.com/livenews/3008238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -142,8 +316,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -153,8 +327,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 08时55分]"
         },
         {
           "title": "Gemini3",
@@ -166,45 +340,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 02时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国芝加哥联储主席Goolsbee（2025年FOMC票委）：如果政府可以告诉央行（美联储）如何处理利率，通胀就会上升，经济增长就会放缓。 如果美联储失去独立性，我和市场都会感到痛苦。 我对此并不担心。",
-          "url": "https://wallstreetcn.com/livenews/3008124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
         },
         {
-          "title": "美联储古尔斯比：如果政府可以告诉中央银行如何处理利率问题，通货膨胀就会上升，经济增长就会放缓。如果美联储失去独立性，将令我及市场感到痛心。不过我目前对此并不担心。",
-          "url": "https://flash.jin10.com/detail/20251121021107440800",
-          "source": "金十数据",
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
           "ranks": [
-            6
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美联储古尔斯比：对工资增长放缓预示着经济衰退的说法表示怀疑。",
-          "url": "https://flash.jin10.com/detail/20251121020614011800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "08时55分"
         }
       ]
     }
