@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T14:20:17.178118+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2025-11-21T20:23:15.222461+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "江苏科技大学造假者郭某曾申请多项专利，合作者包括校内领导",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时18分 ~ 14时20分]"
+        },
+        {
+          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
+          "url": "https://wallstreetcn.com/articles/3759864",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -38,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -60,7 +71,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -71,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -82,7 +93,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -97,6 +108,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 08时55分]"
+        },
+        {
+          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
+          "url": "https://wallstreetcn.com/articles/3759838",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 20时23分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -157,6 +179,17 @@
           "time_info": "[08时55分 ~ 14时20分]"
         },
         {
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
           "title": "闻泰科技：荷兰不仅应永久性撤销行政令，还应确保中方股东控制权",
           "url": "https://news.ifeng.com/c/8oRWo0HxA1j",
           "source": "凤凰网",
@@ -166,6 +199,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "我AI的易梦玲胡彦斌",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
+          "title": "易梦玲称和胡彦斌海边视频是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -185,7 +241,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -212,17 +268,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
-          "url": "https://wallstreetcn.com/articles/3759838",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://www.douyin.com/hot/2311060",
           "source": "抖音",
@@ -240,7 +285,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -262,7 +307,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -295,9 +340,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "【摩尔线程：AI计算加速芯片的市场需求呈爆炸式增长，GPU依然是主导芯片】摩尔线程创始人、董事长、总经理张建中在摩尔线程首次公开发行股票并在科创板上市网上投资者交流会上表示，随着中国AI下游应用市场的迅速扩张，AI计算加速芯片的市场需求呈现爆炸式增长，吸引各类芯片制造商的加入。张建中表示，目前，GPU依然是AI市场的主导芯片。不过，以ASIC和FPGA为代表的其他类型芯片也已实现商业化，并在市场中占据一定比例。张建中表示，未来，随着中国GPU企业在技术上的不断突破，AI计算加速芯片的市场规模预计将实现快速增长。(澎湃新闻)",
+          "url": "https://wallstreetcn.com/livenews/3008679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "鸿海电动车策略长关润在科技日活动上展示“MODEL A”电动车。",
@@ -306,7 +362,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -317,7 +373,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -347,8 +403,30 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
+          "url": "https://www.zhihu.com/question/1975169592130286012",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
+          "title": "与中国闹翻日本经济界先慌了",
+          "url": "https://www.toutiao.com/trending/7574250888475590692/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
         {
           "title": "日本财务大臣片山皋月：具体的货币政策应该由日本央行作出。 对近期的汇率快速波动感到担忧。 将对外汇过度波动采取适当行动。 与日本央行行长植田和男确认，需要与市场进行沟通。 植田和男植田称日本央行将根据经济和物价的改善情况逐步调整货币支持力度。",
           "url": "https://wallstreetcn.com/livenews/3008266",
@@ -400,7 +478,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -411,7 +489,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -433,7 +511,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -444,7 +522,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -455,9 +533,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "意大利经济部长：我们将在适当的场合对欧盟就黄金权力规则提出的异议作出回应。我们将起草一项监管提案，以澄清当前状况并克服欧盟的反对意见。",
+          "url": "https://flash.jin10.com/detail/20251121193109504800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "高市言论给日本经济界带来巨大冲击",
@@ -466,7 +555,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -477,7 +566,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -488,9 +577,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "王小洪在陕西宁夏调研时强调 深入学习贯彻党的二十届四中全会精神 坚决实现全年经济社会发展目标",
+          "url": "https://wallstreetcn.com/livenews/3008671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "日本内阁批准了21.3万亿日元的经济刺激计划",
@@ -499,7 +599,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -529,7 +629,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -571,7 +671,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -585,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "出门问问TicNote与CodeBanana已全面接入Gemini 3模型",
+          "url": "https://wallstreetcn.com/livenews/3008660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     }
