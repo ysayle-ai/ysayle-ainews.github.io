@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-21T20:23:15.222461+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-11-22T02:17:58.873086+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 35,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "江苏科技大学造假者郭某曾申请多项专利，合作者包括校内领导",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32006610",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 14时20分]"
-        },
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
           "url": "https://wallstreetcn.com/articles/3759864",
@@ -27,675 +15,201 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
-          "url": "https://www.zhihu.com/question/1974839795554484978",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 14时20分]"
-        },
-        {
-          "title": "鸿海董事长刘扬伟：与OpenAI的合作将从加州的一个实验室开始，随后可能扩展到俄亥俄州的制造业务。",
-          "url": "https://flash.jin10.com/detail/20251121134910969800",
-          "source": "金十数据",
+          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
+          "url": "https://www.cls.cn/detail/2207687",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时17分"
         },
         {
-          "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
-          "url": "https://wallstreetcn.com/livenews/3008126",
-          "source": "华尔街见闻-快讯",
+          "title": "这26秒科技感直接拉满",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9926%E7%A7%92%E7%A7%91%E6%8A%80%E6%84%9F%E7%9B%B4%E6%8E%A5%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时17分"
         },
         {
-          "title": "鸿海董事长刘扬伟：目前转移到美国的产品大多与AI相关。",
-          "url": "https://wallstreetcn.com/livenews/3008431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "鸿海董事长刘扬伟：与OpenAI合作的一个关键原因是他们是最大的生成式AI用户且拥有丰富的经验，但他们也看到了当前数据中心架构的局限性。",
-          "url": "https://flash.jin10.com/detail/20251121134120644800",
+          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
+          "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
-        },
-        {
-          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
-          "url": "https://wallstreetcn.com/articles/3759838",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 20时23分]"
-        },
-        {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
-          "url": "https://wallstreetcn.com/articles/3759810",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 14时20分]"
-        },
-        {
-          "title": "桥水达利欧：AI泡沫确实存在 但暂未到破裂时刻",
-          "url": "https://www.cls.cn/detail/2206796",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 14时20分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
           "url": "https://www.cls.cn/detail/2207484",
           "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
-          "title": "闻泰科技：荷兰不仅应永久性撤销行政令，还应确保中方股东控制权",
-          "url": "https://news.ifeng.com/c/8oRWo0HxA1j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "我AI的易梦玲胡彦斌",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "易梦玲称和胡彦斌海边视频是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
-          "url": "https://wallstreetcn.com/articles/3759784",
+          "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
+          "url": "https://wallstreetcn.com/articles/3759838",
           "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "鸿海董事长刘扬伟：未提及与OpenAI成立合资企业或产量承诺，并不意味着未来不会发生。",
-          "url": "https://flash.jin10.com/detail/20251121133919252800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
-          "url": "https://flash.jin10.com/detail/20251121020447251800",
-          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时17分"
         },
         {
-          "title": "“创世纪计划”！特朗普下周一签署AI新政，类比“曼哈顿计划”和“太空竞赛”",
-          "url": "https://wallstreetcn.com/articles/3759760",
-          "source": "华尔街见闻",
+          "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
+          "url": "https://www.cls.cn/detail/2207779",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "02时17分"
         },
         {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://www.douyin.com/hot/2311060",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "鸿海董事长刘扬伟：希望与美国、墨西哥及其他国家合作建设科技园区，并期待这能有助于贸易谈判。",
-          "url": "https://flash.jin10.com/detail/20251121132836788800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "做空巨头却站多头阵营？浑水创始人警告勿碰大科技空单",
-          "url": "https://www.cls.cn/detail/2206641",
+          "title": "南向资金追踪｜逾百亿资金短线买入阿里 增仓科技股意愿强烈",
+          "url": "https://www.cls.cn/detail/2207621",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "02时17分"
         },
         {
-          "title": "博弈远未结束？闻泰科技再发声：要求恢复股东完整权利及对安世的合法控制权",
-          "url": "https://www.cls.cn/detail/2206863",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "日韩股市跟随隔夜美股科技股下跌",
-          "url": "https://flash.jin10.com/detail/20251121081349760800",
-          "source": "金十数据",
+          "title": "谷歌推出BigQuery AI",
+          "url": "https://wallstreetcn.com/livenews/3008826",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "02时17分"
         },
         {
-          "title": "AMD跌5.7%，英伟达跌2.2%，美光科技跌9.2%。 英特尔下跌2.2%，Arm控股跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3008105",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+          "url": "https://www.zhihu.com/question/1975115860181022671",
+          "source": "知乎",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时17分"
         },
         {
-          "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
-          "url": "https://wallstreetcn.com/livenews/3008411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "【摩尔线程：AI计算加速芯片的市场需求呈爆炸式增长，GPU依然是主导芯片】摩尔线程创始人、董事长、总经理张建中在摩尔线程首次公开发行股票并在科创板上市网上投资者交流会上表示，随着中国AI下游应用市场的迅速扩张，AI计算加速芯片的市场需求呈现爆炸式增长，吸引各类芯片制造商的加入。张建中表示，目前，GPU依然是AI市场的主导芯片。不过，以ASIC和FPGA为代表的其他类型芯片也已实现商业化，并在市场中占据一定比例。张建中表示，未来，随着中国GPU企业在技术上的不断突破，AI计算加速芯片的市场规模预计将实现快速增长。(澎湃新闻)",
-          "url": "https://wallstreetcn.com/livenews/3008679",
+          "title": "标普500指数涨幅扩大至1%，道指涨537点涨幅1.2%，纳指涨超0.7%，生物科技指数涨超2%，半导体指数涨超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3008819",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时17分"
         },
         {
-          "title": "鸿海电动车策略长关润在科技日活动上展示“MODEL A”电动车。",
-          "url": "https://wallstreetcn.com/livenews/3008403",
-          "source": "华尔街见闻-快讯",
+          "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
+          "url": "https://www.zhihu.com/question/1971908267061019658",
+          "source": "知乎",
           "ranks": [
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时17分"
         },
         {
-          "title": "英伟达黄胜斌：我们正与鸿海合作将AI带进工厂和生产线。",
-          "url": "https://wallstreetcn.com/livenews/3008402",
-          "source": "华尔街见闻-快讯",
+          "title": "胡彦斌 不是AI的",
+          "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "谷歌：我们推出BigQuery AI。",
+          "url": "https://flash.jin10.com/detail/20251122011317548800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
-          "url": "https://wallstreetcn.com/livenews/3008098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。 美国三大股指悉数转跌，标普跌0.2%、道指跌0.1%、纳指跌0.4%，纳斯达克100指数跌超0.5%，半导体指数跌超1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3008093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 20,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【美国四分之一失业者拥有本科或以上学历，创纪录水平】9月，美国25岁及以上、拥有至少本科学历的失业人口超过190万人，占全美失业总人数的四分之一。自1992年有数据记录以来，这一比例在2025年之前从未达到如此之高。摩根大通美国首席经济学家Michael Feroli指出，受过大学教育的人群失业率上升“应该会进一步加剧对人工智能引发失业的担忧”。与此同时，一系列大型企业宣布裁员，包括亚马逊、塔吉特和星巴克。就业服务公司Challenger, Gray & Christmas的最新报告显示，随着人工智能重塑行业格局以及成本削减加速，美国企业10月份宣布的裁员规模是二十多年来同期最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3008845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
         {
           "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
           "url": "https://www.zhihu.com/question/1975169592130286012",
           "source": "知乎",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "与中国闹翻日本经济界先慌了",
           "url": "https://www.toutiao.com/trending/7574250888475590692/",
           "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：具体的货币政策应该由日本央行作出。 对近期的汇率快速波动感到担忧。 将对外汇过度波动采取适当行动。 与日本央行行长植田和男确认，需要与市场进行沟通。 植田和男植田称日本央行将根据经济和物价的改善情况逐步调整货币支持力度。",
-          "url": "https://wallstreetcn.com/livenews/3008266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee（2025年FOMC票委）：如果政府可以告诉央行（美联储）如何处理利率，通胀就会上升，经济增长就会放缓。 如果美联储失去独立性，我和市场都会感到痛苦。 我对此并不担心。",
-          "url": "https://wallstreetcn.com/livenews/3008124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美联储古尔斯比：如果政府可以告诉中央银行如何处理利率问题，通货膨胀就会上升，经济增长就会放缓。如果美联储失去独立性，将令我及市场感到痛心。不过我目前对此并不担心。",
-          "url": "https://flash.jin10.com/detail/20251121021107440800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时17分"
         },
         {
-          "title": "美联储古尔斯比：对工资增长放缓预示着经济衰退的说法表示怀疑。",
-          "url": "https://flash.jin10.com/detail/20251121020614011800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "日本经济界陷入集体焦虑",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E9%99%B7%E5%85%A5%E9%9B%86%E4%BD%93%E7%84%A6%E8%99%91%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "PMI数据显示，印度11月经济增长动能减弱",
-          "url": "https://flash.jin10.com/detail/20251121133236983800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：在我与日本央行行长植田和男及经济大臣的会晤中，植田和男解释说，日本央行将根据经济和物价的改善情况，逐步调整货币支持力度。",
-          "url": "https://flash.jin10.com/detail/20251121081457920800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "日本学者：高市言论冲击日本经济",
-          "url": "https://www.douyin.com/hot/2312966",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "日本首相：或发新债为经济方案筹资，但日债发行总量将低于去年",
-          "url": "https://flash.jin10.com/detail/20251121132046897800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "日本拟推超20万亿日元经济刺激计划",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%9F%E6%8E%A8%E8%B6%8520%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E7%BB%8F%E6%B5%8E%E5%88%BA%E6%BF%80%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "意大利经济部长：我们将在适当的场合对欧盟就黄金权力规则提出的异议作出回应。我们将起草一项监管提案，以澄清当前状况并克服欧盟的反对意见。",
-          "url": "https://flash.jin10.com/detail/20251121193109504800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "高市言论给日本经济界带来巨大冲击",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E7%BB%99%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%B8%A6%E6%9D%A5%E5%B7%A8%E5%A4%A7%E5%86%B2%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "日本首相高市早苗：预计今年日本国债发行总额将低于去年的总额。 如果税收增长不足以支付全部费用，将通过发行新债券来筹集刺激方案资金。 必须通过经济增长实现可持续的国家财政。 必须通过积极的财政政策让日本变得更加强大。",
-          "url": "https://wallstreetcn.com/livenews/3008412",
+          "title": "法国游戏公司育碧娱乐（UbiSoft）：腾讯控股对Vantage Studios完成11.6亿欧元投资。 腾讯对其有26.32%的经济利益。",
+          "url": "https://wallstreetcn.com/livenews/3008817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "日本首相高市早苗：必须通过经济增长实现可持续的国家财政。",
-          "url": "https://flash.jin10.com/detail/20251121123817699800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "王小洪在陕西宁夏调研时强调 深入学习贯彻党的二十届四中全会精神 坚决实现全年经济社会发展目标",
-          "url": "https://wallstreetcn.com/livenews/3008671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "日本内阁批准了21.3万亿日元的经济刺激计划",
-          "url": "https://wallstreetcn.com/livenews/3008394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "解析欧洲经济的困局",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E6%AC%A7%E6%B4%B2%E7%BB%8F%E6%B5%8E%E7%9A%84%E5%9B%B0%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美国费城联储主席Paulson：正“谨慎地”对待12月的利率决定。 到目前为止的降息是适当的，但每一次降息都会提高下一次降息的门槛。 鉴于通胀存在上行风险，就业存在下行风险，货币政策必须走钢丝，小心谨慎。 从边际上看，相比于通胀，自己仍然更担心劳动力市场。 预计从现在到12月美联储会议之间，我们会了解很多新情况。 美国经济表现尚可。 从更长远的角度考虑货币政策时，重点是平衡通胀和劳动力市场的风险。 经济分化可能已加剧，中低收入家庭正面临困境。 总体而言，9月份的就业市场报告是“令人鼓舞的”。 关税的影响小于预期，整体需求环境有助于抑制通胀。",
-          "url": "https://wallstreetcn.com/livenews/3008238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
-        },
-        {
-          "title": "谷歌发布新一代图像生成模型",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 08时55分]"
-        },
-        {
-          "title": "Gemini3",
-          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "Gemini 3深度实测",
-          "url": "https://www.douyin.com/hot/2312679",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1974981372130116043",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "出门问问TicNote与CodeBanana已全面接入Gemini 3模型",
-          "url": "https://wallstreetcn.com/livenews/3008660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "02时17分"
         }
       ]
     }
