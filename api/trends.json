@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T14:17:06.124800+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2025-11-22T20:20:23.650727+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 20时20分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -58,11 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 20时20分]"
         },
         {
           "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
@@ -181,13 +182,24 @@
           "time_info": "02时17分"
         },
         {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "专项债投向政府投资基金将超800亿，支持科技自立自强",
           "url": "https://wallstreetcn.com/livenews/3008957",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -220,7 +232,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -305,7 +317,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
@@ -330,6 +342,39 @@
           "time_info": "02时17分"
         },
         {
+          "title": "泰国央行：对经济增长放缓表示担忧；货币政策并非经济增长的障碍。",
+          "url": "https://flash.jin10.com/detail/20251122195149811800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "泰国央行行长：希望泰铢汇率与经济状况相符。",
+          "url": "https://flash.jin10.com/detail/20251122194522232800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "泰国央行行长：泰铢可能走弱；泰铢走弱将有利于经济基本面。",
+          "url": "https://flash.jin10.com/detail/20251122194349722800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "与中国闹翻日本经济界先慌了",
           "url": "https://www.toutiao.com/trending/7574250888475590692/",
           "source": "今日头条",
@@ -352,6 +397,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "新华时评｜谱写“十五五”县域经济高质量发展新篇章",
+          "url": "https://wallstreetcn.com/livenews/3008989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "法国游戏公司育碧娱乐（UbiSoft）：腾讯控股对Vantage Studios完成11.6亿欧元投资。 腾讯对其有26.32%的经济利益。",
           "url": "https://wallstreetcn.com/livenews/3008817",
           "source": "华尔街见闻-快讯",
@@ -361,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "支撑低空经济等产业发展 我国启动卫星物联网业务商用试验",
+          "url": "https://wallstreetcn.com/livenews/3008979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "日本学者：高市言论冲击日本经济",
@@ -383,12 +450,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "二十国集团峰会宣言：我们强调加强多边合作的重要性，以应对全球经济面临的现有和新兴风险。",
+          "url": "https://flash.jin10.com/detail/20251122175500071800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
@@ -411,6 +489,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
