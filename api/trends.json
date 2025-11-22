@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T08:53:36.867347+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2025-11-22T14:17:06.124800+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 08时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 14时17分]"
+        },
+        {
+          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207918",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 14时17分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -41,15 +53,16 @@
           "time_info": "[02时17分 ~ 08时53分]"
         },
         {
-          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2207918",
-          "source": "财联社热门",
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 14时17分]"
         },
         {
           "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
@@ -57,11 +70,59 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 14时17分]"
+        },
+        {
+          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
+          "url": "https://wallstreetcn.com/articles/3759852",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 14时17分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收涨2.15%，保健板块涨2.11%，原材料板块涨2.1%，可选消费板块涨1.74%，信息技术/科技板块涨0.07%表现倒数第二，公用事业板块大致收平。",
+          "url": "https://wallstreetcn.com/livenews/3008933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 08时53分]"
+          "time_info": "[08时53分 ~ 14时17分]"
+        },
+        {
+          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3008932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 14时17分]"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "南向资金追踪｜逾百亿资金短线买入阿里 增仓科技股意愿强烈",
@@ -74,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 08时53分]"
+        },
+        {
+          "title": "福耀科技大学 2026 年首招博士生，将与厦门大学联合培养，对两所学校有哪些影响？联合培养有哪些优势？",
+          "url": "https://www.zhihu.com/question/1972360732172616524",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "胡彦斌 不是AI的",
@@ -109,26 +181,15 @@
           "time_info": "02时17分"
         },
         {
-          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
-          "url": "https://wallstreetcn.com/articles/3759889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "标普500指数的11个板块中，电信板块收涨2.15%，保健板块涨2.11%，原材料板块涨2.1%，可选消费板块涨1.74%，信息技术/科技板块涨0.07%表现倒数第二，公用事业板块大致收平。",
-          "url": "https://wallstreetcn.com/livenews/3008933",
+          "title": "专项债投向政府投资基金将超800亿，支持科技自立自强",
+          "url": "https://wallstreetcn.com/livenews/3008957",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "14时17分"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -142,37 +203,26 @@
           "time_info": "02时17分"
         },
         {
-          "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3008932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
-          "url": "https://wallstreetcn.com/articles/3759852",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
           "title": "胡彦斌疑似承认恋情：接吻视频非AI",
           "url": "https://www.toutiao.com/trending/7575051643448741439/",
           "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "专项债投向政府投资基金将超800亿，支持科技自立自强",
+          "url": "https://flash.jin10.com/detail/20251122120309293800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -192,7 +242,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -236,7 +286,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -297,7 +347,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -319,7 +369,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -330,9 +380,54 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        },
+        {
+          "title": "Gemini3玩法大全",
+          "url": "https://www.douyin.com/hot/2314134",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
+          "url": "https://news.ifeng.com/c/8oUGoYyox5f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
         }
       ]
     }
