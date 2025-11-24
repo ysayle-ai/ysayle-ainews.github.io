@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T14:20:20.799082+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2025-11-24T20:24:21.991854+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -59,11 +59,23 @@
           "url": "https://www.zhihu.com/question/1974431243341882082",
           "source": "知乎",
           "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时24分]"
+        },
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "20时24分"
         },
         {
           "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
@@ -72,9 +84,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时24分]"
         },
         {
           "title": "英伟达财报背后的未来AI密码",
@@ -95,11 +119,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 20时24分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -111,6 +136,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 08时59分]"
+        },
+        {
+          "title": "英伟达救不了AI股，市场想看到什么？",
+          "url": "https://wallstreetcn.com/articles/3759961",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时24分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -136,26 +173,37 @@
           "time_info": "02时16分"
         },
         {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
+          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
+          "url": "https://www.cls.cn/detail/2208653",
+          "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "20时24分"
         },
         {
-          "title": "英伟达救不了AI股，市场想看到什么？",
-          "url": "https://wallstreetcn.com/articles/3759961",
+          "title": "两美刀逼疯AI!怒要报官告公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "20时24分"
         },
         {
           "title": "深交所：港股通标的证券名单调整，调入三一重工、剑桥科技，11月24日起生效。",
@@ -175,7 +223,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -208,9 +256,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：美欧贸易谈判包括针对科技巨头的规则。 寻求加强美欧协议。 欧盟希望改变钢铁领域，美国希望改变数字规则。",
+          "url": "https://wallstreetcn.com/livenews/3009595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
@@ -219,7 +278,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -230,7 +289,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -241,7 +300,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -252,15 +311,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：美欧贸易谈判包括针对科技巨头的规则。",
+          "url": "https://flash.jin10.com/detail/20251124193758522800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国经济“蓝色动能”加速发力",
@@ -291,7 +361,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -302,7 +372,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -324,7 +394,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -346,7 +416,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -360,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "巴西经济学家：预计2025年国内生产总值将增长2.16%，与此前的预测持平。预计2026年GDP将增长1.78%，与此前的预测持平。",
+          "url": "https://flash.jin10.com/detail/20251124192622855800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
@@ -374,7 +455,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -383,11 +464,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时24分]"
         }
       ]
     },
