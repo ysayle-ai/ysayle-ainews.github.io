@@ -1,494 +1,160 @@
 {
-  "generated_at": "2025-11-24T20:24:21.991854+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-11-25T02:19:21.849539+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 28,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
-          "url": "https://wallstreetcn.com/articles/3759951",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 14时20分]"
-        },
-        {
-          "title": "周末要闻汇总：美国政府据称正考虑允许英伟达对华出售H200芯片；16只硬科技主题基金同日获批",
-          "url": "https://www.cls.cn/detail/2208200",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 08时59分]"
-        },
-        {
-          "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
-          "url": "https://www.cls.cn/detail/2208386",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 14时20分]"
-        },
-        {
-          "title": "这26秒科技感直接拉满",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9926%E7%A7%92%E7%A7%91%E6%8A%80%E6%84%9F%E7%9B%B4%E6%8E%A5%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 08时59分]"
-        },
-        {
-          "title": "有没有在江苏科技大学郭伟课题组待过的同学？当时对他的指导和团队氛围真实感受怎么样？",
-          "url": "https://www.zhihu.com/question/1974431243341882082",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 20时24分]"
-        },
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
-          "url": "https://wallstreetcn.com/livenews/3009381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时19分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT提供购物搜索功能。",
+          "url": "https://wallstreetcn.com/livenews/3009721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
           "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 20时24分]"
-        },
-        {
-          "title": "英伟达财报背后的未来AI密码",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 14时20分]"
-        },
-        {
-          "title": "英伟达AI爆雷!334亿账款收不回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 20时24分]"
-        },
-        {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 08时59分]"
-        },
-        {
-          "title": "英伟达救不了AI股，市场想看到什么？",
-          "url": "https://wallstreetcn.com/articles/3759961",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 20时24分]"
-        },
-        {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 08时59分]"
-        },
-        {
-          "title": "三天两份声明 闻泰科技为何如此焦急",
-          "url": "https://www.toutiao.com/trending/7575912528388034084/",
-          "source": "今日头条",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "02时19分"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
           "source": "贴吧",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
-          "url": "https://wallstreetcn.com/articles/3759964",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "深交所：港股通标的证券名单调整，调入三一重工、剑桥科技，11月24日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3009238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "02时19分"
         },
         {
-          "title": "需要AI给答案",
-          "url": "https://wallstreetcn.com/articles/3759957",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
-          "url": "https://wallstreetcn.com/livenews/3009237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（11月24日）",
-          "url": "https://flash.jin10.com/detail/20251124075318360800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3009370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：美欧贸易谈判包括针对科技巨头的规则。 寻求加强美欧协议。 欧盟希望改变钢铁领域，美国希望改变数字规则。",
-          "url": "https://wallstreetcn.com/livenews/3009595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时19分"
         },
         {
-          "title": "恒生指数涨幅超2%，恒生科技指数涨2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3009369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "A股稀土永磁板块午后拉升，龙磁科技涨超10%，大地熊、钢研纳克、广晟有色、中科磁业、银河磁体等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3009367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "工业和信息化部公示人形机器人标准化技术委员会委员名单。其中，宇树科技股份有限公司王兴兴、智元创新（上海）科技股份有限公司彭志辉均任副主任委员。",
-          "url": "https://wallstreetcn.com/livenews/3009363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：美欧贸易谈判包括针对科技巨头的规则。",
-          "url": "https://flash.jin10.com/detail/20251124193758522800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "中国经济“蓝色动能”加速发力",
-          "url": "https://www.douyin.com/hot/2315806",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 08时59分]"
-        },
-        {
-          "title": "SK海力士正在洽谈寻找印度芯片组装合作伙伴。（印度经济时报）",
-          "url": "https://wallstreetcn.com/livenews/3009243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "交通运输部：加快推进低空经济安全有序发展和汽车租赁业高质量发展",
-          "url": "https://wallstreetcn.com/livenews/3009382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "媒体：中国反制措施重挫日本经济",
-          "url": "https://www.toutiao.com/trending/7575185846568632346/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "美国财长贝森特：整个经济并未面临衰退风险。",
-          "url": "https://flash.jin10.com/detail/20251123220953292800",
-          "source": "金十数据",
+          "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
+          "url": "https://www.zhihu.com/question/1962093650352771598",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "02时19分"
         },
         {
-          "title": "贝森特：政府停摆造成110亿美元损失 但美国经济并无衰退风险",
-          "url": "https://www.cls.cn/detail/2208412",
-          "source": "财联社热门",
+          "title": "网店用AI生成模特试穿视频画面诡异",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%BA%97%E7%94%A8AI%E7%94%9F%E6%88%90%E6%A8%A1%E7%89%B9%E8%AF%95%E7%A9%BF%E8%A7%86%E9%A2%91%E7%94%BB%E9%9D%A2%E8%AF%A1%E5%BC%82",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时19分"
         },
         {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：预计美国GDP将在四季度增长1.5%-2%。",
-          "url": "https://wallstreetcn.com/livenews/3009149",
+          "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3009699",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "02时19分"
         },
         {
-          "title": "国投证券首席经济学家高善文离职",
-          "url": "https://wallstreetcn.com/livenews/3009346",
+          "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
+          "url": "https://wallstreetcn.com/livenews/3009695",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "02时19分"
         },
         {
-          "title": "美国财长贝森特：并不认为美国将在2026年面临经济衰退风险。 （2025年10月1日开始的、持续天数创历史最长的）政府停摆给美国GDP造成110亿美元的永久性打击。",
-          "url": "https://wallstreetcn.com/livenews/3009126",
+          "title": "亚马逊向美国政府部门的AI和超算基建追加至多500亿美元投资",
+          "url": "https://wallstreetcn.com/livenews/3009693",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "亚马逊投资最高500亿美元 美国政府机构拓展AI和超级计算基础设施",
+          "url": "https://flash.jin10.com/detail/20251125002630961800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "02时19分"
         },
         {
-          "title": "巴西经济学家：预计2025年国内生产总值将增长2.16%，与此前的预测持平。预计2026年GDP将增长1.78%，与此前的预测持平。",
-          "url": "https://flash.jin10.com/detail/20251124192622855800",
-          "source": "金十数据",
+          "title": "英伟达AI爆雷!334亿账款收不回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
+          "source": "贴吧",
           "ranks": [
-            30
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时24分"
+          "time_info": "02时19分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "韩文秀：“十五五”时期在基本实现社会主义现代化进程中具有承前启后的重要地位",
-          "url": "https://www.cls.cn/detail/2208395",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
         {
           "title": "专访巴黎政治大学校长：我不太喜欢“精英”这个词，它可能会加剧社会分裂",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025193",
           "source": "澎湃新闻",
           "ranks": [
-            12,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 20时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini3.0炸裂玩法合集",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 14时20分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     }
