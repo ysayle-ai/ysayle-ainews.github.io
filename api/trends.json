@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-27T02:16:04.216061+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-27T08:55:22.481247+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 08时55分]"
+        },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
           "url": "https://wallstreetcn.com/articles/3760086",
@@ -41,26 +53,63 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
+          "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
+          "url": "https://www.zhihu.com/question/1977081679454630577",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 08时55分]"
+        },
+        {
           "title": "江苏科技大学郭伟为什么坚持这么久才被发现，没人能看出来他是个高中水平么？",
           "url": "https://www.zhihu.com/question/1974794556470944049",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 08时55分]"
         },
         {
-          "title": "暴跌40%！软银成为“OpenAI链”风向标",
-          "url": "https://wallstreetcn.com/articles/3760166",
-          "source": "华尔街见闻",
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
           "ranks": [
-            5
+            27,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 08时55分]"
+        },
+        {
+          "title": "科技部会同有关部门部署开展学术不端撤稿论文专项整治行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32047701",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 08时55分]"
+        },
+        {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 08时55分]"
         },
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -96,55 +145,11 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
-          "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
-          "url": "https://www.zhihu.com/question/1977081679454630577",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
-        },
-        {
-          "title": "科技部会同有关部门部署开展学术不端撤稿论文专项整治行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32047701",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
-        },
-        {
           "title": "GAI进化论6万人重庆场记录",
           "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
-        },
-        {
-          "title": "马斯克下战书!AI对决LOL冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
-        },
-        {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -162,13 +167,68 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
+          "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
+          "url": "https://wallstreetcn.com/articles/3760141",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "中信建投：当前汽车顺周期属性弱化，科技属性及新兴成长方向是核心主线",
+          "url": "https://wallstreetcn.com/livenews/3011100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "软银累计发行640亿美元零售债券以推动AI发展计划",
+          "url": "https://flash.jin10.com/detail/20251127073755002800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（11月27日）",
+          "url": "https://flash.jin10.com/detail/20251127072427316800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
           "url": "https://wallstreetcn.com/livenews/3010979",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
         },
@@ -179,7 +239,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
         }
@@ -187,8 +247,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
           "url": "https://wallstreetcn.com/articles/3760128",
@@ -204,8 +275,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "日本拟增发2年期和5年期国债 为经济刺激计划筹措逾7万亿日元",
+          "url": "https://flash.jin10.com/detail/20251127074712081800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
         {
           "title": "欧洲央行首席经济学家连恩：要实现通胀率稳定在2%，需看到非能源价格增速放缓。",
           "url": "https://flash.jin10.com/detail/20251127001215066800",
@@ -213,7 +295,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
         }
