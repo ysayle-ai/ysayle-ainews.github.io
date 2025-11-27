@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T08:55:22.481247+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2025-11-27T14:20:36.429977+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 14时20分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -53,6 +54,29 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
+          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3011311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "“未来黑科技”全固态电池到底是啥",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%AA%E6%9D%A5%E9%BB%91%E7%A7%91%E6%8A%80%E2%80%9D%E5%85%A8%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E5%88%B0%E5%BA%95%E6%98%AF%E5%95%A5",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 14时20分]"
+        },
+        {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
           "url": "https://www.zhihu.com/question/1977081679454630577",
           "source": "知乎",
@@ -82,11 +106,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 14时20分]"
         },
         {
           "title": "科技部会同有关部门部署开展学术不端撤稿论文专项整治行动",
@@ -94,22 +119,24 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 14时20分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 14时20分]"
         },
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -145,22 +172,23 @@
           "time_info": "[02时15分 ~ 02时16分]"
         },
         {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 14时20分]"
+        },
+        {
           "title": "GAI进化论6万人重庆场记录",
           "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 02时16分]"
-        },
-        {
-          "title": "“未来黑科技”全固态电池到底是啥",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%AA%E6%9D%A5%E9%BB%91%E7%A7%91%E6%8A%80%E2%80%9D%E5%85%A8%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E5%88%B0%E5%BA%95%E6%98%AF%E5%95%A5",
-          "source": "百度热搜",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -173,20 +201,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
-          "url": "https://www.cls.cn/detail/2212089",
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时20分"
+        },
+        {
+          "title": "A股商业航天概念午后拉升，中天火箭直线涨停，天宜新材涨超10%，超捷股份、上海沪工、霍莱沃、航宇科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3011281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "中信建投：当前汽车顺周期属性弱化，科技属性及新兴成长方向是核心主线",
@@ -195,7 +234,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -206,9 +245,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（11月27日）",
@@ -217,7 +267,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -233,6 +283,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "多家手机厂商取消Air机型",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
           "url": "https://wallstreetcn.com/livenews/3010972",
           "source": "华尔街见闻-快讯",
@@ -242,6 +303,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "摩根大通(JPM.N)：新建大楼将坐落于金丝雀码头河畔开发项目内，将作为公司在英国的主要总部。项目将在建筑及其他本地行业创造7800个新增就业岗位。项目将打造可容纳最多12,000名员工的工作场所。将在六年内为当地经济贡献99亿英镑。",
+          "url": "https://flash.jin10.com/detail/20251127141229136800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行委员野口旭：并不认为日本经济很强劲。 物价趋势正在接近2%，但尚未实现。",
+          "url": "https://wallstreetcn.com/livenews/3011301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：随着通胀逼近日本央行目标，过晚加息的弊端，如对经济和物价的扭曲效应，将日益加剧。",
+          "url": "https://flash.jin10.com/detail/20251127140439151800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：未来加息步伐将取决于即将公布的数据，包括薪资上涨情况、美国经济以及外汇走势。",
+          "url": "https://flash.jin10.com/detail/20251127140338808800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本拟增发2年期和5年期国债 为经济刺激计划筹措逾7万亿日元",
+          "url": "https://flash.jin10.com/detail/20251127074712081800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：要实现通胀率稳定在2%，需看到非能源价格增速放缓。",
+          "url": "https://flash.jin10.com/detail/20251127001215066800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "日本央行审议委员野口旭：若工会诉求得以实现，将推动日本经济朝向日本央行所期望达成的状况发展。",
+          "url": "https://flash.jin10.com/detail/20251127135024929800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
@@ -256,9 +400,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 14时20分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -274,30 +418,19 @@
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 2,
+      "keyword_group": "社会",
+      "match_count": 1,
       "titles": [
         {
-          "title": "日本拟增发2年期和5年期国债 为经济刺激计划筹措逾7万亿日元",
-          "url": "https://flash.jin10.com/detail/20251127074712081800",
-          "source": "金十数据",
+          "title": "中学的时候学《孔雀东南飞》真的没有丝毫感觉，岁数大了，在社会上经历多了，回头再读顿时老泪纵横。你呢？",
+          "url": "https://www.zhihu.com/question/59189636",
+          "source": "知乎",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "欧洲央行首席经济学家连恩：要实现通胀率稳定在2%，需看到非能源价格增速放缓。",
-          "url": "https://flash.jin10.com/detail/20251127001215066800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "14时20分"
         }
       ]
     }
