@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T08:55:01.332314+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-11-29T14:17:50.828276+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "涉及中际旭创、胜宏科技等，A股多条重要指数样本股调整",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 14时17分]"
         },
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
@@ -34,11 +34,34 @@
           "url": "https://wallstreetcn.com/articles/3760323",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 14时17分]"
+        },
+        {
+          "title": "美联储的AI困局：学格林斯潘是“死路”，不降息是“绝路”",
+          "url": "https://wallstreetcn.com/articles/3760347",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "小鹏汽车：车展色情视频系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -50,6 +73,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     },
