@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T02:17:59.823361+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-29T08:55:01.332314+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "涉及中际旭创、胜宏科技等，A股多条重要指数样本股调整",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时55分]"
         },
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时55分]"
+        },
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -54,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 08时55分]"
         }
       ]
     }
