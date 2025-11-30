@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T14:18:50.724365+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2025-11-30T20:21:37.159397+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -19,6 +19,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时16分 ~ 14时18分]"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 20时21分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -89,15 +112,37 @@
           "time_info": "[02时17分 ~ 09时03分]"
         },
         {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
+          "title": "科技御剑 赛博修仙",
+          "url": "https://www.douyin.com/hot/2322167",
+          "source": "抖音",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "20时21分"
+        },
+        {
+          "title": "国家发改委：鼓励支持引导广大民营企业把握新一轮科技革命和产业变革等民间投资发展机遇",
+          "url": "https://wallstreetcn.com/livenews/3012539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -106,9 +151,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "UP主科技还原万剑归宗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%A7%91%E6%8A%80%E8%BF%98%E5%8E%9F%E4%B8%87%E5%89%91%E5%BD%92%E5%AE%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
@@ -194,11 +261,12 @@
           "ranks": [
             4,
             3,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 14时18分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 20时21分]"
         }
       ]
     },
