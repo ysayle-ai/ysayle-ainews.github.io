@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T09:03:04.443344+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-11-30T14:18:50.724365+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 14时18分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -28,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 14时18分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -86,6 +87,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 09时03分]"
+        },
+        {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
+          "url": "https://wallstreetcn.com/articles/3760382",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -121,11 +144,12 @@
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 14时18分]"
         }
       ]
     },
@@ -150,11 +174,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 09时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 14时18分]"
         }
       ]
     },
@@ -168,11 +193,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 14时18分]"
         }
       ]
     },
