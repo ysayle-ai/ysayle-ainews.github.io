@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T14:20:46.577302+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2025-12-02T20:26:36.351819+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -41,13 +41,24 @@
           "time_info": "[02时20分 ~ 02时21分]"
         },
         {
+          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
+          "url": "https://www.cls.cn/detail/2216943",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "韩国AI初创公司Upstage计划最早于2026年下半年进行IPO",
           "url": "https://flash.jin10.com/detail/20251202140703581800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -83,6 +94,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
+          "url": "https://www.cls.cn/detail/2216806",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时26分]"
         },
         {
           "title": "光刻胶板块领涨科技股 国产龙头公司布局提速",
@@ -121,6 +144,51 @@
           "time_info": "[02时20分 ~ 08时57分]"
         },
         {
+          "title": "网警破获通过AI换脸非法侵入系统案",
+          "url": "https://www.toutiao.com/trending/7578802867742461503/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时26分]"
+        },
+        {
+          "title": "网警破获“AI换脸”侵入计算机案",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时26分]"
+        },
+        {
+          "title": "网警破获AI换脸非法侵入案",
+          "url": "https://www.douyin.com/hot/2323802",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时26分]"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时26分]"
+        },
+        {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
           "url": "https://www.cls.cn/detail/2216065",
           "source": "财联社热门",
@@ -144,6 +212,29 @@
           "time_info": "[08时57分 ~ 14时20分]"
         },
         {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时26分]"
+        },
+        {
+          "title": "无论多大的宝可梦都可以收回到精灵球里，那未来人类能否有这种生存在球里的科技？",
+          "url": "https://www.zhihu.com/question/1974059048132445012",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时26分]"
+        },
+        {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
           "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
           "source": "百度热搜",
@@ -155,35 +246,13 @@
           "time_info": "[02时20分 ~ 02时21分]"
         },
         {
-          "title": "网警破获通过AI换脸非法侵入系统案",
-          "url": "https://www.toutiao.com/trending/7578802867742461503/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "网警破获“AI换脸”侵入计算机案",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "网警破获AI换脸非法侵入系统案",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -194,31 +263,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
         {
-          "title": "网警破获AI换脸非法侵入案",
-          "url": "https://www.douyin.com/hot/2323802",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
-          "url": "https://www.cls.cn/detail/2216806",
-          "source": "财联社热门",
+          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
+          "url": "https://wallstreetcn.com/articles/3760476",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "20时26分"
         },
         {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
@@ -232,24 +290,13 @@
           "time_info": "02时21分"
         },
         {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
           "url": "https://www.cls.cn/detail/2216608",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -260,9 +307,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "工信部高东升：全链条推动船舶海洋工程装备创新发展 持续提升产业科技创新能力",
+          "url": "https://wallstreetcn.com/livenews/3013707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "睿能科技：公司工业自动化控制产品主要应用于纺织等领域，其中机器人不是主要应用领域",
+          "url": "https://wallstreetcn.com/livenews/3013705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "百人初创公司Runway发布AI视频模型 生成质量超谷歌OpenAI竞品",
@@ -274,28 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "无论多大的宝可梦都可以收回到精灵球里，那未来人类能否有这种生存在球里的科技？",
-          "url": "https://www.zhihu.com/question/1974059048132445012",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "全国首支AI领域孵化培育型创新基金发布",
@@ -315,7 +362,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -326,7 +373,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -348,15 +395,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "澜起科技：截至2025年11月30日，公司已通过集中竞价交易方式累计回购公司A股股份150.5万股，占公司总股本的比例为0.13%，支付的金额总额约为人民币2.02亿元。",
+          "url": "https://wallstreetcn.com/livenews/3013682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "OpenAI拉响红色警报",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%8B%89%E5%93%8D%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "11月全国各地经济社会发展观察",
@@ -368,6 +437,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 08时57分]"
+        },
+        {
+          "title": "多侧面“数”说中国经济活力",
+          "url": "https://www.toutiao.com/trending/7578765091232071716/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "中国经济持续向好脉动强劲",
+          "url": "https://www.douyin.com/hot/2324368",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "杭州灵隐寺免门票、多个景区跟进，“门票经济”时代退潮？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32081557",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时26分]"
         },
         {
           "title": "美国国务院：美国担任G20主席国期间，将聚焦“其推动经济增长与繁荣的核心使命，以取得实效”；将优先关注限制监管负担、能源供应链以及新技术和创新。",
@@ -392,17 +495,6 @@
           "time_info": "08时57分"
         },
         {
-          "title": "杭州灵隐寺免门票、多个景区跟进，“门票经济”时代退潮？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32081557",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "日本财务大臣片山皋月：货币政策的细节应留给日本央行。 预计日本央行将与政府密切合作。 不对日本央行行长植田和男传递的最新货币政策信息置评。 日本央行与政府一致认为经济正在逐步复苏。 预计日本央行将朝着2%的通胀目标管理政策。 日本政府与日本央行在经济观点上没有分歧。 日本央行和政府将监控企业趋势。 支出透明度对财政信任至关重要。 由于日本依赖进口，日元汇率波动会影响物价。",
           "url": "https://wallstreetcn.com/livenews/3013301",
           "source": "华尔街见闻-快讯",
@@ -423,12 +515,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "俄罗斯经济部长：俄罗斯卢布汇率将强于此前预期。",
+          "url": "https://flash.jin10.com/detail/20251202193858678800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "英国央行行长贝利：正基于货币政策框架独立评估财政预算影响。 我们所有人都必须专注于提高潜在增长率。 实体经济需要更多的投资。",
+          "url": "https://wallstreetcn.com/livenews/3013683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "评论员：俄罗斯经济的寒冬已经来了",
+          "url": "https://www.toutiao.com/trending/7578202618074464283/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -437,11 +562,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 20时26分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -461,17 +587,29 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 20时26分]"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "记者申请公开10份处罚决定书被拒，云南省市监局：可能会危及社会稳定",
@@ -480,11 +618,23 @@
           "ranks": [
             10,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 20时26分]"
+        },
+        {
+          "title": "李诞 所有女生尽早完成社会化",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%AF%9E%20%E6%89%80%E6%9C%89%E5%A5%B3%E7%94%9F%E5%B0%BD%E6%97%A9%E5%AE%8C%E6%88%90%E7%A4%BE%E4%BC%9A%E5%8C%96&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     }
