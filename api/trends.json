@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-03T08:57:32.188511+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-03T14:20:12.007707+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 14时20分]"
+        },
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
           "url": "https://www.cls.cn/detail/2217493",
@@ -20,15 +32,15 @@
           "time_info": "[02时20分 ~ 08时57分]"
         },
         {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
+          "title": "创业板指跌超1%，早盘一度涨超1%，沪指跌0.54%，深成指跌0.73%，AI应用、消费电子、游戏传媒、白酒等方向跌幅居前，沪深京三市下跌个股近4100只。",
+          "url": "https://wallstreetcn.com/livenews/3014221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "14时20分"
         },
         {
           "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
@@ -59,11 +71,23 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 14时20分]"
+        },
+        {
+          "title": "12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务",
+          "url": "https://www.cls.cn/detail/2217771",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 08时57分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -75,6 +99,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 08时57分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
+          "url": "https://www.cls.cn/detail/2217832",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -105,7 +151,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -116,7 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -127,7 +173,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -152,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "A股商业航天板块午后跳水，超捷股份直线跌超10%，佳缘科技跌超9%，莱斯信息、特发信息、航天宏图跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3014183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "纳斯达克生物科技指数下跌0.8%，刷新日低。 成分股Janux Therapeutics目前跌48.32%，Pyxis Oncology跌14.24%，PepGen跌9.56%表现倒数第三。 Personalis则涨3.31%暂时涨幅第三大，Replimune涨9.68%，Vera Therapeutics涨11%。",
@@ -193,7 +250,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -204,7 +261,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
@@ -212,8 +269,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "荷兰经济大臣取消12月访华计划，称日程安排有分歧",
+          "url": "https://news.ifeng.com/c/8omFtlMdQx3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
         {
           "title": "中国经济的“稳”与“进”为世界注入信心",
           "url": "https://www.toutiao.com/trending/7578687688339685412/",
@@ -226,13 +294,24 @@
           "time_info": "[02时20分 ~ 08时57分]"
         },
         {
+          "title": "透视中国经济的韧性底气",
+          "url": "https://www.toutiao.com/trending/7578855286568501299/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
           "title": "韩国总统李在明：下半年经济快速增长预计将给物价带来上行压力。",
           "url": "https://wallstreetcn.com/livenews/3014005",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -243,9 +322,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "10 家航司被约谈要求整改「锁座」，经济舱锁座率均值达 38.7%，这对消费者影响有多大？",
+          "url": "https://www.zhihu.com/question/1977068280310166130",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 14时20分]"
         },
         {
           "title": "杭州灵隐寺免门票、多个景区跟进，“门票经济”时代退潮？",
@@ -259,15 +349,26 @@
           "time_info": "02时20分"
         },
         {
-          "title": "10 家航司被约谈要求整改「锁座」，经济舱锁座率均值达 38.7%，这对消费者影响有多大？",
-          "url": "https://www.zhihu.com/question/1977068280310166130",
-          "source": "知乎",
+          "title": "工信部：聚焦海洋经济发展前沿领域，推进新兴海洋工程装备研制和产业化发展",
+          "url": "https://wallstreetcn.com/livenews/3014202",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "14时20分"
+        },
+        {
+          "title": "浙江：支持打造低空产业“先导区”和低空经济“先飞区”，新开无人机航线100条以上",
+          "url": "https://wallstreetcn.com/livenews/3014197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "中国央行11月加大国债买入力度 专家料有助稳宏观经济运行",
@@ -276,7 +377,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -287,7 +388,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -338,7 +439,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
