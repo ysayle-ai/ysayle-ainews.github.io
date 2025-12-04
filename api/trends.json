@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-04T08:57:38.694563+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2025-12-04T14:20:01.024207+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
           "url": "https://wallstreetcn.com/articles/3760564",
@@ -34,11 +45,45 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347687&amp;topic_name=lck%E4%B8%8A%E9%BB%91%E7%A7%91%E6%8A%80%2C%E6%95%99%E7%BB%83%E5%8F%AF%E5%AE%9E%E6%97%B6%E5%BC%80%E9%BA%A6%E4%BB%A3%E6%89%93",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 14时20分]"
+        },
+        {
+          "title": "科技日报：理性看待商业航天探索中遇到的挫折",
+          "url": "https://www.cls.cn/detail/2219031",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 08时57分]"
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "顾客AI造假死蟹骗退款新进展",
+          "url": "https://www.toutiao.com/trending/7579596655830482954/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "如何看待电子科技大学关于「生日获 5 万元红包却成功申请困难认定」事件的情况通报？",
@@ -58,7 +103,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -69,9 +114,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "市场消息：SK海力士为了提高全球AI内存竞争力，进行了组织结构和人事调整。",
+          "url": "https://flash.jin10.com/detail/20251204135136533800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "港投公司发布首份年报：硬科技领域投资占比高达71%",
+          "url": "https://wallstreetcn.com/livenews/3014929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "A股摩尔线程概念股持续走高，大众公用、盈趣科技午后涨停，初灵信息、联美控股、和而泰等此前封板。",
+          "url": "https://wallstreetcn.com/livenews/3014928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
@@ -96,13 +174,24 @@
           "time_info": "02时20分"
         },
         {
+          "title": "德意志银行：AI投资主题利好亚洲 但波动性将加剧",
+          "url": "https://flash.jin10.com/detail/20251204133940732800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "理想AI眼镜Livis首发开箱",
           "url": "https://www.douyin.com/hot/2325492",
           "source": "抖音",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -129,13 +218,24 @@
           "time_info": "02时20分"
         },
         {
+          "title": "A股商业航天概念涨势扩大，中国卫星午后涨停，航天机电、达华智能等此前封板，飞沃科技、航天环宇、招标股份涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3014913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "当思考都交给AI我们最终会失去什么",
           "url": "https://www.toutiao.com/trending/7579439058858823210/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
@@ -143,7 +243,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "以色列总理办公室表示，其已在会晤中明确指出，真主党解除武装是强制性的，与推动经济领域合作毫无关联。",
@@ -166,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "西班牙经济部长：一旦欧洲央行副行长金多斯离任，西班牙将努力保持在欧洲央行执委会中的席位。",
@@ -235,7 +346,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
