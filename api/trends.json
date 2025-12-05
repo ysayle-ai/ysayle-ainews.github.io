@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T14:20:12.098351+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2025-12-05T20:25:07.894123+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "首个首台首次！多领域实现科技突破",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
+          "url": "https://wallstreetcn.com/articles/3760706",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 20时25分]"
         },
         {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
@@ -31,15 +43,15 @@
           "time_info": "[08时57分 ~ 14时20分]"
         },
         {
-          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
-          "url": "https://wallstreetcn.com/articles/3760706",
-          "source": "华尔街见闻",
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -51,6 +63,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 08时57分]"
+        },
+        {
+          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
+          "url": "https://www.zhihu.com/question/1980299505992753247",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "【数据看盘】多路资金激烈博弈航天发展 3.28亿元资金抢筹航天科技",
+          "url": "https://www.cls.cn/detail/2221163",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "lck上黑科技,教练可实时开麦代打",
@@ -114,7 +148,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -136,7 +170,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -155,7 +189,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "我国数字经济实现跨越式发展",
@@ -165,8 +199,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时20分 ~ 20时25分]"
+        },
+        {
+          "title": "国补对拉动经济的作用有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%A5%E5%AF%B9%E6%8B%89%E5%8A%A8%E7%BB%8F%E6%B5%8E%E7%9A%84%E4%BD%9C%E7%94%A8%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "经济日报金观平：增强财政可持续性",
@@ -191,6 +236,18 @@
           "time_info": "02时20分"
         },
         {
+          "title": "经济大省挑大梁｜上海担当：从“支撑力”，到“引领力”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32097863",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 20时25分]"
+        },
+        {
           "title": "政策协同显身手 经济活力持续释放",
           "url": "https://www.toutiao.com/trending/7579720616832663593/",
           "source": "今日头条",
@@ -213,15 +270,26 @@
           "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "经济大省挑大梁｜上海担当：从“支撑力”，到“引领力”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32097863",
-          "source": "澎湃新闻",
+          "title": "赖清德要“帮大陆解决经济问题”，哪里来的自信？",
+          "url": "https://news.ifeng.com/c/8oq7RLJ2mzB",
+          "source": "凤凰网",
           "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "花旗预测2026年欧元兑美元将最低跌至1.10 受美国经济增长影响",
+          "url": "https://wallstreetcn.com/livenews/3015922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "路透调查：受访的38位经济学家一致预计，澳洲联储12月9日将维持利率在3.60%不变。",
@@ -252,9 +320,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini 3 DeepThink 发布",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         }
       ]
     },
