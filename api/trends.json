@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-06T08:55:40.393342+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-12-06T14:17:46.574780+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 14时17分]"
+        },
         {
           "title": "【数据看盘】多路资金激烈博弈航天发展 3.28亿元资金抢筹航天科技",
           "url": "https://www.cls.cn/detail/2221163",
@@ -31,15 +43,49 @@
           "time_info": "[02时16分 ~ 08时55分]"
         },
         {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
+          "title": "黄仁勋赞华为：史上最强科技公司之一",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B5%9E%E5%8D%8E%E4%B8%BA%EF%BC%9A%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 14时17分]"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时17分"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
@@ -48,7 +94,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -64,15 +110,26 @@
           "time_info": "02时16分"
         },
         {
-          "title": "黄仁勋赞华为：史上最强科技公司之一",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B5%9E%E5%8D%8E%E4%B8%BA%EF%BC%9A%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80",
-          "source": "百度热搜",
+          "title": "上交所霍瑞戎: 以科创板改革为引擎，助力高水平科技自立自强",
+          "url": "https://wallstreetcn.com/livenews/3016219",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "14时17分"
+        },
+        {
+          "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
+          "url": "https://flash.jin10.com/detail/20251206104148777800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -81,7 +138,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -92,7 +149,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -111,7 +168,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "经济大省挑大梁｜上海担当：从“支撑力”，到“引领力”",
@@ -158,13 +215,24 @@
           "time_info": "[02时16分 ~ 08时55分]"
         },
         {
+          "title": "印度财长：印度计划改革关税。 印度经济正在经历巨变，宏观前景模糊。 预计印度2026财年经济增长率将超过7%。 印度储蓄并未减少，而是转化为投资。 印度各邦必须聚焦于减少借贷。 应从经济强劲的背景看待卢比疲软。",
+          "url": "https://wallstreetcn.com/livenews/3016227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "经济日报：增强智能网联汽车供需适配性",
           "url": "https://wallstreetcn.com/livenews/3016162",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -175,7 +243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -192,7 +260,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -203,7 +271,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -214,7 +282,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -225,9 +293,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     }
