@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T14:17:43.722398+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2025-12-07T20:22:00.653846+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 20时22分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -49,7 +49,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -78,6 +78,18 @@
           "time_info": "[02时16分 ~ 09时03分]"
         },
         {
+          "title": "黄奇帆：务必让30多万亿基金的70%“投早、投小、投硬科技、投长周期”",
+          "url": "https://wallstreetcn.com/livenews/3016349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 20时22分]"
+        },
+        {
           "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
           "url": "https://wallstreetcn.com/articles/3760833",
           "source": "华尔街见闻",
@@ -101,24 +113,13 @@
           "time_info": "[02时16分 ~ 09时03分]"
         },
         {
-          "title": "黄奇帆：务必让30多万亿基金的70%“投早、投小、投硬科技、投长周期”",
-          "url": "https://wallstreetcn.com/livenews/3016349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
           "url": "https://flash.jin10.com/detail/20251207115626169800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -126,8 +127,31 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美国将调整与中国经济关系",
+          "url": "https://www.douyin.com/hot/2329634",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
+          "title": "重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅",
+          "url": "https://wallstreetcn.com/articles/3760857",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 20时22分]"
+        },
         {
           "title": "美国将调整与中国的经济关系",
           "url": "https://www.toutiao.com/trending/7580649501238181942/",
@@ -141,15 +165,15 @@
           "time_info": "[02时16分 ~ 09时03分]"
         },
         {
-          "title": "重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅",
-          "url": "https://wallstreetcn.com/articles/3760857",
-          "source": "华尔街见闻",
+          "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124420",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
@@ -158,9 +182,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "法国总统马克龙：货币政策应考虑就业和经济增长。",
+          "url": "https://flash.jin10.com/detail/20251207190606127800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "广西“十五五”规划建议：大力发展向海经济",
@@ -169,7 +204,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -179,6 +214,18 @@
       "keyword_group": "社会",
       "match_count": 3,
       "titles": [
+        {
+          "title": "国家医保局、人力资源社会保障部印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》。",
+          "url": "https://wallstreetcn.com/livenews/3016348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 20时22分]"
+        },
         {
           "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
           "url": "https://wallstreetcn.com/livenews/3016301",
@@ -192,24 +239,13 @@
           "time_info": "[02时16分 ~ 09时03分]"
         },
         {
-          "title": "国家医保局、人力资源社会保障部印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》。",
-          "url": "https://wallstreetcn.com/livenews/3016348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "国家医保局、人力资源社会保障部今日印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》，自2026年1月1日起正式执行。",
           "url": "https://flash.jin10.com/detail/20251207120133644800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
