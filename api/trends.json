@@ -1,39 +1,26 @@
 {
-  "generated_at": "2025-12-07T20:22:00.653846+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2025-12-08T02:16:40.293658+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "科技 AI",
-      "match_count": 10,
+      "keyword_group": "经济",
+      "match_count": 6,
       "titles": [
         {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
+          "title": "国际机构看中国经济 关键词亮了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%9C%BA%E6%9E%84%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E+%E5%85%B3%E9%94%AE%E8%AF%8D%E4%BA%AE%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时16分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 09时03分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
+          "title": "重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅",
+          "url": "https://wallstreetcn.com/articles/3760857",
           "source": "华尔街见闻",
           "ranks": [
             3
@@ -43,211 +30,48 @@
           "time_info": "02时16分"
         },
         {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
+          "title": "美国财政部长贝森特：预计通胀将在2026年“强有力地”下降。 预计经济将在今年增长3%。",
+          "url": "https://wallstreetcn.com/livenews/3016435",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "豆包AI手机深度体验",
-          "url": "https://www.douyin.com/hot/2328540",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 14时17分]"
-        },
-        {
-          "title": "百度人名大全疑云未熄：一全国性科技平台两份职称公示名单照搬人名大全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32119954",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 09时03分]"
-        },
-        {
-          "title": "黄奇帆：务必让30多万亿基金的70%“投早、投小、投硬科技、投长周期”",
-          "url": "https://wallstreetcn.com/livenews/3016349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 20时22分]"
-        },
-        {
-          "title": "9月，全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络",
-          "url": "https://wallstreetcn.com/articles/3760833",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
-        },
-        {
-          "title": "C罗入股美国AI初创公司",
-          "url": "https://wallstreetcn.com/livenews/3016306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 09时03分]"
-        },
-        {
-          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
-          "url": "https://flash.jin10.com/detail/20251207115626169800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美国将调整与中国经济关系",
-          "url": "https://www.douyin.com/hot/2329634",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅",
-          "url": "https://wallstreetcn.com/articles/3760857",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 20时22分]"
-        },
-        {
-          "title": "美国将调整与中国的经济关系",
-          "url": "https://www.toutiao.com/trending/7580649501238181942/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时16分 ~ 09时03分]"
+          "time_info": "02时16分"
         },
         {
           "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32124420",
           "source": "澎湃新闻",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
-          "url": "https://wallstreetcn.com/livenews/3016347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国将调整与中国经济关系",
+          "url": "https://www.douyin.com/hot/2329634",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "法国总统马克龙：货币政策应考虑就业和经济增长。",
           "url": "https://flash.jin10.com/detail/20251207190606127800",
           "source": "金十数据",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "广西“十五五”规划建议：大力发展向海经济",
-          "url": "https://wallstreetcn.com/livenews/3016336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国家医保局、人力资源社会保障部印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》。",
-          "url": "https://wallstreetcn.com/livenews/3016348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 20时22分]"
-        },
-        {
-          "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
-          "url": "https://wallstreetcn.com/livenews/3016301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 09时03分]"
-        },
-        {
-          "title": "国家医保局、人力资源社会保障部今日印发《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》，自2026年1月1日起正式执行。",
-          "url": "https://flash.jin10.com/detail/20251207120133644800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "02时16分"
         }
       ]
     }
