@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T02:16:40.293658+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-08T08:58:03.152302+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国际机构看中国经济 关键词亮了",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 08时58分]"
         },
         {
           "title": "重大转向！美国发布最新《国家安全战略》：放弃全球霸权，将调整与中国经济关系，“以互惠平等为原则”，承认中美“近乎对等”！欧洲炸锅",
@@ -26,8 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 08时58分]"
+        },
+        {
+          "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124420",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 08时58分]"
+        },
+        {
+          "title": "美国将调整与中国经济关系",
+          "url": "https://www.douyin.com/hot/2329634",
+          "source": "抖音",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 08时58分]"
         },
         {
           "title": "美国财政部长贝森特：预计通胀将在2026年“强有力地”下降。 预计经济将在今年增长3%。",
@@ -41,26 +65,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "荷兰经济大臣就安世半导体接受质询，坦承对中方反制措施“措手不及”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124420",
-          "source": "澎湃新闻",
+          "title": "日本三季度经济收缩幅度扩大",
+          "url": "https://flash.jin10.com/detail/20251208080156387800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美国将调整与中国经济关系",
-          "url": "https://www.douyin.com/hot/2329634",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "08时58分"
         },
         {
           "title": "法国总统马克龙：货币政策应考虑就业和经济增长。",
@@ -72,6 +85,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技 AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中金：2026年机械行业中科技板块仍具备最大投资机会",
+          "url": "https://wallstreetcn.com/livenews/3016509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     }
