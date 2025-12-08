@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T14:21:59.771240+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-08T20:25:01.095436+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "国际机构看中国经济 关键词亮了",
@@ -30,13 +30,24 @@
           "time_info": "[02时16分 ~ 08时58分]"
         },
         {
+          "title": "中央定调明年经济政策",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%AE%9A%E8%B0%83%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "中央政治局开会研究明年经济工作",
           "url": "https://www.toutiao.com/trending/7581353932422348842/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -58,9 +69,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "中共中央政治局召开会议 分析研究2026年经济工作 习近平主持会议",
+          "url": "https://www.cls.cn/detail/2222536",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 20时25分]"
         },
         {
           "title": "美国将调整与中国经济关系",
@@ -87,6 +110,17 @@
           "time_info": "[02时16分 ~ 08时58分]"
         },
         {
+          "title": "厦门“十五五”规划建议：探索建设具有自由港特征的经济特区",
+          "url": "https://www.cls.cn/detail/2222601",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "美国财政部长贝森特：预计通胀将在2026年“强有力地”下降。 预计经济将在今年增长3%。",
           "url": "https://wallstreetcn.com/livenews/3016435",
           "source": "华尔街见闻-快讯",
@@ -104,7 +138,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -115,7 +149,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -137,20 +171,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
         {
-          "title": "中共中央政治局召开会议 分析研究2026年经济工作 习近平主持会议",
-          "url": "https://www.cls.cn/detail/2222536",
-          "source": "财联社热门",
+          "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
+          "url": "https://wallstreetcn.com/livenews/3016963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "20时25分"
         },
         {
           "title": "日本11月经济观察家前景指数 50.3，前值53.1。",
@@ -159,7 +193,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -170,7 +204,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -192,7 +226,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
@@ -200,8 +234,41 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+          "url": "https://flash.jin10.com/detail/20251208200524592800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://flash.jin10.com/detail/20251208200328989800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
           "url": "https://www.cls.cn/detail/2222232",
@@ -209,9 +276,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -220,7 +298,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -231,7 +309,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -253,7 +331,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -264,7 +342,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
