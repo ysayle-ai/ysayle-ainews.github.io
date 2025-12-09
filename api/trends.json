@@ -1,12 +1,35 @@
 {
-  "generated_at": "2025-12-09T08:57:41.351712+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2025-12-09T14:42:41.436745+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时42分]"
+        },
+        {
+          "title": "A股算力概念再度拉升，宏景科技、东方材料触及涨停，此前中创环保、鸿博股份涨停，慧辰股份、光环新网、奥飞数据、平治信息等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3017446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
         {
           "title": "金十数据整理：每日科技要闻速递（12月9日）",
           "url": "https://flash.jin10.com/detail/20251209081427579800",
@@ -14,20 +37,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
         {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
+          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
+          "url": "https://www.cls.cn/detail/2223631",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "14时42分"
         },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -42,37 +65,40 @@
           "time_info": "[02时19分 ~ 08时57分]"
         },
         {
-          "title": "港交所推出科技100指数，拓展指数业务",
-          "url": "https://wallstreetcn.com/livenews/3017230",
-          "source": "华尔街见闻-快讯",
+          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
+          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "source": "知乎",
           "ranks": [
-            6
+            16,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时42分]"
         },
         {
           "title": "华尔街老兵亚德尼终结15年信仰：不再超配科技股，首次下调“Mag 7”评级",
           "url": "https://wallstreetcn.com/articles/3760909",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时42分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时42分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -81,9 +107,75 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时42分]"
+        },
+        {
+          "title": "港交所推出科技100指数，拓展指数业务",
+          "url": "https://wallstreetcn.com/livenews/3017230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
+          "url": "https://wallstreetcn.com/livenews/3017432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
+          "url": "https://flash.jin10.com/detail/20251209140918642800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -108,15 +200,26 @@
           "time_info": "02时19分"
         },
         {
-          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
-          "url": "https://www.zhihu.com/question/1980286689260900620",
-          "source": "知乎",
+          "title": "恒生科技指数午后跌幅扩大至2%",
+          "url": "https://wallstreetcn.com/livenews/3017422",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "14时42分"
+        },
+        {
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "据CNBC：桥水基金创始人瑞·达利欧表示，中东正迅速崛起为世界上最强大的人工智能中心之一，他将该地区的崛起与硅谷对所有科技领域的吸引力进行了比较。",
@@ -133,7 +236,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 18,
       "titles": [
         {
           "title": "中央政治局会议定调2026年经济工作：宏观政策更加积极有为，建设强大国内市场",
@@ -144,8 +247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 08时57分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 14时42分]"
         },
         {
           "title": "【早报】中央政治局会议定调明年经济工作；美的集团完成百亿级回购",
@@ -154,9 +257,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时42分]"
+        },
+        {
+          "title": "2026年经济工作有哪些重点",
+          "url": "https://www.douyin.com/hot/2331389",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "14时42分"
         },
         {
           "title": "政治局会议的经济工作信号",
@@ -170,6 +284,61 @@
           "time_info": "02时19分"
         },
         {
+          "title": "国联陶川：政治局会议的经济工作信号",
+          "url": "https://wallstreetcn.com/articles/3760933",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "征求对经济工作的意见和建议 中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
+          "url": "https://wallstreetcn.com/articles/3760922",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "生产订单排到明年3月 我国冰雪经济快速升温",
+          "url": "https://www.cls.cn/detail/2223409",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "日本首相高市早苗：不就与植田和男的会谈发表评论，货币政策具体细节由日本央行决定。 日本央行需要与政府沟通。 期待日本央行实施适当的货币政策以实现物价目标。 政府对宏观经济政策负有最终责任。",
+          "url": "https://wallstreetcn.com/livenews/3017427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "日本央行行长植田和男：劳动力市场趋紧，工资和物价面临上涨压力。 积极收集有关工资势头的信息。 将在12月会议上做出适当决定。 逐步调整以实现长期经济增长。 通过调整货币政策力度，我们可以确保金融市场稳定并实现物价稳定。",
+          "url": "https://wallstreetcn.com/livenews/3017426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "桥水基金创始人瑞·达利欧警告，由于债务、美国政治冲突和地缘政治这三大周期汇聚，未来一两年全球经济将“更加岌岌可危”，并认为市场正处于与2000年相似的泡沫中。",
           "url": "https://wallstreetcn.com/livenews/3017095",
           "source": "华尔街见闻-快讯",
@@ -181,15 +350,48 @@
           "time_info": "02时19分"
         },
         {
+          "title": "日本央行行长植田和男：如果经济前景实现，将提高利率。",
+          "url": "https://wallstreetcn.com/livenews/3017423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "专家：日本经济将陷入恶性循环困局",
           "url": "https://www.toutiao.com/trending/7581635661975784970/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "雷诺集团与福特汽车(F.N)达成乘用车和商用车战略合作伙伴关系，首期合作将推出两款面向欧洲市场的经济型电动汽车。",
+          "url": "https://flash.jin10.com/detail/20251209140032750800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "日本首相高市早苗：政府对宏观经济政策负有最终责任。",
+          "url": "https://flash.jin10.com/detail/20251209135145125800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "2026年经济工作怎么干",
@@ -198,9 +400,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "日本首相高市早苗：将在适当的时候，综合考虑利率、外汇和物价等因素，作出恰当的经济与财政决策。 汇率以反映经济基本面的稳定方式波动至关重要。 密切关注市场动向。 如有必要，将在汇率上采取合适的政策。 难以单独界定财政政策对利率及外汇市场的影响，因为二者是由多重因素共同决定的。",
+          "url": "https://wallstreetcn.com/livenews/3017404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "惠誉：随着经济放缓，北美结构融资行业的许多展望正在恶化。",
@@ -212,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "韩国央行行长：韩国经济潜在增长率已降至2%以下",
+          "url": "https://wallstreetcn.com/livenews/3017401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
@@ -279,7 +503,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日本误导国际社会、加速西南军事化部署有何用意？",
@@ -288,7 +512,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -299,9 +523,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "法国社会保障预算表决在即 总理面临政治考验",
+          "url": "https://flash.jin10.com/detail/20251209140429063800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     }
