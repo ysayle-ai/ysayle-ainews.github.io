@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T14:42:41.436745+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2025-12-09T20:25:42.187547+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -42,15 +42,49 @@
           "time_info": "08时57分"
         },
         {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "再升科技：控股股东郭茂先生拟通过协议转让方式向中融华信转让其持有的6.04%股份，转让总价款为人民币3.44亿元。",
+          "url": "https://wallstreetcn.com/livenews/3017670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
           "url": "https://www.cls.cn/detail/2223631",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 20时25分]"
         },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -89,6 +123,18 @@
           "time_info": "[08时57分 ~ 14时42分]"
         },
         {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 20时25分]"
+        },
+        {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
@@ -99,6 +145,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 14时42分]"
+        },
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 20时25分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -112,6 +170,18 @@
           "time_info": "[08时57分 ~ 14时42分]"
         },
         {
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 20时25分]"
+        },
+        {
           "title": "港交所推出科技100指数，拓展指数业务",
           "url": "https://wallstreetcn.com/livenews/3017230",
           "source": "华尔街见闻-快讯",
@@ -123,26 +193,26 @@
           "time_info": "08时57分"
         },
         {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "20时25分"
         },
         {
-          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
-          "url": "https://www.cls.cn/detail/2223769",
-          "source": "财联社热门",
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "20时25分"
         },
         {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
@@ -151,18 +221,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -173,7 +232,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -206,20 +265,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
         {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "title": "浙江台州科技馆志愿者名单再现百度人名大全，多人批量上榜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32136307",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "20时25分"
+        },
+        {
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "骏亚科技：公司生产的PCB产品可用于人形机器人，其中应用于人形机器人的相关产品占公司营业收入比重很小，占公司营业收入比重低于0.05%，不会对公司当期业绩产生重大影响，后续公司PCB产品在人形机器人应用领域的业绩增长存在较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3017637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "据CNBC：桥水基金创始人瑞·达利欧表示，中东正迅速崛起为世界上最强大的人工智能中心之一，他将该地区的崛起与硅谷对所有科技领域的吸引力进行了比较。",
@@ -231,12 +312,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "云深处科技完成超5亿元C轮融资",
+          "url": "https://wallstreetcn.com/livenews/3017629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "中央政治局会议定调2026年经济工作：宏观政策更加积极有为，建设强大国内市场",
@@ -247,8 +339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 20时25分]"
         },
         {
           "title": "【早报】中央政治局会议定调明年经济工作；美的集团完成百亿级回购",
@@ -262,15 +354,37 @@
           "time_info": "[08时57分 ~ 14时42分]"
         },
         {
+          "title": "大宗商品交易商托克：随着新供应激增与全球经济疲弱相冲突，明年石油市场将面临“超级供过于求”。",
+          "url": "https://flash.jin10.com/detail/20251209200420457800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "2026年经济工作有哪些重点",
           "url": "https://www.douyin.com/hot/2331389",
           "source": "抖音",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "我国经济长期向好的趋势没有改变",
+          "url": "https://www.douyin.com/hot/2331625",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "政治局会议的经济工作信号",
@@ -290,9 +404,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "阿根廷经济部长：玉米和高粱出口税将从9.5%下调至8.5%。",
+          "url": "https://flash.jin10.com/detail/20251209195442010800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "龚正主持召开2026年经济领域工作思路座谈会",
+          "url": "https://wallstreetcn.com/livenews/3017664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "征求对经济工作的意见和建议 中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
@@ -301,9 +437,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "阿根廷经济部长：大豆副产品出口税将从24.5%降至22.5%。",
+          "url": "https://flash.jin10.com/detail/20251209195358118800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "生产订单排到明年3月 我国冰雪经济快速升温",
@@ -312,7 +459,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -323,7 +470,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -334,7 +481,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -356,7 +503,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -378,9 +525,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "如何看待「日本三季度 GDP 年化降幅扩大至 2.3%」？日本经济遇到了哪些问题？",
+          "url": "https://www.zhihu.com/question/1981354069793731329",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "日本首相高市早苗：政府对宏观经济政策负有最终责任。",
@@ -389,7 +547,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -411,7 +569,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -433,7 +591,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
@@ -441,7 +599,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -465,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "欧盟委员会已向美国官员通报谷歌反垄断调查事宜。",
+          "url": "https://flash.jin10.com/detail/20251209193235925800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
@@ -534,7 +703,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
