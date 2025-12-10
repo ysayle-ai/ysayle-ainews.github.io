@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T14:21:15.491456+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2025-12-10T20:25:50.611496+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "中国经济破浪前行",
@@ -124,9 +124,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "畅通经济发展智慧航道",
+          "url": "https://www.toutiao.com/trending/7582129889403244075/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "IMF上调2025年中国经济增速预期",
+          "url": "https://s.weibo.com/weibo?q=%23IMF%E4%B8%8A%E8%B0%832025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%80%9F%E9%A2%84%E6%9C%9F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济、智能网联汽车、核医疗等新兴产业",
@@ -160,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "瑞士议会选举经济部长帕尔梅林为总统。",
+          "url": "https://flash.jin10.com/detail/20251210192023369800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "亚行将2025年亚洲发展中经济体的通胀预期从1.7%下调至1.6%。",
@@ -217,6 +250,39 @@
           "time_info": "08时58分"
         },
         {
+          "title": "欧洲央行行长拉加德：欧洲央行必须关注通胀，同时将经济纳入考量。",
+          "url": "https://wallstreetcn.com/livenews/3018422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "乌克兰或在 90 天内举行大选，候选人有哪些，一旦结果支持俄乌和平，会对全球经济和市场格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1982009611511930966",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行必须关注通胀，同时将经济纳入考量。",
+          "url": "https://flash.jin10.com/detail/20251210190808638800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "委内瑞拉总统马杜罗表示，委内瑞拉经济将在2025年增长9%，在2026年增长7%。",
           "url": "https://wallstreetcn.com/livenews/3017960",
           "source": "华尔街见闻-快讯",
@@ -237,12 +303,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧元区经济相当接近潜力。",
+          "url": "https://wallstreetcn.com/livenews/3018415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -263,9 +340,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "澜起科技：发行境外上市股份（H股）获中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3018449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美光科技一度上涨大约3.5%，汇丰分析师Ricky Seo覆盖该公司，给予买入的初始评级。",
@@ -277,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -338,6 +437,28 @@
           "time_info": "02时16分"
         },
         {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "导演陆川：将与MiniMax联合开发AI漫剧项目，合作落地院线电影和剧集",
+          "url": "https://wallstreetcn.com/livenews/3018434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
           "url": "https://wallstreetcn.com/livenews/3017827",
           "source": "华尔街见闻-快讯",
@@ -360,15 +481,59 @@
           "time_info": "02时16分"
         },
         {
+          "title": "福晶科技：本次股票异常波动期间，公司控股股东、实际控制人物构所通过集中竞价交易方式减持公司股份104.29万股。",
+          "url": "https://wallstreetcn.com/livenews/3018426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "夸克AI眼镜“一镜难求”，二手溢价飙到5000元",
+          "url": "https://wallstreetcn.com/livenews/3018412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "报道：小米拟涉足AI教育",
           "url": "https://wallstreetcn.com/livenews/3018174",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "龙旗科技：发行境外上市股份（H股）获得中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3018410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
@@ -377,7 +542,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
