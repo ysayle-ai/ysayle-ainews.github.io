@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-10T08:58:59.894483+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2025-12-10T14:21:15.491456+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "中国经济破浪前行",
+          "url": "https://www.toutiao.com/trending/7582079823120453170/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
         {
           "title": "持续巩固增强经济回升向好态势",
           "url": "https://www.baidu.com/s?wd=%E6%8C%81%E7%BB%AD%E5%B7%A9%E5%9B%BA%E5%A2%9E%E5%BC%BA%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF",
@@ -19,15 +30,48 @@
           "time_info": "[02时16分 ~ 08时58分]"
         },
         {
+          "title": "2026全球经济前瞻",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "年度中国经济热词",
+          "url": "https://www.douyin.com/hot/2332177",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3017988",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "中国经济长期向好具有坚实支撑",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%95%BF%E6%9C%9F%E5%90%91%E5%A5%BD%E5%85%B7%E6%9C%89%E5%9D%9A%E5%AE%9E%E6%94%AF%E6%92%91%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "巩固壮大实体经济根基",
@@ -52,13 +96,46 @@
           "time_info": "[02时16分 ~ 08时58分]"
         },
         {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "人民日报任平：因地制宜做好经济工作",
+          "url": "https://www.cls.cn/detail/2224745",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "据韩联社：韩国总统李在明表示，发展工业经济至关重要，而半导体行业正是韩国具有竞争优势的领域。政府将竭尽全力促进半导体产业的发展。",
+          "url": "https://flash.jin10.com/detail/20251210135145499800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济、智能网联汽车、核医疗等新兴产业",
           "url": "https://wallstreetcn.com/livenews/3017971",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -69,7 +146,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -80,7 +157,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -91,7 +168,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -102,7 +179,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -113,7 +190,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -124,7 +201,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -135,7 +212,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -146,7 +223,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -157,7 +234,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         }
@@ -165,7 +242,7 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -178,6 +255,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 08时58分]"
+        },
+        {
+          "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入",
+          "url": "https://wallstreetcn.com/livenews/3018228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美光科技一度上涨大约3.5%，汇丰分析师Ricky Seo覆盖该公司，给予买入的初始评级。",
@@ -270,6 +358,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "报道：小米拟涉足AI教育",
+          "url": "https://wallstreetcn.com/livenews/3018174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "A股贵金属板块午后拉升，晓程科技涨超15%，湖南白银、山金黄金、招金黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3018163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -284,9 +394,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 14时21分]"
         }
       ]
     }
