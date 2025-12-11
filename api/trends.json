@@ -1,709 +1,320 @@
 {
-  "generated_at": "2025-12-11T20:27:09.553465+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-12-12T02:18:33.250504+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 34,
+      "match_count": 13,
       "titles": [
         {
-          "title": "中央经济工作会议举行",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C",
-          "source": "bilibili 热搜",
+          "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32155062",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "中央最新部署！明年经济工作抓好8大重点任务",
-          "url": "https://www.cls.cn/detail/2226846",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "中央经济工作会议举行",
-          "url": "https://www.douyin.com/hot/2333485",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "中央经济工作会议在北京举行",
-          "url": "https://www.cls.cn/detail/2226808",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "中国经济航船何以行稳致远",
-          "url": "https://www.toutiao.com/trending/7581802956190941211/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "2025这些“经济”持续成长壮大",
-          "url": "https://www.baidu.com/s?wd=2025%E8%BF%99%E4%BA%9B%E2%80%9C%E7%BB%8F%E6%B5%8E%E2%80%9D%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF%E5%A3%AE%E5%A4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 08时59分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "一图看懂 | 明年经济工作怎么干？中央经济工作会议重磅定调",
           "url": "https://www.cls.cn/detail/2226882",
           "source": "财联社热门",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "多家机构上调中国经济增速预期",
-          "url": "https://www.douyin.com/hot/2333456",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "中央经济工作会议在北京举行，会议确定 2026 年经济工作重点任务，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1982505771003561813",
           "source": "知乎",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "李强出席中央经济工作会议并讲话",
-          "url": "https://wallstreetcn.com/livenews/3019227",
-          "source": "华尔街见闻-快讯",
+          "title": "中央最新部署！明年经济工作抓好8大重点任务",
+          "url": "https://www.cls.cn/detail/2226846",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "02时18分"
         },
         {
-          "title": "黑石集团总裁Jon Gray：美国经济一直都具有“不错的韧性”。 企业并购增多，但仍然低于历史水平。",
-          "url": "https://wallstreetcn.com/livenews/3018576",
-          "source": "华尔街见闻-快讯",
+          "title": "从全球视野看中国经济发展大逻辑",
+          "url": "https://www.toutiao.com/trending/7582594615455256105/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "明年经济三大看点",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E4%B8%89%E5%A4%A7%E7%9C%8B%E7%82%B9%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "02时18分"
         },
         {
           "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
           "url": "https://wallstreetcn.com/articles/3761184",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "IMF上调中国经济增长预期",
-          "url": "https://www.douyin.com/hot/2332483",
-          "source": "抖音",
+          "title": "中央经济工作会议在北京举行",
+          "url": "https://www.cls.cn/detail/2226808",
+          "source": "财联社热门",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 08时59分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "颠覆认知！德银：非经济衰退下快速降息后，往往更可能迎来重新加息",
-          "url": "https://wallstreetcn.com/articles/3761081",
-          "source": "华尔街见闻",
+          "title": "中央经济工作会议释信号：3件事不做",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E9%87%8A%E4%BF%A1%E5%8F%B7%EF%BC%9A3%E4%BB%B6%E4%BA%8B%E4%B8%8D%E5%81%9A",
+          "source": "百度热搜",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "中央确定明年经济工作8项重点任务",
           "url": "https://www.toutiao.com/trending/7582555368883260978/",
           "source": "今日头条",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "中央经济工作会议举行 全文发布",
-          "url": "https://www.toutiao.com/trending/7582531431735164974/",
+          "title": "中央经济工作会议定调房地产:守牢底线、消化存量、深化公积金改革",
+          "url": "https://www.cls.cn/detail/2227146",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "中国经济展现强劲韧性",
+          "url": "https://www.toutiao.com/trending/7581525248953335871/",
           "source": "今日头条",
           "ranks": [
-            14
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "中央经济工作会议在北京举行，习近平发表重要讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32155062",
-          "source": "澎湃新闻",
+          "title": "专家解读中央经济工作会议: 新增专项债额度有望扩至5万亿 新型政策性金融工具或适时继续推出",
+          "url": "https://www.cls.cn/detail/2227147",
+          "source": "财联社热门",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "乌克兰或在 90 天内举行大选，候选人有哪些，一旦结果支持俄乌和平，会对全球经济和市场格局产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1982009611511930966",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 08时59分]"
-        },
-        {
-          "title": "陪爬泰山、医院陪诊等「陪伴经济」火热，如何评价「花钱买陪伴」的消费模式？这反映了当代社会哪些深层需求？",
-          "url": "https://www.zhihu.com/question/1982111389066760610",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "中央经济工作会议：稳定房地产市场",
           "url": "https://www.toutiao.com/trending/7581928676771364905/",
           "source": "今日头条",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "川财证券首席经济学家陈雳：中国对外开放正从“流动型开放”向“制度型开放”升级",
-          "url": "https://wallstreetcn.com/livenews/3019215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "北京大学国民经济研究中心主任苏剑：鼓励收购存量商品房重点用于保障性住房 去库存保民生政策同向发力",
-          "url": "https://wallstreetcn.com/livenews/3019213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "经济学家：美联储扩表购短债，影响或仅限于收益率曲线前端",
-          "url": "https://flash.jin10.com/detail/20251211194651231800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "德国、日本、美国等主要经济体，12 月长债收益率均创阶段新高，金融市场是否正在酝酿债务驱动下的货币风暴？",
-          "url": "https://www.zhihu.com/question/1981643434579232758",
-          "source": "知乎",
-          "ranks": [
-            14
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "高市承认中日关系恶化冲击经济",
-          "url": "https://www.douyin.com/hot/2332661",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "黑石集团总裁：美国经济一直“极具韧性”。",
-          "url": "https://flash.jin10.com/detail/20251211012408568800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "中石油经济技术研究院：如果上游勘探取得技术突破，中国天然气需求量可能在2040年达到7000亿立方米的峰值。",
-          "url": "https://flash.jin10.com/detail/20251211123006127800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中石油经济技术研究院：中国天然气需求将于2035至2045年达到峰值，为6200至6500亿立方米。",
-          "url": "https://flash.jin10.com/detail/20251211122953303800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中石油经济技术研究院：中国石油需求将于2025年至2030年间达到峰值。",
-          "url": "https://flash.jin10.com/detail/20251211122759100800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "中石油经济技术研究院：到2050年，中国用于生产化学品和新材料的石油需求将达到2.9亿吨，较2025年增长57%。",
-          "url": "https://flash.jin10.com/detail/20251211122623913800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "加拿大央行行长Macklem：近期就业数据还没有改变央行对经济前景的看法。",
-          "url": "https://wallstreetcn.com/livenews/3018542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "中石油经济技术研究院：到2035年，油气仍将占中国一次能源需求的25%以上。",
-          "url": "https://flash.jin10.com/detail/20251211122407079800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "江苏“十五五”规划建议：增强新一代信息技术、新能源、新材料等产业优势 培育航空航天、低空经济等增长新引擎",
-          "url": "https://wallstreetcn.com/livenews/3018735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 23,
+      "match_count": 12,
       "titles": [
         {
-          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
-          "url": "https://wallstreetcn.com/articles/3761127",
-          "source": "华尔街见闻",
+          "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
+          "url": "https://wallstreetcn.com/livenews/3019365",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时20分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
           "url": "https://www.zhihu.com/question/1982385153180394991",
           "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "网警查处一起AI生成虚假低俗视频案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "02时18分"
         },
         {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
+          "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
+          "url": "https://flash.jin10.com/detail/20251212020607458800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
+          "title": "OpenAI：正处于推出年龄预测模型的早期阶段，以自动为18岁以下用户应用内容保护措施。",
+          "url": "https://flash.jin10.com/detail/20251212020557609800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 20时27分]"
-        },
-        {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 14时21分]"
-        },
-        {
-          "title": "男子AI生成车展虚假低俗视频被拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "我国AI产业规模突破9000亿元",
-          "url": "https://www.douyin.com/hot/2332984",
-          "source": "抖音",
+          "title": "OpenAI：在ChatGPT中，GPT-5.2即时版、思考版和专业版将于今日开始推出，首先面向付费用户。",
+          "url": "https://flash.jin10.com/detail/20251212020525246800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
+          "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
+          "url": "https://flash.jin10.com/detail/20251212020239589800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 08时59分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
-          "url": "https://www.zhihu.com/question/1980552349165564560",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "02时18分"
         },
         {
-          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
-          "url": "https://www.cls.cn/detail/2225488",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "Pinterest首席执行官Bill Ready表示， Pinterest通过依靠开源模型，节省了使用知名品牌AI的90%成本。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3018762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "西南财经大学吴垠：创新科技金融服务需构建“耐心资本+制度包容”新生态",
-          "url": "https://wallstreetcn.com/livenews/3019217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "机构：美国AI公司面临电力压力，将推高运营成本",
-          "url": "https://flash.jin10.com/detail/20251211195013640800",
+          "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
+          "url": "https://flash.jin10.com/detail/20251212020128439800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "恒生科技指数午后跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3018950",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "02时18分"
         },
         {
-          "title": "欧洲STOXX 600指数收涨0.00%，报577.78点；银行板块涨0.75%，报337.86点，逼近2008年5月304i收盘位339.07点和当年顶部（1月2日）425.34点，科技板块跌0.25%。 欧元区STOXX 50指数收跌0.18%，报5708.12点。 富时泛欧绩优300指数收涨0.06%，报2305.91点。",
-          "url": "https://wallstreetcn.com/livenews/3018557",
+          "title": "OpenAI：正式推出GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251212020101906800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "Rivian开发AI芯片，用于取代英伟达的车规级产品",
+          "url": "https://wallstreetcn.com/livenews/3019345",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "02时18分"
         },
         {
-          "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
-          "url": "https://flash.jin10.com/detail/20251211012928783800",
-          "source": "金十数据",
+          "title": "CoreWeave宣布达成协议，为Runway的下一代AI视频模型提供算力支持。",
+          "url": "https://wallstreetcn.com/livenews/3019349",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "02时18分"
         },
         {
-          "title": "Adobe(ADBE.O)首席财务官：客户互动正随着AI应用的普及而日益增强。企业客户正推动增长",
-          "url": "https://flash.jin10.com/detail/20251211080718903800",
+          "title": "“特斯拉劲敌”Rivian推出AI芯片，以在未来车型中取代英伟达产品",
+          "url": "https://flash.jin10.com/detail/20251212014224258800",
           "source": "金十数据",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "微软CEO表示，公司计划于周五推出全新智能体AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3018935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "TCL2025年AI应用创造综合效益超10亿元",
-          "url": "https://wallstreetcn.com/livenews/3018926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "报道：若不做出更多让步，谷歌或因Google Play涉嫌违规遭欧盟罚款",
-          "url": "https://wallstreetcn.com/livenews/3018771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "谷歌DeepMind将在英国开设实验室 探索新材料",
-          "url": "https://flash.jin10.com/detail/20251211082244495800",
+          "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
+          "url": "https://flash.jin10.com/detail/20251212015625027800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "02时18分"
         },
         {
-          "title": "消息人士：若谷歌不做出更多让步，将面临欧盟罚款",
-          "url": "https://flash.jin10.com/detail/20251211013014995800",
-          "source": "金十数据",
+          "title": "谷歌公司：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。 推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。 开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
+          "url": "https://wallstreetcn.com/livenews/3019352",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：功能今日将在美国全境以及德国和墨西哥部分地区推出。",
-          "url": "https://flash.jin10.com/detail/20251211011103110800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：即日起，我们将在安卓平台上推出紧急实时视频功能。",
-          "url": "https://flash.jin10.com/detail/20251211011032984800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "02时18分"
         }
       ]
     }
