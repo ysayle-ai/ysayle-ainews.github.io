@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T20:22:14.088159+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2025-12-14T02:16:36.190269+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 27,
+      "match_count": 10,
       "titles": [
         {
           "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
@@ -15,677 +15,168 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 20时22分]"
-        },
-        {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 20时22分]"
-        },
-        {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 20时22分]"
-        },
-        {
-          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2228052",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
-          "url": "https://wallstreetcn.com/articles/3761175",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
           "url": "https://wallstreetcn.com/articles/3761309",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
-          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
-          "url": "https://www.cls.cn/detail/2228098",
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
           "source": "财联社热门",
           "ranks": [
-            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
+          "url": "https://flash.jin10.com/detail/20251213225118795800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
+          "url": "https://wallstreetcn.com/livenews/3020250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
-          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2228432",
-          "source": "财联社热门",
+          "title": "我的AI员工也太能干了",
+          "url": "https://www.douyin.com/hot/2335414",
+          "source": "抖音",
           "ranks": [
-            7,
-            8,
-            9,
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
-          "title": "宇树科技推出人形机器人App Store，用户可下载动作预设",
-          "url": "https://wallstreetcn.com/livenews/3020212",
-          "source": "华尔街见闻-快讯",
+          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
+          "url": "https://wallstreetcn.com/articles/3761321",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            28
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 20时22分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
-        },
-        {
-          "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
-          "url": "https://www.cls.cn/detail/2227945",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 20时22分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
-          "url": "https://www.cls.cn/detail/2227944",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "交警新装备：AI眼镜一眼看透车辆信息",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "A股探底回升，创业板涨0.97%，可控核聚变、商业航天领涨，电网设备走强，港股高开高走，恒指、恒科指涨超1%，科技股普涨，有色强势",
-          "url": "https://wallstreetcn.com/articles/3761243",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
-          "url": "https://wallstreetcn.com/livenews/3020088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
-          "url": "https://wallstreetcn.com/livenews/3020087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "02时16分"
         },
         {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3020086",
-          "source": "华尔街见闻-快讯",
+          "title": "媒体：“声音被偷”？滥用AI要不得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "标普500指数的11个板块中，信息技术/科技板块收跌2.87%，能源板块跌0.93%，电信板块跌0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3020146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
-          "url": "https://flash.jin10.com/detail/20251213031516659800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3020076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
-          "url": "https://wallstreetcn.com/livenews/3020070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "02时16分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 26,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "一个视频看懂2025全球经济",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%822025%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 14时18分]"
-        },
-        {
-          "title": "明年经济工作有这些重点任务",
-          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E6%9C%89%E8%BF%99%E4%BA%9B%E9%87%8D%E7%82%B9%E4%BB%BB%E5%8A%A1",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
-        },
-        {
-          "title": "中央经济工作会议要点学习笔记",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E8%A6%81%E7%82%B9%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
-        },
-        {
-          "title": "2026年经济工作要怎么干",
-          "url": "https://www.douyin.com/hot/2334129",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
-        },
-        {
-          "title": "我国主要经济指标表现好于预期",
-          "url": "https://www.toutiao.com/trending/7582914975792693289/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
         {
           "title": "中央经济工作会议后，上海如何继续挑大梁？这三件事很重要",
           "url": "https://m.thepaper.cn/newsDetail_forward_32165204",
           "source": "澎湃新闻",
           "ranks": [
-            8,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
-          "title": "一图速览中央经济工作会议",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            7,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 20时22分]"
-        },
-        {
-          "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
-          "url": "https://wallstreetcn.com/livenews/3020213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 20时22分]"
-        },
-        {
-          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
-          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
-        },
-        {
-          "title": "聚焦中央经济工作会议",
-          "url": "https://www.toutiao.com/trending/7582909402869419574/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
-        },
-        {
-          "title": "看懂关系到每个人的中央经济工作会议",
-          "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E6%87%82%E5%85%B3%E7%B3%BB%E5%88%B0%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE",
+          "title": "2025这些“经济”持续成长壮大",
+          "url": "https://www.baidu.com/s?wd=2025%E8%BF%99%E4%BA%9B%E2%80%9C%E7%BB%8F%E6%B5%8E%E2%80%9D%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF%E5%A3%AE%E5%A4%A7",
           "source": "百度热搜",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "韩文秀：明年将根据形势变化出台实施增量政策，促进居民收入增长和经济增长同步",
           "url": "https://wallstreetcn.com/articles/3761328",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "中国经济年会：2026年要促进居民收入增长和经济增长同步",
           "url": "https://www.cls.cn/detail/2228664",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "中央经济工作会议11大看点权威解读",
-          "url": "https://wallstreetcn.com/articles/3761228",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "不断巩固拓展经济稳中向好势头",
-          "url": "https://www.toutiao.com/trending/7582909402869599798/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "新形势下经济工作五个必须",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%BD%A2%E5%8A%BF%E4%B8%8B%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BA%94%E4%B8%AA%E5%BF%85%E9%A1%BB%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "2026年经济工作有哪些新提法",
-          "url": "https://www.toutiao.com/trending/7581716885731622948/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "重磅！韩文秀详解中央经济工作会议",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E9%9F%A9%E6%96%87%E7%A7%80%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "一图了解明年经济工作重点任务",
-          "url": "https://www.douyin.com/hot/2333610",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
-          "url": "https://wallstreetcn.com/livenews/3020166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "看好中国经济已成共识",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%A5%BD%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B7%B2%E6%88%90%E5%85%B1%E8%AF%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "02时16分"
         },
         {
-          "title": "意大利经济部长：从来没有人提议用黄金储备来削减公共债务。",
-          "url": "https://flash.jin10.com/detail/20251213012323926800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "中央财办韩文秀：2026年要促进居民收入增长和经济增长同步",
-          "url": "https://wallstreetcn.com/livenews/3020193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "古巴谴责美军扣押油轮 斥美升级对古巴经济战",
-          "url": "https://flash.jin10.com/detail/20251213032928354800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "中央财办韩文秀：做好新形势下经济工作要做到“五个必须”",
-          "url": "https://wallstreetcn.com/livenews/3020188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "中央财办韩文秀：今年我国经济总量预计达140万亿元左右",
-          "url": "https://wallstreetcn.com/livenews/3020184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)：谷歌翻译搭载Gemini功能的更新即日起在美国和印度陆续推出，支持英语与近20种语言之间的互译。",
-          "url": "https://flash.jin10.com/detail/20251213010649487800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：推出耳机实时语音转语音翻译的测试版体验。",
-          "url": "https://flash.jin10.com/detail/20251213010446152800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将Gemini的翻译功能引入谷歌的文本翻译。",
-          "url": "https://flash.jin10.com/detail/20251213010328208800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 08时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "影视剧的社会风向是不是变了，怎么感觉开始流行废物赢学？",
-          "url": "https://www.zhihu.com/question/1982126623655499064",
+          "title": "如何看待「日本三季度 GDP 年化降幅扩大至 2.3%」？日本经济遇到了哪些问题？",
+          "url": "https://www.zhihu.com/question/1981354069793731329",
           "source": "知乎",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     },
@@ -698,12 +189,11 @@
           "url": "https://www.zhihu.com/question/1980917730975692743",
           "source": "知乎",
           "ranks": [
-            1,
-            2
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     }
