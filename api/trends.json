@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T02:20:10.955003+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-13T08:55:38.508920+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -41,15 +41,62 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
+          "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
           "url": "https://www.cls.cn/detail/2228098",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
+        },
+        {
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -74,28 +121,6 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2228432",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
           "url": "https://www.cls.cn/detail/2227944",
           "source": "财联社热门",
@@ -107,13 +132,57 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "A股探底回升，创业板涨0.97%，可控核聚变、商业航天领涨，电网设备走强，港股高开高走，恒指、恒科指涨超1%，科技股普涨，有色强势",
+          "url": "https://wallstreetcn.com/articles/3761243",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
           "url": "https://wallstreetcn.com/livenews/3020088",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -124,7 +193,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -135,9 +204,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块收跌2.87%，能源板块跌0.93%，电信板块跌0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3020146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
+          "url": "https://flash.jin10.com/detail/20251213031516659800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
@@ -146,7 +248,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -157,7 +259,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -165,8 +267,20 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "一个视频看懂2025全球经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%822025%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
+        },
         {
           "title": "明年经济工作有这些重点任务",
           "url": "https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E6%9C%89%E8%BF%99%E4%BA%9B%E9%87%8D%E7%82%B9%E4%BB%BB%E5%8A%A1",
@@ -175,19 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "一个视频看懂2025全球经济",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%822025%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
         },
         {
           "title": "中央经济工作会议要点学习笔记",
@@ -197,8 +300,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
         },
         {
           "title": "2026年经济工作要怎么干",
@@ -208,19 +311,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "中央经济工作会议11大看点权威解读",
-          "url": "https://wallstreetcn.com/articles/3761228",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
         },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -230,8 +322,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
+        },
+        {
+          "title": "一图速览中央经济工作会议",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
         },
         {
           "title": "聚焦中央经济工作会议",
@@ -241,8 +345,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
         },
         {
           "title": "看懂关系到每个人的中央经济工作会议",
@@ -252,15 +356,15 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
         },
         {
-          "title": "一图速览中央经济工作会议",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "中央经济工作会议11大看点权威解读",
+          "url": "https://wallstreetcn.com/articles/3761228",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -289,15 +393,37 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
+          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
+          "url": "https://wallstreetcn.com/livenews/3020166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "意大利经济部长：从来没有人提议用黄金储备来削减公共债务。",
           "url": "https://flash.jin10.com/detail/20251213012323926800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "古巴谴责美军扣押油轮 斥美升级对古巴经济战",
+          "url": "https://flash.jin10.com/detail/20251213032928354800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     },
@@ -312,7 +438,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -323,7 +449,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -334,7 +460,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -352,8 +478,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 08时55分]"
         }
       ]
     }
