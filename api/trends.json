@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-14T02:16:36.190269+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-14T09:03:39.679355+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时03分]"
+        },
         {
           "title": "博通、甲骨文引发科技股抛售，纳指一度跌超2%，美元跌破98，期银一度跌超5%",
           "url": "https://wallstreetcn.com/articles/3761271",
@@ -19,33 +31,22 @@
           "time_info": "02时16分"
         },
         {
+          "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
+          "url": "https://wallstreetcn.com/livenews/3020302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
           "url": "https://wallstreetcn.com/articles/3761309",
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
-          "url": "https://flash.jin10.com/detail/20251213225118795800",
-          "source": "金十数据",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,15 +64,28 @@
           "time_info": "02时16分"
         },
         {
-          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
-          "url": "https://wallstreetcn.com/livenews/3020250",
-          "source": "华尔街见闻-快讯",
+          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
+          "url": "https://flash.jin10.com/detail/20251213225118795800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时03分]"
+        },
+        {
+          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
+          "url": "https://wallstreetcn.com/articles/3761321",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时03分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -81,15 +95,27 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时03分]"
         },
         {
-          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
-          "url": "https://wallstreetcn.com/articles/3761321",
-          "source": "华尔街见闻",
+          "title": "媒体：“声音被偷”？滥用AI要不得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时03分]"
+        },
+        {
+          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
+          "url": "https://wallstreetcn.com/livenews/3020250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -107,32 +133,33 @@
           "time_info": "02时16分"
         },
         {
-          "title": "媒体：“声音被偷”？滥用AI要不得",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
-          "source": "澎湃新闻",
+          "title": "8小时让AI做3个游戏",
+          "url": "https://search.bilibili.com/all?keyword=8%E5%B0%8F%E6%97%B6%E8%AE%A9AI%E5%81%9A3%E4%B8%AA%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "09时03分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "中央经济工作会议后，上海如何继续挑大梁？这三件事很重要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32165204",
-          "source": "澎湃新闻",
+          "title": "韩文秀：明年将根据形势变化出台实施增量政策，促进居民收入增长和经济增长同步",
+          "url": "https://wallstreetcn.com/articles/3761328",
+          "source": "华尔街见闻",
           "ranks": [
+            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时03分]"
         },
         {
           "title": "2025这些“经济”持续成长壮大",
@@ -142,15 +169,15 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时03分]"
         },
         {
-          "title": "韩文秀：明年将根据形势变化出台实施增量政策，促进居民收入增长和经济增长同步",
-          "url": "https://wallstreetcn.com/articles/3761328",
-          "source": "华尔街见闻",
+          "title": "中央经济工作会议后，上海如何继续挑大梁？这三件事很重要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32165204",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -164,8 +191,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时03分]"
+        },
+        {
+          "title": "人民日报评论员：结合实际，领会做好新形势下经济工作的规律性认识",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32172258",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "09时03分"
         },
         {
           "title": "如何看待「日本三季度 GDP 年化降幅扩大至 2.3%」？日本经济遇到了哪些问题？",
