@@ -1,595 +1,260 @@
 {
-  "generated_at": "2025-12-16T20:26:47.678239+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-12-17T02:20:13.534728+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 30,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 20时26分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 14时21分]"
-        },
-        {
-          "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
-          "url": "https://www.cls.cn/detail/2230118",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 08时59分]"
-        },
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
           "url": "https://wallstreetcn.com/articles/3761466",
           "source": "华尔街见闻",
           "ranks": [
-            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 20时26分]"
+          "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "韦氏词典将表示AI劣质内容的“slop”评为年度热词",
-          "url": "https://wallstreetcn.com/livenews/3021457",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
+          "url": "https://flash.jin10.com/detail/20251217021028425800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "02时20分"
         },
         {
-          "title": "中国信通院建设的人工智能产品安全漏洞专业库（CAIVD）上线运行",
-          "url": "https://wallstreetcn.com/livenews/3021455",
+          "title": "标普500指数跌幅扩大至0.8%，刷新日低。 道指跌456点，跌幅0.94%，纳指跌128点跌幅0.56%，生物科技指数跌1%，半导体指数跌1.2%，银行指数跌1.2%。 在美上市欧元区ETF跌0.5%，刷新日低。 Spotify ADR跌2.4%，刷新日低，跌幅随后收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3021858",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "02时20分"
         },
         {
-          "title": "中国农村的科技含量越来越高",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E7%A7%91%E6%8A%80%E5%90%AB%E9%87%8F%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
+          "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
+          "url": "https://wallstreetcn.com/livenews/3021857",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "工信部原副部长王江平：AI科学发现存在“堰塞湖”困境",
-          "url": "https://wallstreetcn.com/livenews/3021453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "02时20分"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
           "url": "https://wallstreetcn.com/articles/3761448",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 20时26分]"
-        },
-        {
-          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
-          "url": "https://www.zhihu.com/question/1982854147905691963",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 20时26分]"
-        },
-        {
-          "title": "微芯科技(MCHP.O)美股盘前上涨2%。",
-          "url": "https://flash.jin10.com/detail/20251216200947250800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "瑞穗银行：将微芯科技(MCHP.O)目标价从75美元上调至80美元。",
-          "url": "https://flash.jin10.com/detail/20251216200720759800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "OpenAI首席通信官Hannah Wong即将在1月底离职。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3021245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
-          "url": "https://www.cls.cn/detail/2231043",
+          "title": "社保基金会党组：充分发挥长期资金、耐心资本作用 更好支持科技创新和产业创新深度融合",
+          "url": "https://www.cls.cn/detail/2231125",
           "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
+          "url": "https://flash.jin10.com/detail/20251217015359218800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "02时20分"
         },
         {
-          "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
-          "url": "https://www.cls.cn/detail/2230016",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
-          "url": "https://wallstreetcn.com/livenews/3021124",
+          "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
+          "url": "https://wallstreetcn.com/livenews/3021846",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "美国不满与英国的贸易谈判进展 科技协议被叫停",
-          "url": "https://flash.jin10.com/detail/20251216080249472800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "OpenAI：从谷歌挖来Albert Lee。",
-          "url": "https://flash.jin10.com/detail/20251216015417172800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "据英国金融时报：美国暂停了与英国的科技协议。",
-          "url": "https://flash.jin10.com/detail/20251216075953282800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "香港恒生指数跌幅扩大至2%。恒生科技指数跌超2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3021429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "你信任的装修博主可能是AI夫妻",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BF%A1%E4%BB%BB%E7%9A%84%E8%A3%85%E4%BF%AE%E5%8D%9A%E4%B8%BB%E5%8F%AF%E8%83%BD%E6%98%AFAI%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "豆包AI手机重新恢复销售 此前辟谣被约谈",
-          "url": "https://wallstreetcn.com/livenews/3021653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "02时20分"
         },
         {
-          "title": "为什么医生也在推荐AI健康助手",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E7%94%9F%E4%B9%9F%E5%9C%A8%E6%8E%A8%E8%8D%90AI%E5%81%A5%E5%BA%B7%E5%8A%A9%E6%89%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "和 AI 相比，我们作为人类的核心竞争力是什么？",
-          "url": "https://www.zhihu.com/question/1977074341968574068",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "TCL科技集团：拟发行不超过人民币20亿元科技创新公司债券。",
-          "url": "https://wallstreetcn.com/livenews/3021650",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI聘请乔治·奥斯本牵头全球“星际之门”扩张计划。",
+          "url": "https://flash.jin10.com/detail/20251217013746986800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（12月16日）",
-          "url": "https://flash.jin10.com/detail/20251216071730388800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "欧盟抵制美国施压，拒绝修改科技监管规则",
-          "url": "https://wallstreetcn.com/livenews/3021107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "意大利企业AI技术使用率翻倍",
-          "url": "https://wallstreetcn.com/livenews/3021406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "02时20分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 16,
+      "match_count": 9,
       "titles": [
         {
-          "title": "国民经济延续稳中有进发展态势",
-          "url": "https://www.toutiao.com/trending/7584018868784451113/",
+          "title": "中央经济工作会议热点简读",
+          "url": "https://www.toutiao.com/trending/7584414195303648811/",
           "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时53分 ~ 08时59分]"
+          "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "明年经济工作政策取向确立这八个字",
-          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E6%94%BF%E7%AD%96%E5%8F%96%E5%90%91%E7%A1%AE%E7%AB%8B%E8%BF%99%E5%85%AB%E4%B8%AA%E5%AD%97",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 08时59分]"
-        },
-        {
-          "title": "市场监管总局公开征求意见，拟禁止车企亏本卖车，并要求明码标价，从市场和经济角度如何解读？新车会涨价么？",
-          "url": "https://www.zhihu.com/question/1983654252980216881",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 08时59分]"
-        },
-        {
-          "title": "美银调查显示，投资者对宏观经济的乐观情绪创逾4年新高",
-          "url": "https://flash.jin10.com/detail/20251216201140764800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "必须充分挖掘经济潜能",
-          "url": "https://www.toutiao.com/trending/7583514435910991915/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "中国经济新突破这些首次真提气",
-          "url": "https://www.douyin.com/hot/2337947",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "首发经济激活消费市场",
-          "url": "https://www.toutiao.com/trending/7584109715622756388/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "回望2025中国经济",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%9C%9B2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=9&Refer=top",
+          "title": "中央经济工作会议热点简读",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E7%83%AD%E7%82%B9%E7%AE%80%E8%AF%BB%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
         },
         {
           "title": "我囤了 1000 把剑卖给铁匠，他依然原价收购，什么情况游戏会采用更真实的经济系统？",
           "url": "https://www.zhihu.com/question/1983933310360130680",
           "source": "知乎",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "经济数据难解美国经济迷雾 三大期指横盘震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2231451",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983941746871264912",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：在欧洲经济高效地生产电芯几乎不可能；如果条件合适，整个电池价值链都可能在格林海德工厂实现。",
+          "url": "https://flash.jin10.com/detail/20251217015257558800",
+          "source": "金十数据",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "02时20分"
         },
         {
-          "title": "惠誉评级：土耳其银行受益于宏观经济稳定；挑战依然存在。",
-          "url": "https://flash.jin10.com/detail/20251216013313225800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "四论学习贯彻中央经济工作会议精神：发展新质生产力，培育壮大新动能",
-          "url": "https://wallstreetcn.com/livenews/3021111",
+          "title": "五论学习贯彻中央经济工作会议精神：坚定不移深化改革扩大开放",
+          "url": "https://wallstreetcn.com/livenews/3021844",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "日本财务大臣片山皋月表示，政府和日本央行对经济状况的看法一致。",
-          "url": "https://wallstreetcn.com/livenews/3021226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美联储威廉姆斯：有迹象表明，经济基本面的某些部分并不如GDP数据所显示的那样强劲。",
-          "url": "https://flash.jin10.com/detail/20251216013305533800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "评论员：2026年经济重点是提振消费",
-          "url": "https://www.toutiao.com/trending/7584225702128389659/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "美联储威廉姆斯：强劲的市场是2026年经济将强劲增长的部分原因。",
-          "url": "https://flash.jin10.com/detail/20251216013225178800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
-          "url": "https://wallstreetcn.com/articles/3761393",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 08时59分]"
-        },
-        {
-          "title": "生育成本社会共担来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%82%B2%E6%88%90%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%85%B1%E6%8B%85%E6%9D%A5%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "02时20分"
         },
         {
-          "title": "加沙人道主义危机加剧，哈马斯呼吁国际社会紧急介入",
-          "url": "https://wallstreetcn.com/livenews/3021666",
-          "source": "华尔街见闻-快讯",
+          "title": "加拿大央行行长麦克勒姆：经济不确定性“仍然非常高”",
+          "url": "https://flash.jin10.com/detail/20251217014616128800",
+          "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "02时20分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大经济正展现出韧性。",
+          "url": "https://flash.jin10.com/detail/20251217014608216800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "“俄版谷歌”，正帮中国商人大赚",
-          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "加拿大蒙特利尔银行：将谷歌(GOOG.O)目标价从340美元上调至343美元。",
-          "url": "https://flash.jin10.com/detail/20251216195848833800",
+          "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
+          "url": "https://flash.jin10.com/detail/20251217021002477800",
           "source": "金十数据",
           "ranks": [
-            11
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "教师猥亵儿童妻子因社会压力提离婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E7%8C%A5%E4%BA%B5%E5%84%BF%E7%AB%A5%E5%A6%BB%E5%AD%90%E5%9B%A0%E7%A4%BE%E4%BC%9A%E5%8E%8B%E5%8A%9B%E6%8F%90%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 02时20分]"
         }
       ]
     }
