@@ -1,499 +1,144 @@
 {
-  "generated_at": "2025-12-22T20:25:50.020679+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-23T02:19:22.652554+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 31,
+      "match_count": 8,
       "titles": [
         {
-          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761783",
+          "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时02分]"
-        },
-        {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时02分]"
-        },
-        {
-          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/1985011347914774514",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时02分]"
-        },
-        {
-          "title": "天玑科技：公司及相关责任人涉嫌串通投标被提起诉讼",
-          "url": "https://wallstreetcn.com/livenews/3024952",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "02时19分"
         },
         {
-          "title": "长三角科技创新谱写新篇章",
-          "url": "https://www.douyin.com/hot/2344360",
-          "source": "抖音",
+          "title": "AI定格|2025·强国脉动",
+          "url": "https://www.toutiao.com/trending/7586532944194502707/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "报道：OpenAI业务利润率至10月已提升至70%",
-          "url": "https://wallstreetcn.com/livenews/3024451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 14时22分]"
-        },
-        {
-          "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
-          "url": "https://www.cls.cn/detail/2235733",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 14时22分]"
-        },
-        {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时02分]"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 09时02分]"
-        },
-        {
-          "title": "英语兔的年报DNA里有AI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 14时22分]"
-        },
-        {
-          "title": "如何适当提醒过度迷信 AI 的老板？",
-          "url": "https://www.zhihu.com/question/1984781101030478834",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "time_info": "02时19分"
         },
         {
           "title": "UP主用AI改写三体名场面",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 20时25分]"
-        },
-        {
-          "title": "拓荆科技股价继续拉升，盘中逼近360元涨超9%，市值突破千亿元。",
-          "url": "https://wallstreetcn.com/livenews/3024722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时19分"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "02时19分"
         },
         {
           "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
           "url": "https://wallstreetcn.com/articles/3761811",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "02时19分"
         },
         {
-          "title": "张玉卓：接续发力新能源 超前谋划量子科技",
-          "url": "https://www.cls.cn/detail/2235821",
+          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2236882",
           "source": "财联社热门",
           "ranks": [
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时19分"
         },
         {
-          "title": "AH股高开高走，创业板涨超2%，贵金属、CPO、智驾走强，拓荆科技市值破千亿，沪银续创新高",
-          "url": "https://wallstreetcn.com/articles/3761822",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
-          "url": "https://wallstreetcn.com/livenews/3024716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
-          "url": "https://www.zhihu.com/question/1972372550760784385",
+          "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/1986466538639811812",
           "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
-          "url": "https://www.toutiao.com/trending/7585558853728190474/",
-          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "02时19分"
         },
         {
-          "title": "【午报】沪指重新站上3900点，海南概念股全线爆发，科技股方向震荡走强",
-          "url": "https://www.cls.cn/detail/2236161",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "华泰证券：建议继续布局春季躁动 关注AI链等景气改善方向",
-          "url": "https://wallstreetcn.com/livenews/3024514",
+          "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://wallstreetcn.com/livenews/3024707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "印度民航部：已注意到印度航空AI-887航班在起飞后不久因技术问题发生的事件。",
-          "url": "https://flash.jin10.com/detail/20251222131626437800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "锡华科技：将于12月23日在上交所主板上市",
-          "url": "https://wallstreetcn.com/livenews/3024433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "东方港湾董事长但斌：“AI泡沫论”是噪音，远离融资炒股",
-          "url": "https://wallstreetcn.com/livenews/3024907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "年内券商系LP出资超90亿元支持科技创新",
-          "url": "https://wallstreetcn.com/livenews/3024508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "02时19分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
         {
-          "title": "近六成日本民众称高市涉台言论会给经济造成负面影响",
-          "url": "https://news.ifeng.com/c/8pI5fPBin8q",
-          "source": "凤凰网",
+          "title": "从多领域成就感受中国经济活力",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E5%A4%9A%E9%A2%86%E5%9F%9F%E6%88%90%E5%B0%B1%E6%84%9F%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B",
+          "source": "百度热搜",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时19分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
-          "url": "https://flash.jin10.com/detail/20251221222740005800",
+          "title": "加拿大帝国商业银行经济学家Avery Shenfeld：加拿大消费者情况在2026年将更加稳定。",
+          "url": "https://flash.jin10.com/detail/20251223004050640800",
           "source": "金十数据",
           "ranks": [
-            5
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "墨西哥10月经济活动同比上升1.75%，市场预期为0.9%。10月经济活动环比增长0.98%，高于市场预期的0.5%。",
-          "url": "https://flash.jin10.com/detail/20251222200039695800",
-          "source": "金十数据",
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "普京：俄愿加强与欧亚经济联盟其他成员国合作",
-          "url": "https://wallstreetcn.com/livenews/3024458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
-          "url": "https://wallstreetcn.com/livenews/3024442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
-          "url": "https://wallstreetcn.com/livenews/3024440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "中银证券徐高：政府投资或是2026年经济稳增长的关键抓手",
-          "url": "https://wallstreetcn.com/livenews/3024439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "欧洲央行管委Vujcic：利率的下一步行动可能是双向的。 通胀和（经济）增长风险是平衡的。",
-          "url": "https://wallstreetcn.com/livenews/3024921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "巴西经济学家预计2025年通胀率为4.33%，此前预计为4.36%。预计2025年GDP增长2.26%，此前预计为2.25%。预计2026年底巴西基准利率为12.25%，此前预计为12.13%。预计到2025年底雷亚尔兑美元汇率为5.43，此前预计为5.40。",
-          "url": "https://flash.jin10.com/detail/20251222192705468800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "经过数月的延误，英国旨在促进曼彻斯特、利兹和利物浦等城市经济增长的北方动力铁路计划将在新年公布其高级别细节。",
-          "url": "https://flash.jin10.com/detail/20251222131309919800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "分析师：最新数据显示英国经济仍在承压",
-          "url": "https://flash.jin10.com/detail/20251222192326905800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "分析师警告称，英国央行淡化其经济预测，并过度依赖未能提供足够有用数据的替代情景，这可能会使市场对利率走势的理解变得模糊不清。",
-          "url": "https://flash.jin10.com/detail/20251222130332676800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时19分"
         }
       ]
     }
