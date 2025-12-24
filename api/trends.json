@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:21:42.160227+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2025-12-24T20:24:48.109977+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "经济",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "解码冰雪经济新动能",
@@ -19,6 +19,17 @@
           "time_info": "[02时19分 ~ 08时59分]"
         },
         {
+          "title": "从流动数据看中国经济活力",
+          "url": "https://www.toutiao.com/trending/7587348865288982025/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "法国10/30年期政府融资成本显著下降，投资者权衡预算形势和美国经济数据",
           "url": "https://wallstreetcn.com/livenews/3025710",
           "source": "华尔街见闻-快讯",
@@ -30,6 +41,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "数读2025年中国经济活力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "2025 年大厂加薪潮 Q4 继续，比亚迪、字节、宁德时代几乎同时集体加薪，从经济角度看反应了什么信号？",
           "url": "https://www.zhihu.com/question/1986547034866593809",
           "source": "知乎",
@@ -39,6 +61,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "荷兰经济政策分析局：10月份全球贸易量下降1.3%。",
+          "url": "https://flash.jin10.com/detail/20251224195102685800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "西班牙央行上调今明两年经济增长预期",
+          "url": "https://flash.jin10.com/detail/20251224193910940800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "哈塞特：经济强劲增长将带动就业，预测月度新增岗位或重回10万+",
@@ -83,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "【中国人民银行货币政策委员会召开2025年第四季度例会】会议研究了下阶段货币政策主要思路，建议发挥增量政策和存量政策集成效应，综合运用多种工具，加强货币政策调控，根据国内外经济金融形势和金融市场运行情况，把握好政策实施的力度、节奏和时机。保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配，促进社会综合融资成本低位运行。强化央行政策利率引导，完善市场化利率形成传导机制，发挥市场利率定价自律机制作用，加强利率政策执行和监督。从宏观审慎的角度观察、评估债市运行情况，关注长期收益率的变化。畅通货币政策传导机制，提高资金使用效率。增强外汇市场韧性，稳定市场预期，防范汇率超调风险，保持人民币汇率在合理均衡水平上的基本稳定。",
+          "url": "https://wallstreetcn.com/livenews/3026187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "日本央行会议纪要：一名委员表示，财政政策是制定经济和价格预测的重要因素。",
@@ -165,7 +220,7 @@
     },
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -175,8 +230,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 20时24分]"
+        },
+        {
+          "title": "拓荆科技：12月17日至12月24日国家集成电路基金减持公司总股本的0.65%",
+          "url": "https://wallstreetcn.com/livenews/3026218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "A股CPO概念股再度拉升，环旭电子午后涨停，英唐智控20cm涨停，兆驰股份此前涨停，永鼎股份、中际旭创、胜宏科技、凌云光跟涨。",
@@ -185,7 +251,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -200,6 +266,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 08时59分]"
+        },
+        {
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2239177",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "据科技媒体TechCrunsh：美国保险巨头Aflac表示，黑客窃取了2260万份个人和健康数据。",
@@ -219,7 +296,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -230,7 +307,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -274,7 +351,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -285,7 +362,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -296,7 +373,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -307,7 +384,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
@@ -324,7 +401,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
