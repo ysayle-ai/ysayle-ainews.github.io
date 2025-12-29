@@ -1,322 +1,111 @@
 {
-  "generated_at": "2025-12-29T20:27:13.058494+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-30T02:19:58.948008+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 15,
+      "match_count": 6,
       "titles": [
         {
           "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
           "url": "https://wallstreetcn.com/articles/3762225",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "2025中国科技创新再攀高峰",
-          "url": "https://www.toutiao.com/trending/7588091869997957174/",
-          "source": "今日头条",
-          "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "摄影大赛一等奖作品被指AI生成",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%E4%BD%9C%E5%93%81%E8%A2%AB%E6%8C%87AI%E7%94%9F%E6%88%90%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            10,
-            22,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时18分 ~ 20时27分]"
-        },
-        {
-          "title": "用一个字证明自己不是AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 09时04分]"
-        },
-        {
-          "title": "受科技股拖累，美股指期货走低，贵金属全线回落，现货白银新高后跳水日内大跌6%，WTI原油涨逾2%",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "time_info": "02时19分"
         },
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
           "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
-          "title": "比亚迪入股机器人减速器生产商智同科技",
-          "url": "https://www.cls.cn/detail/2242576",
+          "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
+          "url": "https://www.cls.cn/detail/2243297",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "02时19分"
         },
         {
-          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
-          "url": "https://wallstreetcn.com/articles/3762142",
-          "source": "华尔街见闻",
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "尹力、殷勇围绕建设北京（京津冀）国际科技创新中心到海淀、顺义调研，要求努力打造世界级科技创新策源地",
-          "url": "https://wallstreetcn.com/livenews/3027752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
-          "url": "https://www.cls.cn/detail/2241925",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "上海科技青年35人引领计划获奖名单揭晓，他们有何硬核之处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32270591",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "龙蟠科技：控股子公司常州锂源磷酸铁锂部分产线减产检修",
-          "url": "https://wallstreetcn.com/livenews/3028094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "宏微科技：与某公司签署了《战略合作协议》，未来将聚焦电控系统、液压控制系统、伺服系统、机器人核心零部件（执行器、电动缸、控制器）中所用到的功率半导体器件，并重点围绕氮化镓（GaN）功率半导体器件开展联合共研。",
-          "url": "https://wallstreetcn.com/livenews/3028089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "02时19分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "2025全球经济概览",
           "url": "https://search.bilibili.com/all?keyword=2025%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E6%A6%82%E8%A7%88",
           "source": "bilibili 热搜",
           "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 20时27分]"
-        },
-        {
-          "title": "深圳“十五五”规划建议：推动第六代移动通信、生物制造、具身智能等成为新的经济增长点",
-          "url": "https://wallstreetcn.com/livenews/3027765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "三星人寿、法国巴黎银行、保诚保险有意入股印度第一人寿保险。（印度经济时报）",
-          "url": "https://wallstreetcn.com/livenews/3027926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "乌称各方商讨顿巴斯“自由经济区” 俄称乌撤军为停战前提",
-          "url": "https://wallstreetcn.com/livenews/3028115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "日本央行12月会议意见摘要：一位委员表示，日元疲软和长期利率上升在一定程度上可能是由于政策利率相较于通胀率过低所致。 一位委员表示，及时加息将抑制未来的通胀压力和债券收益率上升。 即使政策利率上调至0.75%，但日本的实际利率仍将深度为负。 一位委员表示，尽管政策利率将维持深度负值水平，但日本央行必须密切监测加息对经济和市场的影响。 一位委员表示，日本央行必须稳步提高利率以免落后于形势。 一位委员表示，日本央行在调整货币政策力度时应密切关注经济、物价和金融状况，而不是预设具体的加息节奏。 一位委员表示，日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。 一位委员表示，将实际利率维持在偏离均衡水准的水平可能会导致资源分配扭曲，并对可持续增长产生影响。",
-          "url": "https://wallstreetcn.com/livenews/3027740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "日本央行12月会议意见摘要：一位委员表示，政策利率距离中性水平仍有相当大的差距。 一位委员表示，实际利率目前处于全球最低水平，料仍将保持负值。 一位委员表示，很难提前确定中性利率。 一位委员表示，对中性利率的解读应该有一定的自由度。 一位委员表示，政策利率距离中性水平仍有相当大的差距。 一位委员表示，日本央行目前必须以每隔几个月加息一次的速度提高利率。 一位委员表示，及时调整利率将带来持续稳定的增长。 一位委员表示，日本经济正处于财政政策和货币政策可以互补的阶段。 一位委员表示，鉴于海外利率环境可能发生变化，日本央行在制定政策时必须灵活应对。",
-          "url": "https://wallstreetcn.com/livenews/3027736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "日本央行会议意见摘要：一名委员表示，日本经济正处于财政政策和货币政策可以相互补充的阶段。",
-          "url": "https://flash.jin10.com/detail/20251229075357166800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "02时19分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "美国社会现状,传奇调查员早看透",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348487&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%8E%B0%E7%8A%B6%2C%E4%BC%A0%E5%A5%87%E8%B0%83%E6%9F%A5%E5%91%98%E6%97%A9%E7%9C%8B%E9%80%8F",
           "source": "贴吧",
           "ranks": [
-            4,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时18分 ~ 20时27分]"
-        },
-        {
-          "title": "媒体：国际社会一致认可中国斡旋柬泰",
-          "url": "https://www.toutiao.com/trending/7588072414128275497/",
-          "source": "今日头条",
-          "ranks": [
-            6
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "为什么上学时讨厌写作文的我们，踏入社会后，反而开始在社交平台写下自己的「作文」？",
-          "url": "https://www.zhihu.com/question/1986814335088097209",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ChatGPT帮他杀死83岁母亲？",
-          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
+          "time_info": "02时19分"
         }
       ]
     }
