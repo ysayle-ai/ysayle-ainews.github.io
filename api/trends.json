@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-29T14:22:46.381746+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2025-12-29T20:27:13.058494+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
+          "url": "https://wallstreetcn.com/articles/3762225",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
         {
           "title": "2025中国科技创新再攀高峰",
           "url": "https://www.toutiao.com/trending/7588091869997957174/",
@@ -14,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -30,6 +41,20 @@
           "time_info": "09时04分"
         },
         {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            10,
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 20时27分]"
+        },
+        {
           "title": "用一个字证明自己不是AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
           "source": "bilibili 热搜",
@@ -42,17 +67,37 @@
           "time_info": "[02时18分 ~ 09时04分]"
         },
         {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
+          "title": "受科技股拖累，美股指期货走低，贵金属全线回落，现货白银新高后跳水日内大跌6%，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            10,
-            22
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 14时22分]"
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "比亚迪入股机器人减速器生产商智同科技",
+          "url": "https://www.cls.cn/detail/2242576",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -72,7 +117,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -105,16 +150,50 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "龙蟠科技：控股子公司常州锂源磷酸铁锂部分产线减产检修",
+          "url": "https://wallstreetcn.com/livenews/3028094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "宏微科技：与某公司签署了《战略合作协议》，未来将聚焦电控系统、液压控制系统、伺服系统、机器人核心零部件（执行器、电动缸、控制器）中所用到的功率半导体器件，并重点围绕氮化镓（GaN）功率半导体器件开展联合共研。",
+          "url": "https://wallstreetcn.com/livenews/3028089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "2025全球经济概览",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E6%A6%82%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 20时27分]"
+        },
         {
           "title": "深圳“十五五”规划建议：推动第六代移动通信、生物制造、具身智能等成为新的经济增长点",
           "url": "https://wallstreetcn.com/livenews/3027765",
@@ -127,26 +206,26 @@
           "time_info": "09时04分"
         },
         {
-          "title": "2025全球经济概览",
-          "url": "https://search.bilibili.com/all?keyword=2025%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E6%A6%82%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "三星人寿、法国巴黎银行、保诚保险有意入股印度第一人寿保险。（印度经济时报）",
           "url": "https://wallstreetcn.com/livenews/3027926",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "乌称各方商讨顿巴斯“自由经济区” 俄称乌撤军为停战前提",
+          "url": "https://wallstreetcn.com/livenews/3028115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "日本央行12月会议意见摘要：一位委员表示，日元疲软和长期利率上升在一定程度上可能是由于政策利率相较于通胀率过低所致。 一位委员表示，及时加息将抑制未来的通胀压力和债券收益率上升。 即使政策利率上调至0.75%，但日本的实际利率仍将深度为负。 一位委员表示，尽管政策利率将维持深度负值水平，但日本央行必须密切监测加息对经济和市场的影响。 一位委员表示，日本央行必须稳步提高利率以免落后于形势。 一位委员表示，日本央行在调整货币政策力度时应密切关注经济、物价和金融状况，而不是预设具体的加息节奏。 一位委员表示，日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。 一位委员表示，将实际利率维持在偏离均衡水准的水平可能会导致资源分配扭曲，并对可持续增长产生影响。",
@@ -193,11 +272,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 20时27分]"
         },
         {
           "title": "媒体：国际社会一致认可中国斡旋柬泰",
