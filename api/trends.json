@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T14:20:56.985260+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-30T20:25:50.457248+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
@@ -19,15 +19,48 @@
           "time_info": "[02时19分 ~ 08时59分]"
         },
         {
+          "title": "罗永浩科技春晚",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%91%E6%8A%80%E6%98%A5%E6%99%9A&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "香港恒生指数涨1%，恒生科技指数涨2%。",
           "url": "https://wallstreetcn.com/livenews/3028578",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "罗永浩科技春晚",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%91%E6%8A%80%E6%98%A5%E6%99%9A",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -41,6 +74,30 @@
           "time_info": "02时19分"
         },
         {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时25分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时25分]"
+        },
+        {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2243270",
           "source": "财联社热门",
@@ -51,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 08时59分]"
+        },
+        {
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 20时25分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -88,17 +157,6 @@
           "time_info": "[02时19分 ~ 08时59分]"
         },
         {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "东部战区发布的AI视频意味深长",
           "url": "https://www.toutiao.com/trending/7589159411391217700/",
           "source": "今日头条",
@@ -110,24 +168,13 @@
           "time_info": "08时59分"
         },
         {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
           "url": "https://www.cls.cn/detail/2243572",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -138,7 +185,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -160,20 +207,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
         {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "20时25分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（12月30日）",
@@ -187,13 +234,24 @@
           "time_info": "08时59分"
         },
         {
+          "title": "据港交所文件：北京蓝色光标数据科技集团股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3028762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "中美科技战已进入“最后一百米”",
           "url": "https://www.toutiao.com/trending/7588904102563332150/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -211,8 +269,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 20时25分]"
         },
         {
           "title": "2025中国经济盘点",
@@ -221,7 +279,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -232,11 +290,12 @@
           "ranks": [
             7,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 20时25分]"
         },
         {
           "title": "预告：国新办1月5日就长江经济带发展十年工作进展和成效举行新闻发布会",
@@ -245,7 +304,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -275,7 +334,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国社会现状,传奇调查员早看透",
@@ -287,6 +346,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 08时59分]"
+        },
+        {
+          "title": "人社部：2026年要深入实施稳岗扩容提质专项行动，加快健全社会保障体系",
+          "url": "https://wallstreetcn.com/livenews/3028743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     }
