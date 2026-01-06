@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T14:21:55.123332+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-01-06T20:26:33.644236+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "为何说AI抢走了你的内存",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -56,6 +56,18 @@
           "time_info": "[02时20分 ~ 14时21分]"
         },
         {
+          "title": "2026：数字科技产业的8个猜想",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 20时26分]"
+        },
+        {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
           "url": "https://www.cls.cn/detail/2248593",
           "source": "财联社热门",
@@ -66,6 +78,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 14时21分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 20时26分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -114,26 +138,15 @@
           "time_info": "09时01分"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
+          "title": "富国银行：将微芯科技(MCHP.O)目标价从58美元上调至68美元。",
+          "url": "https://flash.jin10.com/detail/20260106195456186800",
+          "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "2026：数字科技产业的8个猜想",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "20时26分"
         },
         {
           "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
@@ -142,7 +155,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -153,7 +166,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -175,7 +188,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -197,9 +210,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "斯蒂费尔：将微芯科技(MCHP.O)目标价从75美元上调至80美元。",
+          "url": "https://flash.jin10.com/detail/20260106194045717800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
@@ -222,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "国晟科技：股价涨幅异常，股票停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3031635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "中信建投：关注AI医疗产业链投资机遇",
@@ -255,12 +290,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "农心科技：公司股票异常波动期间，宁波农旗通过集中竞价交易方式减持公司股份54.15万股，占公司总股本0.5418%。",
+          "url": "https://wallstreetcn.com/livenews/3031617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "长江经济带交出发展十年亮丽答卷",
@@ -324,9 +370,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "地缘避险情绪对冲经济疲软忧虑 美元指数震荡回升",
+          "url": "https://flash.jin10.com/detail/20260106193112753800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
@@ -352,7 +409,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
