@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-01-07T09:01:56.084737+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-01-07T14:22:00.896632+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 14时22分]"
+        },
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
         {
           "title": "2026：数字科技产业的8个猜想",
           "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
@@ -25,18 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -47,9 +69,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 14时22分]"
+        },
+        {
+          "title": "1月7日投资避雷针：大牛股嘉美包装、国晟科技今起停牌核查",
+          "url": "https://www.cls.cn/detail/2249958",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -61,17 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
         },
         {
           "title": "脑机接口成资本“宠儿” 强脑科技完成20亿融资 规模仅次于Neuralink",
@@ -94,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "A股脑机接口概念震荡回落，诚益通、麦澜德、熵基科技、爱朋医疗跌超10%，伟思医疗、荣泰健康、博拓生物、狄耐克等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3032136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "美国将根据乌克兰计划草案开展“高科技停火监测”",
@@ -127,13 +182,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "恒生科技指数跌幅超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "经济专家建议给每人发1000元购物券",
+          "url": "https://www.toutiao.com/trending/7591410665358098475/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "经济专家建议给每人发1000元购物券",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E7%BB%99%E6%AF%8F%E4%BA%BA%E5%8F%911000%E5%85%83%E8%B4%AD%E7%89%A9%E5%88%B8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "2025年俄罗斯经济算是逆势起飞了吗",
+          "url": "https://www.toutiao.com/trending/7592440547852160553/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
         {
           "title": "人民日报钟才平：因地制宜做好经济工作",
           "url": "https://wallstreetcn.com/livenews/3031974",
@@ -141,9 +240,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "委内瑞拉任命前央行行长分管经济",
+          "url": "https://wallstreetcn.com/livenews/3032115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     },
