@@ -1,122 +1,44 @@
 {
-  "generated_at": "2026-01-07T20:27:22.588544+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-01-08T02:20:29.802775+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 8,
       "titles": [
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 14时22分]"
-        },
-        {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
-          "source": "财联社热门",
+          "title": "科技创新活力涌动",
+          "url": "https://www.toutiao.com/trending/7592523943329939465/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
-          "title": "2026：数字科技产业的8个猜想",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
-          "source": "澎湃新闻",
+          "title": "直播电商新规强化AI内容监管",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时20分"
         },
         {
-          "title": "为何说AI抢走了你的内存",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "国芯科技与算能达成战略合作",
-          "url": "https://wallstreetcn.com/livenews/3031986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 20时27分]"
-        },
-        {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 14时22分]"
-        },
-        {
-          "title": "1月7日投资避雷针：大牛股嘉美包装、国晟科技今起停牌核查",
-          "url": "https://www.cls.cn/detail/2249958",
+          "title": "商业航天元年启幕：蓝箭航天IPO点燃资本热情 金风科技凭借投资“炼金术”稳坐千亿市值",
+          "url": "https://www.cls.cn/detail/2250983",
           "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "02时20分"
         },
         {
           "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
@@ -125,219 +47,114 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "02时20分"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时20分"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
           "url": "https://wallstreetcn.com/articles/3762702",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "脑机接口成资本“宠儿” 强脑科技完成20亿融资 规模仅次于Neuralink",
-          "url": "https://www.cls.cn/detail/2249578",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时20分"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
           "url": "https://www.cls.cn/detail/2250745",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "新品密集首发！九号、影石、光峰、极米等科创板公司齐聚“科技春晚”|直击CES 2026",
-          "url": "https://www.cls.cn/detail/2249643",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时20分"
         },
         {
-          "title": "A股脑机接口概念震荡回落，诚益通、麦澜德、熵基科技、爱朋医疗跌超10%，伟思医疗、荣泰健康、博拓生物、狄耐克等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3032136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "美国将根据乌克兰计划草案开展“高科技停火监测”",
-          "url": "https://flash.jin10.com/detail/20260107013844504800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
-          "url": "https://wallstreetcn.com/livenews/3031819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "瑞银集团：将美光科技(MU.O)目标股价从300美元上调至400美元。",
-          "url": "https://flash.jin10.com/detail/20260107192032295800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "石头科技演示爬楼梯扫地设备",
-          "url": "https://wallstreetcn.com/livenews/3031817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "恒生科技指数跌幅超2%。",
-          "url": "https://wallstreetcn.com/livenews/3032120",
+          "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
+          "url": "https://wallstreetcn.com/livenews/3032620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时20分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "银发经济重构老年生活新图景",
+          "url": "https://www.douyin.com/hot/2360413",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
         {
           "title": "美要求委切断对华经济联系，中方表态",
           "url": "https://news.ifeng.com/c/8pimqQkscPO",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "02时20分"
         },
         {
-          "title": "经济专家建议给每人发1000元购物券",
-          "url": "https://www.toutiao.com/trending/7591410665358098475/",
-          "source": "今日头条",
+          "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
+          "url": "https://wallstreetcn.com/articles/3762736",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
-          "title": "经济专家建议给每人发1000元购物券",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E6%B5%8E%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E7%BB%99%E6%AF%8F%E4%BA%BA%E5%8F%911000%E5%85%83%E8%B4%AD%E7%89%A9%E5%88%B8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "2025年俄罗斯经济算是逆势起飞了吗",
-          "url": "https://www.toutiao.com/trending/7592440547852160553/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "人民日报钟才平：因地制宜做好经济工作",
-          "url": "https://wallstreetcn.com/livenews/3031974",
+          "title": "加拿大总理卡尼将出席1月19-21日举行的达沃斯全球经济论坛（WEF）。",
+          "url": "https://wallstreetcn.com/livenews/3032640",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "日本经济界对中方全面禁运感到恐慌",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%85%A8%E9%9D%A2%E7%A6%81%E8%BF%90%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "委内瑞拉任命前央行行长分管经济",
-          "url": "https://wallstreetcn.com/livenews/3032115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "当地居民说，国际社会承认的也门政府所在地亚丁市6日晚传出激烈枪声。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3031820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "02时20分"
         }
       ]
     }
