@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T09:01:26.321915+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-01-08T14:21:29.139422+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技创新活力涌动",
@@ -30,15 +30,48 @@
           "time_info": "[02时20分 ~ 09时01分]"
         },
         {
+          "title": "减员超50%？爱玛科技回应：不存在该情况",
+          "url": "https://wallstreetcn.com/livenews/3032996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "港股通标的即将调整，多只新经济与科技股有望被纳入",
           "url": "https://wallstreetcn.com/livenews/3032797",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "恒生指数跌幅扩大至1.74%，跌破26000点。恒生科技指数跌超2%，阿里巴巴-W、蓝思科技跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -105,7 +138,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -116,9 +149,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "强脑科技：已完成20亿元融资 将在五年到十年内帮助百万残障者重返社会",
+          "url": "https://wallstreetcn.com/livenews/3032962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
@@ -132,39 +176,73 @@
           "time_info": "02时20分"
         },
         {
+          "title": "2026年国防科技工业工作会议1月7日在京召开",
+          "url": "https://wallstreetcn.com/livenews/3032952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "马斯克：中国AI算力领先世界",
           "url": "https://www.toutiao.com/trending/7592779381248888362/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "A股商业航天概念午后持续拉升，泰胜风能20cm涨停，此前通宇通讯、航天电器、航天电子、航天科技、巨力索具等超二十股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3032951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "银发经济重构老年生活新图景",
-          "url": "https://www.douyin.com/hot/2360413",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
         {
           "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
           "url": "https://wallstreetcn.com/articles/3762736",
           "source": "华尔街见闻",
           "ranks": [
             5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时20分 ~ 14时21分]"
+        },
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 14时21分]"
+        },
+        {
+          "title": "银发经济重构老年生活新图景",
+          "url": "https://www.douyin.com/hot/2360413",
+          "source": "抖音",
+          "ranks": [
             3
           ],
           "is_new": false,
@@ -183,15 +261,15 @@
           "time_info": "[02时20分 ~ 09时01分]"
         },
         {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
+          "title": "中国低空经济一飞冲天",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E4%B8%80%E9%A3%9E%E5%86%B2%E5%A4%A9",
+          "source": "百度热搜",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "14时21分"
         },
         {
           "title": "加拿大总理卡尼将出席1月19-21日举行的达沃斯全球经济论坛（WEF）。",
@@ -217,15 +295,37 @@
           "time_info": "[02时20分 ~ 09时01分]"
         },
         {
+          "title": "日本央行称地区经济温和复苏 企业有意愿继续加薪",
+          "url": "https://flash.jin10.com/detail/20260108140452009800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "韩国表示，韩元汇率仍呈现高度波动。 当前汇率走势与韩国经济基本面相去甚远。",
           "url": "https://wallstreetcn.com/livenews/3032790",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "联合国报告：2026年欧盟经济增长预期为1.3%，较2025年的1.5%的增幅有所放缓。",
+          "url": "https://flash.jin10.com/detail/20260108135047649800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "韩国财长：当前外汇走势远未反映韩国经济基本面。",
@@ -234,9 +334,59 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "联合国报告：受货币和财政宽松政策支持，美国2026年经济预计增长2.0%，而2025年为1.9%。",
+          "url": "https://flash.jin10.com/detail/20260108135007508800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "联合国报告：2026年全球经济增速预计将降至2.7%，2025年增速预测为2.8%。",
+          "url": "https://flash.jin10.com/detail/20260108134553578800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "联合国报告：印度经济预计在2026年增长6.6%，而2025年的预计增速为7.4%。",
+          "url": "https://flash.jin10.com/detail/20260108134524943800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
+          "url": "https://www.zhihu.com/question/1992511254795870608",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     }
