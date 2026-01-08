@@ -1,364 +1,72 @@
 {
-  "generated_at": "2026-01-08T20:27:48.510831+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-01-09T02:18:11.564347+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 25,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "科技创新活力涌动",
-          "url": "https://www.toutiao.com/trending/7592523943329939465/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
-        {
-          "title": "直播电商新规强化AI内容监管",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
-        {
-          "title": "减员超50%？爱玛科技回应：不存在该情况",
-          "url": "https://wallstreetcn.com/livenews/3032996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "港股通标的即将调整，多只新经济与科技股有望被纳入",
-          "url": "https://wallstreetcn.com/livenews/3032797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "上海：“十五五”要推动“AI+制造”规模化发展",
-          "url": "https://wallstreetcn.com/livenews/3033307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
-          "url": "https://www.cls.cn/detail/2251233",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "恒生指数跌幅扩大至1.74%，跌破26000点。恒生科技指数跌超2%，阿里巴巴-W、蓝思科技跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3032990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
-        {
-          "title": "商业航天元年启幕：蓝箭航天IPO点燃资本热情 金风科技凭借投资“炼金术”稳坐千亿市值",
-          "url": "https://www.cls.cn/detail/2250983",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
-        {
-          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
-          "url": "https://www.cls.cn/detail/2250715",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
         {
           "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
           "url": "https://www.cls.cn/detail/2251983",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "快手发布关于“AI魔改”视频专项治理公告",
-          "url": "https://wallstreetcn.com/livenews/3033302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
           "url": "https://www.cls.cn/detail/2251902",
           "source": "财联社热门",
           "ranks": [
-            12
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
-          "url": "https://www.cls.cn/detail/2251790",
+          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
+          "url": "https://www.cls.cn/detail/2252328",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "北方长龙：拟以支付现金方式购买沈阳顺义科技股份有限公司51%股份。",
-          "url": "https://wallstreetcn.com/livenews/3033293",
-          "source": "华尔街见闻-快讯",
+          "title": "联想全球创新科技大会集齐英伟达、英特尔、 AMD 、高通四大芯片巨头 CEO 同台，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992286512562270761",
+          "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "OpenAI设立500亿美元员工股票奖励池。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3032785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "三星公布创纪录利润 AI推动存储市场增长",
-          "url": "https://flash.jin10.com/detail/20260108081613269800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "强脑科技：已完成20亿元融资 将在五年到十年内帮助百万残障者重返社会",
-          "url": "https://wallstreetcn.com/livenews/3032962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
-          "url": "https://wallstreetcn.com/livenews/3032620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "2026年国防科技工业工作会议1月7日在京召开",
-          "url": "https://wallstreetcn.com/livenews/3032952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "马斯克：中国AI算力领先世界",
-          "url": "https://www.toutiao.com/trending/7592779381248888362/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "A股商业航天概念午后持续拉升，泰胜风能20cm涨停，此前通宇通讯、航天电器、航天电子、航天科技、巨力索具等超二十股涨停。",
-          "url": "https://wallstreetcn.com/livenews/3032951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "杭萧钢构：联合体中标杭州箭元航天科技有限公司相关工程项目",
-          "url": "https://wallstreetcn.com/livenews/3033275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 20时27分]"
-        },
-        {
-          "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
-          "url": "https://wallstreetcn.com/articles/3762736",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 14时21分]"
-        },
-        {
-          "title": "银发经济重构老年生活新图景",
-          "url": "https://www.douyin.com/hot/2360413",
-          "source": "抖音",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
-        {
-          "title": "美要求委切断对华经济联系，中方表态",
-          "url": "https://news.ifeng.com/c/8pimqQkscPO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
-        {
-          "title": "中国低空经济一飞冲天",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E4%B8%80%E9%A3%9E%E5%86%B2%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "向新向优发展中国经济向好",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
           "title": "花了十几个小时把《经济学原理》看懂了，突然不明白为何要单独设一个经济学专业？这么简单的知识很难？",
@@ -367,132 +75,15 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "加拿大总理卡尼将出席1月19-21日举行的达沃斯全球经济论坛（WEF）。",
-          "url": "https://wallstreetcn.com/livenews/3032640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "日本经济界对中方全面禁运感到恐慌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%85%A8%E9%9D%A2%E7%A6%81%E8%BF%90%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            16
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 09时01分]"
-        },
-        {
-          "title": "日本央行称地区经济温和复苏 企业有意愿继续加薪",
-          "url": "https://flash.jin10.com/detail/20260108140452009800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "韩国表示，韩元汇率仍呈现高度波动。 当前汇率走势与韩国经济基本面相去甚远。",
-          "url": "https://wallstreetcn.com/livenews/3032790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "联合国报告：2026年欧盟经济增长预期为1.3%，较2025年的1.5%的增幅有所放缓。",
-          "url": "https://flash.jin10.com/detail/20260108135047649800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "韩国财长：当前外汇走势远未反映韩国经济基本面。",
-          "url": "https://flash.jin10.com/detail/20260108081758518800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "联合国报告：受货币和财政宽松政策支持，美国2026年经济预计增长2.0%，而2025年为1.9%。",
-          "url": "https://flash.jin10.com/detail/20260108135007508800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "联合国报告：2026年全球经济增速预计将降至2.7%，2025年增速预测为2.8%。",
-          "url": "https://flash.jin10.com/detail/20260108134553578800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "联合国报告：印度经济预计在2026年增长6.6%，而2025年的预计增速为7.4%。",
-          "url": "https://flash.jin10.com/detail/20260108134524943800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
-          "url": "https://www.zhihu.com/question/1992511254795870608",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "[02时17分 ~ 02时18分]"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "外交部：国际社会应高度警惕日方拥核危险倾向",
@@ -501,9 +92,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "美国财长贝森特在明尼苏达州表示，财政部对追回在社会服务欺诈中被盗资金有着“坚定不移的承诺”。美国财政部将逐州调查类似骗局。",
+          "url": "https://flash.jin10.com/detail/20260109014630598800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "02时18分"
         }
       ]
     }
