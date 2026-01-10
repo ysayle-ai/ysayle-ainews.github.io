@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T14:19:20.047614+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-01-10T20:22:54.979680+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -18,17 +18,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 08时59分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -55,17 +44,15 @@
           "time_info": "[02时19分 ~ 14时19分]"
         },
         {
-          "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32351786",
-          "source": "澎湃新闻",
+          "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
+          "url": "https://www.cls.cn/detail/2253794",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            14,
-            18
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 14时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -73,11 +60,38 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 20时22分]"
+        },
+        {
+          "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351786",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 20时22分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 20时22分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -159,13 +173,24 @@
           "time_info": "08时59分"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "据外媒报道，吉利控股正考虑向美国市场扩张，极氪和领克等品牌或是首选。针对该消息，截至发稿前，吉利控股方面暂未置评。（新浪科技）",
           "url": "https://wallstreetcn.com/livenews/3034485",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -176,7 +201,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -184,7 +209,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "三个关键词看民营经济活力迸发",
@@ -220,15 +245,49 @@
           "time_info": "08时59分"
         },
         {
+          "title": "国有经济向“新”布局明显提速",
+          "url": "https://www.douyin.com/hot/2363483",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "中国为全球冰雪经济“升温”",
+          "url": "https://wallstreetcn.com/livenews/3034540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "黄金正式超越美国国债，三十年来首次成为全球规模最大的储备资产，请问金本位下的经济市场有何特点？",
           "url": "https://www.zhihu.com/question/1992881511305848518",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 20时22分]"
+        },
+        {
+          "title": "美中情局对古巴经济与政治局势作出悲观描述",
+          "url": "https://flash.jin10.com/detail/20260110191334371800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "秘鲁央行首席经济学家表示，去年11月经济同比可能增长2%。",
@@ -242,13 +301,24 @@
           "time_info": "02时20分"
         },
         {
+          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
+          "url": "https://flash.jin10.com/detail/20260110180247697800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "中信证券：预计2026年一季度经济景气度有望抬升，风险资产中波动相对较低的权益资产更具性价比",
           "url": "https://wallstreetcn.com/livenews/3034481",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -292,7 +362,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -300,7 +370,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
@@ -324,6 +394,56 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时19分 ~ 08时59分]"
+        },
+        {
+          "title": "人形机器人T链一级供应商新剑传动冲刺IPO",
+          "url": "https://wallstreetcn.com/livenews/3034529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "瑞声科技推出人形机器人解决方案",
+          "url": "https://wallstreetcn.com/livenews/3034523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "瑞声科技宣布推出人形机器人解决方案",
+          "url": "https://flash.jin10.com/detail/20260110165903191800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家互联网信息办公室起草《互联网应用程序个人信息收集使用规定（征求意见稿）》，向社会公开征求意见。",
+          "url": "https://wallstreetcn.com/livenews/3034517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     }
