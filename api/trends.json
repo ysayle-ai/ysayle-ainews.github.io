@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T14:24:17.748468+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-01-12T20:28:55.427285+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 36,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -30,6 +30,17 @@
           "time_info": "[02时18分 ~ 09时04分]"
         },
         {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
           "url": "https://wallstreetcn.com/livenews/3034757",
           "source": "华尔街见闻-快讯",
@@ -47,7 +58,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -74,15 +85,59 @@
           "time_info": "02时18分"
         },
         {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
           "url": "https://www.cls.cn/detail/2254504",
           "source": "财联社热门",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
+          "url": "https://www.cls.cn/detail/2254695",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "英国科技大臣肯德尔欢迎英国通信监管局对社交媒体平台“X”展开调查。",
+          "url": "https://flash.jin10.com/detail/20260112200253020800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -90,11 +145,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 20时28分]"
         },
         {
           "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
@@ -133,6 +189,39 @@
           "time_info": "[02时18分 ~ 09时04分]"
         },
         {
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
           "url": "https://wallstreetcn.com/articles/3763032",
           "source": "华尔街见闻",
@@ -155,15 +244,37 @@
           "time_info": "02时18分"
         },
         {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "A股量子科技概念震荡走强，科大国创午后涨超18%，国盾量子涨超10%创历史新高，格尔软件此前涨停，神州信息、必创科技、吉大正元等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3035003",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -188,13 +299,24 @@
           "time_info": "02时18分"
         },
         {
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "恒生指数午后涨1%，阿里健康涨超8%，恒生科技指数现涨2.17%。",
           "url": "https://wallstreetcn.com/livenews/3034999",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -210,13 +332,24 @@
           "time_info": "02时18分"
         },
         {
+          "title": "蓝色光标：现阶段公司AI驱动的相关收入占公司整体营业收入的比重较小",
+          "url": "https://wallstreetcn.com/livenews/3035292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "用户与AI聊黄开发者获刑",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E4%B8%8EAI%E8%81%8A%E9%BB%84%E5%BC%80%E5%8F%91%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -238,9 +371,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "青木科技：经核查，公司控股股东、实际控制人吕斌先生及一致行动人允宜合伙在股票异动期间存在卖出公司股票的行为。",
+          "url": "https://wallstreetcn.com/livenews/3035284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -249,7 +404,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
@@ -257,7 +412,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "经济学家：鲍威尔被查或进一步削弱美联储公众信誉 接任人选需推行改革",
@@ -277,7 +432,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -304,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "巴西经济学家预计，到2027年底，巴西雷亚尔兑美元汇率将为5.50，与此前的预测持平。",
+          "url": "https://flash.jin10.com/detail/20260112192632195800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "我国新向 ITU 申报超 20 万颗卫星星座，总规模预计超星链，未来太空经济规模会有多大？有何特点？",
@@ -337,6 +503,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人形机器人供应商新剑传动冲刺IPO 丝杠产业化提速？",
+          "url": "https://www.cls.cn/detail/2254812",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "财政部印发《〈社会保险基金会计制度〉补充规定》",
+          "url": "https://wallstreetcn.com/livenews/3035310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     }
