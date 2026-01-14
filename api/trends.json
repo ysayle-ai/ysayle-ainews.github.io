@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-01-14T14:24:51.575155+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-01-14T20:27:10.241876+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
+          "url": "https://www.cls.cn/detail/2257429",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
           "url": "https://www.cls.cn/detail/2256448",
@@ -65,6 +98,18 @@
           "time_info": "[02时21分 ~ 09时03分]"
         },
         {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 20时27分]"
+        },
+        {
           "title": "韩服93%胜率账号是AI吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -76,6 +121,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 14时24分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 20时27分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -90,6 +147,40 @@
           "time_info": "[09时02分 ~ 14时24分]"
         },
         {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 20时27分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 20时27分]"
+        },
+        {
+          "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
+          "url": "https://www.cls.cn/detail/2257610",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
           "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
           "url": "https://www.cls.cn/detail/2256694",
           "source": "财联社热门",
@@ -101,26 +192,37 @@
           "time_info": "[09时02分 ~ 09时03分]"
         },
         {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
           "ranks": [
-            16
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
+          "title": "王自如说荣耀Air补齐iPhoneAir短板",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E8%AF%B4%E8%8D%A3%E8%80%80Air%E8%A1%A5%E9%BD%90iPhoneAir%E7%9F%AD%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "中信证券：AI医疗开启商业化，加速重构十万亿级医药市场",
@@ -140,20 +242,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
         {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
+          "title": "钧达股份：公司拟以现金出资人民币3,000万元认购上海星翼芯能科技有限公司新增注册资本人民币46.1539万元，获得星翼芯能16.6667%的股权。星翼芯能系由杭州尚翼光电科技有限公司团队创始人及创始股东新设的项目公司，用于承接尚翼光电的全部资产、人员及业务，并且后续尚翼光电将调整为星翼芯能的全资子公司。本次合作助力公司从地面光伏领域向太空光伏领域的战略延伸。",
+          "url": "https://wallstreetcn.com/livenews/3037016",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "20时27分"
         },
         {
           "title": "中国央行副行长邹澜：加速金融科技创新赋能 扎实做好金融“五篇大文章”",
@@ -173,7 +275,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -222,17 +324,6 @@
           "time_info": "02时21分"
         },
         {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
           "title": "EDG官宣Maokai回归",
           "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
           "source": "bilibili 热搜",
@@ -247,8 +338,30 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "各地持续激发冰雪经济活力",
+          "url": "https://www.toutiao.com/trending/7595118443213426186/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "特朗普喊话最高法院：在重大裁决前请先看我们史无前例的经济上成功",
+          "url": "https://flash.jin10.com/detail/20260114201722365800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
         {
           "title": "初步数据显示英国经济在预算案公布后复苏乏力",
           "url": "https://flash.jin10.com/detail/20260114083541326800",
@@ -279,7 +392,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -290,7 +403,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -301,9 +414,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "美国银行：我们预计未来一年经济将继续增长。",
+          "url": "https://flash.jin10.com/detail/20260114195241216800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "美国银行：尽管仍存在诸多风险，但我们对2026年美国经济持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260114195231893800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "经济日报：住房公积金制度将深化改革",
@@ -363,7 +498,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
@@ -392,7 +527,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -411,7 +546,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高校教师的社会地位和收入都处在普通水平，为什么却会成为压力最大的职业之一？",
@@ -424,6 +559,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 14时24分]"
+        },
+        {
+          "title": "人力资源社会保障部：促进高质量充分就业 提升社会保障水平",
+          "url": "https://wallstreetcn.com/livenews/3037012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
