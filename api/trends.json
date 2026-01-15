@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T08:59:36.510609+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-01-15T14:21:27.273149+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "上交所：对国晟科技相关投资者采取暂停账户交易等措施",
@@ -19,6 +19,28 @@
           "time_info": "[02时21分 ~ 08时59分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 14时21分]"
+        },
+        {
+          "title": "【早报】长期股票投资试点再迎增量资金；上交所暂停国晟科技相关投资者账户交易",
+          "url": "https://www.cls.cn/detail/2258174",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 14时21分]"
+        },
+        {
           "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
           "url": "https://www.cls.cn/detail/2257610",
           "source": "财联社热门",
@@ -30,26 +52,26 @@
           "time_info": "[02时21分 ~ 02时22分]"
         },
         {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "【早报】长期股票投资试点再迎增量资金；上交所暂停国晟科技相关投资者账户交易",
-          "url": "https://www.cls.cn/detail/2258174",
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
           "source": "财联社热门",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -76,6 +98,19 @@
           "time_info": "[02时21分 ~ 08时59分]"
         },
         {
+          "title": "巴菲特再发警示：AI的危险不亚于核武器",
+          "url": "https://www.cls.cn/detail/2258013",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时21分]"
+        },
+        {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
           "source": "华尔街见闻",
@@ -83,20 +118,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 08时59分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时21分]"
         },
         {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
           "ranks": [
-            13,
-            7
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 08时59分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时21分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时21分]"
         },
         {
           "title": "用马甲账户收受虚拟币买别墅，证监会科技监管司原司长姚前腐败细节披露",
@@ -105,29 +153,6 @@
           "ranks": [
             10,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 08时59分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 08时59分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            27
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -178,6 +203,17 @@
           "time_info": "[02时21分 ~ 02时22分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3037234",
           "source": "华尔街见闻-快讯",
@@ -187,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "1月15日投资避雷针：上交所通报国晟科技异常交易情况 对相关投资者采取暂停交易措施",
+          "url": "https://www.cls.cn/detail/2258229",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "加州总检察长对xAI和Grok展开调查",
@@ -206,9 +253,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -220,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -250,7 +330,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -272,7 +352,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -294,16 +374,49 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "聂卫平曾谈AI对围棋的影响",
+          "url": "https://www.toutiao.com/trending/7595183245084835903/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据韩媒NEWSIS：韩国正考虑采取宏观经济措施以稳定外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260115140243840800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "中国经济数据观",
+          "url": "https://www.toutiao.com/trending/7595420477515140617/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
         {
           "title": "美联储Kashkari：美联储独立性对美国经济做出贡献。 下一任美联储主席将不得不向FOMC提供最具说服力的说明。 每个官员都只有一票，论据最充分的获胜。",
           "url": "https://wallstreetcn.com/livenews/3037243",
@@ -314,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "卢浮宫门票面向非欧洲经济区游客大幅涨价",
+          "url": "https://wallstreetcn.com/livenews/3037596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国财长贝森特称，在与澳大利亚国库部长Jim Chalmers的会晤中，赞扬了澳大利亚“致力于建立强有力的、以行动为导向的伙伴关系，以创建长期安全的关键矿产供应链”。 财政部就贝森特1月12日与Chalmers的会面置评。 贝森特和Chalmers讨论了“关键矿产机遇，以及经济和国家安全方面的共同关切”。",
