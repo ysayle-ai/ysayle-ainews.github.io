@@ -1,298 +1,89 @@
 {
-  "generated_at": "2026-01-18T20:23:30.948430+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-01-19T02:17:59.863903+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 16,
+      "match_count": 4,
       "titles": [
         {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "02时17分"
         },
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
-          "url": "https://wallstreetcn.com/livenews/3039251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 09时05分]"
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
           "url": "https://wallstreetcn.com/articles/3763531",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时23分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时23分]"
-        },
-        {
-          "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
-          "url": "https://wallstreetcn.com/livenews/3039173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "02时17分"
         },
         {
-          "title": "谭晶JKAI杰凯百大同框",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%AD%E6%99%B6JKAI%E6%9D%B0%E5%87%AF%E7%99%BE%E5%A4%A7%E5%90%8C%E6%A1%86",
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
-          "url": "https://www.zhihu.com/question/1994072855072235778",
-          "source": "知乎",
-          "ranks": [
-            13
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "科技部部长阴和俊：将推动京津冀、沪苏浙皖优势互补，凝聚合力，打造科技强国重要战略支点",
-          "url": "https://wallstreetcn.com/livenews/3039133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "科技部部长：将推动京津冀、沪苏浙皖优势互补，打造科技强国重要战略支点",
-          "url": "https://flash.jin10.com/detail/20260117204332741800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
-          "url": "https://wallstreetcn.com/livenews/3039234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://wallstreetcn.com/livenews/3039127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://flash.jin10.com/detail/20260117195257548800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
-          "url": "https://flash.jin10.com/detail/20260117195232354800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 09时05分]"
-        },
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
           "url": "https://wallstreetcn.com/articles/3763533",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 20时23分]"
-        },
-        {
-          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
-          "url": "https://www.zhihu.com/question/1995898061478651512",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "陈茂波将出席世界经济论坛年会",
-          "url": "https://wallstreetcn.com/livenews/3039178",
+          "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
+          "url": "https://wallstreetcn.com/livenews/3039284",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "冰雪热力中的中国经济新脉动",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E7%83%AD%E5%8A%9B%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%84%89%E5%8A%A8%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "陈茂波将出席世界经济论坛年会",
-          "url": "https://flash.jin10.com/detail/20260118125211263800",
-          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
-          "url": "https://wallstreetcn.com/livenews/3039142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 09时05分]"
-        },
-        {
-          "title": "2026年春晚今日完成首次彩排 机器人将再度登上春晚舞台",
-          "url": "https://flash.jin10.com/detail/20260117214942857800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 09时05分]"
+          "time_info": "02时17分"
         }
       ]
     }
