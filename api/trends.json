@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T09:05:28.907361+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-01-19T14:26:40.139732+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 09时05分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 14时26分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -32,13 +32,58 @@
           "time_info": "[02时17分 ~ 09时05分]"
         },
         {
+          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 14时26分]"
+        },
+        {
+          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
+          "url": "https://wallstreetcn.com/livenews/3039556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”",
           "url": "https://wallstreetcn.com/livenews/3039374",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -54,15 +99,26 @@
           "time_info": "02时17分"
         },
         {
-          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
-          "source": "澎湃新闻",
+          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
+          "url": "https://www.cls.cn/detail/2261597",
+          "source": "财联社热门",
           "ranks": [
-            18
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "14时26分"
+        },
+        {
+          "title": "A股商业航天概念午后持续活跃，航亚科技、欧科亿20CM涨停，航发动力、航发控制、航发科技涨停，超捷股份、航宇科技、图南股份等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3039536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
@@ -71,7 +127,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -82,9 +138,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
+          "url": "https://wallstreetcn.com/livenews/3039528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
+          "url": "https://flash.jin10.com/detail/20260119125355949800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -104,7 +182,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         }
@@ -112,8 +190,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "2025年国民经济运行情况",
+          "url": "https://www.douyin.com/hot/2372470",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布中国GDP、社零等数据，国新办将就国民经济运行情况举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260119082959203800",
@@ -121,7 +210,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -130,11 +219,23 @@
           "url": "https://www.cls.cn/detail/2261560",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 14时26分]"
+        },
+        {
+          "title": "【图解中国经济年报】2025年GDP同比增长5% 规模以上工业增加值增长5.9%",
+          "url": "https://www.cls.cn/detail/2261758",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "14时26分"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -148,15 +249,43 @@
           "time_info": "02时17分"
         },
         {
+          "title": "一图读懂2025年中国经济成绩单",
+          "url": "https://www.toutiao.com/trending/7596886976813649418/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "凯投宏观：格陵兰关税威胁经济影响有限 但恐撕裂跨大西洋关系",
           "url": "https://flash.jin10.com/detail/20260119073647109800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "镁价底部反弹+全产业链加速卡位 航天与机器人等新需求能否重塑镁行业格局？|行业观察",
+          "url": "https://www.cls.cn/detail/2261815",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     },
@@ -175,6 +304,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 09时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
+          "url": "https://wallstreetcn.com/livenews/3039527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     }
