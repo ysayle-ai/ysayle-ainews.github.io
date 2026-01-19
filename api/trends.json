@@ -1,240 +1,11 @@
 {
-  "generated_at": "2026-01-19T20:29:12.420391+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-01-20T02:20:22.828620+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "科技 AI",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 14时26分]"
-        },
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 09时05分]"
-        },
-        {
-          "title": "【数据看盘】多只沪深300相关ETF上周份额大减 顶级游资联手机构抢筹金风科技",
-          "url": "https://www.cls.cn/detail/2262347",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
-          "title": "独家｜基金经理“差别操作”曝光，自己钱重仓科技大赚，产品配置老登股亏钱，合规但不合情？",
-          "url": "https://www.cls.cn/detail/2262432",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
-          "url": "https://www.cls.cn/detail/2262334",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
-          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 14时26分]"
-        },
-        {
-          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
-          "url": "https://wallstreetcn.com/livenews/3039556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "天箭科技：预计2025年净利润同比下降1,657.73%～1,196.06%",
-          "url": "https://wallstreetcn.com/livenews/3039762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3039552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
-          "url": "https://wallstreetcn.com/articles/3763537",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”",
-          "url": "https://wallstreetcn.com/livenews/3039374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
-          "url": "https://www.cls.cn/detail/2261597",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "A股商业航天概念午后持续活跃，航亚科技、欧科亿20CM涨停，航发动力、航发控制、航发科技涨停，超捷股份、航宇科技、图南股份等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3039536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
-          "url": "https://flash.jin10.com/detail/20260119075109965800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（1月19日）",
-          "url": "https://flash.jin10.com/detail/20260119073935919800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
-          "url": "https://wallstreetcn.com/livenews/3039528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
-          "url": "https://flash.jin10.com/detail/20260119125355949800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "马斯克称，鉴于AI5芯片设计已进展顺利，特斯拉将重启Dojo3项目。",
-          "url": "https://wallstreetcn.com/livenews/3039352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "经济",
-      "match_count": 13,
+      "match_count": 7,
       "titles": [
         {
           "title": "2025年国民经济运行情况",
@@ -244,206 +15,124 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 20时29分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
-          "title": "事关经济，两场重要新闻发布会将于明日举行",
-          "url": "https://www.cls.cn/detail/2262191",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
-          "title": "重磅经济数据发布",
-          "url": "https://www.toutiao.com/trending/7596638782976364068/",
-          "source": "今日头条",
+          "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
+          "url": "https://wallstreetcn.com/livenews/3039888",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
-          "title": "数读2025中国经济成绩单",
-          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E8%AF%BB2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布中国GDP、社零等数据，国新办将就国民经济运行情况举行新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260119082959203800",
-          "source": "金十数据",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "02时20分"
         },
         {
-          "title": "【图解中国经济年报】2025年GDP同比增长5% 规模以上工业增加值增长5.9%",
-          "url": "https://www.cls.cn/detail/2261758",
-          "source": "财联社热门",
+          "title": "去年中国经济贡献了世界30%的增长",
+          "url": "https://www.douyin.com/hot/2373482",
+          "source": "抖音",
           "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 20时29分]"
-        },
-        {
-          "title": "全文公布！中共上海市委关于制定上海市国民经济和社会发展第十五个五年规划的建议",
-          "url": "https://www.cls.cn/detail/2261560",
-          "source": "财联社热门",
-          "ranks": [
-            9,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 14时26分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
           "title": "一图读懂2025年中国经济成绩单",
           "url": "https://www.toutiao.com/trending/7596886976813649418/",
           "source": "今日头条",
           "ranks": [
-            16,
-            19
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 20时29分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "世界经济论坛呼唤“对话的精神”",
+          "url": "https://wallstreetcn.com/livenews/3039884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
           "title": "四个字概括2025年中国经济表现",
           "url": "https://www.douyin.com/hot/2372720",
           "source": "抖音",
           "ranks": [
-            10
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
-          "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
-          "url": "https://wallstreetcn.com/livenews/3039284",
+          "title": "去年中国经济增长5% 哪些领域在发力",
+          "url": "https://www.toutiao.com/trending/7597065297106832902/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技 AI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "独家｜基金经理“差别操作”曝光，自己钱重仓科技大赚，产品配置老登股亏钱，合规但不合情？",
+          "url": "https://www.cls.cn/detail/2262432",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "【数据看盘】多只沪深300相关ETF上周份额大减 顶级游资联手机构抢筹金风科技",
+          "url": "https://www.cls.cn/detail/2262347",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
+          "url": "https://wallstreetcn.com/livenews/3039880",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "高盛：美国最新关税威胁对欧洲经济冲击料有限 其中德国恐受最大影响",
-          "url": "https://wallstreetcn.com/livenews/3039741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "最高检：依法维护经济金融安全 严惩严重经济犯罪 严惩走私出口战略矿产等犯罪",
-          "url": "https://wallstreetcn.com/livenews/3039726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "凯投宏观：格陵兰关税威胁经济影响有限 但恐撕裂跨大西洋关系",
-          "url": "https://flash.jin10.com/detail/20260119073647109800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "镁价底部反弹+全产业链加速卡位 航天与机器人等新需求能否重塑镁行业格局？|行业观察",
-          "url": "https://www.cls.cn/detail/2261815",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "小鹏汽车董事长何小鹏发文称，今天，用汽车标准研发的ET1版本第一台机器人顺利落地。",
-          "url": "https://wallstreetcn.com/livenews/3039725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 09时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本反对党中道改革联合(CRA)有关基本政策的立场声明：将致力于纠正日元过度贬值，降低食品、燃料等日常必需品的价格。 对已获得当地社区同意并具备有效疏散方案的核电站，将允许重启；同时目标是在未来转向不依赖核能的社会。 将促进对灾害救援和基础设施的定向投资。 将利用设立日本主权财富基金所产生的收入，废除食品消费税。",
-          "url": "https://wallstreetcn.com/livenews/3039527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "02时20分"
         }
       ]
     }
