@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T14:23:51.448693+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-01-20T20:29:56.516133+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "医生给1岁娃开小众药被AI提醒慎用",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -71,7 +71,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -98,15 +98,37 @@
           "time_info": "02时20分"
         },
         {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "“星条旗插在格陵兰土地上” 特朗普用AI描绘自己的领土野心",
           "url": "https://flash.jin10.com/detail/20260120140732774800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
+          "url": "https://news.ifeng.com/c/8q4LVghIqeV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
@@ -129,6 +151,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32423683",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "百时美施贵宝宣布与微软合作，共同推进AI驱动的肺癌早期检测。",
+          "url": "https://flash.jin10.com/detail/20260120195938474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "机构调查：80%员工认为AI将影响工作岗位，Z世代最为担忧",
@@ -175,6 +219,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "H200对AI产业影响如何",
+          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（1月20日）",
           "url": "https://flash.jin10.com/detail/20260120072133837800",
           "source": "金十数据",
@@ -189,7 +244,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】事关经济！两场重要发布会今日举行；最高检：从严惩治财务造假、操纵市场等证券犯罪",
@@ -231,9 +286,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "2026年我国经济发展潜能巨大",
+          "url": "https://www.toutiao.com/trending/7597358830946881033/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
@@ -253,9 +319,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "三大引擎点亮2025中国经济",
+          "url": "https://www.douyin.com/hot/2374196",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "日债遭抛售,经济死相藏不住",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349417&amp;topic_name=%E6%97%A5%E5%80%BA%E9%81%AD%E6%8A%9B%E5%94%AE%2C%E7%BB%8F%E6%B5%8E%E6%AD%BB%E7%9B%B8%E8%97%8F%E4%B8%8D%E4%BD%8F",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "一图读懂2025年中国经济成绩单",
@@ -287,7 +375,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -309,7 +397,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -323,12 +411,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：在贸易紧张局势期间应保持冷静。 关税显然对经济活动不利。 必须全面评估新关税可能产生的所有影响。 预计欧洲将出现“温和”的通胀效应。 价格下跌的风险至少与价格上涨的风险一样大。 若通胀持续偏离2%目标，欧洲央行将调整应对。 法国财政预算进展方面传来好消息。",
+          "url": "https://wallstreetcn.com/livenews/3040432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "我国研究人员成功研发面向眼内手术的自主机器人系统",
@@ -340,6 +439,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "日盈电子：目前公司无人形机器人相关业务收入",
+          "url": "https://wallstreetcn.com/livenews/3040451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996233131175462349",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     }
