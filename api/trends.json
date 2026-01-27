@@ -1,496 +1,216 @@
 {
-  "generated_at": "2026-01-27T20:28:43.289283+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-01-28T02:26:26.605694+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 32,
+      "match_count": 11,
       "titles": [
         {
-          "title": "丁薛祥：科技革命和产业变革越是深入发展 越要努力抢占国际竞争制高点",
-          "url": "https://www.cls.cn/detail/2270241",
+          "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
+          "url": "https://www.cls.cn/detail/2271357",
           "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 09时05分]"
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 20时28分]"
-        },
-        {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时22分 ~ 20时28分]"
-        },
-        {
-          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "OpenAI首席信息安全官宣布将离职",
-          "url": "https://flash.jin10.com/detail/20260127140630592800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "桥水CIO：AI领域公司无法接受落后 资本支出会层层加码",
-          "url": "https://flash.jin10.com/detail/20260127084641870800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "2025中国十大科技进展新闻",
-          "url": "https://s.weibo.com/weibo?q=%232025%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E8%BF%9B%E5%B1%95%E6%96%B0%E9%97%BB%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
-          "url": "https://www.cls.cn/detail/2271357",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "【数据看盘】8.82亿元资金抢筹网宿科技 化工ETF连续两周份额大增",
-          "url": "https://www.cls.cn/detail/2269898",
-          "source": "财联社热门",
-          "ranks": [
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
+          "url": "https://flash.jin10.com/detail/20260128020246054800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "02时26分"
         },
         {
-          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
-          "url": "https://wallstreetcn.com/articles/3764155",
+          "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
+          "url": "https://wallstreetcn.com/articles/3764253",
           "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 14时22分]"
-        },
-        {
-          "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
-          "url": "https://wallstreetcn.com/articles/3764149",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 14时22分]"
-        },
-        {
-          "title": "阶跃星辰印奇谈AI商业化",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
-          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 09时05分]"
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
-          "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
-          "url": "https://www.cls.cn/detail/2270223",
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 09时05分]"
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
-          "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
-          "url": "https://www.cls.cn/detail/2270449",
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
           "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
-          "url": "https://www.cls.cn/detail/2270597",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "A股算力概念股震荡回升，宏景科技20cm涨停，云赛智联触及涨停，协创数据、世纪恒通、奥飞数据、润建股份、并行科技、青云科技冲高。",
-          "url": "https://wallstreetcn.com/livenews/3044489",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "中信证券：AI产业趋势明确 持续看好光通信板块",
-          "url": "https://wallstreetcn.com/livenews/3044290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "A股半导体产业链拉升，华天科技反包涨停，华虹公司涨超6%，此前东芯股份、康强电子涨停，明微电子、盛科通信、普冉股份、国民技术、兴福电子等多股涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3044484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "中信证券：大厂角逐ToD AI医疗 有望跑通商业闭环",
-          "url": "https://wallstreetcn.com/livenews/3044288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
           "ranks": [
-            13
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时26分]"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3044927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时26分"
         },
         {
-          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
-          "url": "https://wallstreetcn.com/livenews/3044481",
+          "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
+          "url": "https://wallstreetcn.com/livenews/3044925",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
-          "url": "https://www.zhihu.com/question/1998931277835941056",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "俞敏洪称AI+教育会消灭大量老师岗",
-          "url": "https://www.toutiao.com/trending/7598868320989118473/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "外网AI视频假如中国替代了美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91AI%E8%A7%86%E9%A2%91%E5%81%87%E5%A6%82%E4%B8%AD%E5%9B%BD%E6%9B%BF%E4%BB%A3%E4%BA%86%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "报道称，OpenAI副总裁奈特即将离职。",
-          "url": "https://wallstreetcn.com/livenews/3044468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "拓荆科技：股东国家集成电路基金完成减持2.99%",
-          "url": "https://wallstreetcn.com/livenews/3044747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时26分"
         },
         {
-          "title": "A股大飞机板块持续拉升，航发控制、航发科技涨停，图南股份涨超10%，航亚科技、航发动力、国机精工、飞沃科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3044467",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
+          "url": "https://flash.jin10.com/detail/20260128010307000800",
+          "source": "金十数据",
           "ranks": [
-            23
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "百度智能云上调AI相关收入增速目标至200%",
-          "url": "https://wallstreetcn.com/livenews/3044269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "A股商业航天板块短线拉升，盛路通信涨停，航宇微涨超10%，三角防务、欧科亿、鼎通科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3044461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时26分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "经济增长主引擎 动力足",
-          "url": "https://www.toutiao.com/trending/7599691226657259561/",
-          "source": "今日头条",
+          "title": "欧洲央行管委内格尔：我同意欧洲央行首席经济学家连恩的观点，即目前在利率方向上没有充分的理由进行调整。",
+          "url": "https://flash.jin10.com/detail/20260128013259225800",
+          "source": "金十数据",
           "ranks": [
-            3
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时26分"
         },
         {
-          "title": "2026年经济九大风向",
-          "url": "https://www.douyin.com/hot/2380959",
-          "source": "抖音",
+          "title": "路威酩轩（LVMH）首席执行官：地缘政治危机和经济不确定性使我们有理由对前景保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20260128012509070800",
+          "source": "金十数据",
           "ranks": [
-            3
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "02时26分"
         },
         {
-          "title": "英媒称英首相斯塔默将携最高级别官员和企业高管访问中国，如何看待此次来访？中英经济合作会有变化吗？",
-          "url": "https://www.zhihu.com/question/1999123877784228824",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 09时05分]"
-        },
-        {
-          "title": "山东、山西、河南、河北2025年经济成绩单均已出炉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32464152",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 09时05分]"
-        },
-        {
-          "title": "「疗愈经济」崛起，有人一次充值 5000 元，年轻人为何愿为香气买单？「闻香」真能进行心理疗愈吗？",
-          "url": "https://www.zhihu.com/question/1997730524471455984",
-          "source": "知乎",
+          "title": "路威酩轩（LVMH）首席执行官：经济环境难以预测。",
+          "url": "https://flash.jin10.com/detail/20260128010317117800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时26分"
         },
         {
-          "title": "圭亚那财政部长：预计2026年经济将增长16.2%。",
-          "url": "https://flash.jin10.com/detail/20260127080607226800",
+          "title": "路威酩轩（LVMH）：地缘政治和宏观经济环境仍不确定。",
+          "url": "https://flash.jin10.com/detail/20260128005245508800",
           "source": "金十数据",
           "ranks": [
-            24
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "02时26分"
         }
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "宇树成为2026年春晚机器人合作伙伴",
-          "url": "https://www.cls.cn/detail/2270217",
-          "source": "财联社热门",
+          "title": "谷歌：为手机推出强大的防盗保护功能。",
+          "url": "https://flash.jin10.com/detail/20260128010248348800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人力资源社会保障部将有新政策",
+          "url": "https://www.douyin.com/hot/2380742",
+          "source": "抖音",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时23分 ~ 09时05分]"
-        },
-        {
-          "title": "天奇股份：公司于2025年12月参与银河通用机器人融资，获得银河通用机器人不高于0.38%股权。本次投资事项已经公司管理层审议，且未达到信息披露标准。截至本公告披露日，本次投资尚未完成交割。本次投资事项对公司未来业绩影响存在不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3044776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "工业机器人当“车间主任”还有多远",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E2%80%9C%E8%BD%A6%E9%97%B4%E4%B8%BB%E4%BB%BB%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
-          "url": "https://www.zhihu.com/question/1997009213193413444",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "[02时25分 ~ 02时26分]"
         }
       ]
     }
