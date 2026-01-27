@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T14:22:46.201065+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-01-27T20:28:43.289283+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "丁薛祥：科技革命和产业变革越是深入发展 越要努力抢占国际竞争制高点",
@@ -19,13 +19,36 @@
           "time_info": "[02时23分 ~ 09时05分]"
         },
         {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 20时28分]"
+        },
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 20时28分]"
+        },
+        {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
           "source": "澎湃新闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -36,7 +59,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -63,26 +86,26 @@
           "time_info": "09时05分"
         },
         {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "20时28分"
         },
         {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
+          "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
+          "url": "https://www.cls.cn/detail/2271357",
+          "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "20时28分"
         },
         {
           "title": "【数据看盘】8.82亿元资金抢筹网宿科技 化工ETF连续两周份额大增",
@@ -161,7 +184,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -172,7 +195,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -194,7 +217,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -216,9 +239,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -227,7 +261,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -249,7 +283,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -271,7 +305,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -282,9 +316,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "拓荆科技：股东国家集成电路基金完成减持2.99%",
+          "url": "https://wallstreetcn.com/livenews/3044747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "A股大飞机板块持续拉升，航发控制、航发科技涨停，图南股份涨超10%，航亚科技、航发动力、国机精工、飞沃科技跟涨。",
@@ -293,7 +338,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -315,7 +360,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         }
@@ -323,7 +368,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "经济增长主引擎 动力足",
@@ -332,7 +377,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -343,7 +388,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -370,6 +415,17 @@
           "time_info": "[02时23分 ~ 09时05分]"
         },
         {
+          "title": "「疗愈经济」崛起，有人一次充值 5000 元，年轻人为何愿为香气买单？「闻香」真能进行心理疗愈吗？",
+          "url": "https://www.zhihu.com/question/1997730524471455984",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "圭亚那财政部长：预计2026年经济将增长16.2%。",
           "url": "https://flash.jin10.com/detail/20260127080607226800",
           "source": "金十数据",
@@ -384,7 +440,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "宇树成为2026年春晚机器人合作伙伴",
@@ -398,13 +454,24 @@
           "time_info": "[02时23分 ~ 09时05分]"
         },
         {
+          "title": "天奇股份：公司于2025年12月参与银河通用机器人融资，获得银河通用机器人不高于0.38%股权。本次投资事项已经公司管理层审议，且未达到信息披露标准。截至本公告披露日，本次投资尚未完成交割。本次投资事项对公司未来业绩影响存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3044776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "工业机器人当“车间主任”还有多远",
           "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E2%80%9C%E8%BD%A6%E9%97%B4%E4%B8%BB%E4%BB%BB%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
           "source": "百度热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         }
@@ -421,7 +488,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         }
