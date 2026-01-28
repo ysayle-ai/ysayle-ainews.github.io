@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T09:02:31.612690+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-01-28T14:23:54.095204+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 14时23分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -25,11 +26,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 14时23分]"
+        },
+        {
+          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 14时23分]"
         },
         {
           "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
@@ -43,15 +56,16 @@
           "time_info": "[02时25分 ~ 02时26分]"
         },
         {
-          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
-          "url": "https://wallstreetcn.com/articles/3764253",
-          "source": "华尔街见闻",
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 14时23分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -63,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        },
-        {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         },
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -121,6 +124,29 @@
           "time_info": "[02时25分 ~ 02时26分]"
         },
         {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 14时23分]"
+        },
+        {
+          "title": "今年产能已售罄！数据中心需求大涨 希捷科技季度营收同比增22%",
+          "url": "https://www.cls.cn/detail/2271989",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
           "url": "https://wallstreetcn.com/livenews/3044927",
           "source": "华尔街见闻-快讯",
@@ -130,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -143,13 +180,24 @@
           "time_info": "02时26分"
         },
         {
+          "title": "1月28日投资避雷针：东材科技等三公司同日公告 实际控制人熊海涛被立案调查并留置",
+          "url": "https://www.cls.cn/detail/2271992",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "消息人士称，软银就向OpenAI追加投资进行谈判，这是该初创公司寻求筹集高达1000亿美元新资本努力的一部分。",
           "url": "https://flash.jin10.com/detail/20260128082816677800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -160,9 +208,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
@@ -171,20 +230,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
         {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
+          "title": "A股液冷服务器概念震荡拉升，远东股份涨停，欧陆通、鼎通科技、奕东电子涨超10%，鸿富瀚、飞龙股份、英维克等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3045283",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "14时23分"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -204,9 +263,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "臻镭科技预计2025扣非净利润增超36倍",
@@ -215,7 +285,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         }
@@ -223,7 +293,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "欧洲央行管委内格尔：我同意欧洲央行首席经济学家连恩的观点，即目前在利率方向上没有充分的理由进行调整。",
@@ -246,6 +316,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "北京：2026年拟制定民营经济促进条例、人工智能产业发展条例等",
+          "url": "https://wallstreetcn.com/livenews/3045293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "欧洲央行执委Cipollone：不确定性可能加剧，影响经济复苏。",
+          "url": "https://wallstreetcn.com/livenews/3045285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "欧盟正式通过全面禁止进口俄天然气法规，扎哈罗娃称「他们已经放弃了自由」，这对欧洲和俄经济有何影响？",
+          "url": "https://www.zhihu.com/question/1999441890974638881",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "路威酩轩（LVMH）首席执行官：经济环境难以预测。",
@@ -276,7 +379,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         }
@@ -293,9 +396,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 14时23分]"
         },
         {
           "title": "谷歌：为手机推出强大的防盗保护功能。",
@@ -307,6 +410,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     },
