@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T14:27:26.078449+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-01-31T20:27:02.877166+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -25,9 +25,36 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "299吃科技,尘白菜品全预制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349919&amp;topic_name=299%E5%90%83%E7%A7%91%E6%8A%80%2C%E5%B0%98%E7%99%BD%E8%8F%9C%E5%93%81%E5%85%A8%E9%A2%84%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            18,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时30分 ~ 20时27分]"
+        },
+        {
+          "title": "够飒!AI女团跨界维修通马桶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349904&amp;topic_name=%E5%A4%9F%E9%A3%92%21AI%E5%A5%B3%E5%9B%A2%E8%B7%A8%E7%95%8C%E7%BB%B4%E4%BF%AE%E9%80%9A%E9%A9%AC%E6%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时30分 ~ 20时27分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -42,30 +69,27 @@
           "time_info": "[09时07分 ~ 14时27分]"
         },
         {
-          "title": "299吃科技,尘白菜品全预制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349919&amp;topic_name=299%E5%90%83%E7%A7%91%E6%8A%80%2C%E5%B0%98%E7%99%BD%E8%8F%9C%E5%93%81%E5%85%A8%E9%A2%84%E5%88%B6",
-          "source": "贴吧",
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            18,
-            21
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时30分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 20时27分]"
         },
         {
-          "title": "够飒!AI女团跨界维修通马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349904&amp;topic_name=%E5%A4%9F%E9%A3%92%21AI%E5%A5%B3%E5%9B%A2%E8%B7%A8%E7%95%8C%E7%BB%B4%E4%BF%AE%E9%80%9A%E9%A9%AC%E6%A1%B6",
-          "source": "贴吧",
+          "title": "我国有哪些顶尖科技",
+          "url": "https://www.toutiao.com/trending/7601070236545187886/",
+          "source": "今日头条",
           "ranks": [
-            23,
-            27,
-            29
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时30分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 20时27分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
@@ -80,24 +104,24 @@
           "time_info": "[09时07分 ~ 14时27分]"
         },
         {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
           "url": "https://www.zhihu.com/question/2000516785095537569",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -108,18 +132,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "我国有哪些顶尖科技",
-          "url": "https://www.toutiao.com/trending/7601070236545187886/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -130,7 +143,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -199,8 +212,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
           "url": "https://www.zhihu.com/question/2000222256375227441",
@@ -238,8 +262,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 14时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 20时27分]"
         },
         {
           "title": "伊朗总统：敌对势力企图将伊朗社会抗议演变为内战",
@@ -248,7 +272,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
