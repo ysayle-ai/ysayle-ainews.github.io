@@ -1,55 +1,93 @@
 {
-  "generated_at": "2026-02-01T02:20:20.203331+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-02-01T09:22:45.004904+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "揭秘OpenAI掌门人的上位史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98OpenAI%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84%E4%B8%8A%E4%BD%8D%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
           "url": "https://www.zhihu.com/question/2000597877295174051",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 09时22分]"
         },
         {
           "title": "我国有哪些顶尖科技",
           "url": "https://www.toutiao.com/trending/7601070236545187886/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 09时22分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
           "url": "https://wallstreetcn.com/livenews/3047705",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 09时22分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
           "url": "https://www.cls.cn/detail/2275533",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 09时22分]"
+        },
+        {
+          "title": "299吃科技,尘白菜品全预制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349919&amp;topic_name=299%E5%90%83%E7%A7%91%E6%8A%80%2C%E5%B0%98%E7%99%BD%E8%8F%9C%E5%93%81%E5%85%A8%E9%A2%84%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 09时22分]"
+        },
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "09时22分"
         },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -105,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "299吃科技,尘白菜品全预制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349919&amp;topic_name=299%E5%90%83%E7%A7%91%E6%8A%80%2C%E5%B0%98%E7%99%BD%E8%8F%9C%E5%93%81%E5%85%A8%E9%A2%84%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
         }
       ]
     },
@@ -128,11 +155,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%A0%86%E6%8A%A2%E4%B8%8A%E6%98%A5%E6%99%9A+%E5%87%BA%E5%9C%BA%E8%A6%81%E8%8A%B11%E4%BA%BF",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 09时22分]"
         }
       ]
     },
@@ -145,11 +173,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 09时22分]"
         }
       ]
     },
