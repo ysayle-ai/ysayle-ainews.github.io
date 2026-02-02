@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T02:22:00.388590+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-02T09:14:32.961447+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 09时14分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 09时14分]"
+        },
+        {
+          "title": "同属国产百万级高端增程，为何黑科技拉满的 2.0T 仰望 U8，还卖不过饱受争议的 1.5T 尊界 S800？",
+          "url": "https://www.zhihu.com/question/2001070081015318180",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -47,7 +58,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -58,7 +69,46 @@
           "ranks": [
             25
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "何小鹏回应IRON机器人走猫步时摔倒",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
+        },
+        {
+          "title": "MIM粉已送样下游客户 机器人概念股斩获4天3板 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2276906",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
+          "url": "https://wallstreetcn.com/livenews/3047809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
@@ -75,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -84,11 +134,12 @@
           "url": "https://wallstreetcn.com/articles/3764679",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 09时14分]"
         },
         {
           "title": "冰雪经济破万亿 下一个“尔滨”在哪",
@@ -104,34 +155,6 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "何小鹏回应IRON机器人走猫步时摔倒",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
-          "url": "https://wallstreetcn.com/livenews/3047809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -140,11 +163,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 09时14分]"
         }
       ]
     }
