@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T14:53:09.851583+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-02-02T20:36:25.313468+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -41,6 +41,17 @@
           "time_info": "[14时52分 ~ 14时53分]"
         },
         {
+          "title": "沪市首份年报出炉：芯导科技2025年实现净利润1.06亿元，同比下降4.91%；拟10派4.3元。",
+          "url": "https://wallstreetcn.com/livenews/3048357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "同属国产百万级高端增程，为何黑科技拉满的 2.0T 仰望 U8，还卖不过饱受争议的 1.5T 尊界 S800？",
           "url": "https://www.zhihu.com/question/2001070081015318180",
           "source": "知乎",
@@ -69,11 +80,45 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 20时36分]"
+        },
+        {
+          "title": "绿联科技：向香港联合交易所有限公司递交H股发行上市的申请并刊发申请资料。",
+          "url": "https://wallstreetcn.com/livenews/3048354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "贵州爱茅台数字科技有限公司揭牌成立",
+          "url": "https://wallstreetcn.com/livenews/3048352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "消息人士称，SpaceX最早可能在本周宣布与XAI的协议。",
+          "url": "https://flash.jin10.com/detail/20260202192751695800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -87,6 +132,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "报告：预计外资将在科技保险、养老金融等领域与中国市场更深度地融合",
+          "url": "https://wallstreetcn.com/livenews/3048338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
           "url": "https://wallstreetcn.com/livenews/3047799",
           "source": "华尔街见闻-快讯",
@@ -98,13 +154,24 @@
           "time_info": "02时22分"
         },
         {
+          "title": "消息人士称，SpaceX最早可能在本周宣布与XAI的协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3048331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "恒生科技指数午后跌超4%",
           "url": "https://wallstreetcn.com/livenews/3048088",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         }
@@ -112,18 +179,30 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
+          "url": "https://www.cls.cn/detail/2277374",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
         {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
           "url": "https://www.cls.cn/detail/2277353",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 20时36分]"
         },
         {
           "title": "何小鹏回应IRON机器人走猫步时摔倒",
@@ -135,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 02时22分]"
+        },
+        {
+          "title": "红包老奶大战机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "MIM粉已送样下游客户 机器人概念股斩获4天3板 本周机构密集调研相关上市公司",
@@ -157,12 +247,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "侧记｜预制菜、短剧、机器人……上海政协委员们的两会关键词里有什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32513400",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "欧佩克+声明：重申致力于维护市场稳定，并表示全球经济前景稳定，且当前石油市场基本面健康，库存水平较低。",
@@ -197,6 +298,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 02时22分]"
+        },
+        {
+          "title": "经济学家：欧元若持续走强 或成欧洲央行进一步降息诱因",
+          "url": "https://flash.jin10.com/detail/20260202195600843800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
+          "url": "https://www.cls.cn/detail/2277867",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "波兰财政部长：德国和波兰共同承担欧洲经济复苏的责任。",
+          "url": "https://flash.jin10.com/detail/20260202191655019800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
