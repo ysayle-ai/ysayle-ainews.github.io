@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-04T14:39:12.591644+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-02-04T20:37:41.924594+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 25,
+      "match_count": 38,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 20时37分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -34,11 +35,34 @@
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 20时37分]"
+        },
+        {
+          "title": "欧盟宣布调查金风科技 外交部回应",
+          "url": "https://www.cls.cn/detail/2280238",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美媒：美参议员敦促审查科技巨头AI交易的反垄断风险",
+          "url": "https://flash.jin10.com/detail/20260204202726782800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -61,6 +85,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3049876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "容百科技回应与LG专利纠纷：相关诉讼仍在进行中，子公司载世能源业务未受影响",
+          "url": "https://wallstreetcn.com/livenews/3049875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -120,6 +177,17 @@
           "time_info": "[02时43分 ~ 09时09分]"
         },
         {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
           "url": "https://www.cls.cn/detail/2279188",
           "source": "财联社热门",
@@ -129,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "据CNBC：美国民主党参议员沃伦及其他人士敦促美国联邦贸易委员会（FTC）严查科技领域的人工智能交易。",
+          "url": "https://flash.jin10.com/detail/20260204201814644800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -142,6 +221,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
           "url": "https://wallstreetcn.com/articles/3764782",
           "source": "华尔街见闻",
@@ -151,6 +241,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "南向资金追踪｜净流入约134亿港元创近两周新高 大举加仓多只科技龙头",
+          "url": "https://www.cls.cn/detail/2280565",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -173,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "锐新科技：正在筹划以发行股份及支付现金方式购买芜湖德恒汽车装备有限公司并募集配套资金事项，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3049865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美股爆发AI恐慌性抛售",
@@ -247,7 +370,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -258,7 +381,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -272,6 +395,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "腾讯混元AI Infra核心技术开源",
+          "url": "https://wallstreetcn.com/livenews/3049846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "金晶科技：公司注意到市场关注公司TCO玻璃市场进展情况。截至目前TCO玻璃行业市场尚较小，同时据公司初步统计，2025年1-9月TCO玻璃销售收入占当期营业收入比重较低，对当期营业收入不产生较大影响。",
+          "url": "https://wallstreetcn.com/livenews/3049838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -352,7 +497,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -363,7 +508,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
@@ -371,8 +516,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "智能机器人企业极智嘉总部落户雄安",
+          "url": "https://wallstreetcn.com/livenews/3049879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
         {
           "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
           "url": "https://www.cls.cn/detail/2279679",
@@ -410,13 +566,24 @@
           "time_info": "[02时43分 ~ 09时09分]"
         },
         {
+          "title": "Uber(UBER.N)将在中国香港、美国休斯敦、西班牙马德里和瑞士苏黎世推出机器人出租车。",
+          "url": "https://flash.jin10.com/detail/20260204195726881800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "越疆第三批全尺寸工业人形机器人量产交付",
           "url": "https://wallstreetcn.com/livenews/3049576",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
@@ -436,8 +603,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 20时37分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -454,7 +621,7 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新版“熔炉事件”让韩国社会炸锅",
@@ -467,6 +634,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 09时09分]"
+        },
+        {
+          "title": "两会之声｜政协委员建议上海中小学放春秋假，让学生有更多社会实践机会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32531230",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     }
