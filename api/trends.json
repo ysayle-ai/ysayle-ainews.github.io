@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T09:09:55.678789+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-02-04T14:39:12.591644+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -14,9 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 14时39分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -25,9 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 14时39分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -62,6 +73,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 09时09分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 14时39分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
+          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
+          "url": "https://www.cls.cn/detail/2279757",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -108,17 +153,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
           "url": "https://www.cls.cn/detail/2279310",
           "source": "财联社热门",
@@ -136,7 +170,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -147,7 +181,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -158,7 +192,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -202,9 +236,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "A股太空光伏概念再度拉升，晶科能源20cm涨停，双良节能、国晟科技、泽润新能、中来股份等多股此前封板，时创能源、晶盛机电、海泰新能等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3049579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
@@ -232,8 +288,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "普京：俄罗斯经济放缓是人为造成的",
+          "url": "https://news.ifeng.com/c/8qSyftiySGT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
           "url": "https://wallstreetcn.com/livenews/3049273",
@@ -277,13 +344,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "瑞银(UBS.N)：地缘政治和经济政策不确定性加剧可能导致波动性飙升。",
+          "url": "https://flash.jin10.com/detail/20260204135648659800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "瑞银(UBS.N)：进入2026年第一季度，宏观背景仍然是全球经济稳健增长和通胀缓解。",
+          "url": "https://flash.jin10.com/detail/20260204134929461800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
+          "url": "https://www.cls.cn/detail/2279679",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 14时39分]"
+        },
         {
           "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
           "url": "https://www.zhihu.com/question/2001257534565150999",
@@ -309,15 +410,15 @@
           "time_info": "[02时43分 ~ 09时09分]"
         },
         {
-          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
-          "url": "https://www.cls.cn/detail/2279679",
-          "source": "财联社热门",
+          "title": "越疆第三批全尺寸工业人形机器人量产交付",
+          "url": "https://wallstreetcn.com/livenews/3049576",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时09分"
+          "time_info": "14时39分"
         }
       ]
     },
@@ -331,11 +432,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 09时09分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 14时39分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
