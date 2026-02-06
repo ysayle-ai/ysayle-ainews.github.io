@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T14:42:28.155027+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-02-06T20:37:31.136057+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -41,15 +41,37 @@
           "time_info": "09时10分"
         },
         {
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
           "url": "https://www.cls.cn/detail/2282565",
           "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -69,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -102,9 +124,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "美银：看好中小盘股 科技巨头吸引力下降",
+          "url": "https://flash.jin10.com/detail/20260206195329538800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "UP主们用AI办了场春晚",
@@ -147,11 +180,23 @@
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 20时37分]"
+        },
+        {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "20时37分"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -187,6 +232,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "科技股回调 “抗AI”板块成为新赢家",
+          "url": "https://flash.jin10.com/detail/20260206193333001800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "OpenAI：GPT-5.3-Codex正式发布",
           "url": "https://flash.jin10.com/detail/20260206022204665800",
           "source": "金十数据",
@@ -204,7 +260,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -237,7 +293,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -277,6 +333,57 @@
       ]
     },
     {
+      "keyword_group": "机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 20时37分]"
+        },
+        {
+          "title": "中国机器人在米兰冬奥会大秀功夫",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%A4%A7%E7%A7%80%E5%8A%9F%E5%A4%AB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
+          "url": "https://www.zhihu.com/question/2002420086112217076",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "智元机器人放弃春晚，自筹\"机器人奇妙夜\"晚会发布节目单",
+          "url": "https://wallstreetcn.com/livenews/3051160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "经济",
       "match_count": 4,
       "titles": [
@@ -287,7 +394,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -323,45 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
-          "url": "https://www.zhihu.com/question/2002420086112217076",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "智元机器人放弃春晚，自筹\"机器人奇妙夜\"晚会发布节目单",
-          "url": "https://wallstreetcn.com/livenews/3051160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         }
       ]
     },
