@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-02-06T09:10:17.499606+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-02-06T14:42:28.155027+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时38分 ~ 09时10分]"
+          "time_info": "[09时10分 ~ 14时42分]"
         },
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -37,20 +36,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
         {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
           "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "14时42分"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -62,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
+          "url": "https://www.cls.cn/detail/2282354",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "Panmure Liberum策略主管Joachim Klement指出：美国疲软的就业数据最直观地反映了其K型经济特征，科技行业蓬勃发展，其余领域却因关税攀升和需求萎缩而陷入困境。",
@@ -86,6 +96,30 @@
           "time_info": "02时38分"
         },
         {
+          "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 14时42分]"
+        },
+        {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
           "url": "https://wallstreetcn.com/articles/3765006",
           "source": "华尔街见闻",
@@ -104,9 +138,20 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 14时42分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时10分"
+          "time_info": "14时42分"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -153,6 +198,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "十大奶咖品牌求AI翻牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%A7%E5%A5%B6%E5%92%96%E5%93%81%E7%89%8C%E6%B1%82AI%E7%BF%BB%E7%89%8C%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
           "url": "https://wallstreetcn.com/livenews/3050813",
           "source": "华尔街见闻-快讯",
@@ -170,9 +226,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "黑石敲定五十亿澳元贷款协议 支持澳大利亚初创公司扩建AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3051140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "唐宫奇案剧宣闯入ai赛道",
@@ -181,7 +248,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -192,7 +259,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -203,7 +270,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         }
@@ -211,8 +278,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "欧洲央行管委Stournaras：欧元区经济已经经受住了关税带来的冲击。 我们处于一个稳定的均衡状态。 正在监控汇率，已将更高的欧元汇率纳入基线预测。 欧元升值幅度并不剧烈。 并未特别关注某一具体汇率水平。 欧洲央行目前处于良好状态。 风险已实现均衡。",
+          "url": "https://wallstreetcn.com/livenews/3051170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
         {
           "title": "印度尼西亚金融服务管理局：穆迪的评级确认表明印尼经济基本面依然稳固。",
           "url": "https://flash.jin10.com/detail/20260206084602777800",
@@ -220,7 +298,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -245,6 +323,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
+          "url": "https://www.zhihu.com/question/2002420086112217076",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "智元机器人放弃春晚，自筹\"机器人奇妙夜\"晚会发布节目单",
+          "url": "https://wallstreetcn.com/livenews/3051160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
@@ -274,23 +391,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 09时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
-          "url": "https://www.zhihu.com/question/2002420086112217076",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
         }
       ]
     }
