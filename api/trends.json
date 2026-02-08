@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-02-08T20:28:39.144142+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-02-09T02:23:50.050427+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 21,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
@@ -15,278 +48,125 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 20时28分]"
-        },
-        {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 20时28分]"
-        },
-        {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            26,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 20时28分]"
-        },
-        {
-          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
-          "url": "https://wallstreetcn.com/articles/3765226",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 14时39分]"
-        },
-        {
-          "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
-          "url": "https://wallstreetcn.com/livenews/3051748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 14时39分]"
-        },
-        {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 20时28分]"
-        },
-        {
-          "title": "UP主用AI做影游融合沉浸式科普",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 20时28分]"
+          "time_info": "02时23分"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时23分"
         },
         {
-          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
-          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "title": "美银Hartnett：小盘股比科技股更值得押注，科技巨头不再是赢家",
+          "url": "https://wallstreetcn.com/articles/3765250",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
+          "url": "https://www.zhihu.com/question/2003524766523473932",
           "source": "知乎",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
-          "url": "https://wallstreetcn.com/articles/3765198",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
-          "url": "https://wallstreetcn.com/articles/3765210",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
-          "url": "https://wallstreetcn.com/articles/3765225",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
-          "url": "https://wallstreetcn.com/articles/3765244",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
-          "url": "https://www.cls.cn/detail/2283686",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "02时23分"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
           "url": "https://www.cls.cn/detail/2283872",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时23分"
         },
         {
-          "title": "山西山阴生物科技公司爆炸已致8人遇难 企业法人代表被控制",
-          "url": "https://wallstreetcn.com/livenews/3051765",
-          "source": "华尔街见闻-快讯",
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "02时23分"
+        },
+        {
+          "title": "知名科技记者古尔曼：料新款iPhone 17e搭载A19芯片和MagSafe充电功能，还将采用苹果最新的自研蜂窝网络和无线芯片。苹果计划将售价维持在599美元不变。",
+          "url": "https://flash.jin10.com/detail/20260208220356422800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "知名科技记者古尔曼：苹果(AAPL.O)面向开发者的首个iOS26.4测试版（计划包含新版Siri的部分功能）定于2月23日当周发布。此外，苹果还计划在3月2日当周发布新产品，包括iPhone 17e、新款iPad和全新Mac电脑。",
+          "url": "https://flash.jin10.com/detail/20260208220213770800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "中泰证券：A股短期结构仍由科技主导，中期高股息板块或成为主线之一",
           "url": "https://wallstreetcn.com/livenews/3051812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "“AI.com”域名卖出7000万美元",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "02时23分"
         },
         {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
+          "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
+          "url": "https://flash.jin10.com/detail/20260208214233701800",
+          "source": "金十数据",
           "ranks": [
-            23
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "A股风格显著切换 科技板块深度调整",
-          "url": "https://www.toutiao.com/trending/7604434545974185523/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时23分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "泽连斯基：俄对美抛出12万亿美元经济合作方案",
-          "url": "https://news.ifeng.com/c/8qZdxbO9vTa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 20时28分]"
-        },
-        {
-          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
-          "url": "https://wallstreetcn.com/livenews/3051756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 14时39分]"
-        },
-        {
-          "title": "广州为什么不把佛山合并成为广州的一个区，却要去合并从化花都增城这些经济较差的区呢？",
-          "url": "https://www.zhihu.com/question/36833687",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 20时28分]"
-        },
         {
           "title": "泰国走到十字路口：经济疲软政治碎片化，同日举行议会选举和宪法公投",
           "url": "https://m.thepaper.cn/newsDetail_forward_32550732",
@@ -294,145 +174,98 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时23分"
         },
         {
-          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
-          "url": "https://wallstreetcn.com/livenews/3051720",
+          "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
+          "url": "https://wallstreetcn.com/livenews/3051830",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "02时23分"
         },
         {
-          "title": "监管部门：今年北京将重点查处平台经济领域垄断行为",
-          "url": "https://wallstreetcn.com/livenews/3051716",
-          "source": "华尔街见闻-快讯",
+          "title": "经济日报问答：春节开新能源车出行有保障吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561385",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
+          "url": "https://flash.jin10.com/detail/20260208215651951800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "02时23分"
+        },
+        {
+          "title": "啥是“手搓经济”",
+          "url": "https://www.baidu.com/s?wd=%E5%95%A5%E6%98%AF%E2%80%9C%E6%89%8B%E6%90%93%E7%BB%8F%E6%B5%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
-          "url": "https://flash.jin10.com/detail/20260208081050471800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 14时39分]"
-        },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
           "url": "https://wallstreetcn.com/articles/3765243",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时23分"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
           "url": "https://www.cls.cn/detail/2283869",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "机器人奇妙夜",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "小米推出触觉驱动的机器人精细抓取微调模型TacRefineNet",
-          "url": "https://wallstreetcn.com/livenews/3051722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "02时23分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
-          "url": "https://news.ifeng.com/c/8qY33XqGNml",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 09时45分]"
-        },
         {
           "title": "多地宣布春节期间机关单位内部停车场向社会免费开放",
           "url": "https://m.thepaper.cn/newsDetail_forward_32559517",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 20时28分]"
-        },
-        {
-          "title": "《黑社会》中，邓伯说和联胜有 50000 人，50000 人的黑帮是啥概念？",
-          "url": "https://www.zhihu.com/question/2003481261944091199",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 09时45分]"
-        },
-        {
-          "title": "春运首周，全社会跨区域人员流动量累计超14亿人次",
-          "url": "https://wallstreetcn.com/livenews/3051799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时23分"
         }
       ]
     }
