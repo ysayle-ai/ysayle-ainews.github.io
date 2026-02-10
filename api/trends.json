@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-10T14:55:29.283668+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-02-10T20:50:30.935654+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 20时50分]"
         },
         {
           "title": "不要对AI说谢谢",
@@ -127,7 +128,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -144,6 +145,32 @@
           "time_info": "[02时44分 ~ 14时55分]"
         },
         {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 20时50分]"
+        },
+        {
+          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
+          "url": "https://wallstreetcn.com/articles/3765328",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 20时50分]"
+        },
+        {
           "title": "AIGC整活新春联欢会",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -155,30 +182,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时44分 ~ 14时55分]"
-        },
-        {
-          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
-          "url": "https://wallstreetcn.com/articles/3765328",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 14时55分]"
-        },
-        {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 14时55分]"
         },
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -193,6 +196,18 @@
           "time_info": "[09时24分 ~ 14时55分]"
         },
         {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 20时50分]"
+        },
+        {
           "title": "AI 恐怖",
           "url": "https://s.weibo.com/weibo?q=AI%20%E6%81%90%E6%80%96&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -204,24 +219,35 @@
           "time_info": "[09时24分 ~ 09时25分]"
         },
         {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
           "url": "https://wallstreetcn.com/articles/3765297",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -243,7 +269,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -259,15 +285,37 @@
           "time_info": "02时44分"
         },
         {
+          "title": "宁德时代：成功发行50亿元绿色科技创新债券",
+          "url": "https://wallstreetcn.com/livenews/3053026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "AI短剧",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "德意志银行：将美光科技(MU.O)目标价从300美元上调至500美元。",
+          "url": "https://flash.jin10.com/detail/20260210200835777800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "微软不到一周内评级两度遭下调，Melius警告AI相关风险",
@@ -287,9 +335,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "春晚上豆包领红包赢科技好礼",
+          "url": "https://www.douyin.com/hot/2395858",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "中国央行：支持更多民营科技型企业、民营股权投资机构发债融资",
+          "url": "https://wallstreetcn.com/livenews/3053012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "“AI新大陆”正在向平民招手",
+          "url": "https://www.toutiao.com/trending/7605168435990892082/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "William O’Neil给予澜起科技A股买进的初始评级。",
@@ -298,7 +379,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -309,15 +390,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "豆包将上春晚发10万份科技好礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E5%B0%86%E4%B8%8A%E6%98%A5%E6%99%9A%E5%8F%9110%E4%B8%87%E4%BB%BD%E7%A7%91%E6%8A%80%E5%A5%BD%E7%A4%BC%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "乘势而上｜专访史晋川：要让民营经济的发展，从政策红利转到法治红利",
@@ -337,9 +429,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "十四届全国人大财政经济委员会副主任委员易炼红被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572587",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 20时50分]"
         },
         {
           "title": "中国经济最强县GDP超5600亿",
@@ -354,15 +458,15 @@
           "time_info": "[02时44分 ~ 09时25分]"
         },
         {
-          "title": "十四届全国人大财政经济委员会副主任委员易炼红被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572587",
-          "source": "澎湃新闻",
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时55分"
+          "time_info": "20时50分"
         },
         {
           "title": "拉加德呼吁改革以增强欧洲经济韧性",
@@ -398,13 +502,24 @@
           "time_info": "09时25分"
         },
         {
+          "title": "【央行：居民储蓄资产在银行存款与资管产品等金融资产之间的配置与选择会更加多元，不直接等价于整个金融体系和实体经济的流动性状况也会随之发生类似较大的变化】央行发布2025年第四季度中国货币政策执行报告。其中专栏“3”指出，2025年三季度，居民存款增速高位有所回落，各方关注增多，出现了一些关于银行存款“流失”的探讨。过去一年资管类产品规模则增长较快。从资管产品与银行存款合并角度来看待这些现象，可以更好观察金融体系流动性状况。随着我国金融市场不断深化，直接融资加快发展，融资渠道更加丰富，居民储蓄资产在银行存款与资管产品等金融资产之间的配置与选择会更加多元，这更多会直接影响银行负债端结构，但不直接等价于整个金融体系和实体经济的流动性状况也会随之发生类似较大的变化。当前社会融资环境持续较为宽松，金融支持实体经济力度稳固，将形式更为多元化的资产、负债合并观察，有利于更好全面评估实际货币金融条件。",
+          "url": "https://wallstreetcn.com/livenews/3053010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "俄罗斯经济快撑不住了吗",
           "url": "https://www.toutiao.com/trending/7605054942725803556/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         }
@@ -412,7 +527,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -437,15 +552,37 @@
           "time_info": "[09时24分 ~ 09时25分]"
         },
         {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
+          "url": "https://www.cls.cn/detail/2285961",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "阿里达摩院开源具身大脑基模RynnBrain 机器人首次拥有时空记忆",
           "url": "https://wallstreetcn.com/livenews/3052752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "人形机器人创业者的未来狂想",
+          "url": "https://www.douyin.com/hot/2396123",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "A股机器人概念股午后活跃，万向钱潮涨停，力星股份、斯菱智驱、五洲新春、天奇股份、中大力德跟涨。",
@@ -454,16 +591,49 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "中国机器人首次走进联合国庆新春",
+          "url": "https://www.toutiao.com/trending/7605078076875116086/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052460",
@@ -474,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
