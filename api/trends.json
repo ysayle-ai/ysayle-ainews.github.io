@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T14:52:24.909579+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-02-12T20:41:37.104050+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 20时41分]"
         },
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -70,20 +70,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
         {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
+          "title": "从严整治传播无AI标识虚假信息问题",
+          "url": "https://www.toutiao.com/trending/7605939603580898867/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "20时41分"
         },
         {
           "title": "五角大楼施压AI巨头 力求在机密网络无限制部署大模型",
@@ -95,6 +95,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            23,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 20时41分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -109,17 +123,29 @@
           "time_info": "[02时51分 ~ 09时16分]"
         },
         {
-          "title": "最癫的AI赛博榨菜",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
-          "source": "bilibili 热搜",
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            23,
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 14时52分]"
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 20时41分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时51分 ~ 20时41分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -129,18 +155,6 @@
             16,
             13,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 14时52分]"
-        },
-        {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            26
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -225,15 +239,59 @@
           "time_info": "02时51分"
         },
         {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://www.cls.cn/detail/2288655",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "【每日收评】科技股全线回暖！创业板指与科创50双双涨超1%，算力产业链强势领涨",
+          "url": "https://www.cls.cn/detail/2288516",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "券商晨会精华：春节后科技成长风格将有望卷土再来",
           "url": "https://www.cls.cn/detail/2287842",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
+          "url": "https://www.cls.cn/detail/2288560",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "蚂蚁阿福开启春节支付宝红包活动 AI医疗行业有望再度站上风口",
@@ -242,7 +300,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -253,7 +311,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -264,9 +322,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
+          "url": "https://www.zhihu.com/question/2004603319558042744",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "港股芯片股持续走高，天数智芯午后涨幅扩大至25%，壁仞科技涨近10%，兆易创新涨超8%。",
@@ -275,7 +355,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -297,9 +377,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "用AI解锁吴克群将军令",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
@@ -308,9 +399,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -330,7 +432,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         }
@@ -338,7 +440,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "加拿大央行会议纪要：当前利率水平取决于经济按预期发展。",
@@ -350,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
@@ -385,13 +498,24 @@
           "time_info": "02时51分"
         },
         {
+          "title": "英国财政大臣里夫斯：对英国在2026年超越经济合作与发展组织的预测充满信心。",
+          "url": "https://flash.jin10.com/detail/20260212195649784800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "电视剧《生命树》中关于博拉木拉究竟是应该先「发展经济」还是先「保护生态」，你更认可哪个观点？",
           "url": "https://www.zhihu.com/question/2004911888035701763",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -402,7 +526,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         }
@@ -430,7 +554,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         }
