@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-14T14:34:02.177444+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-02-14T20:27:36.433592+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 20时27分]"
+        },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
           "url": "https://www.cls.cn/detail/2290109",
@@ -20,27 +32,16 @@
           "time_info": "[09时11分 ~ 14时34分]"
         },
         {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 14时34分]"
-        },
-        {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 20时27分]"
         },
         {
           "title": "本周我国科技领域实现硬核突破",
@@ -76,6 +77,28 @@
           "time_info": "02时34分"
         },
         {
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "印度AI峰会“五天赛程”安排",
+          "url": "https://wallstreetcn.com/livenews/3055544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
           "url": "https://wallstreetcn.com/livenews/3055331",
           "source": "华尔街见闻-快讯",
@@ -93,9 +116,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
+          "url": "https://wallstreetcn.com/articles/3765723",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "高盛美国定制篮子团队副总裁Faris Mourad在致客户报告中指出：我们预计“抗AI替代”主题股票篮子的做多部分将从近期软件板块抛售中复苏，而做空部分将滞后。",
@@ -107,6 +141,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "意大利能源公司埃尼集团Eni确认：在安哥拉周边海域Algaita-01区块发现石油。",
+          "url": "https://wallstreetcn.com/livenews/3055541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
+          "url": "https://www.zhihu.com/question/2005725246167147371",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 20时27分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -126,11 +183,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 20时27分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -138,11 +196,25 @@
           "source": "贴吧",
           "ranks": [
             9,
-            18
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 20时27分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时34分 ~ 14时34分]"
+          "time_info": "[09时11分 ~ 20时27分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -155,29 +227,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 14时34分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 14时34分]"
-        },
-        {
-          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
-          "url": "https://www.zhihu.com/question/2005725246167147371",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "【数据看盘】一线游资扎堆深科技，多路资金联手抢筹光线传媒",
@@ -226,6 +275,28 @@
           "time_info": "02时34分"
         },
         {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
           "url": "https://wallstreetcn.com/livenews/3055412",
           "source": "华尔街见闻-快讯",
@@ -235,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "马上评｜AI时代，让我们更懂年味",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32604363",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "美股周五收盘，道指收涨0.1%，标普500指数涨0.05%，纳指跌0.22%。大型科技股涨跌不一 ，苹果(AAPL.O)跌2.27%，英伟达(NVDA.O)跌2.21%，闪迪(SNDK.O)跌0.59%，甲骨文(ORCL.N)涨2.34%，高通(QCOM.O)涨1.61%。",
@@ -270,13 +352,35 @@
           "time_info": "09时11分"
         },
         {
+          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
+          "url": "https://wallstreetcn.com/livenews/3055529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
+          "url": "https://www.zhihu.com/question/2003986885089981631",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
           "url": "https://flash.jin10.com/detail/20260214122124232800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -306,7 +410,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "智元机器人公布新专利 可提高机器人控制的精度",
@@ -315,7 +419,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -326,9 +430,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "北航新研究登上《自然-通讯》，或让机器人具备人眼级视觉能力",
+          "url": "https://wallstreetcn.com/livenews/3055538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "跨界投入 腾笼换鸟 汽车企业加速布局机器人赛道",
@@ -348,7 +463,68 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰已准备好讨论自由经济区，这或许会带来妥协。",
+          "url": "https://flash.jin10.com/detail/20260214195636552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "纽约联储GDPNow模型显示，美国2025年第四季度经济增速预期为2.71%（此前为2.69%）；2026年第一季度为2.63%（此前为2.59%）。",
+          "url": "https://flash.jin10.com/detail/20260214015140840800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "40余年春晚赞助商变化，见证中国经济社会发展变迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566200",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "四部门：因地制宜打造休闲农业、乡村旅游、民宿经济、电商直播等新产业、新业态金融服务模式",
+          "url": "https://wallstreetcn.com/livenews/3055458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "央行等四部门：加大农业特色产业金融支持力度 因地制宜打造民宿经济、电商直播等新产业、新业态金融服务模式",
+          "url": "https://flash.jin10.com/detail/20260214114637679800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -363,11 +539,12 @@
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 20时27分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -394,47 +571,8 @@
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纽约联储GDPNow模型显示，美国2025年第四季度经济增速预期为2.71%（此前为2.69%）；2026年第一季度为2.63%（此前为2.59%）。",
-          "url": "https://flash.jin10.com/detail/20260214015140840800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "四部门：因地制宜打造休闲农业、乡村旅游、民宿经济、电商直播等新产业、新业态金融服务模式",
-          "url": "https://wallstreetcn.com/livenews/3055458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "央行等四部门：加大农业特色产业金融支持力度 因地制宜打造民宿经济、电商直播等新产业、新业态金融服务模式",
-          "url": "https://flash.jin10.com/detail/20260214114637679800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "1月社会融资规模增量7.22万亿",
@@ -458,6 +596,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 14时34分]"
+        },
+        {
+          "title": "2月13日，全社会跨区域人员流动量完成28810.9万人次",
+          "url": "https://wallstreetcn.com/livenews/3055511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
