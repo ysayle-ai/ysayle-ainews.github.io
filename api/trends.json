@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-02-15T09:18:15.669706+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-02-15T14:40:20.999867+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
-        {
-          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
-          "url": "https://wallstreetcn.com/articles/3765723",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时18分]"
-        },
         {
           "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
           "url": "https://wallstreetcn.com/articles/3765732",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时40分]"
+        },
+        {
+          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
+          "url": "https://wallstreetcn.com/articles/3765723",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -38,20 +39,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时40分]"
         },
         {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
+          "title": "本周，“AI颠覆一切”的狼终于来了",
+          "url": "https://wallstreetcn.com/articles/3765735",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            8
+            8,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时40分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -66,16 +68,43 @@
           "time_info": "[02时21分 ~ 09时18分]"
         },
         {
-          "title": "本周，“AI颠覆一切”的狼终于来了",
-          "url": "https://wallstreetcn.com/articles/3765735",
-          "source": "华尔街见闻",
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
           "ranks": [
+            1,
             8,
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时40分]"
+        },
+        {
+          "title": "AI无视版权,老外集火围殴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时40分]"
+        },
+        {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时40分]"
         },
         {
           "title": "如何看待导演郭帆与 AI 短片《牌子》的互动，是否标志着 AI 创作正被主流影视圈所接受？",
@@ -90,16 +119,16 @@
           "time_info": "[02时21分 ~ 09时18分]"
         },
         {
-          "title": "AI无视版权,老外集火围殴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
-          "source": "贴吧",
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            12
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时18分]"
+          "time_info": "[09时17分 ~ 14时40分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -108,18 +137,6 @@
           "ranks": [
             12,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时18分]"
-        },
-        {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -143,17 +160,6 @@
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -239,6 +245,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
           "url": "https://www.zhihu.com/question/2005725246167147371",
           "source": "知乎",
@@ -250,6 +267,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "网文行业在未来二三十年真的会被 AI 给废掉吗？",
+          "url": "https://www.zhihu.com/question/1997776604575864283",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
           "url": "https://wallstreetcn.com/articles/3765728",
           "source": "华尔街见闻",
@@ -259,6 +287,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
+          "url": "https://wallstreetcn.com/articles/3765746",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "群核科技拿下境外备案，“杭州六小龙”首家上市公司渐近",
+          "url": "https://wallstreetcn.com/articles/3765739",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "今年的年货都是AI一手包办",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%B9%B4%E8%B4%A7%E9%83%BD%E6%98%AFAI%E4%B8%80%E6%89%8B%E5%8C%85%E5%8A%9E%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "当AI可以预测你和TA的婚后十年",
@@ -281,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
+          "url": "https://www.zhihu.com/question/1927393488770692768",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -307,72 +379,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "keyword_group": "经济",
+      "match_count": 8,
       "titles": [
         {
-          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时18分]"
-        },
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
-        },
-        {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
+          "title": "陈茂波：将积极拼经济、谋发展，同时开拓新市场、发展新兴产业",
+          "url": "https://wallstreetcn.com/livenews/3055591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            25
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 09时18分]"
-        },
-        {
-          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
-          "url": "https://www.cls.cn/detail/2290186",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 5,
-      "titles": [
+          "time_info": "14时40分"
+        },
         {
           "title": "美国务卿：古巴的唯一出路是开放经济",
           "url": "https://flash.jin10.com/detail/20260214212442292800",
@@ -409,6 +429,17 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "日本探测船采集含稀土淤泥返回，将推进经济性评估",
+          "url": "https://news.ifeng.com/c/8qlJB59vIp4",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好讨论自由经济区，这或许会带来妥协。",
           "url": "https://flash.jin10.com/detail/20260214195636552800",
           "source": "金十数据",
@@ -420,13 +451,24 @@
           "time_info": "02时21分"
         },
         {
+          "title": "陈茂波：将积极拼经济、谋发展，同时开拓新市场、发展新兴产业",
+          "url": "https://flash.jin10.com/detail/20260215115626307800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美国国务卿鲁比奥：就乌克兰安全问题与泽连斯基会面，深化国防和经济伙伴关系。",
           "url": "https://flash.jin10.com/detail/20260215080410350800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         }
@@ -434,18 +476,30 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "灵宝机器人乐队确认登陆北京卫视春晚",
+          "url": "https://flash.jin10.com/detail/20260215141421677800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
         {
           "title": "马斯克称擎天柱机器人将从明年开始改变人类生活",
           "url": "https://wallstreetcn.com/livenews/3055580",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 14时40分]"
         },
         {
           "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
@@ -454,7 +508,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -475,6 +529,71 @@
           "source": "百度热搜",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时40分]"
+        },
+        {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时40分]"
+        },
+        {
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 14时40分]"
+        },
+        {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 09时18分]"
+        },
+        {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
