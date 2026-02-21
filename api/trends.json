@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T14:31:18.662693+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-02-21T20:27:16.484281+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 20时27分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "美国贸易代表办公室：新的301条款调查可能涵盖大多数主要贸易伙伴，可能涉及工业产能过剩、强迫劳动、药品定价行为、对美国科技公司和数字产品的歧视等问题。",
@@ -54,6 +65,31 @@
           "time_info": "[02时34分 ~ 09时10分]"
         },
         {
+          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
+          "url": "https://www.cls.cn/detail/2291896",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 20时27分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 20时27分]"
+        },
+        {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
           "url": "https://wallstreetcn.com/articles/3765898",
           "source": "华尔街见闻",
@@ -73,30 +109,6 @@
           "ranks": [
             10,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 14时31分]"
-        },
-        {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 14时31分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -175,15 +187,48 @@
           "time_info": "[02时34分 ~ 09时10分]"
         },
         {
+          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
+          "url": "https://flash.jin10.com/detail/20260221184309452800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
           "url": "https://flash.jin10.com/detail/20260221100811881800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "印度AI峰会为何引发全球群嘲",
+          "url": "https://www.toutiao.com/trending/7609263367261261318/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -225,7 +270,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -276,108 +321,8 @@
       ]
     },
     {
-      "keyword_group": "机器人",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 14时31分]"
-        },
-        {
-          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
-          "url": "https://www.cls.cn/detail/2291772",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 14时31分]"
-        },
-        {
-          "title": "国际人形机器人论坛探讨机器人应用发展趋势",
-          "url": "https://wallstreetcn.com/livenews/3057160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台媒酸了:春晚机器人是合成",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 14时31分]"
-        },
-        {
-          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
-          "url": "https://www.cls.cn/detail/2291748",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 14时31分]"
-        },
-        {
-          "title": "机器人太秀,白皮转行喷环保",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 14时31分]"
-        },
-        {
-          "title": "大家觉得 2026 年春晚亮相的机器人有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2006826889025701597",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "机器人复刻成龙醉拳幕后",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%8D%E5%88%BB%E6%88%90%E9%BE%99%E9%86%89%E6%8B%B3%E5%B9%95%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国总统特朗普：最高法院的关税判决极度让人失望。 对最高法院的特定成员感到羞耻，他们缺乏勇气去做正确的事。 对那些（判定关税政策违法）持异议的成员表示感谢，他们真的让人感到骄傲。 最高法院“是愚蠢的”，他们是“走狗”。 在我看来，法院已经动摇了。 关税官司是经济国家安全的象征，对国家安全具有重要意义。 好消息是，还有比IEEPA更好的方法。 对美国占便宜的国家欣喜若狂，他们“在街头载歌载舞”的日子不会太长。",
@@ -426,6 +371,28 @@
           "time_info": "09时10分"
         },
         {
+          "title": "欧洲央行管委帕内塔：美国经济承受了特朗普关税的大部分负担",
+          "url": "https://flash.jin10.com/detail/20260221183838278800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "欧洲央行管委帕内塔：意大利经济在2025年增长了0.7%。",
+          "url": "https://flash.jin10.com/detail/20260221182714372800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "历史上南方（江南）的经济是如何发展起来的？",
           "url": "https://www.zhihu.com/question/49352503",
           "source": "知乎",
@@ -461,6 +428,111 @@
       ]
     },
     {
+      "keyword_group": "机器人",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 20时27分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 14时31分]"
+        },
+        {
+          "title": "国际人形机器人论坛探讨机器人应用发展趋势",
+          "url": "https://wallstreetcn.com/livenews/3057160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "台媒酸了:春晚机器人是合成",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 20时27分]"
+        },
+        {
+          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
+          "url": "https://www.cls.cn/detail/2291748",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 20时27分]"
+        },
+        {
+          "title": "机器人太秀,白皮转行喷环保",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 20时27分]"
+        },
+        {
+          "title": "机器人复刻成龙醉拳幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%8D%E5%88%BB%E6%88%90%E9%BE%99%E9%86%89%E6%8B%B3%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 20时27分]"
+        },
+        {
+          "title": "大家觉得 2026 年春晚亮相的机器人有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2006826889025701597",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -469,11 +541,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 20时27分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -485,6 +558,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "春运前20天预计全社会跨区域人员流动量50.8亿人次",
+          "url": "https://flash.jin10.com/detail/20260221193801574800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "春运前20天预计全社会跨区域人员流动量50.8亿人次",
+          "url": "https://wallstreetcn.com/livenews/3057189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
