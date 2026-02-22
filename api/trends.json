@@ -1,93 +1,44 @@
 {
-  "generated_at": "2026-02-22T20:28:36.257198+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-02-23T02:22:58.471967+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
           "url": "https://www.cls.cn/detail/2292111",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 20时28分]"
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 20时28分]"
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
           "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 14时36分]"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 20时28分]"
-        },
-        {
-          "title": "Seedance2.0重写全球AI版图",
-          "url": "https://www.douyin.com/hot/2407569",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 14时36分]"
-        },
-        {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "02时22分"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -96,42 +47,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时22分"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
           "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "02时22分"
         },
         {
-          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
-          "url": "https://wallstreetcn.com/articles/3765936",
-          "source": "华尔街见闻",
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
-          "url": "https://www.zhihu.com/question/2003060035803116831",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "02时22分"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -140,288 +80,76 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "央视军事最新AI大片发布",
-          "url": "https://www.toutiao.com/trending/7608653159187300415/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "02时22分"
         },
         {
-          "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
-          "url": "https://wallstreetcn.com/livenews/3057217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "王兴兴：机器人技术接近10岁孩子水平",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%8E%A5%E8%BF%9110%E5%B2%81%E5%AD%A9%E5%AD%90%E6%B0%B4%E5%B9%B3",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "王兴兴：机器人技术接近10岁孩子水平",
-          "url": "https://www.toutiao.com/trending/7608349146072285225/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 14时36分]"
-        },
-        {
-          "title": "台媒酸了:春晚机器人是合成",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            13,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 20时28分]"
-        },
-        {
-          "title": "机器人太秀,白皮转行喷环保",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            18,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 20时28分]"
-        },
-        {
-          "title": "春晚机器人爆火背后",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%86%E7%81%AB%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            29,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 14时36分]"
-        },
-        {
-          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
-          "url": "https://www.cls.cn/detail/2291772",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
-          "url": "https://www.cls.cn/detail/2292433",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 20时28分]"
-        },
-        {
-          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
-          "url": "https://www.cls.cn/detail/2291748",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "“春晚版熊猫机器人”拍出近6万高价",
-          "url": "https://www.toutiao.com/trending/7608551671303864370/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "机器人一败涂地",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E8%B4%A5%E6%B6%82%E5%9C%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "中国冰雪经济“热”起来",
-          "url": "https://www.douyin.com/hot/2407637",
+          "title": "Seedance2.0重写全球AI版图",
+          "url": "https://www.douyin.com/hot/2407569",
           "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "德国总理默茨：预计德国经济面临的关税负担将减轻。",
-          "url": "https://flash.jin10.com/detail/20260221225829902800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 09时15分]"
-        },
-        {
-          "title": "经济学家解读特朗普新关税：15%的税率下既有输家也有赢家",
-          "url": "https://flash.jin10.com/detail/20260222120127403800",
-          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
-        },
+          "time_info": "02时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "伊朗官员：伊美谈判内容涉及核承诺、美方承诺解除制裁以及经济合作等",
-          "url": "https://flash.jin10.com/detail/20260222191933832800",
-          "source": "金十数据",
+          "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
+          "url": "https://www.cls.cn/detail/2292433",
+          "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
-          "title": "万亿冰雪经济为什么救不了短道速滑",
-          "url": "https://www.toutiao.com/trending/7609504509361917503/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "美联储穆萨勒姆：如果关税以1:1的比例替代，那么对经济前景的看法将不变",
-          "url": "https://flash.jin10.com/detail/20260221214519589800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
         {
-          "title": "意大利外长：与欧盟贸易和经济安全专员谢夫乔维奇进行了长时间的对话，以协调意大利与欧盟成员国之间的共同行动。欧洲人之间的团结至关重要。明天我将参加国际贸易G7会议，然后召开关税工作组，向意大利企业通报局势进展。",
-          "url": "https://flash.jin10.com/detail/20260222174202604800",
-          "source": "金十数据",
+          "title": "台媒酸了:春晚机器人是合成",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
+          "source": "贴吧",
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "春运前20天预计全社会跨区域人员流动量50.8亿人次",
-          "url": "https://wallstreetcn.com/livenews/3057189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 09时15分]"
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
-          "title": "姥姥说上次吃还是在旧社会",
-          "url": "https://s.weibo.com/weibo?q=%E5%A7%A5%E5%A7%A5%E8%AF%B4%E4%B8%8A%E6%AC%A1%E5%90%83%E8%BF%98%E6%98%AF%E5%9C%A8%E6%97%A7%E7%A4%BE%E4%BC%9A&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "机器人太秀,白皮转行喷环保",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
+          "source": "贴吧",
           "ranks": [
-            6
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "02时22分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "经济",
       "match_count": 1,
       "titles": [
         {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
+          "title": "美国贸易代表格里尔：在关税方面，美国目前并不具备《国际紧急经济权力法》（IEEPA）所提供的同等灵活性。 乐于就贸易问题与国会展开对话。 美国可以使用国会此前在贸易方面已经赋予的权力。 本周末已与欧盟同行就贸易问题进行了沟通。",
+          "url": "https://wallstreetcn.com/livenews/3057275",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 14时36分]"
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     }
