@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T14:54:38.475639+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-02-23T20:40:45.809720+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 20时40分]"
         },
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -55,6 +55,43 @@
           "time_info": "[09时14分 ~ 14时54分]"
         },
         {
+          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
+          "url": "https://wallstreetcn.com/articles/3765968",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 20时40分]"
+        },
+        {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 20时40分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 20时40分]"
+        },
+        {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
           "url": "https://www.cls.cn/detail/2292342",
           "source": "财联社热门",
@@ -63,20 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 14时54分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 20时40分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -124,35 +149,13 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
-          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
-          "url": "https://wallstreetcn.com/articles/3765968",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
           "url": "https://www.zhihu.com/question/2008217541886043272",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -168,13 +171,24 @@
           "time_info": "02时22分"
         },
         {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "华泰证券港股策略：科技和周期耗材仍是清晰主线",
           "url": "https://wallstreetcn.com/livenews/3057356",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -193,7 +207,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "量增价跌！机器人表演租赁“出圈”",
@@ -211,11 +225,23 @@
           "url": "https://www.cls.cn/detail/2292433",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 20时40分]"
+        },
+        {
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "和蔡明演小品、跟沈腾演戏、给李宇春伴舞…机器人公司为何纷纷「砸钱」上春晚？",
@@ -263,13 +289,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
+          "url": "https://www.cls.cn/detail/2292720",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "王兴兴称机器人技术接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
+          "url": "https://www.zhihu.com/question/2008851829849604675",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "荣耀将推出首款人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3057449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
         {
           "title": "荷兰国际：本周一系列日本经济数据料展现积极信号 3月会议得以维持利率不变",
           "url": "https://flash.jin10.com/detail/20260223080744600800",
@@ -280,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "英国央行货币政策委员泰勒：失业率上升反映了周期性经济疲软。",
+          "url": "https://flash.jin10.com/detail/20260223195601840800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国贸易代表格里尔：在关税方面，美国目前并不具备《国际紧急经济权力法》（IEEPA）所提供的同等灵活性。 乐于就贸易问题与国会展开对话。 美国可以使用国会此前在贸易方面已经赋予的权力。 本周末已与欧盟同行就贸易问题进行了沟通。",
@@ -299,7 +380,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -310,7 +391,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         }
