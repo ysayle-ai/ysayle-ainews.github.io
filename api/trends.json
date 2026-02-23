@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-02-23T09:15:03.366075+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-02-23T14:54:38.475639+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 14时54分]"
+        },
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
           "url": "https://www.cls.cn/detail/2292111",
           "source": "财联社热门",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 09时15分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -40,6 +41,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 09时15分]"
+        },
+        {
+          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
+          "url": "https://wallstreetcn.com/articles/3765955",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 14时54分]"
+        },
+        {
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 14时54分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 14时54分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -65,41 +102,6 @@
           "time_info": "[02时22分 ~ 09时15分]"
         },
         {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 09时15分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 09时15分]"
-        },
-        {
-          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
-          "url": "https://wallstreetcn.com/articles/3765955",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
           "title": "博主：《飞驰人生3》韩寒沈腾战胜AI焦虑",
           "url": "https://www.toutiao.com/trending/7609833127870991881/",
           "source": "今日头条",
@@ -122,6 +124,39 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
+          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
+          "url": "https://wallstreetcn.com/articles/3765968",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
+          "url": "https://www.zhihu.com/question/2008217541886043272",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "Seedance2.0重写全球AI版图",
           "url": "https://www.douyin.com/hot/2407569",
           "source": "抖音",
@@ -133,13 +168,24 @@
           "time_info": "02时22分"
         },
         {
+          "title": "华泰证券港股策略：科技和周期耗材仍是清晰主线",
+          "url": "https://wallstreetcn.com/livenews/3057356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（2月23日）",
           "url": "https://flash.jin10.com/detail/20260223072732753800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -156,7 +202,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -168,8 +214,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 14时54分]"
+        },
+        {
+          "title": "和蔡明演小品、跟沈腾演戏、给李宇春伴舞…机器人公司为何纷纷「砸钱」上春晚？",
+          "url": "https://www.zhihu.com/question/2007172809869194937",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时22分 ~ 09时15分]"
+          "time_info": "[09时14分 ~ 14时54分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -196,17 +254,6 @@
           "time_info": "[02时22分 ~ 09时15分]"
         },
         {
-          "title": "和蔡明演小品、跟沈腾演戏、给李宇春伴舞…机器人公司为何纷纷「砸钱」上春晚？",
-          "url": "https://www.zhihu.com/question/2007172809869194937",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
           "title": "中国机器人为什么进化快",
           "url": "https://www.toutiao.com/trending/7609629495276011539/",
           "source": "今日头条",
@@ -221,7 +268,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "荷兰国际：本周一系列日本经济数据料展现积极信号 3月会议得以维持利率不变",
@@ -230,7 +277,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -244,6 +291,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "美国海关与边境保护局表示，与《国际紧急经济权力法案》（IEEPA）相关的关税编码将于2月24日起在自动化商业环境（ACE）海关系统中停用。",
+          "url": "https://flash.jin10.com/detail/20260223131203499800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "美国海关与边境保护局表示，将于美国东部时间2月24日星期二凌晨12:01（北京时间中午13:01）停止根据《国际紧急经济权力法》征收关税。",
+          "url": "https://flash.jin10.com/detail/20260223130907176800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         }
       ]
     }
