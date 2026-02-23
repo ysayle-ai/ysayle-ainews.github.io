@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T02:22:58.471967+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-23T09:15:03.366075+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,30 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
           "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -59,30 +61,65 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
           "url": "https://www.cls.cn/detail/2292342",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
           "url": "https://www.cls.cn/detail/2292422",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
+        },
+        {
+          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
+          "url": "https://wallstreetcn.com/articles/3765955",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "博主：《飞驰人生3》韩寒沈腾战胜AI焦虑",
+          "url": "https://www.toutiao.com/trending/7609833127870991881/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "法拉利F1独家黑科技曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E6%8B%89%E5%88%A9F1%E7%8B%AC%E5%AE%B6%E9%BB%91%E7%A7%91%E6%8A%80%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -94,13 +131,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（2月23日）",
+          "url": "https://flash.jin10.com/detail/20260223072732753800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "量增价跌！机器人表演租赁“出圈”",
+          "url": "https://wallstreetcn.com/livenews/3057321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
           "url": "https://www.cls.cn/detail/2292433",
@@ -109,37 +168,72 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 09时15分]"
+        },
+        {
+          "title": "和蔡明演小品、跟沈腾演戏、给李宇春伴舞…机器人公司为何纷纷「砸钱」上春晚？",
+          "url": "https://www.zhihu.com/question/2007172809869194937",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "中国机器人为什么进化快",
+          "url": "https://www.toutiao.com/trending/7609629495276011539/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "荷兰国际：本周一系列日本经济数据料展现积极信号 3月会议得以维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260223080744600800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
         {
           "title": "美国贸易代表格里尔：在关税方面，美国目前并不具备《国际紧急经济权力法》（IEEPA）所提供的同等灵活性。 乐于就贸易问题与国会展开对话。 美国可以使用国会此前在贸易方面已经赋予的权力。 本周末已与欧盟同行就贸易问题进行了沟通。",
           "url": "https://wallstreetcn.com/livenews/3057275",
