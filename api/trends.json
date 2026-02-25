@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:53:03.637566+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-02-25T21:37:08.154652+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 14时53分]"
-        },
-        {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 21时37分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -39,8 +28,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[02时48分 ~ 21时37分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 14时53分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -111,6 +111,17 @@
           "time_info": "[02时48分 ~ 02时49分]"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
+        {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3058291",
           "source": "华尔街见闻-快讯",
@@ -157,6 +168,17 @@
           "time_info": "[02时48分 ~ 09时18分]"
         },
         {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 21时37分]"
+        },
+        {
           "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
           "url": "https://wallstreetcn.com/articles/3766059",
           "source": "华尔街见闻",
@@ -169,15 +191,15 @@
           "time_info": "[09时18分 ~ 14时53分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
+          "title": "静待英伟达财报，美国科技股盘前小幅上涨，欧股续创新高，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -189,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 02时49分]"
+        },
+        {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "AI如果让90%的人都失业会怎样",
@@ -222,6 +255,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -307,9 +351,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "闻泰科技称正积极处置安世控制权事件，中国区业务较为稳健",
+          "url": "https://wallstreetcn.com/livenews/3058873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "恒生科技指数午后转跌。",
@@ -318,9 +373,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美联储理事沃勒：美国央行正推进AI的系统性部署",
@@ -345,6 +411,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "报道：美英两国初步重启科技协议相关工作",
+          "url": "https://wallstreetcn.com/livenews/3058862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "MSCI向客户提供AI接口，支持调用专属数据",
           "url": "https://wallstreetcn.com/livenews/3058259",
           "source": "华尔街见闻-快讯",
@@ -359,7 +436,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -373,6 +450,17 @@
           "time_info": "[02时48分 ~ 02时49分]"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
+        {
           "title": "乡镇公务员在「婚恋市场」遇冷，从经济角度看是公务员在相亲市场中含金量下降了么，乡镇编制有何压力？",
           "url": "https://www.zhihu.com/question/2006473884694778852",
           "source": "知乎",
@@ -382,6 +470,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 02时49分]"
+        },
+        {
+          "title": "19岁女生因经济舱综合征心脏骤停",
+          "url": "https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9B%A0%E7%BB%8F%E6%B5%8E%E8%88%B1%E7%BB%BC%E5%90%88%E5%BE%81%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "瑞士央行行长Schlegel：当前经济增长的很大一部分来自服务业。 瑞士企业称，招聘员工变得更加容易。 央行预计，瑞士经济将在2026年增长大约1%，通胀将在未来几个季度加速。 2026年可能会出现个别月份通胀为负值的情况。 央行政策将保持宽松状态。",
@@ -412,9 +511,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "李强出席中德经济顾问委员会座谈会",
+          "url": "https://wallstreetcn.com/livenews/3058883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "何立峰会见德国经济代表团",
+          "url": "https://wallstreetcn.com/livenews/3058880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美国贸易代表格里尔：正与加拿大和墨西哥磋商，以避免经济中断，并推动制造业回流美国。",
+          "url": "https://flash.jin10.com/detail/20260225210017807800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "下好经济发展“先手棋”，多地召开“新春第一会”",
@@ -446,6 +578,18 @@
           "time_info": "[02时48分 ~ 09时18分]"
         },
         {
+          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
+          "url": "https://www.zhihu.com/question/2009924225859805232",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 21时37分]"
+        },
+        {
           "title": "宇树发布新款四足机器人",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E5%9B%9B%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
@@ -456,17 +600,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 09时18分]"
-        },
-        {
-          "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
-          "url": "https://www.zhihu.com/question/2009924225859805232",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
         },
         {
           "title": "宇树发布新款四足机器人",
