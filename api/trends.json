@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T02:49:00.351740+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-25T09:18:53.263580+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -52,48 +52,96 @@
           "time_info": "[02时48分 ~ 02时49分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3058291",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
+          "url": "https://wallstreetcn.com/livenews/3058417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
           "url": "https://wallstreetcn.com/articles/3766083",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 09时18分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
           "url": "https://wallstreetcn.com/articles/3766081",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 09时18分]"
         },
         {
           "title": "李在明社媒发AI视频",
           "url": "https://www.douyin.com/hot/2410021",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 09时18分]"
+        },
+        {
+          "title": "字节跳动超 400 亿元出售沐瞳科技，对其游戏业务意味着什么？",
+          "url": "https://www.zhihu.com/question/2006631956604003126",
+          "source": "知乎",
+          "ranks": [
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 09时18分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -107,15 +155,26 @@
           "time_info": "[02时48分 ~ 02时49分]"
         },
         {
-          "title": "字节跳动超 400 亿元出售沐瞳科技，对其游戏业务意味着什么？",
-          "url": "https://www.zhihu.com/question/2006631956604003126",
-          "source": "知乎",
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
@@ -124,9 +183,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -135,7 +205,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -146,9 +216,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "宇树科技被诉专利侵权案二审宣判",
+          "url": "https://www.toutiao.com/trending/7609548043045716018/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美联储理事沃勒：美国央行正推进AI的系统性部署",
@@ -157,9 +249,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
+          "url": "https://wallstreetcn.com/livenews/3058389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "MSCI向客户提供AI接口，支持调用专属数据",
@@ -168,7 +271,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         }
@@ -176,7 +279,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -207,7 +310,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         },
@@ -218,9 +321,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "下好经济发展“先手棋”，多地召开“新春第一会”",
+          "url": "https://wallstreetcn.com/livenews/3058385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
@@ -233,22 +347,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%8C%E5%90%8E%E7%9A%8423%E4%B8%AA%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 09时18分]"
         },
         {
           "title": "宇树发布新款四足机器人",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E5%9B%9B%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 09时18分]"
         },
         {
           "title": "宇树发布新款四足机器人",
@@ -260,6 +376,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 02时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     }
