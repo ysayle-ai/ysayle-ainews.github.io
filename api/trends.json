@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-02-26T02:53:42.114724+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-26T09:11:55.669522+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
+          "url": "https://www.zhihu.com/question/2009666916382421190",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 09时11分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 09时11分]"
+        },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
@@ -17,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -30,26 +65,40 @@
           "time_info": "02时53分"
         },
         {
-          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
-          "url": "https://www.zhihu.com/question/2009666916382421190",
-          "source": "知乎",
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            23,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 09时11分]"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
+          "title": "德国总理默茨抵京访华，约 30 家德企高管随访，将访问宇树科技，如何看待此行？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2009313404062561093",
+          "source": "知乎",
           "ranks": [
-            5
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 09时11分]"
+        },
+        {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 09时11分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -63,15 +112,26 @@
           "time_info": "02时53分"
         },
         {
-          "title": "德国总理默茨抵京访华，约 30 家德企高管随访，将访问宇树科技，如何看待此行？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2009313404062561093",
-          "source": "知乎",
+          "title": "AI时代的“稀缺资产”？高盛：HALO--重资产、不过时",
+          "url": "https://wallstreetcn.com/articles/3766110",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "09时11分"
+        },
+        {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
@@ -118,28 +178,6 @@
           "time_info": "02时53分"
         },
         {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
           "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、Meta Platforms(META.O)、微软(MSFT.O)、xAI、甲骨文(ORCL.N)和OpenAI将签署协议，为人工智能数据中心建设自己的电力供应。",
           "url": "https://flash.jin10.com/detail/20260226015415624800",
           "source": "金十数据",
@@ -149,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "AI帮你选对发型",
+          "url": "https://www.douyin.com/hot/2411301",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     },
@@ -226,18 +275,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
           "url": "https://www.zhihu.com/question/2009924225859805232",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 09时11分]"
         },
         {
           "title": "为什么全球都在盯中国机器人",
@@ -249,6 +299,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "机器人主题基金总规模突破700亿元 节后两个交易日净流入超6.3亿元",
+          "url": "https://wallstreetcn.com/livenews/3059125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "获退18万彩礼女婿经济状况堪忧",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8E%B7%E9%80%8018%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E5%A9%BF%E7%BB%8F%E6%B5%8E%E7%8A%B6%E5%86%B5%E5%A0%AA%E5%BF%A7%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "经济日报金观平：扩容提质并重破解养老难题",
+          "url": "https://wallstreetcn.com/livenews/3059146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "运动和恋爱都会刺激多巴胺分泌，为何社会普遍认为坚持运动等于自律，而恋爱脑是容易失控的表现？",
+          "url": "https://www.zhihu.com/question/2008961111228182735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     }
