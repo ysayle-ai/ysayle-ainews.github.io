@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T14:35:22.044758+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-03-01T20:28:29.541502+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -37,21 +37,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
-        },
-        {
-          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
-          "url": "https://www.cls.cn/detail/2298310",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 14时35分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -60,7 +48,20 @@
           "ranks": [
             20,
             8,
-            14
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 20时28分]"
+        },
+        {
+          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
+          "url": "https://www.cls.cn/detail/2298310",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -84,7 +85,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -139,7 +140,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -167,11 +168,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 20时28分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
@@ -192,11 +194,12 @@
           "ranks": [
             24,
             18,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 20时28分]"
         },
         {
           "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
@@ -233,7 +236,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -244,7 +247,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -255,7 +258,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
