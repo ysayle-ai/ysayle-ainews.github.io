@@ -1,102 +1,22 @@
 {
-  "generated_at": "2026-03-02T20:36:22.082167+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-03-03T02:33:59.047208+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 11,
       "titles": [
         {
-          "title": "演员逼真到根本看不出来是AI",
-          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
-        },
-        {
-          "title": "我国科技发展再添新成果",
-          "url": "https://www.toutiao.com/trending/7611843228395929606/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
           "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "千问AI眼镜开启预约",
-          "url": "https://www.toutiao.com/trending/7612431152581967913/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "A股贵金属板块持续走强，招金黄金、赤峰黄金触及涨停，晓程科技、西部黄金、四川黄金、湖南黄金等多股此前封板。",
-          "url": "https://wallstreetcn.com/livenews/3061591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "从整个宇宙来看，人类有无可能已经点错了科技树？",
-          "url": "https://www.zhihu.com/question/36247563",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 14时45分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时13分]"
-        },
-        {
-          "title": "Anthropic正在调查Claude AI错误较高的现象。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3061901",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "02时33分"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -105,252 +25,142 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
-          "url": "https://flash.jin10.com/detail/20260302141521033800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "市场消息：Anthropic正在调查Claude AI故障率较高的现象。",
-          "url": "https://flash.jin10.com/detail/20260302202408817800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "Kpler AIS追踪数据显示，中东湾和霍尔木兹海峡以东的油轮排队现象愈发严重，3月1日从霍尔木兹海峡东行的油轮数量骤减，仅观测到三艘满载原油和成品油的船只。",
-          "url": "https://flash.jin10.com/detail/20260302141104126800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "衡水中学AI监测系统",
-          "url": "https://s.weibo.com/weibo?q=%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6AI%E7%9B%91%E6%B5%8B%E7%B3%BB%E7%BB%9F&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
-          "url": "https://www.zhihu.com/question/2011022777268856579",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "02时33分"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
           "source": "澎湃新闻",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时21分"
+          "time_info": "02时33分"
         },
         {
-          "title": "亚马逊云科技：正在调查阿联酋区域出现的网络连接异常问题。",
-          "url": "https://wallstreetcn.com/livenews/3061567",
+          "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
+          "url": "https://wallstreetcn.com/livenews/3062084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "02时33分"
+        },
+        {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "【数据看盘】化工ETF上周份额大减，晓程科技龙虎榜现机构与北向资金博弈",
+          "url": "https://www.cls.cn/detail/2299988",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
+          "url": "https://wallstreetcn.com/livenews/3062080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3062077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "市场消息：马斯克的xAI将在IPO前回购30亿美元债务。",
+          "url": "https://flash.jin10.com/detail/20260303014347171800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "中国量子科技取得里程碑式进展",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%8F%E5%AD%90%E7%A7%91%E6%8A%80%E5%8F%96%E5%BE%97%E9%87%8C%E7%A8%8B%E7%A2%91%E5%BC%8F%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
-          "url": "https://www.cls.cn/detail/2298678",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "全球首款机器人手机亮相MWC",
-          "url": "https://www.toutiao.com/trending/7611736009055191050/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 14时45分]"
-        },
-        {
-          "title": "中国造全球首款机器人手机亮相",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 14时45分]"
-        },
-        {
-          "title": "宇树机器人春晚动作是预设的吗",
-          "url": "https://www.toutiao.com/trending/7612038220775227435/",
-          "source": "今日头条",
+          "title": "荣耀机器人手机上手体验",
+          "url": "https://www.douyin.com/hot/2416394",
+          "source": "抖音",
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "春晚同款机器人开箱",
-          "url": "https://www.douyin.com/hot/2414501",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时21分"
+          "time_info": "02时33分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "我国海岸线低空经济带加速成型",
-          "url": "https://www.douyin.com/hot/2416047",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "中国南方冰雪经济蓬勃发展",
-          "url": "https://www.toutiao.com/trending/7612114238676975659/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
-          "url": "https://www.cls.cn/detail/2298867",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时13分]"
-        },
-        {
-          "title": "欧洲央行管委Makhlouf：就经济影响下结论还为时过早。",
-          "url": "https://wallstreetcn.com/livenews/3061881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
       "match_count": 1,
       "titles": [
         {
-          "title": "国际社会对美以袭击伊朗的态度是怎样的？从中能读到哪些信息？",
-          "url": "https://www.zhihu.com/question/2011542336291693520",
-          "source": "知乎",
+          "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3062075",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            4
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 09时13分]"
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     }
