@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-03-03T14:38:56.641880+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-03-03T20:35:47.266937+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 20时35分]"
+        },
+        {
+          "title": "华为杨超斌：AI Token两年激增300倍，未来五年是移动AI业务爆发的关键窗口",
+          "url": "https://wallstreetcn.com/livenews/3062792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "AI参战对伊空袭",
@@ -25,9 +37,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 20时35分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -52,18 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 09时15分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 14时38分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -119,7 +142,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -135,13 +158,35 @@
           "time_info": "09时15分"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
+          "url": "https://www.cls.cn/detail/2301372",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "科创50指数跌幅扩大至5%，芯原股份跌超10%，佰维存储、澜起科技、西部超导跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3062481",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -240,9 +285,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "中国“科技军火”轰向MWC",
+          "url": "https://www.toutiao.com/trending/7612921715626085907/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "Akamai将部署数千枚英伟达Blackwell GPU，以增强其全球分布式云基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3062765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "港股午后持续走低，恒生指数跌1%，恒生科技指数跌2.25%，老铺黄金跌超8%，泡泡玛特跌超6%。",
@@ -251,9 +318,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "AI短剧 恐怖谷效应",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "中国量子科技取得里程碑式进展",
@@ -284,57 +362,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "从三个维度看当前中国经济",
-          "url": "https://www.toutiao.com/trending/7612224215584653339/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "经济学家：市场暂观中东局势，大幅调整投资组合为时尚早",
-          "url": "https://flash.jin10.com/detail/20260303143317371800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
-          "url": "https://wallstreetcn.com/livenews/3062075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "经济学家：中东冲突时间和范围及伊朗政权更迭风险仍然未知",
-          "url": "https://flash.jin10.com/detail/20260303141630806800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
@@ -342,8 +370,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "中国人形机器人快速“上量”靠什么",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BF%AB%E9%80%9F%E2%80%9C%E4%B8%8A%E9%87%8F%E2%80%9D%E9%9D%A0%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
         {
           "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
@@ -375,9 +414,103 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
+          "url": "https://www.cls.cn/detail/2301011",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "从三个维度看当前中国经济",
+          "url": "https://www.toutiao.com/trending/7612224215584653339/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "经济学家：市场暂观中东局势，大幅调整投资组合为时尚早",
+          "url": "https://flash.jin10.com/detail/20260303143317371800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "捷克央行：经济增长“正变得更加稳健”。",
+          "url": "https://flash.jin10.com/detail/20260303200017566800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3062075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "经济学家：中东冲突时间和范围及伊朗政权更迭风险仍然未知",
+          "url": "https://flash.jin10.com/detail/20260303141630806800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "经济学家：欧元区通胀风险整体受控",
+          "url": "https://flash.jin10.com/detail/20260303195113764800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     }
