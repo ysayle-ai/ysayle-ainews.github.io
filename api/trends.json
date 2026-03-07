@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-03-07T02:32:24.103774+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-07T09:09:07.247864+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90TES%E8%B5%9B%E5%9C%BANaiyou%E6%93%8D%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
+        {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
+        {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -30,26 +54,95 @@
           "time_info": "02时32分"
         },
         {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
+          "source": "百度热搜",
           "ranks": [
-            4
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
         },
         {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
+          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
+          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
+          "source": "凤凰网",
           "ranks": [
-            4
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
+        {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
+        {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000元",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "TESnaiyou 假赛",
+          "url": "https://s.weibo.com/weibo?q=TESnaiyou%20%E5%81%87%E8%B5%9B&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
+          "url": "https://www.zhihu.com/question/1992302419741266883",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
@@ -57,17 +150,6 @@
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
-          "source": "百度热搜",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,15 +178,15 @@
           "time_info": "02时32分"
         },
         {
-          "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
-          "url": "https://news.ifeng.com/c/8rHKBpbeROT",
-          "source": "凤凰网",
+          "title": "据英国金融时报：美国规则草案要求，民用政府合同应允许“任何合法”用途使用（AI）模型。",
+          "url": "https://flash.jin10.com/detail/20260307080944483800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "09时09分"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -118,15 +200,15 @@
           "time_info": "02时32分"
         },
         {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
+          "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260307080857687800",
+          "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "09时09分"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -138,24 +220,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "AI短剧霍去病持续刷屏",
-          "url": "https://www.douyin.com/hot/2421579",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "两会经济主题记者会举行，郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问，一图速览要点",
+          "url": "https://www.cls.cn/detail/2305453",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
         {
           "title": "全国人大举行经济主题记者会",
           "url": "https://www.douyin.com/hot/2420977",
@@ -168,15 +250,50 @@
           "time_info": "02时32分"
         },
         {
-          "title": "两会经济主题记者会举行，郑栅洁、蓝佛安、王文涛、潘功胜、吴清答记者问，一图速览要点",
-          "url": "https://www.cls.cn/detail/2305453",
-          "source": "财联社热门",
+          "title": "人大经济主题会：六大新兴支柱2030年产值有望增至10万亿元以上，千亿级财政安排促内需，完善稳市机制建设",
+          "url": "https://wallstreetcn.com/articles/3766890",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
+        {
+          "title": "飞机头等舱真的比经济舱舒服很多吗？",
+          "url": "https://www.zhihu.com/question/1996540601261393784",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
+        {
+          "title": "两会日报 | 经济主题记者会举行，5部门负责人权威发声",
+          "url": "https://www.cls.cn/detail/2305470",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "经济主题记者会｜吴清问答十要点：谈创业板改革、中国资产吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32714219",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         },
         {
           "title": "美国商务部：美国商务部长卢特尼克周五会见了日本经济产业大臣赤泽亮正。",
@@ -190,33 +307,11 @@
           "time_info": "02时32分"
         },
         {
-          "title": "人大经济主题会：六大新兴支柱2030年产值有望增至10万亿元以上，千亿级财政安排促内需，完善稳市机制建设",
-          "url": "https://wallstreetcn.com/articles/3766890",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
           "title": "阿联酋考虑冻结伊朗资产！此举或重创伊朗经济命脉",
           "url": "https://www.cls.cn/detail/2305209",
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "飞机头等舱真的比经济舱舒服很多吗？",
-          "url": "https://www.zhihu.com/question/1996540601261393784",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -268,6 +363,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "年轻人拒绝酒桌文化是社会进步",
+          "url": "https://www.douyin.com/hot/2420646",
+          "source": "抖音",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
+        },
+        {
           "title": "社会哥高铁吸烟,遭乘警制裁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351475&amp;topic_name=%E7%A4%BE%E4%BC%9A%E5%93%A5%E9%AB%98%E9%93%81%E5%90%B8%E7%83%9F%2C%E9%81%AD%E4%B9%98%E8%AD%A6%E5%88%B6%E8%A3%81",
           "source": "贴吧",
@@ -275,19 +382,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "年轻人拒绝酒桌文化是社会进步",
-          "url": "https://www.douyin.com/hot/2420646",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 09时09分]"
         }
       ]
     }
