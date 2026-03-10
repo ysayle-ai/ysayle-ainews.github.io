@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T09:08:22.525787+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-03-10T14:37:42.510714+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 14时37分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -81,11 +81,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 09时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 14时37分]"
         },
         {
           "title": "小片片解读AI神作牌子",
@@ -100,6 +101,28 @@
           "time_info": "[02时39分 ~ 09时08分]"
         },
         {
+          "title": "恒生指数涨幅扩大至2%，恒生科技指数涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "A股算力硬件概念持续拉升，长光华芯触及20cm涨停，创历史新高，此前中英科技、迅捷兴、东山精密、汇绿生态、广合科技涨停，富信科技、优讯股份、德科立、源杰科技均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3067059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
           "url": "https://www.zhihu.com/question/2013945403444257055",
           "source": "知乎",
@@ -109,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "A股太空光伏概念震荡走强，晶科能源涨超10%，能辉科技、永臻股份、拓日新能、拉普拉斯、奥特维跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3067053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
@@ -122,15 +156,48 @@
           "time_info": "02时39分"
         },
         {
+          "title": "报道：Groq拟将AI芯片产量由9000片提高至15000片",
+          "url": "https://wallstreetcn.com/livenews/3067044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "男子让AI实时看监控帮自己“摸鱼”",
           "url": "https://www.toutiao.com/trending/7615053570488172585/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "养一只“AI龙虾”已经不够了吗",
+          "url": "https://www.toutiao.com/trending/7615450374643650074/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "如何客观认识中国科技实力",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%AE%A2%E8%A7%82%E8%AE%A4%E8%AF%86%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%AE%9E%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -142,13 +209,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "恒生科技指数午后涨超2%，腾讯涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3067028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "澳洲联储副主席Hauser：数据似乎证实经济的闲置产能有限。 通胀依然过高。 上行与下行风险的规模大于常态。 若未能通过加息来控制通胀，将是一个显而易见的问题。 有必要提醒我们自己 “通胀的危害性有多大”。 通胀预期依旧良好锚定。",
+          "url": "https://wallstreetcn.com/livenews/3067049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
         {
           "title": "有哪些让你觉得「这简直是违背常识」的经济学现象？",
           "url": "https://www.zhihu.com/question/1945849908910330024",
@@ -156,9 +245,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "澳洲联储副主席豪泽：澳大利亚经济在许多方面状况良好。",
+          "url": "https://flash.jin10.com/detail/20260310134828481800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "澳洲联储副主席豪泽：近期数据似乎更明确地证实，经济的闲置产能有限。",
+          "url": "https://flash.jin10.com/detail/20260310134732169800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "中东战事冲击全球经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E4%B8%9C%E6%88%98%E4%BA%8B%E5%86%B2%E5%87%BB%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "巴克莱称，由于中东冲突，英国、欧洲以及全球经济领域的消费者信心在2月份有所下降。",
@@ -167,7 +289,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -175,8 +297,19 @@
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "委员李宝聚称年轻人拒绝酒桌文化是社会进步，为何年轻人反感酒桌文化？这反映了年轻人怎样的心态转变？",
+          "url": "https://www.zhihu.com/question/2013223682672124668",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
         {
           "title": "土耳其总统埃尔多安：以色列试图通过利用国际社会对加沙关注转向其他问题的时机，彻底破坏通往两国解决方案的道路。自10月10日签署的声明以来，内塔尼亚胡政府通过其不法和扩张主义政策，再次表明它不想要和平，也不支持解决方案。",
           "url": "https://flash.jin10.com/detail/20260310014020454800",
