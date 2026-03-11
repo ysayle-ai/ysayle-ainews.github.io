@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T02:36:39.869899+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-11T09:09:18.961026+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -15,19 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 09时09分]"
         },
         {
-          "title": "【数据看盘】外资与机构激烈博弈东山精密，多路资金抢筹光迅科技",
-          "url": "https://www.cls.cn/detail/2308610",
+          "title": "【早报】国家互联网应急中心提示“龙虾”风险；上交所发声！事关支持科技创新和新质生产力发展",
+          "url": "https://www.cls.cn/detail/2309077",
           "source": "财联社热门",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "09时09分"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -35,6 +35,29 @@
           "source": "百度热搜",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 09时09分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 09时09分]"
+        },
+        {
+          "title": "【数据看盘】外资与机构激烈博弈东山精密，多路资金抢筹光迅科技",
+          "url": "https://www.cls.cn/detail/2308610",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,15 +75,26 @@
           "time_info": "02时36分"
         },
         {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
+          "title": "建议不允许青少年用AI做作业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "原工信部部长苗圩：让制造业成为人工智能科技创新和产业创新深度融合的主战场",
+          "url": "https://wallstreetcn.com/livenews/3067646",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "09时09分"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -74,6 +108,39 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，背后动因是什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2013408348217836162",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "AI短剧火热，业内人士称“是接下来最大风口”，行业内90%公司仍处于亏损状态",
+          "url": "https://wallstreetcn.com/livenews/3067642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "豆包限制AI成毅",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
           "url": "https://www.zhihu.com/question/2013408348217836162",
           "source": "知乎",
@@ -83,6 +150,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "AI短剧侵权肖战最高可判10年",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "互联网大厂启动春招，AI岗位占比大幅提升",
+          "url": "https://wallstreetcn.com/livenews/3067631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "如何客观认识中国科技实力",
@@ -110,8 +199,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "亚马逊(AMZN.O)：将在澳大利亚投资7.5亿澳元建立一家机器人物流中心。",
+          "url": "https://flash.jin10.com/detail/20260311083302985800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
         {
           "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
           "url": "https://www.cls.cn/detail/2308576",
@@ -137,8 +237,25 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 09时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
+          "url": "https://wallstreetcn.com/livenews/3067648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "09时09分"
         }
       ]
     }
