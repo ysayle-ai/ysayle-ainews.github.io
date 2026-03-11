@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T14:40:17.355452+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-03-11T20:38:15.598622+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 24,
+      "match_count": 33,
       "titles": [
         {
           "title": "【早报】国家互联网应急中心提示“龙虾”风险；上交所发声！事关支持科技创新和新质生产力发展",
@@ -19,16 +19,74 @@
           "time_info": "[09时09分 ~ 14时40分]"
         },
         {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
+          "title": "AI龙虾爆火,大神在线答疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
           "title": "高校出手,AI龙虾被禁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351656&amp;topic_name=%E9%AB%98%E6%A0%A1%E5%87%BA%E6%89%8B%2CAI%E9%BE%99%E8%99%BE%E8%A2%AB%E7%A6%81",
           "source": "贴吧",
           "ranks": [
             4,
-            13
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 20时38分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时36分 ~ 14时40分]"
+          "time_info": "[14时40分 ~ 20时38分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 20时38分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -55,6 +113,39 @@
           "time_info": "[02时36分 ~ 09时09分]"
         },
         {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
           "title": "【数据看盘】外资与机构激烈博弈东山精密，多路资金抢筹光迅科技",
           "url": "https://www.cls.cn/detail/2308610",
           "source": "财联社热门",
@@ -72,18 +163,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -105,7 +185,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -116,7 +196,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -138,7 +218,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -198,17 +278,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
           "url": "https://www.zhihu.com/question/2013408348217836162",
           "source": "知乎",
@@ -220,6 +289,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "百度：DuClaw允许百度AI云用户访问OpenClaw。",
+          "url": "https://flash.jin10.com/detail/20260311200418601800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "AI短剧侵权肖战最高可判10年",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -229,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "文远知行创始人兼CEO韩旭：L3不会和L4抢生意，L3最终需要已具备L4纯无人商业运营能力的科技公司和车企共同实现",
+          "url": "https://wallstreetcn.com/livenews/3068075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "互联网大厂启动春招，AI岗位占比大幅提升",
@@ -248,7 +339,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -273,13 +364,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
+          "url": "https://wallstreetcn.com/livenews/3068063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "体验经济持续火爆",
+          "url": "https://www.douyin.com/hot/2426377",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "低空经济起飞正当时",
+          "url": "https://www.douyin.com/hot/2426070",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 09时09分]"
+        },
+        {
+          "title": "伊朗警告：将对美以经济目标采取报复行动",
+          "url": "https://www.cls.cn/detail/2309709",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
+          "title": "美以打击伊朗影响全球经济 霍尔木兹海峡运输受阻引发广泛担忧",
+          "url": "https://wallstreetcn.com/livenews/3068088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "德国政府发言人：德国总理默茨将于周三参加七国集团电话会议，讨论中东危机、全球经济和能源供应问题。",
+          "url": "https://flash.jin10.com/detail/20260311200806700800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "机器人当街吓到人 被治安警员带走",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%93%E5%88%B0%E4%BA%BA+%E8%A2%AB%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%91%98%E5%B8%A6%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
         {
           "title": "亚马逊(AMZN.O)：将在澳大利亚投资7.5亿澳元建立一家机器人物流中心。",
           "url": "https://flash.jin10.com/detail/20260311083302985800",
@@ -305,37 +479,20 @@
       ]
     },
     {
-      "keyword_group": "经济",
+      "keyword_group": "社会",
       "match_count": 2,
       "titles": [
         {
-          "title": "体验经济持续火爆",
-          "url": "https://www.douyin.com/hot/2426377",
-          "source": "抖音",
+          "title": "辍学闯社会,普通人生存实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351685&amp;topic_name=%E8%BE%8D%E5%AD%A6%E9%97%AF%E7%A4%BE%E4%BC%9A%2C%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E5%AD%98%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "低空经济起飞正当时",
-          "url": "https://www.douyin.com/hot/2426070",
-          "source": "抖音",
-          "ranks": [
-            9
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 09时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
         {
           "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
           "url": "https://wallstreetcn.com/livenews/3067648",
@@ -346,6 +503,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini五连绝世",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         }
       ]
     }
