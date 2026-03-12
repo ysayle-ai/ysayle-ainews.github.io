@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-12T20:37:19.454401+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-03-13T02:40:29.852367+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
         {
           "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
           "url": "https://www.cls.cn/detail/2310988",
@@ -25,92 +14,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "02时40分"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
+          "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
+          "url": "https://flash.jin10.com/detail/20260313020547080800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 20时37分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            28,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 20时37分]"
-        },
-        {
-          "title": "26位委员走上“委员通道”：聚焦科技进步等国家发展的方方面面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32747605",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 14时42分]"
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
-          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 09时06分]"
-        },
-        {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 09时06分]"
-        },
-        {
-          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
-          "url": "https://wallstreetcn.com/articles/3767211",
-          "source": "华尔街见闻",
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "02时40分"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "信件显示，亚马逊Prime Air对无人机在空域活动表示担忧，并退出行业协会。",
+          "url": "https://flash.jin10.com/detail/20260313015702860800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "02时40分"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -119,270 +58,59 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "02时40分"
         },
         {
-          "title": "爱诗科技完成3亿美元C轮融资",
-          "url": "https://wallstreetcn.com/livenews/3068621",
+          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
+          "url": "https://wallstreetcn.com/livenews/3069094",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "AI编程初创公司Cursor正与投资者就新一轮融资进行谈判。若交易达成，该公司的估值将达到约500亿美元，相较于去年秋季时几乎翻了一番。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3068424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "贝莱德斥资1亿美元培训电工等技术工人 未来10年预计美国需新增30多万名电工以满足AI建设需求",
-          "url": "https://wallstreetcn.com/livenews/3068608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746490",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（3月12日）",
-          "url": "https://flash.jin10.com/detail/20260312080510674800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "周鸿祎：OpenClaw将推动智能体概念普及，中国AI进入“大模型+智能体”阶段",
-          "url": "https://wallstreetcn.com/livenews/3068900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "AI龙虾安全风险真的那么可怕吗",
-          "url": "https://www.douyin.com/hot/2426974",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "time_info": "02时40分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
-          "title": "“十五五”经济新坐标",
-          "url": "https://www.toutiao.com/trending/7615616998454575155/",
-          "source": "今日头条",
+          "title": "读懂中国经济的长远考量",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%95%BF%E8%BF%9C%E8%80%83%E9%87%8F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "两会深观察｜智能经济新形态，到底“新”在哪里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32747042",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "两会经济热点快评",
-          "url": "https://www.toutiao.com/trending/7615420030129569819/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "美国经济数据公布后，现货黄金、美元指数DXY暂时波动不大。",
-          "url": "https://flash.jin10.com/detail/20260312203103505800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "伊朗警告：将对美以经济目标采取报复行动",
-          "url": "https://www.cls.cn/detail/2309709",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "02时40分"
         },
         {
-          "title": "摩根士丹利经济学家指出：如果油价不能回落至冲突前的水平，对整体通胀的影响在2026年将更加显著，到2028年底失业率将保持略高水平。",
-          "url": "https://wallstreetcn.com/livenews/3068282",
+          "title": "拉夫罗夫与古巴外长通电话，重申俄方反对美对古经济政治施压",
+          "url": "https://wallstreetcn.com/livenews/3069086",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "02时40分"
         },
         {
-          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
-          "url": "https://www.zhihu.com/question/2015360012143313625",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "北京市经济和信息化系统工作座谈会召开",
-          "url": "https://wallstreetcn.com/livenews/3068907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "中国扫地机器人长出了手和腿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%95%BF%E5%87%BA%E4%BA%86%E6%89%8B%E5%92%8C%E8%85%BF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
-          "url": "https://www.cls.cn/detail/2310365",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "机器人当街吓到人 被治安警员带走",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%93%E8%A1%97%E5%90%93%E5%88%B0%E4%BA%BA+%E8%A2%AB%E6%B2%BB%E5%AE%89%E8%AD%A6%E5%91%98%E5%B8%A6%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 09时06分]"
-        },
-        {
-          "title": "科技秀肌肉、机器人 PK……为什么 AWE 2026 有种不顾死活的美？",
-          "url": "https://www.zhihu.com/topic/2002753103485695027/hot",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "机器人当街吓到人 被治安警员带走",
-          "url": "https://www.toutiao.com/trending/7615256693030797331/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：沉浸式导航今日起在美国全面上线，未来几个月将逐步扩大覆盖范围。",
-          "url": "https://flash.jin10.com/detail/20260312203342460800",
+          "title": "拉夫罗夫与古巴外长通电话 重申俄方反对美对古经济政治施压",
+          "url": "https://flash.jin10.com/detail/20260313012905851800",
           "source": "金十数据",
           "ranks": [
-            3
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "02时40分"
         }
       ]
     }
