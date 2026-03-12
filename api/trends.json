@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T14:42:01.095111+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-03-12T20:37:19.454401+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -19,16 +19,27 @@
           "time_info": "02时42分"
         },
         {
-          "title": "26位委员走上“委员通道”：聚焦科技进步等国家发展的方方面面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32747605",
-          "source": "澎湃新闻",
+          "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
+          "url": "https://www.cls.cn/detail/2310988",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
+          "ranks": [
+            18,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 20时37分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -37,7 +48,20 @@
           "ranks": [
             17,
             28,
-            22
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 20时37分]"
+        },
+        {
+          "title": "26位委员走上“委员通道”：聚焦科技进步等国家发展的方方面面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32747605",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -54,17 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 09时06分]"
-        },
-        {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -100,15 +113,37 @@
           "time_info": "02时42分"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "爱诗科技完成3亿美元C轮融资",
           "url": "https://wallstreetcn.com/livenews/3068621",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "AI编程初创公司Cursor正与投资者就新一轮融资进行谈判。若交易达成，该公司的估值将达到约500亿美元，相较于去年秋季时几乎翻了一番。（彭博）",
@@ -128,7 +163,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -155,6 +190,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "周鸿祎：OpenClaw将推动智能体概念普及，中国AI进入“大模型+智能体”阶段",
+          "url": "https://wallstreetcn.com/livenews/3068900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "AI龙虾安全风险真的那么可怕吗",
           "url": "https://www.douyin.com/hot/2426974",
           "source": "抖音",
@@ -164,6 +210,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "“十五五”经济新坐标",
+          "url": "https://www.toutiao.com/trending/7615616998454575155/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "两会深观察｜智能经济新形态，到底“新”在哪里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32747042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 14时42分]"
+        },
+        {
+          "title": "两会经济热点快评",
+          "url": "https://www.toutiao.com/trending/7615420030129569819/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "美国经济数据公布后，现货黄金、美元指数DXY暂时波动不大。",
+          "url": "https://flash.jin10.com/detail/20260312203103505800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "伊朗警告：将对美以经济目标采取报复行动",
+          "url": "https://www.cls.cn/detail/2309709",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "摩根士丹利经济学家指出：如果油价不能回落至冲突前的水平，对整体通胀的影响在2026年将更加显著，到2028年底失业率将保持略高水平。",
+          "url": "https://wallstreetcn.com/livenews/3068282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
+          "url": "https://www.zhihu.com/question/2015360012143313625",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "北京市经济和信息化系统工作座谈会召开",
+          "url": "https://wallstreetcn.com/livenews/3068907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -230,41 +370,19 @@
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "两会深观察｜智能经济新形态，到底“新”在哪里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32747042",
-          "source": "澎湃新闻",
+          "title": "谷歌：沉浸式导航今日起在美国全面上线，未来几个月将逐步扩大覆盖范围。",
+          "url": "https://flash.jin10.com/detail/20260312203342460800",
+          "source": "金十数据",
           "ranks": [
-            19
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
-          "title": "伊朗警告：将对美以经济目标采取报复行动",
-          "url": "https://www.cls.cn/detail/2309709",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "摩根士丹利经济学家指出：如果油价不能回落至冲突前的水平，对整体通胀的影响在2026年将更加显著，到2028年底失业率将保持略高水平。",
-          "url": "https://wallstreetcn.com/livenews/3068282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "20时37分"
         }
       ]
     }
