@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-03-13T09:12:04.572205+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-03-13T14:40:45.376635+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
+          "title": "未来乡村会比AI生成的还漂亮",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
+          "url": "https://flash.jin10.com/detail/20260313143214386800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
@@ -30,6 +41,30 @@
           "time_info": "02时40分"
         },
         {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 14时40分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 14时40分]"
+        },
+        {
           "title": "“乐山大佛是大禹雕像”系AI生成",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
@@ -39,17 +74,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 09时12分]"
-        },
-        {
-          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
-          "url": "https://www.cls.cn/detail/2311468",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
         },
         {
           "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
@@ -96,6 +120,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
           "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
@@ -118,6 +153,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "脑机接口概念异动拉升，创新医疗直线涨停，南京熊猫涨超7%，三博脑科、爱朋医疗、岩山科技、塞力医疗、翔宇医疗、美好医疗、国际医学等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3069419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
           "url": "https://wallstreetcn.com/livenews/3069094",
           "source": "华尔街见闻-快讯",
@@ -129,15 +175,48 @@
           "time_info": "02时40分"
         },
         {
+          "title": "中腰部演员将被AI替代",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "软银股价一度下跌5.8%，此前Jefferies因OpenAI投资风险上升而将软银评级从“持有”下调至“弱于大盘”。",
           "url": "https://wallstreetcn.com/livenews/3069234",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "A股PCB概念股震荡回升，亨通股份触及涨停，中英科技涨超10%，南亚新材、沪电股份、金安国纪涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3069405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "A股核电板块再度拉升，中国核建午后涨停，兰石重装、南方路机此前封板，江苏神通、中核科技涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3069391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     },
@@ -185,7 +264,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         }
