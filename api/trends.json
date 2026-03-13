@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-13T14:40:45.376635+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-03-13T20:36:26.955659+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "科技晚看得我CPU快冒烟了",
+          "url": "https://www.douyin.com/hot/2429523",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
         {
           "title": "未来乡村会比AI生成的还漂亮",
           "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
@@ -14,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -25,9 +36,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "2026开年科技创新亮点频现",
+          "url": "https://www.douyin.com/hot/2429567",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
@@ -58,11 +80,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 20时36分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -120,13 +143,24 @@
           "time_info": "02时40分"
         },
         {
+          "title": "金煤科技：经公司自查，近期有涉及公司的媒体报道，主要核心内容为原油价格波动导致部分化工品价格波动。",
+          "url": "https://wallstreetcn.com/livenews/3069748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
           "url": "https://www.zhihu.com/question/2015481604898858354",
           "source": "知乎",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -153,13 +187,24 @@
           "time_info": "02时40分"
         },
         {
+          "title": "【数据看盘】“北向+机构+游资” 集体出逃光迅科技，量化资金、一线游资联手抢筹化工人气股",
+          "url": "https://www.cls.cn/detail/2312301",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "脑机接口概念异动拉升，创新医疗直线涨停，南京熊猫涨超7%，三博脑科、爱朋医疗、岩山科技、塞力医疗、翔宇医疗、美好医疗、国际医学等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3069419",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -181,7 +226,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -203,9 +248,42 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "京东发布AI家装品牌京东家装",
+          "url": "https://wallstreetcn.com/livenews/3069721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "A股核电板块再度拉升，中国核建午后涨停，兰石重装、南方路机此前封板，江苏神通、中核科技涨超7%。",
@@ -214,7 +292,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
@@ -222,8 +300,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
+          "url": "https://www.cls.cn/detail/2311899",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
         {
           "title": "读懂中国经济的长远考量",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%95%BF%E8%BF%9C%E8%80%83%E9%87%8F%23&t=31&band_rank=3&Refer=top",
@@ -245,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "我国海洋经济呈现“三个加快转变”",
+          "url": "https://wallstreetcn.com/livenews/3069732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "拉夫罗夫与古巴外长通电话 重申俄方反对美对古经济政治施压",
