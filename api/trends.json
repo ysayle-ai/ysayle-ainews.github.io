@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-15T09:23:41.390698+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-03-15T14:45:10.333791+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 14时45分]"
+        },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
@@ -20,16 +32,16 @@
           "time_info": "[02时25分 ~ 09时23分]"
         },
         {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
           "ranks": [
-            3,
-            4
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 09时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 14时45分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -56,15 +68,37 @@
           "time_info": "[02时25分 ~ 09时23分]"
         },
         {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时25分 ~ 09时23分]"
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "谁在渲染AI焦虑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%9C%A8%E6%B8%B2%E6%9F%93AI%E7%84%A6%E8%99%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -73,7 +107,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -92,7 +126,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "湖北“省考”开考 人形机器人入考题",
@@ -113,9 +147,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "机器人正要进电梯被人一脚踹倒",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -140,6 +185,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 09时23分]"
+        },
+        {
+          "title": "人形机器人夜跑备战半马",
+          "url": "https://www.douyin.com/hot/2431104",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普向国际社会求援了，并且想把多个国家拖下水",
+          "url": "https://news.ifeng.com/c/8rVZjrSDAV0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "著名社会学家及哲学家尤尔根·哈贝马斯（Jürgen Habermas）逝世，如何评价他的生平及贡献？",
+          "url": "https://www.zhihu.com/question/2016277381732663354",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32768221",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 14时45分]"
+        },
+        {
+          "title": "现代社会为什么没有出现像达芬奇这样全能的人了呢？",
+          "url": "https://www.zhihu.com/question/659320225",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -184,42 +292,19 @@
       ]
     },
     {
-      "keyword_group": "社会",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "著名社会学家及哲学家尤尔根·哈贝马斯（Jürgen Habermas）逝世，如何评价他的生平及贡献？",
-          "url": "https://www.zhihu.com/question/2016277381732663354",
-          "source": "知乎",
+          "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
+          "url": "https://wallstreetcn.com/articles/3767525",
+          "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32768221",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时25分 ~ 09时23分]"
-        },
-        {
-          "title": "现代社会为什么没有出现像达芬奇这样全能的人了呢？",
-          "url": "https://www.zhihu.com/question/659320225",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "[14时44分 ~ 14时45分]"
         }
       ]
     }
