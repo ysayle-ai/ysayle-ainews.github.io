@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-19T09:18:21.299807+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-03-19T14:46:01.074338+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "小米超强钢获得国家级科技一等奖",
+          "url": "https://www.toutiao.com/trending/7618129522013847561/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
+        },
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
           "url": "https://www.zhihu.com/question/2017627475413262735",
@@ -25,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -46,11 +57,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 09时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 14时46分]"
         },
         {
           "title": "易小星参加B站AI创作大赛",
@@ -58,22 +70,104 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 09时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 14时46分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 14时46分]"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 14时46分]"
+        },
+        {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 14时46分]"
+        },
+        {
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 14时46分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
+        },
+        {
+          "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2017645383652696499",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
+        },
+        {
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "source": "澎湃新闻",
+          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时45分 ~ 09时18分]"
+          "time_info": "[14时45分 ~ 14时46分]"
+        },
+        {
+          "title": "AI演员 粉丝",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E7%B2%89%E4%B8%9D&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 14时46分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -98,17 +192,6 @@
           "time_info": "02时45分"
         },
         {
-          "title": "AI短片流金谷恩仇录",
-          "url": "https://www.douyin.com/hot/2435233",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
           "url": "https://www.cls.cn/detail/2316793",
           "source": "财联社热门",
@@ -120,13 +203,24 @@
           "time_info": "02时45分"
         },
         {
+          "title": "集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现",
+          "url": "https://wallstreetcn.com/livenews/3072987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "鲍威尔：尚未看到AI对生产率的影响",
           "url": "https://www.toutiao.com/trending/7618676949431369747/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -142,26 +236,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
-          "source": "澎湃新闻",
+          "title": "华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元",
+          "url": "https://wallstreetcn.com/livenews/3072982",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
-          "url": "https://www.zhihu.com/question/2016065149123970133",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "14时46分"
         },
         {
           "title": "摩根士丹利：下调腾讯港股目标价，重申超配评级，AI领域投资短期料拖累利润率",
@@ -170,7 +253,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -181,7 +264,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -211,7 +294,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "美联储主席鲍威尔：如果我们要跳过某次经济预测摘要（SEP），这一次会是个好时机。",
@@ -236,6 +319,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "日本央行行长植田和男：油价上涨将恶化日本的贸易条件，并对经济造成下行压力。 重要的是关注中东局势对国内经济的影响。 由于伊朗冲突，难以明确表示应更侧重抑制通胀还是支持经济。 关于未来加息时机将在每次会议上进行评估，这一立场没有变化。 将评估油价飙升对经济造成影响的程度。 油价飙升可能推高通胀预期和基础通胀。",
+          "url": "https://wallstreetcn.com/livenews/3072993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "美联储主席鲍威尔：真的想强调，没人知道中东冲突的经济影响。",
           "url": "https://flash.jin10.com/detail/20260319024103816800",
           "source": "金十数据",
@@ -245,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "日本央行行长植田和男：实际利率处于显著低位。 如果经济和物价表现符合预期，并且经济、物价持续改善，将继续上调政策利率。 通胀趋势的判断将变得更加困难。 正在重新评估我们对潜在增长率和供需缺口的预测。 正在根据最新数据重新评估中性利率。 将公布更详细的核心CPI数据。",
+          "url": "https://wallstreetcn.com/livenews/3072991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -275,9 +380,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济有望继续温和增长。 全球市场波动，中东局势紧张导致原油价格大幅上涨。 需要关注中东局势的进一步发展。 由于油价上涨，预计通胀增速将面临上行压力。 预计基础通胀将在预测期后半段达到与价格目标一致的水平。 风险因素包括中东局势、油价、金融和外汇市场动态。 需要关注这些风险对日本经济和物价的影响。",
+          "url": "https://wallstreetcn.com/livenews/3072986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济实力不足以应对伊朗战争！",
+          "url": "https://flash.jin10.com/detail/20260319140651826800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "A股银行板块局部拉升，工商银行涨超2%，农业银行、建设银行、中国银行、中信银行跟涨。中信证券首席经济学家明明此前表示，我国货币政策存在“灵活高效运用”降准降息的空间，预计全年或将降息1-2次、降准1次。",
+          "url": "https://flash.jin10.com/detail/20260319140614579800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "提醒：北京时间02:00，美联储将发布FOMC利率决议声明和经济预期概要（SEP），美联储主席鲍威尔将在02:30举行新闻发布会。",
@@ -300,6 +438,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "禾赛为追觅生态割草机器人独家供应1000万颗激光雷达",
+          "url": "https://flash.jin10.com/detail/20260319140729588800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
