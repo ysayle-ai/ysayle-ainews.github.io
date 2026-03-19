@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T02:45:24.453992+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-19T09:18:21.299807+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -19,6 +19,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "知情人士透露，Elliott投资管理公司已大量持股Invisalign牙齿矫正产品的制造商爱齐科技（Align Technology Inc.）。Elliott计划与爱齐科技接触，鼓励其探索提升公司股价的途径。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3072801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
           "url": "https://www.zhihu.com/question/2017543464514974274",
           "source": "知乎",
@@ -28,6 +39,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 09时18分]"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 09时18分]"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 09时18分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 09时18分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -41,15 +98,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
-          "url": "https://wallstreetcn.com/articles/3767836",
-          "source": "华尔街见闻",
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "09时18分"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -63,6 +120,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "鲍威尔：尚未看到AI对生产率的影响",
+          "url": "https://www.toutiao.com/trending/7618676949431369747/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
           "url": "https://www.cls.cn/detail/2316929",
           "source": "财联社热门",
@@ -74,37 +142,48 @@
           "time_info": "02时45分"
         },
         {
-          "title": "易小星参加B站AI创作大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "09时18分"
         },
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
           "ranks": [
-            16
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "09时18分"
         },
         {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
+          "title": "摩根士丹利：下调腾讯港股目标价，重申超配评级，AI领域投资短期料拖累利润率",
+          "url": "https://wallstreetcn.com/livenews/3072785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "09时18分"
+        },
+        {
+          "title": "科技部答澎湃：积极探索新技术应用的“沙盒监管”、触发式监管等新监管方式",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787613",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "网友抵制AI演员",
@@ -132,7 +211,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美联储主席鲍威尔：如果我们要跳过某次经济预测摘要（SEP），这一次会是个好时机。",
@@ -188,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "鲍威尔：美经济前景“极不确定” 联储内部倾向减少降息次数",
+          "url": "https://www.cls.cn/detail/2317441",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "提醒：北京时间02:00，美联储将发布FOMC利率决议声明和经济预期概要（SEP），美联储主席鲍威尔将在02:30举行新闻发布会。",
