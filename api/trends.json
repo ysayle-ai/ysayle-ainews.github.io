@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T14:42:49.719369+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-03-20T20:36:28.284247+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 18,
+      "match_count": 28,
       "titles": [
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 20时36分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -31,6 +32,40 @@
           "time_info": "09时13分"
         },
         {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 20时36分]"
+        },
+        {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -41,6 +76,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 09时13分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 20时36分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -56,29 +104,6 @@
           "time_info": "[02时43分 ~ 14时42分]"
         },
         {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 14时42分]"
-        },
-        {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 14时42分]"
-        },
-        {
           "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
           "source": "澎湃新闻",
@@ -91,15 +116,37 @@
           "time_info": "[09时13分 ~ 14时42分]"
         },
         {
+          "title": "宇树科技招股书公开 冲刺科创板具身智能第一股",
+          "url": "https://www.cls.cn/detail/2319719",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "人民日报：请给AI起个中文名字",
           "url": "https://www.toutiao.com/trending/7618806460609200137/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
@@ -113,6 +160,17 @@
           "time_info": "09时13分"
         },
         {
+          "title": "上交所受理宇树科技IPO申请",
+          "url": "https://www.cls.cn/detail/2319663",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "豆包开启AI购物内测，电商平台加码“一句话购",
           "url": "https://wallstreetcn.com/livenews/3073635",
           "source": "华尔街见闻-快讯",
@@ -122,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "宇树科技IPO申请被受理",
+          "url": "https://www.douyin.com/hot/2437665",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "深交所公告，港股通标的证券名单调整，调入广合科技，3月20日起生效。",
@@ -141,7 +210,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -163,9 +232,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
@@ -185,9 +265,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "道通科技：2025年净利润9.36亿元，同比增长46.02%",
+          "url": "https://flash.jin10.com/detail/20260320194937668800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "AI龙抬头赐我新发型",
@@ -201,6 +292,17 @@
           "time_info": "09时13分"
         },
         {
+          "title": "华为肖德刚：AI下半程是数据 对存储是巨大的利好",
+          "url": "https://flash.jin10.com/detail/20260320194618291800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.toutiao.com/trending/7618387888183836715/",
           "source": "今日头条",
@@ -210,12 +312,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "宇树科技IPO获受理：拟募资42.02亿元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E8%8E%B7%E5%8F%97%E7%90%86%EF%BC%9A%E6%8B%9F%E5%8B%9F%E8%B5%8442.02%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -240,13 +353,35 @@
           "time_info": "02时43分"
         },
         {
+          "title": "美联储理事鲍曼：将关注人工智能领域的杠杆水平。 预计今年经济将强劲增长。 强劲增长将受到政府供应端政策支持。 听证会称人工智能将增强而非取代员工。 仍然对就业市场感到担忧。 仍预计2026年将降息三次。 期待与沃什合作。 如果确认，沃什将在美联储产生强大影响。",
+          "url": "https://wallstreetcn.com/livenews/3074143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "一文读懂：油价再涨多少会触发全球经济衰退“红线”？",
+          "url": "https://www.cls.cn/detail/2319356",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "摩根士丹利：预计欧洲央行将在2026年6月和9月分别加息25个基点，此前预测今年维持利率不变。 面对较低的经济增长，预计欧洲央行可能会在2027年6月和9月再次降息，将利率降至2%，回到中性区间。",
           "url": "https://wallstreetcn.com/livenews/3073800",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -262,13 +397,24 @@
           "time_info": "09时13分"
         },
         {
+          "title": "预测下周一油价进入 9 元时代，现阶段是否将油车换电车？如何更经济一些？",
+          "url": "https://www.zhihu.com/question/2017885857223288599",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "考虑缩减董事会规模？世界经济论坛回应",
           "url": "https://flash.jin10.com/detail/20260320135538006800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -282,13 +428,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "商务部新闻发言人就墨西哥经济部高官有关言论答记者问",
+          "url": "https://wallstreetcn.com/livenews/3074101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
+          "url": "https://www.zhihu.com/question/2017994120187097771",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 20时36分]"
+        },
         {
           "title": "加州火锅店机器人突然蹦迪",
           "url": "https://www.toutiao.com/trending/7618570187772772390/",
@@ -301,15 +470,15 @@
           "time_info": "09时13分"
         },
         {
-          "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
-          "url": "https://www.zhihu.com/question/2017994120187097771",
-          "source": "知乎",
+          "title": "宇树：计划在3年内发布“通用人形机器人具身基础模型”",
+          "url": "https://wallstreetcn.com/livenews/3074112",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "20时36分"
         },
         {
           "title": "机器人是否已踏入日常生活",
@@ -349,6 +518,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金融法草案向社会公开征求意见",
+          "url": "https://www.cls.cn/detail/2319615",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     }
