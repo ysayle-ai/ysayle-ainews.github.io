@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-03-23T20:43:24.295945+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-03-24T02:40:23.838802+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 23,
+      "match_count": 7,
       "titles": [
         {
-          "title": "【早报】伊朗提出停战六项条件；宇树科技IPO获受理",
-          "url": "https://www.cls.cn/detail/2320760",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 14时59分]"
-        },
-        {
-          "title": "AI演员为啥遭网友抵制",
-          "url": "https://www.douyin.com/hot/2438688",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "普通人如何制作AI视频",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
+          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "02时40分"
         },
         {
           "title": "科技春耕与春日经济共绘希望田野",
@@ -48,374 +25,64 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "02时40分"
         },
         {
-          "title": "深度解析AI对影视行业的影响",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
+          "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
+          "url": "https://wallstreetcn.com/livenews/3075367",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "02时40分"
         },
         {
-          "title": "郑强教授：AI发展不能低端化平庸化",
-          "url": "https://www.toutiao.com/trending/7619238244945346579/",
-          "source": "今日头条",
+          "title": "普通人如何制作AI视频",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "02时40分"
         },
         {
-          "title": "印度实力露馅,科技全线拉胯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352144&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%AE%9E%E5%8A%9B%E9%9C%B2%E9%A6%85%2C%E7%A7%91%E6%8A%80%E5%85%A8%E7%BA%BF%E6%8B%89%E8%83%AF",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 14时59分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 14时59分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 09时18分]"
-        },
-        {
-          "title": "千问上线AI打车功能",
-          "url": "https://flash.jin10.com/detail/20260323090737169800",
+          "title": "OpenAI创始人奥尔特曼：（谈退出美国核聚变初创公司Helion董事会）随着Helion和OpenAI开始探索合作，我很难同时兼任两家公司的董事。",
+          "url": "https://flash.jin10.com/detail/20260324015156382800",
           "source": "金十数据",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "02时40分"
         },
         {
-          "title": "AI短剧付费后竟然变成PPT",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
-          "url": "https://www.cls.cn/detail/2320476",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "估值9年暴增1270倍！拆解宇树科技背后资本局",
-          "url": "https://www.cls.cn/detail/2320537",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "AI写歌走红程序员9个月赚20万",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "据港交所文件：杭州先为达生物科技股份有限公司 - B向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260323200637274800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "OpenAI聘请前Meta广告高管Davedugan负责广告销售。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3075178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "A股CPO、PCB概念持续走弱，汇绿生态、剑桥科技、广合科技、世嘉科技、超声电子等股跌停。",
-          "url": "https://flash.jin10.com/detail/20260323143845197800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "美透露误击伊朗小学原因：AI决策失误",
-          "url": "https://www.toutiao.com/trending/7619991717072371753/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI已聘请前Meta Platforms(META.O)广告高管Davedugan负责广告销售。",
-          "url": "https://flash.jin10.com/detail/20260323200409593800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "剂泰科技港股IPO获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3075169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "世界周刊之当AI决定扣动扳机",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E5%BD%93AI%E5%86%B3%E5%AE%9A%E6%89%A3%E5%8A%A8%E6%89%B3%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "LG化学两项在华锂电专利上诉被驳回 容百科技：有利于子公司与LG化学专利纠纷解决",
-          "url": "https://wallstreetcn.com/livenews/3075160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "专家：发展服务业应对AI对就业的冲击",
-          "url": "https://www.toutiao.com/trending/7620220795323236398/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "市场消息：Asylon与英伟达宣布达成合作，通过推出DroneIQ Overwatch™进一步推进机器人安防领域中的“物理AI”发展。",
-          "url": "https://flash.jin10.com/detail/20260323202049470800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "全网给U航机器人写剧本",
-          "url": "https://www.douyin.com/hot/2439561",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 14时59分]"
-        },
-        {
-          "title": "小孩看机器人跳舞挨了一巴掌",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E6%8C%A8%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 09时18分]"
-        },
-        {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.toutiao.com/trending/7619981033894821924/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "多地发放新一轮消费券激活春日经济",
-          "url": "https://wallstreetcn.com/livenews/3074608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "韩文秀：稳步提升消费对经济增长的贡献",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810188",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 09时18分]"
-        },
-        {
-          "title": "95 后女孩送狗上幼儿园，每月学费 1.2 万、含 368 元亲子课，如何看待宠物经济这一发展趋势？",
-          "url": "https://www.zhihu.com/question/2018641193081205947",
+          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2019363621617025238",
           "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "亚洲开发银行副行长：老龄化加深，经济增长需提升人力资本",
-          "url": "https://wallstreetcn.com/livenews/3074589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "市场消息：以色列2023至2025年因战争造成的经济产出损失为GDP的8.6%。",
-          "url": "https://flash.jin10.com/detail/20260323200332642800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "潘功胜：当前中国的社会融资条件处于宽松状态，将稳步推动金融业高水平开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810459",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "美国财长贝森特：我再次重申，总统从一开始就表达得非常清楚，我们的目标是摧毁伊朗的空军和海军；彻底瓦解其导弹能力；摧毁其补充这些军事能力的基础；确保伊朗无法拥有核武器；并遏制其向国际社会投射军事力量的能力。",
-          "url": "https://flash.jin10.com/detail/20260322222114078800",
-          "source": "金十数据",
-          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "02时40分"
+        },
+        {
+          "title": "内娱影视行业AI化是好是坏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A8%B1%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9AAI%E5%8C%96%E6%98%AF%E5%A5%BD%E6%98%AF%E5%9D%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         }
       ]
     }
