@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T02:24:08.683734+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-23T09:18:56.032196+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI演员为啥遭网友抵制",
@@ -19,6 +19,28 @@
           "time_info": "[02时23分 ~ 02时24分]"
         },
         {
+          "title": "【早报】伊朗提出停战六项条件；宇树科技IPO获受理",
+          "url": "https://www.cls.cn/detail/2320760",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "郑强教授：AI发展不能低端化平庸化",
+          "url": "https://www.toutiao.com/trending/7619238244945346579/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "印度实力露馅,科技全线拉胯",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352144&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%AE%9E%E5%8A%9B%E9%9C%B2%E9%A6%85%2C%E7%A7%91%E6%8A%80%E5%85%A8%E7%BA%BF%E6%8B%89%E8%83%AF",
           "source": "贴吧",
@@ -26,8 +48,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 09时18分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -37,8 +59,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 09时18分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -48,64 +70,69 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 4,
-      "titles": [
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 09时18分]"
+        },
         {
-          "title": "多地发放新一轮消费券激活春日经济",
-          "url": "https://wallstreetcn.com/livenews/3074608",
-          "source": "华尔街见闻-快讯",
+          "title": "千问上线AI打车功能",
+          "url": "https://flash.jin10.com/detail/20260323090737169800",
+          "source": "金十数据",
           "ranks": [
-            1
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "09时18分"
         },
         {
-          "title": "95 后女孩送狗上幼儿园，每月学费 1.2 万、含 368 元亲子课，如何看待宠物经济这一发展趋势？",
-          "url": "https://www.zhihu.com/question/2018641193081205947",
-          "source": "知乎",
+          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
+          "url": "https://www.cls.cn/detail/2320476",
+          "source": "财联社热门",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "韩文秀：稳步提升消费对经济增长的贡献",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32810188",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
-        },
-        {
-          "title": "亚洲开发银行副行长：老龄化加深，经济增长需提升人力资本",
-          "url": "https://wallstreetcn.com/livenews/3074589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "09时18分"
+        },
+        {
+          "title": "估值9年暴增1270倍！拆解宇树科技背后资本局",
+          "url": "https://www.cls.cn/detail/2320537",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "世界周刊之当AI决定扣动扳机",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E5%BD%93AI%E5%86%B3%E5%AE%9A%E6%89%A3%E5%8A%A8%E6%89%B3%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "专家：发展服务业应对AI对就业的冲击",
+          "url": "https://www.toutiao.com/trending/7620220795323236398/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -123,22 +150,86 @@
           "url": "https://www.douyin.com/hot/2439561",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 09时18分]"
         },
         {
           "title": "小孩看机器人跳舞挨了一巴掌",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E6%8C%A8%E4%BA%86%E4%B8%80%E5%B7%B4%E6%8E%8C",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 09时18分]"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.toutiao.com/trending/7619981033894821924/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "多地发放新一轮消费券激活春日经济",
+          "url": "https://wallstreetcn.com/livenews/3074608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "韩文秀：稳步提升消费对经济增长的贡献",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32810188",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 09时18分]"
+        },
+        {
+          "title": "95 后女孩送狗上幼儿园，每月学费 1.2 万、含 368 元亲子课，如何看待宠物经济这一发展趋势？",
+          "url": "https://www.zhihu.com/question/2018641193081205947",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时24分]"
+        },
+        {
+          "title": "亚洲开发银行副行长：老龄化加深，经济增长需提升人力资本",
+          "url": "https://wallstreetcn.com/livenews/3074589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     },
@@ -164,7 +255,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         }
