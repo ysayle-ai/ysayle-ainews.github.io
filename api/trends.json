@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-24T15:04:12.139566+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-03-24T20:47:31.335027+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
-        },
         {
           "title": "科技春耕与春日经济共绘希望田野",
           "url": "https://www.toutiao.com/trending/7620147172323049508/",
@@ -28,17 +17,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 09时11分]"
-        },
-        {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -74,6 +52,41 @@
           "time_info": "02时40分"
         },
         {
+          "title": "官方定调！AI时代“词元经济”崛起",
+          "url": "https://www.cls.cn/detail/2322996",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 20时47分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 20时47分]"
+        },
+        {
           "title": "普通人如何制作AI视频",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
           "source": "bilibili 热搜",
@@ -103,7 +116,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -114,7 +127,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -136,7 +149,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -147,7 +160,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -158,7 +171,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -169,9 +182,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "阿里巴巴成立两家数据科技新公司",
@@ -180,9 +204,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "A股光纤概念板块尾盘异动拉升，长飞光纤、福晶科技、通鼎互联、新能泰山均封板涨停，通光线缆涨超10%，唯科科技、光库科技、光格科技、光电股份、三旺通信跟涨。",
@@ -191,9 +226,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "市场消息：挪威国家石油公司已启动巴西Raia项目的钻井阶段。",
+          "url": "https://flash.jin10.com/detail/20260324200254484800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "A股PCB概念板块午后震荡反弹，南亚新材涨近15%，金安国纪一度逼近涨停，逸豪新材、生益电子、方邦股份、强达电路、方正科技等跟涨。",
@@ -202,9 +248,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "西门子中国联手宇树、阿里云，打造工业AI生态系统",
+          "url": "https://wallstreetcn.com/livenews/3075929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司",
+          "url": "https://wallstreetcn.com/livenews/3075921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "内娱影视行业AI化是好是坏",
@@ -221,8 +289,20 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815618",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 20时47分]"
+        },
         {
           "title": "人民日报钟声：“国防泡沫”挽救不了日本经济",
           "url": "https://www.cls.cn/detail/2322233",
@@ -235,15 +315,15 @@
           "time_info": "[15时03分 ~ 15时04分]"
         },
         {
-          "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815618",
-          "source": "澎湃新闻",
+          "title": "欧洲央行管委Sleijpen：与2022年相比，第二轮效应出现的可能性更大。 密切关注第二轮效应。 需要更加警惕。 能源价格的波动幅度极大。 确实存在经济停滞的风险。",
+          "url": "https://wallstreetcn.com/livenews/3075954",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "主要经济体的PMI初值可能反映中东冲突带来的一定影响",
@@ -252,9 +332,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我国首个具身智能工程机器人行业标准在成都启动编制",
+          "url": "https://wallstreetcn.com/livenews/3075952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     }
