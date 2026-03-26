@@ -1,40 +1,65 @@
 {
-  "generated_at": "2026-03-26T02:43:56.103841+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-03-26T09:22:23.149437+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
-          "title": "OpenAI推出安全漏洞赏金计划。",
-          "url": "https://wallstreetcn.com/livenews/3076838",
-          "source": "华尔街见闻-快讯",
+          "title": "华尔街惊呼：AI最大赢家已换人",
+          "url": "https://www.toutiao.com/trending/7620277693901586442/",
+          "source": "今日头条",
           "ranks": [
-            12
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "09时22分"
         },
         {
           "title": "Token AI时代的新KPI",
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 09时22分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 09时22分]"
+        },
+        {
+          "title": "短剧演员成AI技术第一批“牺牲品”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 09时22分]"
+        },
+        {
+          "title": "OpenAI推出安全漏洞赏金计划。",
+          "url": "https://wallstreetcn.com/livenews/3076838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,43 +77,44 @@
           "time_info": "02时43分"
         },
         {
-          "title": "短剧演员成AI技术第一批“牺牲品”",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
-          "source": "百度热搜",
+          "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
+          "url": "https://www.zhihu.com/question/2020204147274642238",
+          "source": "知乎",
           "ranks": [
-            28
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "09时22分"
+        },
+        {
+          "title": "据港交所文件：易点天下网络科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260326084125217800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "《经济日报》刊文“外卖大战该结束了”，美团、阿里直线拉升，这一战曾半年烧光800亿",
           "url": "https://wallstreetcn.com/articles/3768336",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "据知情人士透露，意大利考虑将经济增速预期下调至最低0.5%。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 09时22分]"
         },
         {
           "title": "美前商务部长：对伊战争致美国经济压力暴增",
@@ -96,6 +122,39 @@
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 09时22分]"
+        },
+        {
+          "title": "华尔街机构集体转向悲观：美国经济将迎“中东战事冲击波”",
+          "url": "https://www.cls.cn/detail/2324957",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "重庆患重病女孩在地铁吐血后用外套擦净地板，因经济困难没法住院，如何看待此事？怎样能帮助到她？",
+          "url": "https://www.zhihu.com/question/2019723322720526673",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "据知情人士透露，意大利考虑将经济增速预期下调至最低0.5%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -111,13 +170,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "经济日报：整治电商AB货需动真格",
+          "url": "https://wallstreetcn.com/livenews/3076976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
           "url": "https://flash.jin10.com/detail/20260326022229112800",
@@ -143,6 +224,23 @@
       ]
     },
     {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
+          "url": "https://wallstreetcn.com/livenews/3076984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "社会",
       "match_count": 1,
       "titles": [
@@ -151,11 +249,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32828343",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 09时22分]"
         }
       ]
     }
