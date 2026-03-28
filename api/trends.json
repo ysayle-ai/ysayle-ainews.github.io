@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-28T09:16:02.101780+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-03-28T14:46:39.048382+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 09时16分]"
-        },
         {
           "title": "中国AI模型调用量爆发式增长",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
@@ -41,6 +30,51 @@
           "time_info": "[02时43分 ~ 02时44分]"
         },
         {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 14时46分]"
+        },
+        {
+          "title": "高科技这块也是让三轮闯进来了",
+          "url": "https://www.douyin.com/hot/2446211",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "生活里都有哪些“氢科技”",
+          "url": "https://www.toutiao.com/trending/7621869178836926505/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "伊朗科技大学遭空袭",
+          "url": "https://news.ifeng.com/c/8rr8quQuWuE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
           "url": "https://wallstreetcn.com/livenews/3078430",
           "source": "华尔街见闻-快讯",
@@ -57,11 +91,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 14时46分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -93,8 +128,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 14时46分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -117,6 +152,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "伊朗科技大学遭美以空袭",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%81%AD%E7%BE%8E%E4%BB%A5%E7%A9%BA%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "伊朗科技大学遭美以空袭",
+          "url": "https://www.toutiao.com/trending/7621456438917008950/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "国家重大科技基础设施“远海浮动岛”今天启动建设",
+          "url": "https://wallstreetcn.com/livenews/3078523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
@@ -130,11 +209,25 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 14时46分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 14时46分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -142,11 +235,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 14时46分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -157,20 +251,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 09时16分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 14时46分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -187,8 +269,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "词元经济为何突然“出圈”",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%8D%E5%85%83%E7%BB%8F%E6%B5%8E%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E2%80%9C%E5%87%BA%E5%9C%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
         {
           "title": "经济学家：房地产有止跌回暖迹象",
           "url": "https://www.douyin.com/hot/2445342",
@@ -218,7 +311,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
@@ -226,7 +319,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人形机器人高质量真机数据集",
@@ -241,13 +334,24 @@
           "time_info": "[02时43分 ~ 09时16分]"
         },
         {
+          "title": "百度一贴吧疑全机器人禁止人类发帖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E4%B8%80%E8%B4%B4%E5%90%A7%E7%96%91%E5%85%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%81%E6%AD%A2%E4%BA%BA%E7%B1%BB%E5%8F%91%E5%B8%96%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/3078490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
