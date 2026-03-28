@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T14:46:39.048382+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-03-28T20:33:51.089358+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -30,36 +30,13 @@
           "time_info": "[02时43分 ~ 02时44分]"
         },
         {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 14时46分]"
-        },
-        {
-          "title": "高科技这块也是让三轮闯进来了",
-          "url": "https://www.douyin.com/hot/2446211",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
           "title": "生活里都有哪些“氢科技”",
           "url": "https://www.toutiao.com/trending/7621869178836926505/",
           "source": "今日头条",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -70,9 +47,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 20时33分]"
         },
         {
           "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
@@ -92,11 +82,24 @@
           "ranks": [
             4,
             6,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 20时33分]"
+        },
+        {
+          "title": "高科技这块也是让三轮闯进来了",
+          "url": "https://www.douyin.com/hot/2446211",
+          "source": "抖音",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 20时33分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -110,6 +113,18 @@
           "time_info": "[02时43分 ~ 09时16分]"
         },
         {
+          "title": "美国科技巨头遭遇近一年最严重抛售",
+          "url": "https://www.cls.cn/detail/2327706",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 20时33分]"
+        },
+        {
           "title": "湘女多情AI陶喆版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
           "source": "bilibili 热搜",
@@ -121,15 +136,16 @@
           "time_info": "[02时43分 ~ 09时16分]"
         },
         {
-          "title": "美国科技巨头遭遇近一年最严重抛售",
-          "url": "https://www.cls.cn/detail/2327706",
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
           "source": "财联社热门",
           "ranks": [
-            11
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 14时46分]"
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 20时33分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -160,20 +176,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "20时33分"
         },
         {
           "title": "伊朗科技大学遭美以空袭",
@@ -182,7 +198,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -193,7 +209,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
@@ -201,21 +217,8 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 14时46分]"
-        },
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
@@ -224,6 +227,32 @@
             20,
             18,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 20时33分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 20时33分]"
+        },
+        {
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -243,16 +272,15 @@
           "time_info": "[02时43分 ~ 14时46分]"
         },
         {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
           "ranks": [
-            18,
-            14
+            10
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 14时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -269,7 +297,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "词元经济为何突然“出圈”",
@@ -278,7 +306,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -303,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "伊朗总统：若基础设施或经济中心遭袭将强烈报复",
+          "url": "https://wallstreetcn.com/livenews/3078563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
         },
         {
           "title": "索尼上调PS5价格，涨幅高达150美元，称受全球经济“压力”影响",
@@ -340,7 +379,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
