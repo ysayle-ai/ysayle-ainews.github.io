@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T02:28:53.012418+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-30T09:26:21.462851+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 09时26分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -34,22 +34,36 @@
           "url": "https://wallstreetcn.com/articles/3768662",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 09时26分]"
         },
         {
           "title": "伊朗科技大学遭袭后，伊朗将美以大学列为「合法袭击目标」，如果战争扩大到教育机构，冲突还有回头路吗？",
           "url": "https://www.zhihu.com/question/2021512806751626985",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 09时26分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 09时26分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -57,17 +71,6 @@
           "source": "知乎",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -110,8 +113,20 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "环球下周看点：胡塞武装加入美以伊战争 鲍威尔亮相哈佛经济学课堂",
+          "url": "https://www.cls.cn/detail/2327978",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 09时26分]"
+        },
         {
           "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
           "url": "https://wallstreetcn.com/articles/3768660",
@@ -124,15 +139,48 @@
           "time_info": "02时28分"
         },
         {
-          "title": "环球下周看点：胡塞武装加入美以伊战争 鲍威尔亮相哈佛经济学课堂",
-          "url": "https://www.cls.cn/detail/2327978",
-          "source": "财联社热门",
+          "title": "日本央行行长植田和男：长期利率的波动反映了市场对经济和物价前景的看法，以及对财政和货币政策的观点。 如果短期利率未能得到适当调整并导致通胀超调（Overshoot），则存在长期利率可能出现超调的风险。 我们将适当地引导政策，并与市场进行谨慎沟通，以确保长期利率平稳波动。",
+          "url": "https://wallstreetcn.com/livenews/3078833",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "09时26分"
+        },
+        {
+          "title": "3 月我国日均 token 调用量破 140 万亿，两年增千倍，token 经济为何突然出圈？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2021187002117219631",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本央行行长植田和男称汇率对经济和物价有重大影响",
+          "url": "https://wallstreetcn.com/livenews/3078830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本央行3月会议意见摘要：一位委员表示，当通胀是暂时性的，基本对策应是等待成本推动因素消退，而不采取草率行动。 一位委员指出，若因日元过度疲软导致成本推动压力加剧，或者二次效应变得更加显著并导致工资涨幅高于预期，货币紧缩可能会变得必要。 一位委员认为，若中东冲突时间延长，必须关注是否有必要加快加息步伐，转为中性或紧缩的金融环境。 一位委员表示，日本央行存在无意中“落后于形势”（行动滞后）的风险。 一位委员表示，虽然油价上涨带来的不确定性可能会随着时间推移拖累经济，但日本央行目前应专注于应对二次效应和通胀预期上升所驱动的物价上涨。 财务省代表对能源成本飙升给经济带来的下行风险表示担忧。 一位委员认为，必须对油价上涨对潜在通胀的影响保持警惕。 一位委员表示，潜在通胀率尚未充分稳定在2%左右。 一位委员指出，中东冲突导致的油价飙升可能引发广泛的价格上涨。 一位委员认为，油价飙升和日元疲软可能推动通胀大幅且持续地走高。",
+          "url": "https://wallstreetcn.com/livenews/3078822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -162,11 +210,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 09时26分]"
         }
       ]
     }
