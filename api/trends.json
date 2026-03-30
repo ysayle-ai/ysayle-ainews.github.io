@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-30T15:16:28.792794+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-03-30T21:08:27.401388+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "蓝思科技：2025年净利润40.18亿元，同比增长10.87%。",
+          "url": "https://wallstreetcn.com/livenews/3079393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
@@ -25,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -35,11 +46,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 21时08分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -48,11 +60,12 @@
           "ranks": [
             18,
             19,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 21时08分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -107,7 +120,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -137,8 +150,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "中国经济硬核数据上新",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E4%B8%8A%E6%96%B0%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
         {
           "title": "环球下周看点：胡塞武装加入美以伊战争 鲍威尔亮相哈佛经济学课堂",
           "url": "https://www.cls.cn/detail/2327978",
@@ -169,7 +193,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -180,9 +204,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：七国集团认为，中东冲突将给各国内经济及通胀预期带来问题。",
+          "url": "https://flash.jin10.com/detail/20260330210008673800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "日本央行行长植田和男：长期利率的波动反映了市场对经济和物价前景的看法，以及对财政和货币政策的观点。 如果短期利率未能得到适当调整并导致通胀超调（Overshoot），则存在长期利率可能出现超调的风险。 我们将适当地引导政策，并与市场进行谨慎沟通，以确保长期利率平稳波动。",
@@ -205,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "日本央行行长植田和男称汇率对经济和物价有重大影响",
