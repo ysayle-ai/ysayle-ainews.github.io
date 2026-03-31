@@ -1,33 +1,45 @@
 {
-  "generated_at": "2026-03-31T02:59:34.436222+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-31T09:23:34.035955+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "AI短剧 偷脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "国行版苹果AI",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
         {
           "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
           "url": "https://www.cls.cn/detail/2329636",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "AI 会让年轻人的机会变多还是变少？",
-          "url": "https://www.zhihu.com/question/2016930184062789503",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 09时23分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -35,6 +47,28 @@
           "source": "贴吧",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 09时23分]"
+        },
+        {
+          "title": "国行版苹果AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "AI 会让年轻人的机会变多还是变少？",
+          "url": "https://www.zhihu.com/question/2016930184062789503",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,34 +84,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "英伟达预期市盈率跌至AI热潮以来最低水平",
+          "url": "https://wallstreetcn.com/livenews/3079663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
         {
           "title": "普京下令企业组建准军事部队，需自购武器自担战损，将如何影响俄罗斯企业和经济？",
           "url": "https://www.zhihu.com/question/2021958839793099702",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 09时23分]"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 09时23分]"
+        },
+        {
+          "title": "日本首相高市高市早苗：将考虑对向日本提供重要物资的国家提供支持和进行合作。 已在经济产业省下设工作组，以确保重要物资供应。 医疗必需品绝不能短缺。",
+          "url": "https://wallstreetcn.com/livenews/3079688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "09时23分"
+        },
+        {
+          "title": "澳洲联储会议纪要：油价上涨增加了通胀在长时间内保持在目标之上的风险。 如果油价维持在100美元左右，将使6月季度的年度CPI通胀升至5%左右。 加息可以降低石油冲击转化为通胀预期的风险。 劳动力市场的下行风险在近几个月已减弱，可能已进一步收紧。 如果国内需求出现实质性收缩，委员会仍能做出有效反应。 澳元对冲突的反应将成为对经济影响的考量因素。",
+          "url": "https://wallstreetcn.com/livenews/3079671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "澳洲联储3月货币政策会议纪要：委员会成员认同金融条件需要有限制性。 委员会成员一致认为可能需要进一步收紧政策，但在3月会议上是否加息存在分歧。 鉴于中东冲突，委员们一致认为无法以任何把握来预测现金利率的未来路径。 5:4的多数投票结果表明，委员们认为通胀风险已增加到足以需要立即采取行动的程度。 多数人认为当前的金融状况紧缩程度不足，甚至具有宽松性。 多数人认为展示将通胀带回目标的明确承诺至关重要。 少数派担心由中东局势引起的不确定性可能会影响经济。 少数派希望等待更多信息，即便利率在未来某个时点可能仍需上调。 少数派认为存在国内消费弱于预期、劳动力市场更加松弛的风险。",
+          "url": "https://wallstreetcn.com/livenews/3079670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -90,11 +170,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32862408",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 09时23分]"
         }
       ]
     }
