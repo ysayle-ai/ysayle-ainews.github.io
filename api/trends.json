@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T09:31:25.812997+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-01T15:09:32.873300+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 15时09分]"
+        },
+        {
+          "title": "奕派科技3月交付27505辆，同比增长30%",
+          "url": "https://wallstreetcn.com/livenews/3080700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "15时09分"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -25,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -46,11 +57,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 15时09分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -58,22 +70,36 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 09时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 15时09分]"
         },
         {
           "title": "科技巨头上”黑名单“！伊朗警告打击18家美企，Mag 7占六",
           "url": "https://wallstreetcn.com/articles/3768916",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 15时09分]"
+        },
+        {
+          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
+          "url": "https://www.cls.cn/detail/2331334",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 15时09分]"
         },
         {
           "title": "伊朗点名18家美企为“打击对象” 科技巨头悉数上榜",
@@ -82,7 +108,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -98,6 +124,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "伊朗称打击以色列境内科技公司",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%A2%83%E5%86%85%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -107,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
         },
         {
           "title": "TikTok寻求在巴西获得金融科技许可。（路透）",
@@ -137,7 +163,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -148,7 +174,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -159,7 +185,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -170,7 +196,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -178,7 +204,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "深度解析中国经济重点方向",
@@ -192,13 +218,24 @@
           "time_info": "02时47分"
         },
         {
+          "title": "“Token经济”崛起再获验证！智谱发布“炸裂”数据 机构：Agent场景渗透打开利润空间",
+          "url": "https://www.cls.cn/detail/2331554",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "美国国务卿鲁比奥：古巴需要经济改革和政治改革。",
           "url": "https://flash.jin10.com/detail/20260401092316743800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -209,9 +246,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "抄底买家要当心？顶级经济学家警告：务必避开美股大盘！",
+          "url": "https://flash.jin10.com/detail/20260401143225343800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：对消费者、财政政策、生产力都感到乐观。 预计石油价格将拖累美国经济。 无法假设通胀汇市暂时性的。",
