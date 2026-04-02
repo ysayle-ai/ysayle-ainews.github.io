@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-02T03:11:02.333861+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-02T09:20:31.458762+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "今年第二批！宇树科技、中科宇航被抽中首发企业现场检查",
+          "url": "https://www.cls.cn/detail/2332468",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 09时20分]"
+        },
         {
           "title": "美伊释放停战信号，纳指涨超1%，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
           "url": "https://wallstreetcn.com/articles/3768936",
@@ -19,15 +31,15 @@
           "time_info": "[03时10分 ~ 03时11分]"
         },
         {
-          "title": "今年第二批！宇树科技、中科宇航被抽中首发企业现场检查",
-          "url": "https://www.cls.cn/detail/2332468",
+          "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
+          "url": "https://www.cls.cn/detail/2332729",
           "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.01%，报25301点。 恒生科技指数主连夜盘收跌0.15%，报4743点。",
@@ -36,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -45,11 +57,23 @@
           "url": "https://www.cls.cn/detail/2332377",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 09时20分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 09时20分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -74,22 +98,44 @@
           "time_info": "[03时10分 ~ 03时11分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
+          "title": "央视AI奇谈 流金谷恩仇录",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86AI%E5%A5%87%E8%B0%88%20%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
+          "url": "https://www.zhihu.com/question/2020209448975607009",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特朗普：美国汽油充足。 美国在经济方面做好了空前充分的准备。 石油产量很快将大幅提高。 建议其他国家从美国购买石油。 我们几乎不进口经霍尔木兹海峡运输的石油。 一旦冲突结束，海峡自然会开放。 通过霍尔木兹海峡获取石油的国家必须发挥领导作用。",
+          "url": "https://wallstreetcn.com/livenews/3081203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
         {
           "title": "三国际机构决定成立协调小组应对中东战争的经济影响",
           "url": "https://wallstreetcn.com/livenews/3081062",
@@ -97,9 +143,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "美国民调：特朗普在经济问题上的支持率创其任内新低",
+          "url": "https://wallstreetcn.com/livenews/3081181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "加拿大央行：伊朗战争不应凌驾于其他经济风险之上",
@@ -108,7 +165,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         }
