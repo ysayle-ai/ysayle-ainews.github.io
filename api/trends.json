@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-02T09:20:31.458762+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-04-02T15:02:10.709574+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
+          "url": "https://www.cls.cn/detail/2332729",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 15时02分]"
+        },
         {
           "title": "今年第二批！宇树科技、中科宇航被抽中首发企业现场检查",
           "url": "https://www.cls.cn/detail/2332468",
@@ -31,17 +42,6 @@
           "time_info": "[03时10分 ~ 03时11分]"
         },
         {
-          "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
-          "url": "https://www.cls.cn/detail/2332729",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.01%，报25301点。 恒生科技指数主连夜盘收跌0.15%，报4743点。",
           "url": "https://wallstreetcn.com/livenews/3081085",
           "source": "华尔街见闻-快讯",
@@ -51,6 +51,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
+          "url": "https://www.zhihu.com/question/2020209448975607009",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 15时02分]"
         },
         {
           "title": "央行等四部门联合召开科技金融工作交流推进会",
@@ -76,6 +88,17 @@
           "time_info": "[03时10分 ~ 09时20分]"
         },
         {
+          "title": "男子利用AI编造谣言获刑6个月",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
           "url": "https://www.cls.cn/detail/2332176",
           "source": "财联社热门",
@@ -98,24 +121,24 @@
           "time_info": "[03时10分 ~ 03时11分]"
         },
         {
+          "title": "我的专业真被AI取代了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E4%B8%93%E4%B8%9A%E7%9C%9F%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
           "title": "央视AI奇谈 流金谷恩仇录",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86AI%E5%A5%87%E8%B0%88%20%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
-          "url": "https://www.zhihu.com/question/2020209448975607009",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -123,8 +146,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "香港跃升至全球第五大商品贸易经济体",
+          "url": "https://wallstreetcn.com/livenews/3081394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
         {
           "title": "特朗普：美国汽油充足。 美国在经济方面做好了空前充分的准备。 石油产量很快将大幅提高。 建议其他国家从美国购买石油。 我们几乎不进口经霍尔木兹海峡运输的石油。 一旦冲突结束，海峡自然会开放。 通过霍尔木兹海峡获取石油的国家必须发挥领导作用。",
           "url": "https://wallstreetcn.com/livenews/3081203",
@@ -132,9 +166,64 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "经济日报头版头条：驳“中国经济失速论”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32876233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "香港跃升至全球第五大商品贸易经济体",
+          "url": "https://flash.jin10.com/detail/20260402144947666800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "相关调查显示，在受访的28位经济学家中，有18位认为新西兰联储将在第四季度末前将官方现金利率上调至2.50%或更高。年底官方现金利率预测中值为2.50%，而2月份的预测为2.25%。",
+          "url": "https://flash.jin10.com/detail/20260402142235770800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "美退役上校炮轰特朗普不懂全球石油市场、正使经济加速“走向崩溃”",
+          "url": "https://flash.jin10.com/detail/20260402142124513800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "根据对32位经济学家的调查，预计新西兰联储4月8日将把现金利率维持在2.25%。",
+          "url": "https://flash.jin10.com/detail/20260402142102156800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "三国际机构决定成立协调小组应对中东战争的经济影响",
@@ -154,7 +243,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -168,6 +257,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "具身智能机器人加速发展",
+          "url": "https://www.douyin.com/hot/2452147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
         }
       ]
     },
