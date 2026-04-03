@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T09:22:47.853258+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-04-03T14:58:47.540658+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -25,22 +25,24 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 14时58分]"
         },
         {
           "title": "战火烧向科技公司！亚马逊中东云计算中心遭袭 更多基础设施成为目标",
           "url": "https://www.cls.cn/detail/2334022",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 14时58分]"
         },
         {
           "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
@@ -65,6 +67,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "国家国防科技工业局于国斌：要深刻认识发展太空算力的战略意义",
+          "url": "https://flash.jin10.com/detail/20260403142412086800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3081739",
           "source": "华尔街见闻-快讯",
@@ -76,15 +89,37 @@
           "time_info": "02时58分"
         },
         {
+          "title": "国家国防科技工业局于国斌：要深刻认识发展太空算力的战略意义",
+          "url": "https://wallstreetcn.com/livenews/3082008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3081859",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
@@ -107,13 +142,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "A股算力租赁板块直线拉升，直真科技、思特奇、云赛智联涨停，东方国信、中贝通信、艾可蓝、嘉环科技、紫光股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3081988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "A股商业航天板块午后下挫，中衡设计跌停，飞沃科技跌超10%，中超控股跌超9%，神剑股份、广联航空、巨力索具、航天宏图跟跌。此前天龙三号运载火箭发射失利。",
+          "url": "https://wallstreetcn.com/livenews/3081979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "欧洲央行官员Radev：能源危机可能蔓延至更广泛的经济领域。 应当利用有利的融资条件来进行准备工作。",
+          "url": "https://wallstreetcn.com/livenews/3082027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
         {
           "title": "经济日报头版头条：驳“中国经济失速论”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32876233",
@@ -126,13 +194,35 @@
           "time_info": "02时58分"
         },
         {
+          "title": "经济日报头版头条再发文：驳“中国经济治理失效论”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32890936",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "西太平洋银行CEO警告称伊朗冲突可能引发澳大利亚经济衰退",
+          "url": "https://wallstreetcn.com/livenews/3082017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "日本旅游经济明显“熄火”",
           "url": "https://www.toutiao.com/trending/7623332457334882347/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -151,7 +241,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "年薪最高1.24亿！“人形机器人第一股”招首席",
@@ -164,12 +254,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 09时22分]"
+        },
+        {
+          "title": "智元机器人遥操作臂相关专利获授权",
+          "url": "https://flash.jin10.com/detail/20260403141737018800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "国产医疗机器人在港完成首例临床心脏瓣膜手术",
+          "url": "https://wallstreetcn.com/livenews/3082006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -178,9 +290,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
