@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T14:58:47.540658+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-04-03T20:41:19.353071+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             11,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 20时41分]"
         },
         {
           "title": "战火烧向科技公司！亚马逊中东云计算中心遭袭 更多基础设施成为目标",
@@ -73,7 +74,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -95,7 +96,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -117,7 +118,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -150,7 +151,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -161,7 +162,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
@@ -169,7 +170,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "欧洲央行官员Radev：能源危机可能蔓延至更广泛的经济领域。 应当利用有利的融资条件来进行准备工作。",
@@ -178,7 +179,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -198,11 +199,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32890936",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 20时41分]"
         },
         {
           "title": "西太平洋银行CEO警告称伊朗冲突可能引发澳大利亚经济衰退",
@@ -211,9 +213,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "中东冲突引爆滞胀风险！经济学家警告：“深度衰退”或是唯一出路",
+          "url": "https://flash.jin10.com/detail/20260403195456627800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "日本旅游经济明显“熄火”",
@@ -262,7 +275,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -273,7 +286,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         }
@@ -281,7 +294,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -301,9 +314,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
