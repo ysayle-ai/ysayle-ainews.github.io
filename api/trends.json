@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T09:26:11.410418+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-04-05T14:55:42.262193+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 09时26分]"
+        },
+        {
+          "title": "米哈游刘伟、蔡浩宇、罗宇皓向母校上海交大捐资设立“AI未来基石”基金",
+          "url": "https://wallstreetcn.com/livenews/3082566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -37,22 +48,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 14时55分]"
         },
         {
           "title": "前雷曼交易员：私募信贷是“这一周期的次贷”，远离“拥挤”的科技股，拥抱“稀缺”的资源股",
           "url": "https://wallstreetcn.com/articles/3769253",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 14时55分]"
         },
         {
           "title": "当下的 AI 是不是被过度神化了？",
@@ -77,13 +90,24 @@
           "time_info": "[09时25分 ~ 09时26分]"
         },
         {
+          "title": "夫妻AI写公众号年赚200万",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%AB%E5%A6%BBAI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
           "url": "https://flash.jin10.com/detail/20260405062637079800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -97,6 +121,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "AI时代，如何打赢人脸保护战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品",
+          "url": "https://wallstreetcn.com/livenews/3082550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -144,7 +190,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -155,7 +201,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -210,11 +256,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 14时55分]"
         }
       ]
     }
