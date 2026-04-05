@@ -1,266 +1,77 @@
 {
-  "generated_at": "2026-04-05T20:36:32.412024+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-04-06T02:30:16.209708+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 16,
+      "match_count": 6,
       "titles": [
         {
-          "title": "UP主结合自身经历做清明AI短片",
-          "url": "https://search.bilibili.com/all?keyword=UP%E7%BB%93%E5%90%88%E8%87%AA%E8%BA%AB%E7%BB%8F%E5%8E%86%E5%81%9A%E6%B8%85%E6%98%8EAI%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
+          "source": "百度热搜",
           "ranks": [
-            1,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 09时26分]"
-        },
-        {
-          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时30分]"
         },
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
           "source": "贴吧",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "米哈游刘伟、蔡浩宇、罗宇皓向母校上海交大捐资设立“AI未来基石”基金",
-          "url": "https://wallstreetcn.com/livenews/3082566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
-          "url": "https://www.zhihu.com/question/2023363667584927528",
-          "source": "知乎",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 09时26分]"
-        },
-        {
-          "title": "Space X并购xAI目的何在",
-          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 20时36分]"
-        },
-        {
-          "title": "前雷曼交易员：私募信贷是“这一周期的次贷”，远离“拥挤”的科技股，拥抱“稀缺”的资源股",
-          "url": "https://wallstreetcn.com/articles/3769253",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 14时55分]"
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时30分]"
         },
         {
           "title": "AI时代，如何打赢人脸保护战？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时55分 ~ 20时36分]"
+          "time_info": "[02时29分 ~ 02时30分]"
         },
         {
-          "title": "当下的 AI 是不是被过度神化了？",
-          "url": "https://www.zhihu.com/question/641916009",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "易烊千玺方回应被AI短剧换脸",
-          "url": "https://www.baidu.com/s?wd=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E6%8D%A2%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "夫妻AI写公众号年赚200万",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%AB%E5%A6%BBAI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87&t=31&band_rank=6&Refer=top",
+          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
-          "url": "https://flash.jin10.com/detail/20260405062637079800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时30分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
           "url": "https://www.zhihu.com/question/2022702768251564692",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "广东鸡煲店老板累瘫照系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E9%B8%A1%E7%85%B2%E5%BA%97%E8%80%81%E6%9D%BF%E7%B4%AF%E7%98%AB%E7%85%A7%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品",
-          "url": "https://wallstreetcn.com/livenews/3082550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3082430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "清明假期叠加春假激发经济新活力",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E5%8F%A0%E5%8A%A0%E6%98%A5%E5%81%87%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "time_info": "[02时29分 ~ 02时30分]"
         },
         {
-          "title": "连续第四天，经济日报头版头条再驳“中国经济见顶论”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32899403",
-          "source": "澎湃新闻",
+          "title": "Space X并购xAI目的何在",
+          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "经济学家：美国3月CPI月率或大涨1% 美联储今年或难降息",
-          "url": "https://flash.jin10.com/detail/20260405085640617800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "伊朗石化经济特区遭空袭，5死170伤",
-          "url": "https://wallstreetcn.com/livenews/3082463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "经济日报刊文：充电涨价与“用油发电”关系不大",
-          "url": "https://wallstreetcn.com/livenews/3082440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "伊朗否认石化经济特区遭袭后发生有毒物质泄漏",
-          "url": "https://wallstreetcn.com/livenews/3082432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时30分]"
         }
       ]
     },
@@ -273,14 +84,11 @@
           "url": "https://www.cls.cn/detail/2335312",
           "source": "财联社热门",
           "ranks": [
-            4,
-            7,
-            10,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 20时36分]"
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时30分]"
         },
         {
           "title": "祭祖在现代社会是否被视为一种迷信行为？我们传承的究竟是一种形式，还是一种精神内核？",
@@ -289,26 +97,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“没中国，美国机器人就动不了”",
-          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 09时26分]"
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时30分]"
         }
       ]
     }
