@@ -1,361 +1,110 @@
 {
-  "generated_at": "2026-04-06T20:48:14.604750+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-04-07T02:43:40.682010+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 20,
+      "match_count": 9,
       "titles": [
         {
-          "title": "腾讯AI闯祸,拿唐山地震玩梗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
-          "source": "贴吧",
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 09时26分]"
-        },
-        {
-          "title": "摩根士丹利：将希捷科技(STX.O)目标价从468.00美元上调至582.00美元。将西部数据(WDC.O)目标价从369.00美元上调至380.00美元。",
-          "url": "https://flash.jin10.com/detail/20260406204019878800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "02时43分"
         },
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
           "url": "https://wallstreetcn.com/articles/3769308",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 20时48分]"
+          "appearance_count": 1,
+          "time_info": "02时43分"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
           "url": "https://www.zhihu.com/question/2024413032667772670",
           "source": "知乎",
           "ranks": [
-            14,
-            1
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 20时48分]"
-        },
-        {
-          "title": "AI时代，如何打赢人脸保护战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 09时26分]"
-        },
-        {
-          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 09时26分]"
-        },
-        {
-          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 09时26分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年4月5日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 20时48分]"
-        },
-        {
-          "title": "Space X并购xAI目的何在",
-          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 09时26分]"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 20时48分]"
-        },
-        {
-          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
-          "url": "https://www.zhihu.com/question/2022702768251564692",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 02时30分]"
+          "appearance_count": 1,
+          "time_info": "02时43分"
         },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
           "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
-        },
-        {
-          "title": "孙女用AI复刻奶奶的叮嘱",
-          "url": "https://www.toutiao.com/trending/7625500381922017321/",
-          "source": "今日头条",
-          "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "02时43分"
         },
         {
-          "title": "迪拜南城（Dubai South）自贸区：商业园区面向中小企业社区出台支持方案。",
-          "url": "https://flash.jin10.com/detail/20260406142129838800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "迪拜南城（Dubai South）自贸区：在此期间，符合资格的续租将维持现行租金标准。",
-          "url": "https://flash.jin10.com/detail/20260406142111851800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "迪拜南城（Dubai South）自贸区：宣布推出与阿联酋经济稳定举措相一致的支持方案。该方案包括与合同续签挂钩的免租激励措施，以及更为灵活的付款延期政策。",
-          "url": "https://flash.jin10.com/detail/20260406142101944800",
-          "source": "金十数据",
+          "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3082921",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "02时43分"
         },
         {
-          "title": "男子用AI写歌仅版权赚了5位数",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E5%86%99%E6%AD%8C%E4%BB%85%E7%89%88%E6%9D%83%E8%B5%9A%E4%BA%865%E4%BD%8D%E6%95%B0%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
+          "url": "https://www.zhihu.com/question/2024406743845794724",
+          "source": "知乎",
           "ranks": [
-            16
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "02时43分"
         },
         {
-          "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3082679",
-          "source": "华尔街见闻-快讯",
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "02时43分"
         },
         {
-          "title": "室内空气系统供应商Madison Air Solutions寻求通过IPO筹资至多22.3亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3082806",
+          "title": "Meta Platforms将发布其下一代AI模型的开源版本。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3082911",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时48分"
+          "time_info": "02时43分"
         },
         {
-          "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
-          "url": "https://wallstreetcn.com/livenews/3082722",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看软著申请严查AI新规",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
+          "source": "bilibili 热搜",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "韩国总理：韩元疲软程度超出经济基本面的其他指标。",
-          "url": "https://flash.jin10.com/detail/20260406145929755800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "韩国总理：与经济基本面的其他指标相比，韩元的走势过度疲软。",
-          "url": "https://wallstreetcn.com/livenews/3082750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "日本央行大阪分行行长：迄今为止，历次加息对企业融资状况和经济活动未产生重大影响。",
-          "url": "https://flash.jin10.com/detail/20260406144503224800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "日本央行大阪分行行长：若中东冲突持续，对经济活动的负面影响可能扩大。",
-          "url": "https://flash.jin10.com/detail/20260406143357115800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "日本央行大阪分行行长：中东冲突迄今对近畿西部地区经济活动的影响有限。",
-          "url": "https://flash.jin10.com/detail/20260406143348829800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "经济日报金观平：高质量培育夜间经济",
-          "url": "https://wallstreetcn.com/livenews/3082687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "加拿大至4月3日全国经济信心指数 46.9，前值49.2。",
-          "url": "https://flash.jin10.com/detail/20260406200302895800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "东盟与中日韩宏观经济研究办公室：2026年地区经济预计增长4%",
-          "url": "https://wallstreetcn.com/livenews/3082724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
-          "url": "https://www.cls.cn/detail/2335312",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 09时26分]"
-        },
-        {
-          "title": "祭祖在现代社会是否被视为一种迷信行为？我们传承的究竟是一种形式，还是一种精神内核？",
-          "url": "https://www.zhihu.com/question/1966394156785075250",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 02时30分]"
+          "time_info": "02时43分"
         }
       ]
     },
@@ -368,29 +117,11 @@
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            5
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
-          "url": "https://wallstreetcn.com/articles/3769294",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 15时18分]"
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     }
