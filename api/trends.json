@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T15:18:36.919415+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-04-06T20:48:14.604750+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -17,6 +17,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 09时26分]"
+        },
+        {
+          "title": "摩根士丹利：将希捷科技(STX.O)目标价从468.00美元上调至582.00美元。将西部数据(WDC.O)目标价从369.00美元上调至380.00美元。",
+          "url": "https://flash.jin10.com/detail/20260406204019878800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 20时48分]"
+        },
+        {
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
+          "ranks": [
+            14,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 20时48分]"
         },
         {
           "title": "AI时代，如何打赢人脸保护战？",
@@ -55,6 +90,18 @@
           "time_info": "[02时29分 ~ 09时26分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年4月5日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 20时48分]"
+        },
+        {
           "title": "Space X并购xAI目的何在",
           "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
           "source": "bilibili 热搜",
@@ -65,6 +112,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 09时26分]"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 20时48分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
@@ -78,15 +137,15 @@
           "time_info": "[02时29分 ~ 02时30分]"
         },
         {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
+          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
         },
         {
           "title": "孙女用AI复刻奶奶的叮嘱",
@@ -95,7 +154,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -106,18 +165,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
-          "url": "https://www.zhihu.com/question/2024413032667772670",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -128,7 +176,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -139,18 +187,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -166,17 +203,6 @@
           "time_info": "09时26分"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年4月5日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3082679",
           "source": "华尔街见闻-快讯",
@@ -188,13 +214,24 @@
           "time_info": "09时26分"
         },
         {
+          "title": "室内空气系统供应商Madison Air Solutions寻求通过IPO筹资至多22.3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
           "url": "https://wallstreetcn.com/livenews/3082722",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
@@ -202,7 +239,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "韩国总理：韩元疲软程度超出经济基本面的其他指标。",
@@ -211,7 +248,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -222,7 +259,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -233,7 +270,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -244,7 +281,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -255,7 +292,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -271,13 +308,24 @@
           "time_info": "09时26分"
         },
         {
+          "title": "加拿大至4月3日全国经济信心指数 46.9，前值49.2。",
+          "url": "https://flash.jin10.com/detail/20260406200302895800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "东盟与中日韩宏观经济研究办公室：2026年地区经济预计增长4%",
           "url": "https://wallstreetcn.com/livenews/3082724",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
@@ -308,6 +356,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 02时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机器人保姆“上岗”了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
         }
       ]
     },
