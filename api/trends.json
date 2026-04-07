@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T15:05:10.724197+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-04-07T20:58:15.107581+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -31,6 +31,17 @@
           "time_info": "[02时43分 ~ 09时24分]"
         },
         {
+          "title": "两位小米联合创始人退出小米科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BD%8D%E5%B0%8F%E7%B1%B3%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%80%80%E5%87%BA%E5%B0%8F%E7%B1%B3%E7%A7%91%E6%8A%80%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
           "title": "Faker称已准备好迎战马斯克AI",
           "url": "https://search.bilibili.com/all?keyword=Faker%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%88%98%E9%A9%AC%E6%96%AF%E5%85%8BAI",
           "source": "bilibili 热搜",
@@ -47,11 +58,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352857&amp;topic_name=%E5%A4%A7%E9%AD%94%E7%8E%8B%E8%BF%8E%E6%88%98%E7%A1%AC%E5%88%9A%E9%A9%AC%E6%96%AF%E5%85%8BAI",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 20时58分]"
+        },
+        {
+          "title": "如何看待电竞假赛选手 naiyou 被终身禁赛，却仍被指「百万撤离」无实质处罚？",
+          "url": "https://www.zhihu.com/question/2021524973303408230",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 20时58分]"
         },
         {
           "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
@@ -76,6 +100,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 09时24分]"
+        },
+        {
+          "title": "AI染指鬼灭,日网友气急跳脚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "中国AI大模型调用量连续五周超美国",
@@ -111,15 +146,15 @@
           "time_info": "[15时04分 ~ 15时05分]"
         },
         {
-          "title": "如何看待电竞假赛选手 naiyou 被终身禁赛，却仍被指「百万撤离」无实质处罚？",
-          "url": "https://www.zhihu.com/question/2021524973303408230",
-          "source": "知乎",
+          "title": "AI时代鸡娃还有意义吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E9%B8%A1%E5%A8%83%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
@@ -131,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美联储威廉姆斯：美国经济表现出惊人的韧性，科技普遍在提升生产力水平。",
+          "url": "https://flash.jin10.com/detail/20260407204020367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
@@ -150,7 +196,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -191,7 +237,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "电商要更好服务实体经济",
@@ -205,13 +251,24 @@
           "time_info": "[15时04分 ~ 15时05分]"
         },
         {
+          "title": "推进电子商务更好服务实体经济",
+          "url": "https://www.douyin.com/hot/2458333",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
           "title": "最后通牒倒计时！美以狠辣升级，锁定伊朗经济命脉",
           "url": "https://flash.jin10.com/detail/20260407144003027800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -221,11 +278,23 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 20时58分]"
+        },
+        {
+          "title": "美联储威廉姆斯：目前美国经济呈现低招聘、低解雇、低失业的现象。",
+          "url": "https://flash.jin10.com/detail/20260407204305053800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "分析：经济增长承压 日本首相或希望推迟日本央行利率正常化",
@@ -234,7 +303,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -273,7 +342,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -295,7 +364,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -306,9 +375,71 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "少不经事在社会上是怎样一种体验？",
+          "url": "https://www.zhihu.com/question/67059060",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
+        },
+        {
+          "title": "全国社会保障基金理事会党组召开会议，坚决拥护党中央对王文灵进行纪律审查和监察调查的决定",
+          "url": "https://wallstreetcn.com/livenews/3083495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印尼就谷歌涉嫌违反用户保护规定展开调查。",
+          "url": "https://flash.jin10.com/detail/20260407203455543800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         }
       ]
     }
