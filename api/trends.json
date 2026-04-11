@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T02:40:18.636600+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-11T09:20:28.652886+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -34,11 +34,34 @@
           "url": "https://www.zhihu.com/question/2025970045474398222",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 09时20分]"
+        },
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "09时20分"
+        },
+        {
+          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
+          "url": "https://flash.jin10.com/detail/20260411041419863800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -50,12 +73,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "曝追觅科技俞浩放言要和宇树抢一切",
+          "url": "https://www.toutiao.com/trending/7626022493228695595/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "从假日经济看中国服务潜力",
@@ -65,19 +99,70 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 09时20分]"
         },
         {
           "title": "李强主持召开经济形势专家和企业家座谈会",
           "url": "https://www.cls.cn/detail/2340815",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时40分 ~ 09时20分]"
+        },
+        {
+          "title": "标普：稳定前景反映出市场预期，即英国经济将能抵御与中东冲突相关的石油、天然气及其他投入品价格上涨所带来的冲击。",
+          "url": "https://flash.jin10.com/detail/20260411040858219800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "09时20分"
+        },
+        {
+          "title": "消息人士透露，沙特财政部长访问巴基斯坦以展示经济支持。",
+          "url": "https://flash.jin10.com/detail/20260411040527255800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "郑丽文参访清华附中称想带机器人回家",
+          "url": "https://www.toutiao.com/trending/7626947452634234922/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "江苏常州街头“机器人交警”上岗",
+          "url": "https://www.toutiao.com/trending/7627024221646045227/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
