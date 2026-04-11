@@ -1,101 +1,33 @@
 {
-  "generated_at": "2026-04-11T20:36:00.576150+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-04-12T02:31:40.245769+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 6,
       "titles": [
         {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "“聪明的农具”科技感拉满",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%81%AA%E6%98%8E%E7%9A%84%E5%86%9C%E5%85%B7%E2%80%9D%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
-          "url": "https://flash.jin10.com/detail/20260411142532640800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
-          "url": "https://wallstreetcn.com/livenews/3086054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "追觅科技俞浩要砸 2 亿年薪招首席科学家，疑因宇树科技挖人抢项目发飙，这薪资是什么水平？双方竞争关系如何？",
-          "url": "https://www.zhihu.com/question/2025970045474398222",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 09时20分]"
+          "time_info": "02时31分"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 20时36分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
@@ -105,136 +37,48 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "我也来试一下这个wait",
           "url": "https://www.douyin.com/hot/2462368",
           "source": "抖音",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
-          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
+          "title": "多地领导干部集中“充电”学前沿科技，有何深意？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32944161",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "AI短片《雪山救狐狸》爆火背后",
-          "url": "https://www.toutiao.com/trending/7627304476291940362/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
-          "url": "https://flash.jin10.com/detail/20260411141004111800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
-          "url": "https://flash.jin10.com/detail/20260411041419863800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "夫妻称用AI写公众号年赚200万被封号",
-          "url": "https://www.toutiao.com/trending/7626953352832040996/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "曝追觅科技俞浩放言要和宇树抢一切",
-          "url": "https://www.toutiao.com/trending/7626022493228695595/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260411124514356800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "time_info": "02时31分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "从假日经济看中国服务潜力",
-          "url": "https://www.toutiao.com/trending/7626940143111634987/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 09时20分]"
-        },
         {
           "title": "我国经济一季度交出亮眼答卷",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E7%AD%94%E5%8D%B7%23&t=31&band_rank=3&Refer=top",
@@ -243,137 +87,36 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
-          "title": "李强主持召开经济形势专家和企业家座谈会",
-          "url": "https://www.cls.cn/detail/2340815",
-          "source": "财联社热门",
+          "title": "一季度经济开局良好起步有力",
+          "url": "https://www.douyin.com/hot/2463093",
+          "source": "抖音",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 09时20分]"
-        },
-        {
-          "title": "什么是 Token 经济学？当 Token 成为一种资源，就有了 Token 经济学吗？",
-          "url": "https://www.zhihu.com/question/2025878834998765403",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "美国总统特朗普：我们的石油储量比排在我们之后的两个最大产油经济体的总和还要多，而且品质更高。",
-          "url": "https://flash.jin10.com/detail/20260411193245673800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "标普：稳定前景反映出市场预期，即英国经济将能抵御与中东冲突相关的石油、天然气及其他投入品价格上涨所带来的冲击。",
-          "url": "https://flash.jin10.com/detail/20260411040858219800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "消息人士透露，沙特财政部长访问巴基斯坦以展示经济支持。",
-          "url": "https://flash.jin10.com/detail/20260411040527255800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "02时31分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "水军机器人走错片场露马脚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353086&amp;topic_name=%E6%B0%B4%E5%86%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E9%94%99%E7%89%87%E5%9C%BA%E9%9C%B2%E9%A9%AC%E8%84%9A",
           "source": "贴吧",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "郑丽文参访清华附中称想带机器人回家",
-          "url": "https://www.toutiao.com/trending/7626947452634234922/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 14时50分]"
-        },
-        {
-          "title": "机器人机器狗方阵献舞苏超开幕式",
-          "url": "https://www.toutiao.com/trending/7626963528087408182/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "郑丽文访清华附中：想带机器人回台湾",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%EF%BC%9A%E6%83%B3%E5%B8%A6%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "侵入式脑机“首秀”、康养机器人扎堆CMEF，前沿技术能否撑起智慧康养新蓝海？",
-          "url": "https://www.cls.cn/detail/2341198",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "江苏常州街头“机器人交警”上岗",
-          "url": "https://www.toutiao.com/trending/7627024221646045227/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "02时31分"
         }
       ]
     }
