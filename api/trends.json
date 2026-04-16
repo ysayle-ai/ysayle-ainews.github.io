@@ -1,12 +1,173 @@
 {
-  "generated_at": "2026-04-16T03:01:46.541472+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-16T09:46:18.931220+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "机器人",
-      "match_count": 2,
+      "keyword_group": "科技 AI",
+      "match_count": 12,
       "titles": [
+        {
+          "title": "国晟科技撬开跌停板，现涨超4%，成交额超20亿元。",
+          "url": "https://flash.jin10.com/detail/20260416094258625800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "恒生科技指数日内涨超2%，恒指涨1%，宁德时代涨9%。",
+          "url": "https://wallstreetcn.com/livenews/3088899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "港股高开高走，恒生科技指数涨2%，恒指涨1%，宁德时代(03750.HK)涨近9%领涨成分股。",
+          "url": "https://flash.jin10.com/detail/20260416094131899800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "算力租赁概念反复活跃，真视通直线涨停，宏景科技涨超10%创新高，美利云、恒润股份、利通电子、协创数据、思特奇跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3088894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 09时46分]"
+        },
+        {
+          "title": "A股猪肉股盘初下挫，天邦食品触及跌停，正虹科技、正邦科技、傲农生物、巨星农牧纷纷下挫。",
+          "url": "https://flash.jin10.com/detail/20260416093701540800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股算力租赁板块盘初拉升，宏景科技涨超10%创新高，美利云、恒润股份、利通电子、协创数据、思特奇跟涨。",
+          "url": "https://flash.jin10.com/detail/20260416093654343800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "“AI SSD第一股”N大普微涨超370%，成交额超13亿元。",
+          "url": "https://flash.jin10.com/detail/20260416093321715800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "恒指高开0.68%，报26122.80点；恒生科技指数涨1.31%。百度、网易涨超3%，阿里巴巴、京东涨超2%。思格新能上市首日涨79.2%。",
+          "url": "https://wallstreetcn.com/livenews/3088873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "恒生科技指数日内涨1.7%，收复5000点关口，创3月20日以来新高。",
+          "url": "https://flash.jin10.com/detail/20260416093245521800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人跑马拉松也穿跑鞋了",
+          "url": "https://www.douyin.com/hot/2466169",
+          "source": "抖音",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 09时46分]"
+        },
+        {
+          "title": "中国机器人火到波兰：街头撵野猪，登台讲笑话",
+          "url": "https://v.ifeng.com/c/8sL3jVEOkhS",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
         {
           "title": "机器人切除肿瘤不彻底患者去世",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E9%99%A4%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%95%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=24&Refer=top",
@@ -17,41 +178,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "机器人跑马拉松也穿跑鞋了",
-          "url": "https://www.douyin.com/hot/2466169",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
         }
       ]
     },
     {
-      "keyword_group": "科技 AI",
-      "match_count": 2,
+      "keyword_group": "经济",
+      "match_count": 3,
       "titles": [
         {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
+          "title": "预告：国新办就“十五五”时期推动经济社会高质量发展有关情况举行新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260416094154413800",
+          "source": "金十数据",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "09时46分"
         },
         {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
+          "title": "美联储褐皮书：中东战争已成美国经济最主要不确定性来源",
+          "url": "https://www.cls.cn/detail/2345464",
+          "source": "财联社热门",
           "ranks": [
-            8
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "惠誉：（关于墨西哥各州）2026年的宏观经济状况明显走弱，补贴将对联邦分成收入产生更大影响。预计石油收入盈余将被刺激措施成本完全消耗。",
+          "url": "https://flash.jin10.com/detail/20260416022720892800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -80,23 +241,6 @@
           "source": "金十数据",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "惠誉：（关于墨西哥各州）2026年的宏观经济状况明显走弱，补贴将对联邦分成收入产生更大影响。预计石油收入盈余将被刺激措施成本完全消耗。",
-          "url": "https://flash.jin10.com/detail/20260416022720892800",
-          "source": "金十数据",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
