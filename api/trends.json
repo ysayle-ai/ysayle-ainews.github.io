@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T15:21:12.958826+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-04-22T21:02:34.325343+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 23,
+      "match_count": 32,
       "titles": [
         {
           "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
@@ -30,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 09时28分]"
-        },
-        {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
@@ -88,6 +77,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "恒指低开0.69%，报26303.60点；恒生科技指数跌1.02%。百度、京东、阿里巴巴、腾讯音乐跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3092198",
           "source": "华尔街见闻-快讯",
@@ -99,6 +99,29 @@
           "time_info": "09时28分"
         },
         {
+          "title": "谷歌云AI使用量达到每分钟160亿Tokens。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 21时02分]"
+        },
+        {
           "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
           "url": "https://www.zhihu.com/question/2029861890638045761",
           "source": "知乎",
@@ -108,6 +131,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 15时21分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 21时02分]"
         },
         {
           "title": "《灵魂摆渡》电影全AI生成",
@@ -122,17 +157,6 @@
           "time_info": "[09时28分 ~ 15时21分]"
         },
         {
-          "title": "深度剖析2026斯坦福AI报告",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%902026%E6%96%AF%E5%9D%A6%E7%A6%8FAI%E6%8A%A5%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
-        },
-        {
           "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
           "url": "https://www.zhihu.com/question/1984557341190873580",
           "source": "知乎",
@@ -140,15 +164,15 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 21时02分]"
         },
         {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
+          "title": "深度剖析2026斯坦福AI报告",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%902026%E6%96%AF%E5%9D%A6%E7%A6%8FAI%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -177,6 +201,39 @@
           "time_info": "[02时58分 ~ 09时28分]"
         },
         {
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "Altimetrik今日宣布已加入谷歌云的AI原生合作伙伴队列，谷歌云正通过与这一群体合作，在全球企业中推广规模化代理型AI。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "香港恒生指数4月22日（周三）开盘下跌183.88点，跌幅0.69%，报26303.6点；<br/>香港恒生科技指数4月22日（周三）开盘下跌51.74点，跌幅1.02%，报5009.76点；<br/>国企指数4月22日（周三）开盘下跌65.11点，跌幅0.73%，报8878.43点；<br/>红筹指数4月22日（周三）开盘下跌17.63点，跌幅0.4%，报4356.85点。",
           "url": "https://flash.jin10.com/detail/20260422092108633800",
           "source": "金十数据",
@@ -197,6 +254,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "【焦点复盘】创指、科创50双双涨超1.7%，资金持续热捧科技成长赛道，“易中天”总市值反超贵州茅台",
+          "url": "https://www.cls.cn/detail/2352266",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "英伟达与谷歌合作推进代理型AI与物理AI。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -232,13 +322,24 @@
           "time_info": "02时58分"
         },
         {
+          "title": "Robinhood Ventures向OpenAI投资7500万美元。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3092600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "抖音生活服务发布多条AIGC创作规范",
           "url": "https://wallstreetcn.com/livenews/3092357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -249,7 +350,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -268,7 +369,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "一季度服务业经济“开门红”",
@@ -299,9 +400,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "德国经济部长：正在考虑德国的“所有可能性”。不认为德国会出现经济衰退。",
+          "url": "https://flash.jin10.com/detail/20260422203846358800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "开局之年中国经济释放积极信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%87%8A%E6%94%BE%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "十五五规划里的智能经济新形态",
+          "url": "https://www.douyin.com/hot/2475520",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "印尼央行行长：相信在央行政策和良好经济前景的支持下，印尼盾未来将保持稳定并趋于走强。",
@@ -310,7 +444,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -321,9 +455,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "瑞典央行行长特登：与此同时，我们较低的通胀起点意味着我们有一定的空间来更清晰地了解经济后果。",
+          "url": "https://flash.jin10.com/detail/20260422203312736800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "伊朗冲突冲击下 德国将2026年经济增长预期减半",
+          "url": "https://wallstreetcn.com/livenews/3092615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "印尼央行行长：预计2026年全球经济增长为3%，低于之前预测的3.1%。",
@@ -332,7 +488,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -343,9 +499,103 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "智能数据基础设施公司NetApp今日宣布，该公司荣获“2026年Google Cloud存储类别年度基础架构现代化合作伙伴奖”。",
+          "url": "https://wallstreetcn.com/livenews/3092623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "谷歌：Gemini Enterprise第一季度付费月活跃用户数环比增长40%。 目前谷歌所有新代码中，75%由人工智能生成。",
+          "url": "https://wallstreetcn.com/livenews/3092613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "埃森哲与谷歌云扩大合作，借助Gemini Enterprise推动全球企业的代理型转型规模化。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "谷歌云推出7.5亿美元基金，助力合作伙伴加速智能体人工智能开发",
+          "url": "https://wallstreetcn.com/livenews/3092611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "CrowdStrike将其实时云检测与响应能力拓展至谷歌云平台。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "甲骨文扩大与谷歌云的合作关系。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "据报道，谷歌云推出用于人工智能的新型TPU 8T和TPU 8I芯片。 谷歌A美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3092605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "谷歌：目前谷歌所有新代码中，75%由人工智能生成。",
+          "url": "https://flash.jin10.com/detail/20260422201531830800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
@@ -398,6 +648,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么外国人会普遍相信中国存在所谓「社会信用分」？",
+          "url": "https://www.zhihu.com/question/1989385996874297867",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "我国封建社会沉迷使用卯榫结构，而非性价比更高的石材，是因为技术原因吗？",
+          "url": "https://www.zhihu.com/question/1967760582427017557",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
