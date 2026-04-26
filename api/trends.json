@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T09:48:05.468081+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-04-26T15:17:24.583525+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -20,6 +20,19 @@
           "time_info": "[02时36分 ~ 09时48分]"
         },
         {
+          "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 15时17分]"
+        },
+        {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
           "url": "https://wallstreetcn.com/articles/3770859",
           "source": "华尔街见闻",
@@ -31,39 +44,29 @@
           "time_info": "[02时36分 ~ 02时37分]"
         },
         {
-          "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 09时48分]"
-        },
-        {
           "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
           "url": "https://www.cls.cn/detail/2355600",
           "source": "财联社热门",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 09时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 15时17分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 09时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 15时17分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -87,6 +90,56 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时36分 ~ 09时48分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33045926",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 09时48分]"
+        },
+        {
+          "title": "第一次被一台机器人美到",
+          "url": "https://www.douyin.com/hot/2478959",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
@@ -115,23 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "人形机器人除了表演还能干什么？交管机器人已经走进路口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33045926",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 09时48分]"
         }
       ]
     }
