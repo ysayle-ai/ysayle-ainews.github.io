@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T09:51:40.157256+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-04-27T16:05:33.398223+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 20,
+      "match_count": 31,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -20,15 +20,72 @@
           "time_info": "[02时37分 ~ 09时51分]"
         },
         {
+          "title": "据港交所文件：华工科技产业股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260427153515865800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "剑桥科技H股尾盘拉升，现涨超3%，此前一度跌超5%。公司一季度净利润1.18亿元，同比增长276.44%。",
+          "url": "https://wallstreetcn.com/livenews/3094828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 16时05分]"
+        },
+        {
+          "title": "歌手 AI海报",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "半导体芯片股早盘拉升，帝奥微、派瑞股份涨超10%，东芯股份、富瀚微、澜起科技、海光信息、江丰电子涨逾6%。",
           "url": "https://wallstreetcn.com/livenews/3094632",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "港股芯片股连日走强，澜起科技(06809.HK)涨超10%，中芯国际(00981.HK)涨超4%，天数智芯(09903.HK)、兆易创新(03986.HK)、英诺赛科(02577.HK)等个股跟涨。",
@@ -37,21 +94,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
-          "url": "https://wallstreetcn.com/articles/3770919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 09时51分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -59,11 +104,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 16时05分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -88,6 +134,18 @@
           "time_info": "[02时37分 ~ 02时38分]"
         },
         {
+          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
+          "url": "https://wallstreetcn.com/articles/3770921",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 16时05分]"
+        },
+        {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
           "source": "澎湃新闻",
@@ -99,15 +157,59 @@
           "time_info": "[02时37分 ~ 02时38分]"
         },
         {
+          "title": "韩国青瓦台：韩国与谷歌达成协议，将在韩国建设AI园区。",
+          "url": "https://flash.jin10.com/detail/20260427153059951800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "港股光通讯板块盘初走强，长飞光纤光缆(06869.HK)涨超7%，汇聚科技(01729.HK)涨超4%，华虹半导体(01347.HK)、均胜电子(00699.HK)、剑桥科技(06166.HK)等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260427093135213800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "【剑桥科技：2026年第一季度净利润1.18亿元，同比增长276.44%】剑桥科技公告，2026年第一季度营业收入12.87亿元，同比增长43.98%。净利润1.18亿元，同比增长276.44%。",
+          "url": "https://wallstreetcn.com/livenews/3094817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
+          "url": "https://wallstreetcn.com/articles/3770917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "康希通信：Skyworks无条件撤回对公司子公司康希通信科技（上海）有限公司、GRAND CHIP LABS, INC.和相关企业的337调查",
+          "url": "https://wallstreetcn.com/livenews/3094814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
@@ -116,7 +218,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -127,18 +229,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
-          "url": "https://wallstreetcn.com/articles/3770921",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -149,9 +240,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "在 AI 一键生成代码的时代，程序员还有必要坚持手写「古法编程」吗？",
+          "url": "https://www.zhihu.com/question/2030599879777572198",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "A股CPO概念盘初走强，铭普光磁涨超9%，天通股份、通富微电、景旺电子、沃格光电、中天科技等个股跟涨。",
@@ -160,9 +273,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "A股开盘，沪指开跌0.12%，深证成指开涨0.13%，创业板指开涨0.28%；能源金属、AI芯片、存储芯片、氦气等概念走强。",
@@ -171,7 +295,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -182,7 +306,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -193,7 +317,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -204,7 +328,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -226,7 +350,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -260,7 +384,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -276,11 +400,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 16时05分]"
         }
       ]
     }
