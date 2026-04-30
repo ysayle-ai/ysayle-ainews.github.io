@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-04-30T03:09:37.542143+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-30T10:01:55.475733+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 8,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 10时01分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -17,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
+          "url": "https://www.cls.cn/detail/2360312",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -30,15 +64,16 @@
           "time_info": "03时09分"
         },
         {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 10时01分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -52,15 +87,15 @@
           "time_info": "03时09分"
         },
         {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
+          "title": "恒生科技指数盘中一度跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3097086",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "10时01分"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -74,6 +109,39 @@
           "time_info": "03时09分"
         },
         {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "4月30日投资避雷针：闻泰科技、华夏幸福等20余股将被实施ST",
+          "url": "https://www.cls.cn/detail/2360375",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032593268840600541",
           "source": "知乎",
@@ -85,6 +153,61 @@
           "time_info": "03时09分"
         },
         {
+          "title": "港股光通讯概念盘初走低，长飞光纤光缆(06869.HK)跌超12%，汇聚科技(01729.HK)、曦智科技-P(01879.HK)、华虹半导体(01347.HK)等个股跟跌，剑桥科技(06166.HK)逆市走强涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260430094157888800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "港股电力设备股盘初走强，潍柴动力(02338.HK)涨超8%，东北电气(00042.HK)、金风科技(02208.HK)、福莱特玻璃(06865.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260430093845943800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "A股中船系盘初拉升，中船特气涨超10%，中国船舶、中船科技、中国动力、久之洋纷纷上扬。消息面上，中国船舶第一季度净利润48.32亿元，同比增长251.64%。",
+          "url": "https://flash.jin10.com/detail/20260430093747199800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "CPO概念股延续强势，光莆股份20cm涨停，杰普特、长光华芯、剑桥科技、德科立、东山精密等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3097063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国为何要在菲律宾打造高科技飞地",
+          "url": "https://www.toutiao.com/trending/7634207269743234566/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "中美AI竞争的本质差距在哪",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
@@ -94,13 +217,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "A股养殖业板块盘初活跃，正邦科技涨超3%，罗牛山、神农集团、巨星农牧、湘佳股份、温氏股份、天邦食品等个股跟涨。消息面上，农业农村部召开生猪产业监测预警专家咨询委员会成立大会。",
+          "url": "https://flash.jin10.com/detail/20260430093541573800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "香港恒生指数开盘下跌0.40%，报26008.32点；恒生科技指数跌0.68%。蔚来、哔哩哔哩跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3097054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "国台办：和平统一是台湾经济发展的空前良机和最大底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33076751",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 10时01分]"
+        },
         {
           "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
           "url": "https://m.thepaper.cn/newsDetail_forward_33075663",
@@ -124,15 +281,15 @@
           "time_info": "03时09分"
         },
         {
-          "title": "国台办：和平统一是台湾经济发展的空前良机和最大底气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33076751",
-          "source": "澎湃新闻",
+          "title": "国家统计局：4月份，制造业采购经理指数为50.3%，略低于上月0.1个百分点，继续位于扩张区间； 非制造业商务活动指数为49.4%，比上月下降0.7个百分点； 综合PMI产出指数为50.1%，比上月下降0.4个百分点，仍高于临界点，我国经济总体产出保持扩张。",
+          "url": "https://wallstreetcn.com/livenews/3097072",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "10时01分"
         },
         {
           "title": "美联储主席鲍威尔在新闻发布会的开场白阶段称：美国经济一直稳步扩张。 就业增速一直偏低，失业率大致持稳。 就业人口增幅放缓，在一定程度上体现出（美国总统特朗普造成的）移民人口下降。 劳动力需求也显然趋于温和。 消费者开支一直稳固。 基于CPI的预测表明，美国3月PCE上升3.5%。 企业固定投资按较快的步伐扩张。 住房市场保持疲软。",
@@ -152,17 +309,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "如何看待原清华副教授‌郑毓煌称公立大学是纳税人建的，呼吁大学向社会开放？你赞同吗？",
-          "url": "https://www.zhihu.com/question/2032499109517420421",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
           "title": "一季度社会物流总额同比增长6.2%",
           "url": "https://www.douyin.com/hot/2483827",
           "source": "抖音",
@@ -170,8 +316,37 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 10时01分]"
+        },
+        {
+          "title": "如何看待原清华副教授‌郑毓煌称公立大学是纳税人建的，呼吁大学向社会开放？你赞同吗？",
+          "url": "https://www.zhihu.com/question/2032499109517420421",
+          "source": "知乎",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 10时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星电子：如有需要，计划投资机器人公司。",
+          "url": "https://flash.jin10.com/detail/20260430095026759800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "10时01分"
         }
       ]
     }
