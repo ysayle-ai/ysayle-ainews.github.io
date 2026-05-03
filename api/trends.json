@@ -1,130 +1,77 @@
 {
-  "generated_at": "2026-05-03T20:46:21.345901+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-05-04T02:44:11.250900+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 24,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 20时46分]"
-        },
-        {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 20时46分]"
-        },
-        {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
-          "url": "https://wallstreetcn.com/livenews/3098175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
-          "url": "https://wallstreetcn.com/livenews/3098174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
         {
           "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
           "url": "https://www.zhihu.com/question/2034241896516510290",
           "source": "知乎",
           "ranks": [
-            4
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
         },
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
           "url": "https://wallstreetcn.com/articles/3771504",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 20时46分]"
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
         },
         {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            16,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 20时46分]"
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
         },
         {
           "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
           "url": "https://wallstreetcn.com/articles/3771503",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 20时46分]"
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
+          "url": "https://www.zhihu.com/question/2034308747380482937",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -134,248 +81,91 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 20时46分]"
-        },
-        {
-          "title": "专访｜赵又廷：别让AI取代我就行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时43分 ~ 09时54分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 09时54分]"
-        },
-        {
-          "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
-          "url": "https://www.cls.cn/detail/2362207",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
-          "title": "公司用AI后35岁主管被裁 法院判了",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%90%8E35%E5%B2%81%E4%B8%BB%E7%AE%A1%E8%A2%AB%E8%A3%81+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
-          "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
-          "url": "https://wallstreetcn.com/livenews/3098171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
-          "url": "https://wallstreetcn.com/articles/3771481",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "误导女子闯入毒蛇窝AI道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
-          "url": "https://flash.jin10.com/detail/20260503042107626800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "AI踩平量化门槛，普通人入局机会在哪？",
-          "url": "https://flash.jin10.com/detail/20260503120603824800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260503120602300800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
-          "url": "https://www.zhihu.com/question/2031784120653697717",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "[02时43分 ~ 02时44分]"
         },
         {
           "title": "和AI玩猜历史人物游戏",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "央视披露公司用AI替岗35岁主管详情",
+          "url": "https://www.toutiao.com/trending/7635183364001234963/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "博主：美军早就开始用AI进行实战了",
+          "url": "https://www.toutiao.com/trending/7635578022698946102/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "陈茂波称香港一季度经济增长为近5年来最强",
-          "url": "https://flash.jin10.com/detail/20260503143918714800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
-          "url": "https://www.zhihu.com/question/2033868695617933924",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "德国经济界：美加征关税或对德产业造成实质性冲击",
-          "url": "https://wallstreetcn.com/livenews/3098207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
-          "url": "https://flash.jin10.com/detail/20260503123150516800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
-          "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260503021929638800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外骨骼机器人亮相苏超",
-          "url": "https://www.toutiao.com/trending/7634600007957577766/",
+          "title": "“体验经济”拓展假日消费新场景",
+          "url": "https://www.toutiao.com/trending/7635645486770228746/",
           "source": "今日头条",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "5月2日全社会跨区域人员流动量预计超3亿人次，同比增长2.6%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092744",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "伊朗第一副总统：石油部门的持续运作确保了经济稳定，帮助国家克服困难局面。",
+          "url": "https://flash.jin10.com/detail/20260504001519120800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         }
       ]
     }
