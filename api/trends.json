@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T09:56:02.937499+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-05-04T16:17:46.185775+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 21,
+      "match_count": 34,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -31,15 +31,81 @@
           "time_info": "[02时43分 ~ 02时44分]"
         },
         {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至2.3%，百度涨近5%。",
           "url": "https://wallstreetcn.com/livenews/3098358",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "AI狂潮继续！亚太股市创盘中纪录新高，韩股暴涨5%，SK海力士市值首破1000万亿韩元，恒科指大涨近3%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "港股收评：恒生指数涨1.24% 恒生科技指数涨2.16%",
+          "url": "https://flash.jin10.com/detail/20260504161341969800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "39 岁上海科技大学教授王晨辉为救至亲溺水去世，我们该如何看待这种舍己救人的行为？",
+          "url": "https://www.zhihu.com/question/2034260292213945927",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "恒指高开1.4%，恒生科技指数涨1.58%",
@@ -48,7 +114,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -75,6 +141,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 09时56分]"
+        },
+        {
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 16时17分]"
+        },
+        {
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 16时17分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -125,15 +215,16 @@
           "time_info": "[02时43分 ~ 09时56分]"
         },
         {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
+          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
+          "url": "https://www.zhihu.com/question/2032522089656230991",
+          "source": "知乎",
           "ranks": [
-            23
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 09时56分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 16时17分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -145,17 +236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 02时44分]"
-        },
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
         },
         {
           "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
@@ -172,17 +252,6 @@
           "title": "公司引进AI后将员工降薪裁员",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E5%B0%86%E5%91%98%E5%B7%A5%E9%99%8D%E8%96%AA%E8%A3%81%E5%91%98%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
-          "url": "https://www.zhihu.com/question/2032522089656230991",
-          "source": "知乎",
           "ranks": [
             10
           ],
@@ -224,15 +293,81 @@
           "time_info": "[02时43分 ~ 02时44分]"
         },
         {
+          "title": "香港恒生指数5月4日（周一）收盘上涨319.35点，涨幅1.24%，报26095.88点；<br/>香港恒生科技指数5月4日（周一）收盘上涨105.38点，涨幅2.16%，报4976.7点；<br/>国企指数5月4日（周一）收盘上涨92.56点，涨幅1.07%，报8774.39点；<br/>红筹指数5月4日（周一）收盘上涨20.91点，涨幅0.48%，报4411.24点。",
+          "url": "https://flash.jin10.com/detail/20260504161115575800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "港股收盘，恒指收涨1.24%，科指收涨2.16%。光通信、芯片股全天走强，剑桥科技(06166.HK)涨约16%，天数智芯(09903.HK)涨约20%，小米集团(01810.HK)涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260504160856400800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "香港恒生指数5月4日（周一）开盘上涨361.81点，涨幅1.4%，报26138.34点；<br/>香港恒生科技指数5月4日（周一）开盘上涨77.11点，涨幅1.58%，报4948.43点；<br/>国企指数5月4日（周一）开盘上涨107.06点，涨幅1.23%，报8788.89点；<br/>红筹指数5月4日（周一）开盘上涨32.91点，涨幅0.75%，报4423.24点。",
           "url": "https://flash.jin10.com/detail/20260504092143446800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3098425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "港股开盘，恒指开涨1.4%，科指开涨1.58%。科技股多数走强，百度(09888.HK)、网易(09999.HK)涨超3%。",
@@ -241,15 +376,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "邓紫棋回应被AI替换",
+          "url": "https://www.baidu.com/s?wd=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E6%9B%BF%E6%8D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "“体验经济”拓展假日消费新场景",
@@ -263,15 +409,48 @@
           "time_info": "[02时43分 ~ 09时56分]"
         },
         {
+          "title": "夜经济激发假日文旅新活力",
+          "url": "https://www.douyin.com/hot/2488440",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "韩国央行：对（经济）过度依赖芯片行业并不担忧。",
           "url": "https://flash.jin10.com/detail/20260504092739754800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "青年在上海｜免租金助创业，“巨富长”街区有个青春经济试验场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084440",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
+          "url": "https://www.zhihu.com/question/2034567556967739711",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "韩国央行：今年经济增长不太可能显著低于2%。",
@@ -280,7 +459,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -291,9 +470,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "欧洲央行管委、法国央行行长Villeroy：我们目前正面临一场前所未有的冲击。 通胀率应该会在2027年回落至2%的水平。 法国应当能够避免经济衰退，预计今年赤字率为5%。 中东危机持续时间越长，我们就越接近石油市场冲击。",
+          "url": "https://wallstreetcn.com/livenews/3098412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "伊朗第一副总统：石油部门的持续运作确保了经济稳定，帮助国家克服困难局面。",
@@ -309,6 +499,34 @@
       ]
     },
     {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "交通运输部：5月3日，全社会跨区域人员流动量30056.4万人次",
+          "url": "https://wallstreetcn.com/livenews/3098430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "假期第三天，全社会跨区域人员流动量预计超2.9亿人次",
+          "url": "https://wallstreetcn.com/livenews/3098344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
       "match_count": 1,
       "titles": [
@@ -319,24 +537,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "假期第三天，全社会跨区域人员流动量预计超2.9亿人次",
-          "url": "https://wallstreetcn.com/livenews/3098344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
