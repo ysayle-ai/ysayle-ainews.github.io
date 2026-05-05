@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-05T21:31:30.219710+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-05-06T03:25:49.840383+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 29,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
-          "url": "https://wallstreetcn.com/articles/3771537",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 15时54分]"
-        },
         {
           "title": "智慧春耕科技范儿十足",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E6%85%A7%E6%98%A5%E8%80%95%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%E5%8D%81%E8%B6%B3%23&t=31&band_rank=3&Refer=top",
@@ -27,198 +15,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.47%，报25885点。 恒生科技指数主连夜盘收跌0.26%，报4972点。",
-          "url": "https://wallstreetcn.com/livenews/3098600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "03时25分"
         },
         {
-          "title": "港股盘初快速走低，恒生指数、恒生科技指数跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3098695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "挪威主权财富基金首席执行官：即将有三次重要的首次公开募股——SpaceX、Anthropic和OpenAI。我们会买入这些公司的股份。",
-          "url": "https://flash.jin10.com/detail/20260505154538750800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "加拿大反垄断机构表示，Keyera与Plains的交易将减少关键天然气枢纽的竞争。",
-          "url": "https://flash.jin10.com/detail/20260505211752543800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "港股低开，恒生指数开盘跌0.58%，恒生科技指数跌0.55%。",
-          "url": "https://wallstreetcn.com/livenews/3098693",
+          "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
+          "url": "https://wallstreetcn.com/livenews/3098899",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "加拿大反垄断监管机构将对Keyera收购Plains天然气业务的计划提出挑战。",
-          "url": "https://flash.jin10.com/detail/20260505211745727800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "鸿海：4月营收同比增长29.74%。 第二季度是ICT行业的传统淡季，主要产品正处于新旧机型交替期。 不过，AI服务器预计将保持持续增长趋势。 根据目前的可见性，预计第二季度营收将实现环比和同比增长。 但仍需关注全球政治与经济局势波动的影响。",
-          "url": "https://wallstreetcn.com/livenews/3098730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 09时55分]"
+          "time_info": "03时25分"
         },
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
           "url": "https://wallstreetcn.com/articles/3771568",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 21时31分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 21时31分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 21时31分]"
-        },
-        {
-          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
-          "url": "https://wallstreetcn.com/articles/3771542",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 15时54分]"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 15时54分]"
-        },
-        {
-          "title": "马上评｜AI替岗，还是“科技向善”吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 15时54分]"
-        },
-        {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 09时55分]"
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3771556",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 21时31分]"
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -228,268 +59,169 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
-          "title": "用AI写出20亿播放量神曲？音乐人发声",
-          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E5%87%BA20%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%E7%A5%9E%E6%9B%B2%EF%BC%9F%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
+          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
+          "url": "https://www.zhihu.com/question/2034044394312037174",
+          "source": "知乎",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
-          "title": "牛散集体换仓：科技稀土黄金成新猎物",
-          "url": "https://www.toutiao.com/trending/7636037468252278318/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时15分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
-          "url": "https://wallstreetcn.com/livenews/3098593",
+          "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
+          "url": "https://wallstreetcn.com/livenews/3098891",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "香港恒生指数5月5日（周二）开盘下跌150.13点，跌幅0.58%，报25945.75点；<br/>香港恒生科技指数5月5日（周二）开盘下跌27.58点，跌幅0.55%，报4949.12点；<br/>国企指数5月5日（周二）开盘下跌38.04点，跌幅0.43%，报8736.35点；<br/>红筹指数5月5日（周二）开盘下跌8.68点，跌幅0.2%，报4402.56点。",
-          "url": "https://flash.jin10.com/detail/20260505092125834800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
-          "url": "https://wallstreetcn.com/livenews/3098714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "AI在偷我们的东西 我们决定毒死它",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%9C%A8%E5%81%B7%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%9C%E8%A5%BF%20%E6%88%91%E4%BB%AC%E5%86%B3%E5%AE%9A%E6%AF%92%E6%AD%BB%E5%AE%83&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "谷歌、xAI和微软同意对新人工智能模型进行美国国家安全审查。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3098780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
-          "url": "https://flash.jin10.com/detail/20260505022512889800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "中国移动将推出AI-eSIM产品",
-          "url": "https://wallstreetcn.com/livenews/3098701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "恒生科技指数跌幅扩大，现跌超2%，零跑汽车(09863.HK)、地平线机器人(09660.HK)跌超4%，比亚迪股份(01211.HK)、小米集团(01810.HK)跌超3.5%，金山软件(03888.HK)、同程旅行(00780.HK)、小鹏集团(09868.HK)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260505094425511800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "宇树机器人在美买票坐飞机",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BE%8E%E4%B9%B0%E7%A5%A8%E5%9D%90%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时15分]"
-        },
-        {
-          "title": "公园可花9块9租外骨骼机器人爬山",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%9B%AD%E5%8F%AF%E8%8A%B19%E5%9D%979%E7%A7%9F%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%AC%E5%B1%B1",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
-        },
-        {
-          "title": "恒生指数、恒生科技指数开盘快速下挫，现均跌超1%，药明生物(02269.HK)跌超4%，舜宇光学科技(02382.HK)跌近3.5%，紫金矿业(02899.HK)、老铺黄金(06181.HK)、地平线机器人(09660.HK)、零跑汽车(09863.HK)均跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260505093314264800",
-          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "03时25分"
         },
         {
-          "title": "美一航班因机器人乘客延误62分钟",
-          "url": "https://www.toutiao.com/trending/7636031723314692150/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI首席执行官Sam Altman去年年底曾讨论将公司机器人及消费硬件部门分拆出去。将OpenAI机器人及消费硬件部门分拆出去的计划被否决。",
-          "url": "https://flash.jin10.com/detail/20260505090141713800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "青年在上海｜免租金助创业，“巨富长”街区有个青春经济试验场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084440",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时15分]"
-        },
-        {
-          "title": "Man Group的CEO Robyn Grew：欧洲承受的经济痛苦比美国更加糟糕。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3098588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "澳洲联储主席布洛克：如果经济形势发生变化，我们将作出调整。 此次石油冲击使通胀与增长之间的权衡更加恶化。即使冲突迅速解决，成本全年仍将上升。 今天的加息决策经过了激烈的讨论。 希望失业率的攀升速度不超过必要水平。",
-          "url": "https://wallstreetcn.com/livenews/3098720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "鸿海：基于当前可见度，第二季度运营前景预计将实现环比和同比增长，但仍需关注全球政治经济局势动荡所带来的影响。",
-          "url": "https://flash.jin10.com/detail/20260505153246817800",
+          "title": "OpenAI总裁：今年预计在算力上花费500亿美元",
+          "url": "https://flash.jin10.com/detail/20260506025522677800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "03时25分"
         },
         {
-          "title": "澳洲联储：消费者和商业信心调查的下降与实际活动仅弱相关。海湾冲突是加剧通胀和经济增长前景的冲击。 预计第二季度CPI为4.8%，第四季度为4.0%，2027年第二季度为2.4%，2028年第二季度为2.5%。 基本预测假设进一步加息60个基点至4.7%，布伦特原油年底跌至82.3美元，2027年底为75.7美元。 目前尚无明显证据表明国内经济和消费者需求会因冲突而显著变化。 未来两年经济增长预期低于潜在水平。",
-          "url": "https://wallstreetcn.com/livenews/3098711",
+          "title": "苹果公司将允许用户选用多款第三方人工智能服务，为旗下全系软件功能提供智能支持。 据知情人士透露，用户未来可选择多款第三方AI模型，完成文字创作编辑、图像生成修改等任务。 这项功能变更定于今年秋季随iOS 27、iPadOS 27以及macOS 27正式上线，用户可通过设置应用，自主挑选想要为苹果智能功能提供服务的AI平台。",
+          "url": "https://wallstreetcn.com/livenews/3098878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "03时25分"
         },
         {
-          "title": "印尼央行行长：印尼盾目前相对于经济基本面被低估。",
-          "url": "https://flash.jin10.com/detail/20260505205343874800",
+          "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
+          "url": "https://flash.jin10.com/detail/20260506022641166800",
           "source": "金十数据",
           "ranks": [
-            29
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "03时25分"
+        },
+        {
+          "title": "从猫狗到水果 AI短剧还能火多久",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E7%8C%AB%E7%8B%97%E5%88%B0%E6%B0%B4%E6%9E%9C+AI%E7%9F%AD%E5%89%A7%E8%BF%98%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
+          "url": "https://wallstreetcn.com/livenews/3098871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
+          "url": "https://flash.jin10.com/detail/20260506024845206800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "谷歌(GOOG.O)首席科学家将于周三与欧盟反垄断监管机构会面。",
+          "url": "https://flash.jin10.com/detail/20260506024838335800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "据谷歌(GOOG.O)一位科学家透露，谷歌希望与监管机构分享技术专长，以确立恰当的防护措施。",
+          "url": "https://flash.jin10.com/detail/20260506024811580800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机器人爆火 哪些赚钱哪些裸泳",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%86%E7%81%AB+%E5%93%AA%E4%BA%9B%E8%B5%9A%E9%92%B1%E5%93%AA%E4%BA%9B%E8%A3%B8%E6%B3%B3",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
@@ -499,58 +231,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
-        },
-        {
-          "title": "5月4日全社会跨区域人员流动量29936.9万人次",
-          "url": "https://wallstreetcn.com/livenews/3098726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：“自由计划”与“史诗之怒”是分开的，并且是临时性的。 美国的目标是保护航运免受伊朗侵略。 伊朗并不控制霍尔木兹海峡。 美国在开启霍尔木兹海峡行动中，不需要进入伊朗领空或水域。 美国的封锁措施仍然完全有效。 中央司令部及合作国家正在与数百艘船只、航运公司和保险公司保持积极沟通。 如果伊朗攻击商业船只，将面临压倒性的火力打击。 美国期望国际社会在适当时机挺身而出，并将很快移交相关责任。",
-          "url": "https://wallstreetcn.com/livenews/3098783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet正式启动为期四期的加拿大元债券的发售。",
-          "url": "https://wallstreetcn.com/livenews/3098789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "谷歌母公司Alphabet将在其创纪录的欧元债券发售中至少筹集90亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3098784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "03时25分"
         }
       ]
     }
