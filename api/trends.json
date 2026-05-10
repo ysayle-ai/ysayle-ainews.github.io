@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T09:57:41.094962+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-10T15:57:09.765382+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 09时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 15时57分]"
         },
         {
           "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 09时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 15时57分]"
         },
         {
           "title": "科技赋能 向新而行",
@@ -42,6 +42,18 @@
           "time_info": "[02时44分 ~ 09时57分]"
         },
         {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 15时57分]"
+        },
+        {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
           "source": "澎湃新闻",
@@ -53,35 +65,57 @@
           "time_info": "[02时44分 ~ 02时45分]"
         },
         {
+          "title": "哈工大“黑科技”玻璃几秒就能变色",
+          "url": "https://www.toutiao.com/trending/7638088340340080691/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
           "title": "据消息人士透露，阿里巴巴将把千问大模型（Qwen AI）整合至淘宝，并推出“智能体购物”功能。（路透）",
           "url": "https://wallstreetcn.com/livenews/3101101",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（5月10日）",
-          "url": "https://flash.jin10.com/detail/20260510093047355800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -94,8 +128,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 09时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 15时57分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（5月10日）",
+          "url": "https://flash.jin10.com/detail/20260510093047355800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 15时57分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -118,8 +176,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 09时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 15时57分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 15时57分]"
         },
         {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
@@ -134,28 +204,16 @@
           "time_info": "[02时44分 ~ 09时57分]"
         },
         {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            9
+            15,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时44分 ~ 09时57分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 09时57分]"
+          "time_info": "[09时57分 ~ 15时57分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -192,6 +250,39 @@
           "time_info": "[02时44分 ~ 02时45分]"
         },
         {
+          "title": "AI基础设施投资风向转变：AMD、英特尔与美光飙涨，英伟达光环渐褪",
+          "url": "https://wallstreetcn.com/articles/3771897",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "“科技叙事”正在重构资本市场底色",
+          "url": "https://www.cls.cn/detail/2367094",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "用AI花3个月完成百名程序员7年工作",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E8%8A%B13%E4%B8%AA%E6%9C%88%E5%AE%8C%E6%88%90%E7%99%BE%E5%90%8D%E7%A8%8B%E5%BA%8F%E5%91%987%E5%B9%B4%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
           "url": "https://www.zhihu.com/question/2034624017219499142",
           "source": "知乎",
@@ -209,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -220,7 +311,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -231,20 +322,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
         {
-          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
-          "source": "澎湃新闻",
+          "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
+          "url": "https://wallstreetcn.com/livenews/3101101",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "15时57分"
         },
         {
           "title": "千亿级私募景林资产一季度大手笔加码科技与消费",
@@ -264,7 +355,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -286,7 +377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         }
@@ -294,25 +385,48 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "韩国机器人出家,皈依佛门受戒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354142&amp;topic_name=%E9%9F%A9%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%87%BA%E5%AE%B6%2C%E7%9A%88%E4%BE%9D%E4%BD%9B%E9%97%A8%E5%8F%97%E6%88%92",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 09时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 15时57分]"
+        },
+        {
+          "title": "机器人有没有体面一点的打包方式",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E6%89%93%E5%8C%85%E6%96%B9%E5%BC%8F&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "4月经济发展“成绩单”公布",
+          "url": "https://www.toutiao.com/trending/7638082004940246566/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
         {
           "title": "中国商务部长王文涛与德国联邦经济和能源部部长赖歇举行视频会谈",
           "url": "https://wallstreetcn.com/livenews/3101052",
