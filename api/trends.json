@@ -1,241 +1,55 @@
 {
-  "generated_at": "2026-05-12T22:26:34.716337+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-05-13T03:28:40.061217+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 36,
+      "match_count": 16,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.03%，报26264点。 恒生科技指数主连夜盘收跌0.51%，报5062点。",
+          "url": "https://wallstreetcn.com/livenews/3102469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
           "url": "https://wallstreetcn.com/articles/3772023",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 22时26分]"
-        },
-        {
-          "title": "宇树科技发布载人变形机甲 390万起",
-          "url": "https://www.toutiao.com/trending/7638860347448757798/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
-          "title": "美国通胀超预期，美股低开，科技股普跌，英伟达涨2%股价续创新高，美伊僵局致布油涨3%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "A股猪肉板块盘初走低，华统股份跌超5%，立华股份、金新农、正邦科技、京基智农、罗牛山、海大集团跟跌。",
-          "url": "https://flash.jin10.com/detail/20260512093823831800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "香港恒生指数5月12日（周二）收盘下跌58.93点，跌幅0.22%，报26347.91点；<br/>香港恒生科技指数5月12日（周二）收盘下跌35.79点，跌幅0.7%，报5070.61点；<br/>国企指数5月12日（周二）收盘下跌1.83点，跌幅0.02%，报8882.37点；<br/>红筹指数5月12日（周二）收盘上涨5.32点，涨幅0.12%，报4629.15点。",
-          "url": "https://flash.jin10.com/detail/20260512161230693800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "A股光通信概念股延续涨势，红板科技4连板，可川科技一字涨停，光电股份、星网锐捷、方正科技、中富电路涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3101954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "港股收盘：恒生指数指收跌0.22%，恒生科技指数收跌0.7%。华虹半导体跌超3%，宁德时代跌近1%，剑桥科技跌近4%，长飞光纤光缆涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3102143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "把AI用到了最有意义的场合",
-          "url": "https://www.douyin.com/hot/2495756",
-          "source": "抖音",
-          "ranks": [
-            8,
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时28分 ~ 16时26分]"
-        },
-        {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            12,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 22时26分]"
-        },
-        {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 22时26分]"
-        },
-        {
-          "title": "AI时代如何评价各专业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 16时26分]"
-        },
-        {
-          "title": "差点死掉的玻璃厂凭什么成AI的神经",
-          "url": "https://www.toutiao.com/trending/7638646924790205990/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
-          "title": "用AI编程Vibe Coding赚钱真的靠谱吗",
-          "url": "https://www.toutiao.com/trending/7638854892710268426/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
-          "title": "国产AI爱死机到底怎么做出来的",
-          "url": "https://www.douyin.com/hot/2495617",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
-          "url": "https://www.cls.cn/detail/2367989",
-          "source": "财联社热门",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.37%，报26421点。 恒生科技指数主连夜盘收涨0.53%，报5144点。",
-          "url": "https://wallstreetcn.com/livenews/3101823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "A股存储芯片板块今日调整，华特气体跌超6%，恒烁股份、澜起科技、金宏气体、神工股份跌超5%，东芯股份、有研新材跟跌。",
-          "url": "https://flash.jin10.com/detail/20260512093727397800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
         },
         {
           "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
@@ -244,168 +58,124 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
-          "url": "https://flash.jin10.com/detail/20260512024009408800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
         {
-          "title": "美股盘前，科技股多数走低，美光科技跌超2%，英特尔跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3102138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "A股CPO板块盘初活跃，红板科技、可传科技双双涨停，德科立涨超13%，太辰光、源杰科技、方正科技 跟涨。",
-          "url": "https://flash.jin10.com/detail/20260512093314117800",
-          "source": "金十数据",
+          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
+          "url": "https://wallstreetcn.com/articles/3772081",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "03时28分"
         },
         {
-          "title": "恒指高开0.34%，报26497.03点；恒生科技指数涨 0.45%。快手涨9.9%，此前报道称快手计划分拆可灵独立上市。中芯国际、携程、蔚来涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3101945",
-          "source": "华尔街见闻-快讯",
+          "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
+          "url": "https://www.cls.cn/detail/2369195",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "03时28分"
         },
         {
-          "title": "A股黄金概念盘初走强，福达合金、兴业银锡、宝鼎科技涨超5%，湖南白银、白银有色、江西铜业跟涨。",
-          "url": "https://flash.jin10.com/detail/20260512093153652800",
-          "source": "金十数据",
+          "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102458",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "03时28分"
         },
         {
-          "title": "美股三大股指低开，道指跌0.03%、标普500指数跌0.32%、纳指跌0.71%。明星科技股普跌，英特尔跌超4%，高通跌近4%。腾讯音乐涨超4%，京东涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3102347",
-          "source": "华尔街见闻-快讯",
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：意识到 Mythos 及其他先进AI可能构成重大威胁。",
-          "url": "https://wallstreetcn.com/livenews/3101938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "03时28分"
         },
         {
-          "title": "理想汽车CTO谢炎：想成为头部公司，AI芯片是必须做的事",
-          "url": "https://wallstreetcn.com/livenews/3102127",
-          "source": "华尔街见闻-快讯",
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "03时28分"
         },
         {
-          "title": "AI巨头面临严峻的“芯片通货膨胀”",
-          "url": "https://www.toutiao.com/trending/7638919710259547689/",
+          "title": "宇树科技发布载人变形机甲 390万起",
+          "url": "https://www.toutiao.com/trending/7638860347448757798/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "03时28分"
         },
         {
-          "title": "AI正把韩国推成全球最疯狂牛市",
-          "url": "https://www.toutiao.com/trending/7638535831472311827/",
-          "source": "今日头条",
+          "title": "Ai 时代，现在还有人在坚持古法编程吗？",
+          "url": "https://www.zhihu.com/question/2031495233876251385",
+          "source": "知乎",
           "ranks": [
-            24
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
         {
-          "title": "香港恒生指数5月12日（周二）开盘上涨90.19点，涨幅0.34%，报26497.03点；<br/>香港恒生科技指数5月12日（周二）开盘上涨23.14点，涨幅0.45%，报5129.54点；<br/>国企指数5月12日（周二）开盘上涨18.1点，涨幅0.2%，报8902.3点；<br/>红筹指数5月12日（周二）开盘上涨17.71点，涨幅0.38%，报4641.54点。",
-          "url": "https://flash.jin10.com/detail/20260512092139205800",
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "据The Information：微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
+          "url": "https://flash.jin10.com/detail/20260513021716741800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "03时28分"
         },
         {
-          "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3101803",
-          "source": "华尔街见闻-快讯",
+          "title": "全国首例AI代写“种草笔记”案宣判",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E4%BB%A3%E5%86%99%E2%80%9C%E7%A7%8D%E8%8D%89%E7%AC%94%E8%AE%B0%E2%80%9D%E6%A1%88%E5%AE%A3%E5%88%A4",
+          "source": "百度热搜",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
         {
-          "title": "Bain & Co.投资OpenAI Deployment Company。",
-          "url": "https://wallstreetcn.com/livenews/3101802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "韩国政策高层提议以AI产业的超额利润向全体国民发放“公民红利”",
-          "url": "https://wallstreetcn.com/livenews/3101924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
-          "url": "https://wallstreetcn.com/livenews/3101797",
-          "source": "华尔街见闻-快讯",
+          "title": "“AI水果”“酱板鸭”火到台湾",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%B0%B4%E6%9E%9C%E2%80%9D%E2%80%9C%E9%85%B1%E6%9D%BF%E9%B8%AD%E2%80%9D%E7%81%AB%E5%88%B0%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
           "ranks": [
             30
           ],
@@ -417,41 +187,8 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 15,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "匈牙利财政部长：需要可预测的经济环境，以及可信且可持续的赤字路径。",
-          "url": "https://flash.jin10.com/detail/20260512161329931800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "匈牙利财政部长：我们需要全新的经济政策方向。",
-          "url": "https://flash.jin10.com/detail/20260512161311674800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "从4月先行指标看我国经济持续向好",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E4%E6%9C%88%E5%85%88%E8%A1%8C%E6%8C%87%E6%A0%87%E7%9C%8B%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
         {
           "title": "全国高铁干线调价持续，京沪高铁宣布涨价 20%，二等座可超 800 元，从经济角度如何看这一商业动作？",
           "url": "https://www.zhihu.com/question/2037504508536870683",
@@ -459,209 +196,104 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "印尼携手菲律宾打造「镍 OPEC」，不断推动镍出口新政，这对中企有何影响？对经济有何影响？",
-          "url": "https://www.zhihu.com/question/2036749487478199013",
-          "source": "知乎",
-          "ranks": [
-            3,
-            20
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
-          "title": "美国白宫：在“史诗经济狂怒”行动的压力下，伊朗的经济已经完全瘫痪。",
-          "url": "https://flash.jin10.com/detail/20260512022956471800",
-          "source": "金十数据",
+          "title": "一包黑白薯片戳穿日本经济大国骗局",
+          "url": "https://www.toutiao.com/trending/7638995732418006564/",
+          "source": "今日头条",
           "ranks": [
-            16
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
         {
-          "title": "俄罗斯经济部下调未来几年石油生产和出口预测",
-          "url": "https://flash.jin10.com/detail/20260512220424868800",
-          "source": "金十数据",
+          "title": "俄经济发展部部长：过去三年俄经济增长10%",
+          "url": "https://wallstreetcn.com/livenews/3102461",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "03时28分"
         },
         {
-          "title": "俄罗斯经济部：将2026年俄罗斯GDP增长预期从1.3%下调至0.4%。",
-          "url": "https://flash.jin10.com/detail/20260512220352274800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "俄罗斯经济部：预计到2026年，俄罗斯卢布兑美元的平均汇率为81.5，较之前的92.2有所改善。",
-          "url": "https://flash.jin10.com/detail/20260512220217342800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "俄罗斯经济部：预计2026年投资将下降1.5%，并在2027年恢复2%的增长。",
-          "url": "https://flash.jin10.com/detail/20260512220204057800",
+          "title": "俄经济发展部部长：过去三年俄经济增长10%",
+          "url": "https://flash.jin10.com/detail/20260513022123487800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "俄罗斯经济部：在基准情景下，将2026年俄罗斯石油出口预测下调450万吨至2.372亿吨，2027年预测下调1650万吨至2.274亿吨。",
-          "url": "https://flash.jin10.com/detail/20260512220157231800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "俄罗斯经济部：在基准情景下，将2026年俄罗斯石油产量预测下调1420万吨至5.11亿吨，2027年预测下调1660万吨至5.16亿吨。",
-          "url": "https://flash.jin10.com/detail/20260512220127878800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "俄罗斯经济部下调了2026-2029年石油生产和出口的预测。",
-          "url": "https://flash.jin10.com/detail/20260512220042594800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "学者：A股涨说明经济真的在复苏",
-          "url": "https://www.toutiao.com/trending/7638599674026266139/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        },
-        {
-          "title": "美国财政部长贝森特：未向高市首相提出任何有关货币政策的要求。 与日本财务省保持非常密切的联系。 我们都认为外汇波动性不可取。 日本经济基本面强劲且具有韧性，这将反映在汇率上。 对日本央行行长植田和男在引导货币政策方面充满信心。 日本国债收益率或许反映了通胀，我认为这只是短期的通胀波动，是暂时性的。 没有针对财政政策提出具体的要求。",
-          "url": "https://wallstreetcn.com/livenews/3102114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "中国机器人登陆日本机场",
-          "url": "https://www.toutiao.com/trending/7638884002327019539/",
-          "source": "今日头条",
+          "title": "Meta：将为竞争对手的人工智能聊天机器人提供一个月的WhatsApp免费访问权限。",
+          "url": "https://flash.jin10.com/detail/20260513023414045800",
+          "source": "金十数据",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
+          "appearance_count": 1,
+          "time_info": "03时28分"
         },
         {
           "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
           "url": "https://www.zhihu.com/question/2033154931448918850",
           "source": "知乎",
           "ranks": [
-            10
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
-        },
+          "time_info": "03时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "全国首支机器人交警中队亮相背后：杭州的机器人是如何进化的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157528",
-          "source": "澎湃新闻",
+          "title": "据The Information：谷歌将招聘数百名工程师，助力客户落地采用其人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260513022035588800",
+          "source": "金十数据",
           "ranks": [
-            19
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "03时28分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33155484",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
         {
           "title": "为什么如今的社会治安明显变好了？",
           "url": "https://www.zhihu.com/question/1958151284281550245",
           "source": "知乎",
           "ranks": [
-            17
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "中央社会工作部副部长柳拯履新中国红十字会党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157756",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "time_info": "03时28分"
         }
       ]
     }
