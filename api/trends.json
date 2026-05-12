@@ -1,12 +1,80 @@
 {
-  "generated_at": "2026-05-12T03:28:33.716674+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-12T10:04:10.459344+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "A股猪肉板块盘初走低，华统股份跌超5%，立华股份、金新农、正邦科技、京基智农、罗牛山、海大集团跟跌。",
+          "url": "https://flash.jin10.com/detail/20260512093823831800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股光通信概念股延续涨势，红板科技4连板，可川科技一字涨停，光电股份、星网锐捷、方正科技、中富电路涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3101954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "把AI用到了最有意义的场合",
+          "url": "https://www.douyin.com/hot/2495756",
+          "source": "抖音",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 10时04分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 10时04分]"
+        },
+        {
+          "title": "差点死掉的玻璃厂凭什么成AI的神经",
+          "url": "https://www.toutiao.com/trending/7638646924790205990/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 10时04分]"
+        },
         {
           "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
           "url": "https://www.cls.cn/detail/2367989",
@@ -30,15 +98,15 @@
           "time_info": "03时28分"
         },
         {
-          "title": "把AI用到了最有意义的场合",
-          "url": "https://www.douyin.com/hot/2495756",
-          "source": "抖音",
+          "title": "A股存储芯片板块今日调整，华特气体跌超6%，恒烁股份、澜起科技、金宏气体、神工股份跌超5%，东芯股份、有研新材跟跌。",
+          "url": "https://flash.jin10.com/detail/20260512093727397800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "10时04分"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -52,6 +120,39 @@
           "time_info": "03时28分"
         },
         {
+          "title": "A股CPO板块盘初活跃，红板科技、可传科技双双涨停，德科立涨超13%，太辰光、源杰科技、方正科技 跟涨。",
+          "url": "https://flash.jin10.com/detail/20260512093314117800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "恒指高开0.34%，报26497.03点；恒生科技指数涨 0.45%。快手涨9.9%，此前报道称快手计划分拆可灵独立上市。中芯国际、携程、蔚来涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3101945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "A股黄金概念盘初走强，福达合金、兴业银锡、宝鼎科技涨超5%，湖南白银、白银有色、江西铜业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260512093153652800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "AI时代如何评价各专业",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -63,15 +164,15 @@
           "time_info": "03时28分"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "日本财务大臣片山皋月：意识到 Mythos 及其他先进AI可能构成重大威胁。",
+          "url": "https://wallstreetcn.com/livenews/3101938",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "10时04分"
         },
         {
           "title": "AI正把韩国推成全球最疯狂牛市",
@@ -96,6 +197,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "香港恒生指数5月12日（周二）开盘上涨90.19点，涨幅0.34%，报26497.03点；<br/>香港恒生科技指数5月12日（周二）开盘上涨23.14点，涨幅0.45%，报5129.54点；<br/>国企指数5月12日（周二）开盘上涨18.1点，涨幅0.2%，报8902.3点；<br/>红筹指数5月12日（周二）开盘上涨17.71点，涨幅0.38%，报4641.54点。",
+          "url": "https://flash.jin10.com/detail/20260512092139205800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3101803",
           "source": "华尔街见闻-快讯",
@@ -116,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "韩国政策高层提议以AI产业的超额利润向全体国民发放“公民红利”",
+          "url": "https://wallstreetcn.com/livenews/3101924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
@@ -139,11 +262,12 @@
           "url": "https://www.zhihu.com/question/2036749487478199013",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 10时04分]"
         },
         {
           "title": "美国白宫：在“史诗经济狂怒”行动的压力下，伊朗的经济已经完全瘫痪。",
