@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T16:26:12.579143+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-05-12T22:26:34.716337+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 22时26分]"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 22时26分]"
         },
         {
           "title": "宇树科技发布载人变形机甲 390万起",
@@ -31,15 +43,15 @@
           "time_info": "[16时25分 ~ 16时26分]"
         },
         {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
+          "title": "美国通胀超预期，美股低开，科技股普跌，英伟达涨2%股价续创新高，美伊僵局致布油涨3%",
+          "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "A股猪肉板块盘初走低，华统股份跌超5%，立华股份、金新农、正邦科技、京基智农、罗牛山、海大集团跟跌。",
@@ -59,7 +71,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -81,7 +93,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -105,11 +117,25 @@
           "ranks": [
             22,
             12,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时28分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[03时28分 ~ 22时26分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 22时26分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -118,18 +144,6 @@
           "ranks": [
             15,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 16时26分]"
-        },
-        {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -224,6 +238,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
+          "url": "https://www.cls.cn/detail/2369167",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
           "url": "https://flash.jin10.com/detail/20260512024009408800",
           "source": "金十数据",
@@ -241,7 +266,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -279,6 +304,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "美股三大股指低开，道指跌0.03%、标普500指数跌0.32%、纳指跌0.71%。明星科技股普跌，英特尔跌超4%，高通跌近4%。腾讯音乐涨超4%，京东涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3102347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "日本财务大臣片山皋月：意识到 Mythos 及其他先进AI可能构成重大威胁。",
           "url": "https://wallstreetcn.com/livenews/3101938",
           "source": "华尔街见闻-快讯",
@@ -296,9 +332,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "AI巨头面临严峻的“芯片通货膨胀”",
+          "url": "https://www.toutiao.com/trending/7638919710259547689/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "AI正把韩国推成全球最疯狂牛市",
@@ -370,7 +417,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 15,
       "titles": [
         {
           "title": "匈牙利财政部长：需要可预测的经济环境，以及可信且可持续的赤字路径。",
@@ -379,7 +426,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -390,9 +437,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "从4月先行指标看我国经济持续向好",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E4%E6%9C%88%E5%85%88%E8%A1%8C%E6%8C%87%E6%A0%87%E7%9C%8B%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "全国高铁干线调价持续，京沪高铁宣布涨价 20%，二等座可超 800 元，从经济角度如何看这一商业动作？",
+          "url": "https://www.zhihu.com/question/2037504508536870683",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "印尼携手菲律宾打造「镍 OPEC」，不断推动镍出口新政，这对中企有何影响？对经济有何影响？",
@@ -418,6 +487,83 @@
           "time_info": "03时28分"
         },
         {
+          "title": "俄罗斯经济部下调未来几年石油生产和出口预测",
+          "url": "https://flash.jin10.com/detail/20260512220424868800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "俄罗斯经济部：将2026年俄罗斯GDP增长预期从1.3%下调至0.4%。",
+          "url": "https://flash.jin10.com/detail/20260512220352274800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "俄罗斯经济部：预计到2026年，俄罗斯卢布兑美元的平均汇率为81.5，较之前的92.2有所改善。",
+          "url": "https://flash.jin10.com/detail/20260512220217342800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "俄罗斯经济部：预计2026年投资将下降1.5%，并在2027年恢复2%的增长。",
+          "url": "https://flash.jin10.com/detail/20260512220204057800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "俄罗斯经济部：在基准情景下，将2026年俄罗斯石油出口预测下调450万吨至2.372亿吨，2027年预测下调1650万吨至2.274亿吨。",
+          "url": "https://flash.jin10.com/detail/20260512220157231800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "俄罗斯经济部：在基准情景下，将2026年俄罗斯石油产量预测下调1420万吨至5.11亿吨，2027年预测下调1660万吨至5.16亿吨。",
+          "url": "https://flash.jin10.com/detail/20260512220127878800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "俄罗斯经济部下调了2026-2029年石油生产和出口的预测。",
+          "url": "https://flash.jin10.com/detail/20260512220042594800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "学者：A股涨说明经济真的在复苏",
           "url": "https://www.toutiao.com/trending/7638599674026266139/",
           "source": "今日头条",
@@ -435,7 +581,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
@@ -443,7 +589,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国机器人登陆日本机场",
@@ -455,12 +601,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
+          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
+          "url": "https://www.zhihu.com/question/2033154931448918850",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "全国首支机器人交警中队亮相背后：杭州的机器人是如何进化的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157528",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
@@ -472,6 +640,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
+          "title": "为什么如今的社会治安明显变好了？",
+          "url": "https://www.zhihu.com/question/1958151284281550245",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "中央社会工作部副部长柳拯履新中国红十字会党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157756",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     }
