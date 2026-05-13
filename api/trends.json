@@ -1,46 +1,12 @@
 {
-  "generated_at": "2026-05-13T22:10:18.756419+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-05-14T03:51:04.258471+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 50,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 10时09分]"
-        },
-        {
-          "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.03%，报26264点。 恒生科技指数主连夜盘收跌0.51%，报5062点。",
-          "url": "https://wallstreetcn.com/livenews/3102469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
         {
           "title": "马化腾回应AI掉队",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F%23&t=31&band_rank=2&Refer=top",
@@ -48,233 +14,75 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.15%，恒生科技指数收涨0.46%。京东涨超8%；港股AI概念股大幅上涨，智谱涨超35%，MINIMAX涨超18%，澜起科技涨超21%。",
-          "url": "https://wallstreetcn.com/livenews/3102849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
-          "url": "https://www.cls.cn/detail/2369925",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
           "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
           "url": "https://www.cls.cn/detail/2370165",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
-          "url": "https://wallstreetcn.com/articles/3772081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 16时34分]"
-        },
-        {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 16时34分]"
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
+          "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
+          "url": "https://wallstreetcn.com/articles/3772197",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 16时34分]"
-        },
-        {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 10时09分]"
-        },
-        {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 10时09分]"
-        },
-        {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3772187",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
-          "url": "https://www.cls.cn/detail/2369967",
-          "source": "财联社热门",
-          "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "Create2026百度AI开发者大会",
-          "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "百度李彦宏：AI时代的度量衡是日活智能体数",
-          "url": "https://flash.jin10.com/detail/20260513100228613800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "AI会员有必要充吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%91%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%85%85%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
-          "url": "https://www.cls.cn/detail/2369167",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "港股收评：恒生指数涨0.15%，恒生科技指数涨0.46%",
-          "url": "https://flash.jin10.com/detail/20260513161453252800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "美股盘前，科技股多数走高，英特尔涨超4%，闪迪涨超5%，英伟达涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3102841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
           "url": "https://wallstreetcn.com/articles/3772184",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
-          "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
-          "url": "https://www.cls.cn/detail/2369554",
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
+        },
+        {
+          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
+          "url": "https://www.cls.cn/detail/2370586",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -283,495 +91,131 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "香港恒生指数5月13日（周三）收盘上涨40.53点，涨幅0.15%，报26388.44点；<br/>香港恒生科技指数5月13日（周三）收盘上涨23.24点，涨幅0.46%，报5093.85点；<br/>国企指数5月13日（周三）收盘下跌5.99点，跌幅0.07%，报8876.38点；<br/>红筹指数5月13日（周三）收盘下跌15.0点，跌幅0.32%，报4614.15点。",
-          "url": "https://flash.jin10.com/detail/20260513161428781800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
-          "title": "恒生科技指数跌超1%，恒生指数跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260513100134672800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
-          "url": "https://www.cls.cn/detail/2369195",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "A股输变电设备板块走高，顺钠股份涨停，宝光股份、万控智造此前封板，金盘科技、亿能电力涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260513100107126800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3102458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美股开盘：纳指涨0.21%，道指跌0.36%，标普500指数涨0.01%。英伟达开盘上涨2.08%，报225.365美元/股，续创记录新高，总市值达5.46万亿美元。美光科技涨超6%，高通涨超3%。阿里巴巴下跌2.6%，腾讯控股ADR上涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3103059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "港股AI概念股尾盘持续拉升，澜起科技涨超20%，兆易创新、爱芯元智纷纷拉升；智谱大涨超37%，股价突破1100港元，MiniMax涨超17%。",
-          "url": "https://wallstreetcn.com/livenews/3102832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "A股收盘：沪指涨0.67% AI算力走高",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.67%25+AI%E7%AE%97%E5%8A%9B%E8%B5%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "闻泰科技就安世争端索赔80亿美元",
+          "url": "https://www.toutiao.com/trending/7638628778822991935/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "美股半导体板块普涨，美光科技(MU.O)、安森美半导体(ON.O)涨近5%，纳微半导体(NVTS.O)涨4.6%。",
-          "url": "https://flash.jin10.com/detail/20260513213303714800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "剂泰科技香港上市首日飙涨173%，此前通过IPO筹资2.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3102606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "银禧科技：PPO产品满产满销 全部供应覆铜板客户",
-          "url": "https://flash.jin10.com/detail/20260513161119476800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨0.15%，恒生科技指数收涨0.46%。京东(09618.HK)涨超8%，京东健康(06618.HK)、京东物流(02618.HK)涨超7%。",
-          "url": "https://flash.jin10.com/detail/20260513161020945800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "宇树科技发布载人变形机甲 390万起",
-          "url": "https://www.toutiao.com/trending/7638860347448757798/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "美国内存芯片股盘前走强，闪迪(SNDK.O)涨3.5%，美光科技(MU.O)涨5.2%，西部数据(WDC.O)涨3.5%，希捷科技(STX.O)涨2.9%。",
-          "url": "https://flash.jin10.com/detail/20260513160856863800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "美股开盘，道指跌0.3%、标普500指数涨0.08%、纳指涨0.23%。阿里巴巴(BABA.N)绩后开跌1.7%；AI芯片股走强，高通(QCOM.O)、英特尔(INTC.O)涨约3%，英伟达(NVDA.O)涨1.9%。",
-          "url": "https://flash.jin10.com/detail/20260513213025485800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "恒指高开0.08%，报26369.99点；恒生科技指数跌0.3%。京东集团、京东健康涨超3%，此前京东发布财报。中芯国际跌近3%，华虹半导体跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3102601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "Ai 时代，现在还有人在坚持古法编程吗？",
-          "url": "https://www.zhihu.com/question/2031495233876251385",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "历史爱好者们，你们在历史猜猜看（When & Where）的这个 AI 猜图小游戏里能拿多少分？",
-          "url": "https://www.zhihu.com/question/2037605624997831504",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "据The Information：微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
-          "url": "https://flash.jin10.com/detail/20260513021716741800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "AI假扮女儿打电话：妈妈开门",
-          "url": "https://www.baidu.com/s?wd=AI%E5%81%87%E6%89%AE%E5%A5%B3%E5%84%BF%E6%89%93%E7%94%B5%E8%AF%9D%EF%BC%9A%E5%A6%88%E5%A6%88%E5%BC%80%E9%97%A8",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
           "title": "AI续写轻音少女第三季",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
         },
         {
-          "title": "支付宝“AI收”上线新能力",
-          "url": "https://wallstreetcn.com/livenews/3103040",
+          "title": "恒生指数主连夜盘收涨1.92%，报26799点。 恒生科技指数主连夜盘收涨3.04%，报5261点。",
+          "url": "https://wallstreetcn.com/livenews/3103198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "全国首例AI代写“种草笔记”案宣判",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E4%BB%A3%E5%86%99%E2%80%9C%E7%A7%8D%E8%8D%89%E7%AC%94%E8%AE%B0%E2%80%9D%E6%A1%88%E5%AE%A3%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "“AI水果”“酱板鸭”火到台湾",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%B0%B4%E6%9E%9C%E2%80%9D%E2%80%9C%E9%85%B1%E6%9D%BF%E9%B8%AD%E2%80%9D%E7%81%AB%E5%88%B0%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时51分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 13,
+      "match_count": 6,
       "titles": [
         {
-          "title": "英国央行MPC成员Mann：近期地缘政治事件已经凸显出英国经济对国际冲击的风险敞口。",
-          "url": "https://wallstreetcn.com/livenews/3103078",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲央行首席经济学家连恩：工资谈判尚未对能源价格的上涨作出反应。",
+          "url": "https://flash.jin10.com/detail/20260514030043348800",
+          "source": "金十数据",
           "ranks": [
-            1
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "03时51分"
         },
         {
-          "title": "泰国央行会议纪要：泰铢随区域货币一同贬值，这与基本面经济因素相符。",
-          "url": "https://flash.jin10.com/detail/20260513100525898800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "据路透调查：56位经济学家中有27位认为英国央行今年将维持银行利率在3.75%；七位经济学家预计至少会有一次降息，22位预计至少会有一次加息。",
-          "url": "https://flash.jin10.com/detail/20260513214808329800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "从4月先行指标看我国经济持续向好",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E4%E6%9C%88%E5%85%88%E8%A1%8C%E6%8C%87%E6%A0%87%E7%9C%8B%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "泰国央行会议纪要：经济前景面临的风险加剧。预计泰国经济增速将放缓，分别增长1.5%和2.0%。",
-          "url": "https://flash.jin10.com/detail/20260513100408716800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "据路透调查：英国2026年通胀预计将平均为3.2%，经济增速为0.8%（4月份调查分别为3.2%和0.7%）。",
-          "url": "https://flash.jin10.com/detail/20260513214756866800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "一包黑白薯片戳穿日本经济大国骗局",
-          "url": "https://www.toutiao.com/trending/7638995732418006564/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "全国高铁干线调价持续，京沪高铁宣布涨价 20%，二等座可超 800 元，从经济角度如何看这一商业动作？",
-          "url": "https://www.zhihu.com/question/2037504508536870683",
-          "source": "知乎",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 10时09分]"
-        },
-        {
-          "title": "泰国央行会议纪要：第一季度经济增速预计将高于此前评估的水平。应对挑战并减轻中东战争的影响需要协调一致的政策组合。预计2026年整体信贷增长将保持低迷。",
-          "url": "https://flash.jin10.com/detail/20260513100335603800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "泰国央行会议纪要：中东战争通过增加商业部门的成本负担和削弱家庭购买力对经济产生了影响。",
-          "url": "https://flash.jin10.com/detail/20260513100222784800",
+          "title": "欧洲央行首席经济学家连恩：需求破坏渠道限制了货币政策所需的调整，财政扩张则相反。",
+          "url": "https://flash.jin10.com/detail/20260514030037171800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "03时51分"
         },
         {
-          "title": "俄经济发展部部长：过去三年俄经济增长10%",
-          "url": "https://wallstreetcn.com/livenews/3102461",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲央行首席经济学家连恩：企业和新闻指标显示，目前的能源冲击在一个需求支持较弱的环境中展开。",
+          "url": "https://flash.jin10.com/detail/20260514030033338800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时51分"
         },
         {
-          "title": "牛津经济研究院：市场“通胀敏感性”正在加剧价格上涨",
-          "url": "https://flash.jin10.com/detail/20260513213608473800",
+          "title": "欧洲央行首席经济学家连恩：伊朗冲击的传播可能比2022年更为有限，但强度和速度将超过历史平均水平。",
+          "url": "https://flash.jin10.com/detail/20260514030029826800",
           "source": "金十数据",
           "ranks": [
-            16
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "03时51分"
         },
         {
-          "title": "俄经济发展部部长：过去三年俄经济增长10%",
-          "url": "https://flash.jin10.com/detail/20260513022123487800",
+          "title": "欧洲央行首席经济学家连恩：销售价格预期的上升表明，未来几个月的生产成本压力将转化为更高的输出价格。",
+          "url": "https://flash.jin10.com/detail/20260514030023617800",
           "source": "金十数据",
           "ranks": [
-            19
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时51分"
+        },
+        {
+          "title": "欧洲央行首席经济学家连恩：对于外生供应中断，最佳反应可能小于对需求冲击的反应。",
+          "url": "https://flash.jin10.com/detail/20260514030019328800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "贾跃亭宣布转战机器人业务",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%AE%A3%E5%B8%83%E8%BD%AC%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "Meta：将为竞争对手的人工智能聊天机器人提供一个月的WhatsApp免费访问权限。",
-          "url": "https://flash.jin10.com/detail/20260513023414045800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
-          "url": "https://www.zhihu.com/question/2033154931448918850",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
         {
           "title": "机器人：白色衣服同志您已停车越线",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%9A%E7%99%BD%E8%89%B2%E8%A1%A3%E6%9C%8D%E5%90%8C%E5%BF%97%E6%82%A8%E5%B7%B2%E5%81%9C%E8%BD%A6%E8%B6%8A%E7%BA%BF",
           "source": "百度热搜",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "贾跃亭宣布转战机器人业务",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%AE%A3%E5%B8%83%E8%BD%AC%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
         }
       ]
     },
@@ -780,32 +224,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据The Information：谷歌将招聘数百名工程师，助力客户落地采用其人工智能技术。",
-          "url": "https://flash.jin10.com/detail/20260513022035588800",
-          "source": "金十数据",
+          "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3103173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时51分"
         }
       ]
     },
     {
-      "keyword_group": "社会",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么如今的社会治安明显变好了？",
-          "url": "https://www.zhihu.com/question/1958151284281550245",
-          "source": "知乎",
+          "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
+          "url": "https://wallstreetcn.com/livenews/3103184",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "03时51分"
         }
       ]
     }
