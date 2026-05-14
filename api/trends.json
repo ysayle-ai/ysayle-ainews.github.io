@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T10:11:47.641025+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-05-14T16:28:20.107936+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 24,
+      "match_count": 40,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 10时11分]"
+          "appearance_count": 4,
+          "time_info": "[03时50分 ~ 16时28分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -48,9 +49,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 16时28分]"
+        },
+        {
+          "title": "港股收盘：恒生指数平收，恒生科技指数收跌0.35%。阿里巴巴涨近4%，百度涨超2%；华虹半导体跌超2%，中芯国际跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3103567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "16时28分"
         },
         {
           "title": "百度高开7% 花旗：已展示并定位为新兴“AgenticAI”时代领导者",
@@ -59,9 +71,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "港股收评：恒生指数平收，恒生科技指数收跌0.35%",
+          "url": "https://flash.jin10.com/detail/20260514161549386800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "博主：这轮AI暴富潮太吓人",
@@ -70,9 +93,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "美记者在北京体验中国科技",
+          "url": "https://www.douyin.com/hot/2498543",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
@@ -80,11 +114,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 10时11分]"
+          "appearance_count": 4,
+          "time_info": "[03时50分 ~ 16时28分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -92,11 +127,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 10时11分]"
+          "appearance_count": 4,
+          "time_info": "[03时50分 ~ 16时28分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -104,11 +140,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 10时11分]"
+          "appearance_count": 4,
+          "time_info": "[03时50分 ~ 16时28分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -132,6 +169,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时50分 ~ 10时11分]"
+        },
+        {
+          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
+          "url": "https://www.zhihu.com/question/2037950969506428373",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 16时28分]"
+        },
+        {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 16时28分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -162,7 +222,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -178,37 +238,48 @@
           "time_info": "03时51分"
         },
         {
+          "title": "美股盘前，英伟达涨超2%；存储芯片概念股普跌，美光科技、闪迪均跌超1%。思科盘前涨近20%，第三季度营收超预期并宣布裁员。",
+          "url": "https://wallstreetcn.com/livenews/3103563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
           "url": "https://www.cls.cn/detail/2370695",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
         {
-          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
-          "url": "https://www.zhihu.com/question/2037950969506428373",
-          "source": "知乎",
+          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
+          "url": "https://www.cls.cn/detail/2370802",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "16时28分"
         },
         {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
+          "title": "香港恒生指数5月14日（周四）收盘上涨0.6点，涨幅0.0%，报26389.04点；<br/>香港恒生科技指数5月14日（周四）收盘下跌17.65点，跌幅0.35%，报5076.2点；<br/>国企指数5月14日（周四）收盘下跌17.75点，跌幅0.2%，报8858.63点；<br/>红筹指数5月14日（周四）收盘下跌40.12点，跌幅0.87%，报4574.03点。",
+          "url": "https://flash.jin10.com/detail/20260514161209622800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "16时28分"
         },
         {
           "title": "A股CPO概念股延续涨势，可川科技3连板，共进股份一字涨停，罗博特科涨超10%，剑桥科技、鹏鼎控股、联特科技、工业富联等纷纷高开。",
@@ -217,9 +288,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "老牌科技巨头翻身？思科业绩超预期，裁员助推股价盘前拉升20%",
+          "url": "https://flash.jin10.com/detail/20260514160956467800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "恒指高开1.7%，恒生科技指数涨3.23%",
@@ -228,7 +310,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -239,9 +321,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "【社论】中国AI企业背后的创新密码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172507",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "A股光纤概念反复活跃，泰和新材涨停，罗博特科涨超9%，光库科技涨超6%，大族激光、鼎通科技跟涨。",
@@ -250,9 +365,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "鸿海：AI服务器需求强劲，预期第二季AI机柜出货较上季高双位成长，全年出货倍数以上成长。",
+          "url": "https://wallstreetcn.com/livenews/3103542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "日媒曝光日本批量生成AI视频抹黑中国",
@@ -261,9 +387,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "日本批量生成AI视频抹黑中国",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "全新问界M9全主动底盘黑科技曝光",
+          "url": "https://www.toutiao.com/trending/7638832901685087750/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "A股CPO板块延续涨势，共进股份、可川科技双双涨停，剑桥科技涨近7%，鹏鼎控股、圣邦股份、工业富联跟涨。",
@@ -272,15 +420,48 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "陈奇辟谣从千里科技离职",
+          "url": "https://wallstreetcn.com/livenews/3103532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "鸿海：对今年持谨慎乐观态度。 AI不是短期趋势。 我们将把握AI的长期增长趋势。 仍预计2026财年销售额将强劲增长。",
+          "url": "https://wallstreetcn.com/livenews/3103531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "日本批量生成AI视频抹黑中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "欧洲央行首席经济学家连恩：工资谈判尚未对能源价格的上涨作出反应。",
@@ -349,13 +530,24 @@
           "time_info": "03时51分"
         },
         {
+          "title": "市场分析：英国经济增长数据对英国央行影响不大",
+          "url": "https://flash.jin10.com/detail/20260514160311985800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "韩国：三星罢工或将对经济构成重大风险。",
           "url": "https://wallstreetcn.com/livenews/3103297",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
@@ -383,7 +575,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
@@ -434,7 +626,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
