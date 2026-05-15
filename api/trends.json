@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T10:09:38.363577+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-05-15T16:39:03.564619+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "恒生指数主连夜盘收涨0.02%，报26341点。 恒生科技指数主连夜盘收跌0.43%，报5066点。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -45,11 +45,12 @@
           "url": "https://www.zhihu.com/question/2018783635805860978",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 16时39分]"
         },
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -74,6 +75,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 10时09分]"
+        },
+        {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 16时39分]"
+        },
+        {
+          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 16时39分]"
+        },
+        {
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
           "title": "美记者在北京体验中国科技",
@@ -127,7 +173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -160,7 +206,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -176,17 +222,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "腾讯辟谣“AI一号位即将离职”",
-          "url": "https://www.toutiao.com/trending/7639594791072628786/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
           "url": "https://www.cls.cn/detail/2371337",
           "source": "财联社热门",
@@ -198,13 +233,24 @@
           "time_info": "03时28分"
         },
         {
+          "title": "港股收盘：恒生指数跌1.62%，恒生科技指数跌2.66%。科技股多数走低，华虹半导体、哔哩哔哩跌超8%，联想集团跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3104259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
           "url": "https://www.cls.cn/detail/2371792",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -226,7 +272,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -237,9 +283,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "OpenAI首席财务官：或将筹集更多资金，未来可能考虑通过公开市场融资",
+          "url": "https://wallstreetcn.com/livenews/3104253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "马化腾称一年前以为上了 AI 的船，结果发现漏水了，腾讯的 AI 哪里「漏水」了？还有机会补救吗？",
@@ -248,7 +305,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -270,18 +327,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -292,7 +338,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -325,9 +371,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "港股收评：恒生指数跌1.62% 恒生科技指数跌2.66%",
+          "url": "https://flash.jin10.com/detail/20260515161617447800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "香港恒生指数5月15日（周五）收盘下跌426.31点，跌幅1.62%，报25962.73点；<br/>香港恒生科技指数5月15日（周五）收盘下跌135.06点，跌幅2.66%，报4941.14点；<br/>国企指数5月15日（周五）收盘下跌167.6点，跌幅1.89%，报8691.03点；<br/>红筹指数5月15日（周五）收盘下跌38.81点，跌幅0.85%，报4535.22点。",
+          "url": "https://flash.jin10.com/detail/20260515161139123800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "中国AI企业正在海外闷声发大财",
@@ -369,9 +437,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "港股收盘，恒指收跌1.62%，科指收跌2.66%。科技股多数下跌，华虹半导体(01347.HK)、哔哩哔哩(09626.HK)跌超8%，联想集团(00992.HK)跌近5%。",
+          "url": "https://flash.jin10.com/detail/20260515160950150800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -391,7 +470,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -413,7 +492,57 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "习近平：做强做优做大实体经济",
+          "url": "https://www.cls.cn/detail/2372376",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "商务部：全球经济增长放缓等因素仍可能对我国外贸产生一定影响，但我国外贸长期向好的基本面没有改变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33178157",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "英国央行首席经济学家：呼吁采取“及时但适度”的加息措施，从而缓解通胀压力",
+          "url": "https://wallstreetcn.com/livenews/3103846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "高通总裁：中国经济充满活力",
+          "url": "https://www.toutiao.com/trending/7639732039679377414/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -428,11 +557,12 @@
           "url": "https://www.zhihu.com/question/2038010908488590805",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 16时39分]"
         },
         {
           "title": "英国卫生和社会福利大臣宣布辞职",
@@ -459,34 +589,6 @@
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英国央行首席经济学家：呼吁采取“及时但适度”的加息措施，从而缓解通胀压力",
-          "url": "https://wallstreetcn.com/livenews/3103846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "高通总裁：中国经济充满活力",
-          "url": "https://www.toutiao.com/trending/7639732039679377414/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人",
       "match_count": 1,
       "titles": [
@@ -497,7 +599,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -514,7 +616,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -531,7 +633,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
