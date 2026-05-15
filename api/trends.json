@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T16:39:03.564619+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-05-15T21:32:06.951006+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "恒生指数主连夜盘收涨0.02%，报26341点。 恒生科技指数主连夜盘收跌0.43%，报5066点。",
@@ -46,11 +46,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 21时32分]"
         },
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -77,6 +78,41 @@
           "time_info": "[03时28分 ~ 10时09分]"
         },
         {
+          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 21时32分]"
+        },
+        {
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 21时32分]"
+        },
+        {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 21时32分]"
+        },
+        {
           "title": "腾讯辟谣“AI一号位即将离职”",
           "url": "https://www.toutiao.com/trending/7639594791072628786/",
           "source": "今日头条",
@@ -88,38 +124,15 @@
           "time_info": "[10时09分 ~ 16时39分]"
         },
         {
-          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
-          "source": "澎湃新闻",
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
           "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 16时39分]"
-        },
-        {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "美记者在北京体验中国科技",
@@ -131,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 10时09分]"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -239,7 +263,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -294,7 +318,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -382,7 +406,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -393,7 +417,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -448,7 +472,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -500,18 +524,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "习近平：做强做优做大实体经济",
           "url": "https://www.cls.cn/detail/2372376",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 21时32分]"
         },
         {
           "title": "商务部：全球经济增长放缓等因素仍可能对我国外贸产生一定影响，但我国外贸长期向好的基本面没有改变",
@@ -521,8 +546,19 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 21时32分]"
+        },
+        {
+          "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
+          "url": "https://www.cls.cn/detail/2372620",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时39分]"
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "英国央行首席经济学家：呼吁采取“及时但适度”的加息措施，从而缓解通胀压力",
@@ -561,8 +597,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 21时32分]"
         },
         {
           "title": "英国卫生和社会福利大臣宣布辞职",
@@ -590,8 +626,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "【每日收评】沪指与深成指双双跌超1%，全市场超3500股飘绿，机器人概念股逆势爆发",
+          "url": "https://www.cls.cn/detail/2372554",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
         {
           "title": "FF：2026年一季度经营亏损收窄18% 年内机器人出货目标1500台",
           "url": "https://wallstreetcn.com/livenews/3104005",
