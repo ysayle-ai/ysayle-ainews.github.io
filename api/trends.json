@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-16T10:02:27.831754+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-16T15:50:53.864386+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
+          "url": "https://www.cls.cn/detail/2373057",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时50分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时50分]"
+        },
         {
           "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
           "url": "https://wallstreetcn.com/livenews/3104595",
@@ -19,26 +43,15 @@
           "time_info": "03时17分"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
-          "url": "https://www.cls.cn/detail/2373057",
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "15时50分"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -46,11 +59,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 15时50分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -93,7 +107,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -104,7 +118,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -115,7 +129,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -126,7 +140,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -144,8 +158,59 @@
       ]
     },
     {
+      "keyword_group": "经济",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
+          "url": "https://www.cls.cn/detail/2372620",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 10时02分]"
+        },
+        {
+          "title": "据英国天空新闻：英国财政大臣里夫斯计划取消部分金融危机后实施的银行“隔离”监管制度，以推动英国经济增长。",
+          "url": "https://flash.jin10.com/detail/20260516145229681800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "普京：提振经济举措初见成效，俄3月经济数据向好",
+          "url": "https://wallstreetcn.com/livenews/3104688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "福州低空经济法治交流会：热议“管得好、飞得稳、用得活”",
+          "url": "https://wallstreetcn.com/livenews/3104738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【每日收评】沪指与深成指双双跌超1%，全市场超3500股飘绿，机器人概念股逆势爆发",
@@ -166,38 +231,87 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "机器人上岗快递分拣员",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%BF%AB%E9%80%92%E5%88%86%E6%8B%A3%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
-          "url": "https://www.cls.cn/detail/2372620",
-          "source": "财联社热门",
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 10时02分]"
-        },
-        {
-          "title": "普京：提振经济举措初见成效，俄3月经济数据向好",
-          "url": "https://wallstreetcn.com/livenews/3104688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "15时50分"
+        },
+        {
+          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
+          "url": "https://wallstreetcn.com/livenews/3104759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
+          "url": "https://flash.jin10.com/detail/20260516150549630800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马上评｜盲人女孩摆拍，伤害的是社会信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33186778",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "专家评摆拍盲道被撞：消耗社会信任",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%E8%AF%84%E6%91%86%E6%8B%8D%E7%9B%B2%E9%81%93%E8%A2%AB%E6%92%9E%EF%BC%9A%E6%B6%88%E8%80%97%E7%A4%BE%E4%BC%9A%E4%BF%A1%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     }
