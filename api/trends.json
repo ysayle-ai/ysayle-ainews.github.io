@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T16:10:20.279428+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-05-17T20:57:03.351136+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 26,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 20时57分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -27,11 +28,23 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 20时57分]"
+        },
+        {
+          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
+          "url": "https://wallstreetcn.com/articles/3772456",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -51,9 +64,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
+          "url": "https://wallstreetcn.com/livenews/3104878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -62,11 +86,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 20时57分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -74,11 +99,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 20时57分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
@@ -105,6 +131,72 @@
           "time_info": "[02时50分 ~ 10时04分]"
         },
         {
+          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
+          "url": "https://www.zhihu.com/question/2038901266051502596",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "长鑫科技：一季度营收增长719.13%",
+          "url": "https://www.toutiao.com/trending/7640141809625104425/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "AI已经预测了世界杯",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B7%B2%E7%BB%8F%E9%A2%84%E6%B5%8B%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "终末地赤石科技大赛2",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E8%B5%A4%E7%9F%B3%E7%A7%91%E6%8A%80%E5%A4%A7%E8%B5%9B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "岗位被 AI 替代后，还可以去送外卖、跑网约车，如果这些兜底岗位也被取代，又该如何？",
+          "url": "https://www.zhihu.com/question/2037906428577277385",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
           "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
@@ -117,13 +209,24 @@
           "time_info": "[02时50分 ~ 10时04分]"
         },
         {
+          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
+          "url": "https://wallstreetcn.com/livenews/3104875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
           "url": "https://wallstreetcn.com/articles/3772431",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -134,7 +237,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -156,9 +259,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
+          "url": "https://flash.jin10.com/detail/20260517194805179800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "长鑫科技：预计上半年营收1100至1200亿元，净利润500亿元至570亿元",
+          "url": "https://wallstreetcn.com/livenews/3104866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "长鑫科技：一季度营收同比增长719.13%",
+          "url": "https://wallstreetcn.com/livenews/3104865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "业内人士：AI算力的本质是石油",
@@ -167,7 +303,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         }
@@ -175,7 +311,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "博主：日本在制造最严重的经济衰退",
@@ -184,7 +320,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -196,8 +332,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 20时57分]"
         },
         {
           "title": "伊拉克新总理承诺推动全面经济改革与反腐",
@@ -229,7 +365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -240,9 +376,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "陈茂波：香港经济基调良好前景正面 有助吸引更多国际长期资金投资",
+          "url": "https://wallstreetcn.com/livenews/3104858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊拉克新总理承诺推动全面经济改革与反腐",
@@ -254,12 +401,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
+          "url": "https://flash.jin10.com/detail/20260517181500544800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英国前卫生和社会福利大臣称将竞选工党党首",
@@ -302,11 +460,51 @@
           "url": "https://wallstreetcn.com/livenews/3104838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 20时57分]"
+        },
+        {
+          "title": "习近平就推动哲学社会科学高质量发展作出重要指示",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190024",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时50分 ~ 10时04分]"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         }
       ]
     },
@@ -324,23 +522,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时50分 ~ 10时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[02时50分 ~ 10时04分]"
         }
       ]
