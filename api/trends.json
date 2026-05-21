@@ -1,57 +1,22 @@
 {
-  "generated_at": "2026-05-21T22:41:29.808451+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-05-22T03:43:28.531494+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 33,
+      "match_count": 19,
       "titles": [
         {
-          "title": "长鑫科技IPO将于5月27日上会，拟募资295亿元",
-          "url": "https://www.cls.cn/detail/2376986",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 10时13分]"
-        },
-        {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 22时41分]"
-        },
-        {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
-          "source": "财联社热门",
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "韩股涨到“熔断”！三星最后关头避免罢工 韩国科技股集体暴涨",
-          "url": "https://www.cls.cn/detail/2377510",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "03时43分"
         },
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -60,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "03时43分"
         },
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -71,561 +36,224 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "03时43分"
         },
         {
-          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
-          "url": "https://www.cls.cn/detail/2377636",
-          "source": "财联社热门",
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "03时43分"
         },
         {
-          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
-          "url": "https://www.cls.cn/detail/2378186",
-          "source": "财联社热门",
+          "title": "星巴克在北美全线叫停AI库存盘点工具",
+          "url": "https://wallstreetcn.com/livenews/3107600",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "如何看待当前的恒生科技",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E5%89%8D%E7%9A%84%E6%81%92%E7%94%9F%E7%A7%91%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 22时41分]"
+          "time_info": "03时43分"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
           "url": "https://www.cls.cn/detail/2377977",
           "source": "财联社热门",
           "ranks": [
-            12,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 22时41分]"
-        },
-        {
-          "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
-          "url": "https://www.zhihu.com/question/2040569394959491641",
-          "source": "知乎",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 22时41分]"
-        },
-        {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 22时41分]"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 22时41分]"
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
           "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 22时41分]"
-        },
-        {
-          "title": "受OpenAI及SB Energy IPO计划双重提振，软银股价大涨近20%",
-          "url": "https://flash.jin10.com/detail/20260521095917152800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "03时43分"
         },
         {
-          "title": "恒生指数主连夜盘收涨0.73%，报25761点。 恒生科技指数主连夜盘收涨0.51%，报4899点。",
-          "url": "https://wallstreetcn.com/livenews/3106893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "摩根士丹利：AI并购潮呈现“全谱系”发展趋势",
-          "url": "https://flash.jin10.com/detail/20260521032106844800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "南京医药：拟出资4.5亿元与多方成立并购基金以取得大清生物和科健科技控股股权",
-          "url": "https://flash.jin10.com/detail/20260521164736514800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "A股商业航天概念早盘拉升，铖昌科技直线涨停，瑞华泰、东方钽业、海格通信、春晖智控、上海港湾跟涨，消息上，SpaceX向SEC提交S-1注册声明，将在纳斯达克上市，股票代码为SPCX。",
-          "url": "https://wallstreetcn.com/livenews/3107064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
-          "url": "https://flash.jin10.com/detail/20260521030904258800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "A股PCB概念再度走强，鹏鼎控股涨停，续创历史新高，大族数控涨超15%，鼎泰高科、深南电路、红板科技、广合科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260521095056893800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "据港交所文件：北京首钢朗泽科技股份有限公司通过港交所上市聆讯。",
-          "url": "https://flash.jin10.com/detail/20260521221806585800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "腾讯会议推出“AI同传”功能",
-          "url": "https://wallstreetcn.com/livenews/3107303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
-          "url": "https://www.cls.cn/detail/2377170",
+          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
+          "url": "https://www.cls.cn/detail/2378186",
           "source": "财联社热门",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "03时43分"
         },
         {
-          "title": "美联储会议纪要：一季度实际GDP增速有所回升 高科技商品进口增长",
-          "url": "https://flash.jin10.com/detail/20260521025525935800",
-          "source": "金十数据",
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "03时43分"
         },
         {
-          "title": "恒生指数收盘跌1.03%，恒生科技指数跌2.15%",
-          "url": "https://wallstreetcn.com/livenews/3107294",
+          "title": "恒生指数主连夜盘收涨0.69%，报25568点。 恒生科技指数主连夜盘收涨0.71%，报4816点。",
+          "url": "https://wallstreetcn.com/livenews/3107593",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "03时43分"
         },
         {
           "title": "投了长鑫科技 合肥赚了一个合肥",
           "url": "https://www.toutiao.com/trending/7641330476858359827/",
           "source": "今日头条",
           "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260522022949905800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
+          "url": "https://flash.jin10.com/detail/20260522022849271800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "报道：OpenAI在第一季度创造57亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3107589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
+          "url": "https://www.zhihu.com/question/2040569394959491641",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
+          "url": "https://www.zhihu.com/question/2037993874522629479",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
+          "url": "https://wallstreetcn.com/livenews/3107583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "03时43分"
         },
         {
-          "title": "恒指高开0.71%，报25833.24点；恒生科技指数涨1.04%。中芯国际涨3.8%，小鹏汽车、华虹半导体涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3107045",
+          "title": "Kepler依托Claude构建金融服务业可验证AI架构",
+          "url": "https://wallstreetcn.com/livenews/3107573",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美股存储股普涨，希捷科技涨超5%，西部数据涨超3%，美光科技、闪迪涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3107475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "为什么搞AI的赚不过卖存储的",
-          "url": "https://www.toutiao.com/trending/7642241770243231286/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "软银集团股价大涨近20%，受OpenAI和SB Energy的IPO消息提振。",
-          "url": "https://wallstreetcn.com/livenews/3107041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "年薪10万美元的行政助理渐被AI取代 咨询与会计巨头纷纷裁减支持岗位",
-          "url": "https://wallstreetcn.com/livenews/3107467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "03时43分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "受中东冲突拖累 欧盟预计今年经济增长将放缓",
-          "url": "https://wallstreetcn.com/livenews/3107495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
         {
           "title": "《经济日报》发文称当下黄金已变成风险资产，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2040526913467327783",
           "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "景区大门越建越远，游客得换乘多次摆渡车，景区抛弃「门票经济」后，为什么总喜欢在「摆渡车」上动心思？",
-          "url": "https://www.zhihu.com/question/2037482290226401856",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "日本央行审议委员小枝淳子：核心通胀率已经达到了2%左右。 认为核心通胀率有可能超过2%。 需要根据经济活动情况来提高利率。 长期实际利率保持为正值是可取的。 日本央行加息后金融环境依然宽松。 以适当的速度提高利率是合理的。 日本央行需要考察潜在通胀锚定程度。",
-          "url": "https://wallstreetcn.com/livenews/3107060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "欧元区商业活动以2023年来最快步伐萎缩 油价飙升重创经济的担忧加剧",
-          "url": "https://wallstreetcn.com/livenews/3107299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "日本央行审议委员小枝淳子：长期负实际利率的持续可能使投资者将日本经济视为预期回报不具吸引力的投资目的地。",
-          "url": "https://flash.jin10.com/detail/20260521094256798800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "日本央行审议委员小枝淳子：短期​​实际利率一直处于负值，且相对于其他经济体处于较低水平。",
-          "url": "https://flash.jin10.com/detail/20260521094227760800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "日本央行审议委员小枝淳子：日本央行必须评估当前中东局势将持续多久，其对全球经济及外部需求的影响，并结合当前的汇率水平，研判日本净出口将如何变化。",
-          "url": "https://flash.jin10.com/detail/20260521093935970800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "美PMI数据显示 中东冲突带来的破坏性经济影响正愈发明显",
-          "url": "https://flash.jin10.com/detail/20260521215631293800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "A股机器人概念股反复活跃，北投科技反包涨停，昊志机电涨超10%，科森科技、信邦智能、福莱新材、浙江荣泰涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3107073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BF%E4%B8%8A%E7%9A%AE%E8%82%A4+%E6%AD%A3%E5%A4%84%E5%9C%A8%E7%88%86%E5%8F%91%E5%89%8D%E5%A4%9C",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 10时13分]"
-        },
-        {
-          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
-          "url": "https://www.cls.cn/detail/2377385",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 16时56分]"
-        },
-        {
-          "title": "机器人穿上皮肤 正处在爆发前夜",
-          "url": "https://www.toutiao.com/trending/7641893274647117887/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时02分]"
-        },
-        {
-          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
-          "url": "https://www.cls.cn/detail/2377373",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "特斯拉最后一批Model S/X车型下线 工厂将转为人型机器人生产线",
-          "url": "https://www.cls.cn/detail/2377717",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)：将设立一项价值2000万美元的能源影响基金。",
-          "url": "https://flash.jin10.com/detail/20260521033514958800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "谷歌将在美国密苏里州投资150亿美元建设基础设施，包括在蒙哥马利县的新佛罗伦斯建立一座数据中心。",
-          "url": "https://flash.jin10.com/detail/20260521033458078800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "谷歌与阿莫林公司签署容量承诺框架协议，支持开发超过500兆瓦的额外发电能力。",
-          "url": "https://flash.jin10.com/detail/20260521033456216800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
-          "url": "https://www.zhihu.com/question/2040264998916712429",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 10时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "洪洞大槐树景区致澎湃新闻及社会各界：诚恳致谢、全面整改、坚守初心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204232",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 16时56分]"
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "古巴外长：美国国务卿鲁比奥知道单边强制措施是古巴经济发展的主要障碍。",
+          "url": "https://flash.jin10.com/detail/20260522021856383800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "古巴外长：美国在激发民众绝望和经济崩溃。",
+          "url": "https://flash.jin10.com/detail/20260522021142358800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         }
       ]
     }
