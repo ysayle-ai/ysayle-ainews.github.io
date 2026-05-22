@@ -1,27 +1,49 @@
 {
-  "generated_at": "2026-05-22T03:43:28.531494+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-22T10:16:09.935202+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
           "url": "https://www.cls.cn/detail/2378280",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 10时16分]"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 10时16分]"
+        },
+        {
+          "title": "为何AI总会一本正经地胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
@@ -35,17 +57,6 @@
           "source": "知乎",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -78,11 +89,70 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 10时16分]"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 10时16分]"
+        },
+        {
+          "title": "投了长鑫科技 合肥赚了一个合肥",
+          "url": "https://www.toutiao.com/trending/7641330476858359827/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 10时16分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 10时16分]"
+        },
+        {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
+        },
+        {
+          "title": "AI给了大话西游可能最好的结局",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%BB%99%E4%BA%86%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E5%8F%AF%E8%83%BD%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BB%93%E5%B1%80&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -96,15 +166,26 @@
           "time_info": "03时43分"
         },
         {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
+          "title": "PCB概念股延续强势，鹏鼎控股涨停，股价续创历史新高，兴森科技、天承科技、景旺电子、胜宏科技、深南电路涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3107702",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "10时16分"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰：我们将在AI PC领域看到显著的两位数增长。",
+          "url": "https://flash.jin10.com/detail/20260522095503813800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.69%，报25568点。 恒生科技指数主连夜盘收涨0.71%，报4816点。",
@@ -118,15 +199,15 @@
           "time_info": "03时43分"
         },
         {
-          "title": "投了长鑫科技 合肥赚了一个合肥",
-          "url": "https://www.toutiao.com/trending/7641330476858359827/",
-          "source": "今日头条",
+          "title": "量子科技概念开盘活跃，格尔软件竞价涨停，科大国创涨超13%，神州信息、国盾量子、三未信安、吉大正元纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3107698",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "10时16分"
         },
         {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
@@ -162,22 +243,22 @@
           "time_info": "03时43分"
         },
         {
+          "title": "恒指高开1.01%，报25641.80点；恒生科技指数涨1.57%。联想集团涨4.9%，华虹半导体、舜宇光学科技、中芯国际涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3107692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
           "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
           "url": "https://www.zhihu.com/question/2040569394959491641",
           "source": "知乎",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -195,6 +276,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "深交所：N惠康科技二次临停",
+          "url": "https://flash.jin10.com/detail/20260522095020785800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
           "url": "https://wallstreetcn.com/livenews/3107583",
           "source": "华尔街见闻-快讯",
@@ -204,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰：没有人真正从AI训练中赚钱。但我们现在所看到的是，人工智能不仅进入了推理阶段，还能真正做一些智能的事情。",
+          "url": "https://flash.jin10.com/detail/20260522094909706800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "Kepler依托Claude构建金融服务业可验证AI架构",
@@ -220,8 +323,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "从经济学常识看，当前「高股价」、「高油价」、「高债价」同时存在，这对吗？",
+          "url": "https://www.zhihu.com/question/2040737074454557633",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
+        },
         {
           "title": "《经济日报》发文称当下黄金已变成风险资产，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2040526913467327783",
@@ -254,6 +368,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "福建：不断做大做强口岸经济",
+          "url": "https://wallstreetcn.com/livenews/3107674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股机器人概念股反复活跃，龙星科技直线涨停，埃夫特涨近10%，欧科亿、卡倍亿、奥比中光、迅捷兴跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "导游机器人、外卖机器狗上岗",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%BC%E6%B8%B8%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E7%8B%97%E4%B8%8A%E5%B2%97",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
+        },
+        {
+          "title": "京东首发会眼神交流的机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%A6%96%E5%8F%91%E4%BC%9A%E7%9C%BC%E7%A5%9E%E4%BA%A4%E6%B5%81%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时15分 ~ 10时16分]"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰：下一波重大趋势将是物理人工智能，包括机器人技术。",
+          "url": "https://flash.jin10.com/detail/20260522095440020800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         }
       ]
     }
