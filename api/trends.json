@@ -1,213 +1,144 @@
 {
-  "generated_at": "2026-05-23T16:06:44.295932+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-05-24T02:56:12.822732+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "闻泰科技国内起诉安世半导体及外籍高管、索赔 80 亿，能否「抢回」 安世半导体？",
+          "url": "https://www.zhihu.com/question/2041475722070454805",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
+        },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时03分 ~ 16时06分]"
+          "time_info": "[02时55分 ~ 02时56分]"
         },
         {
-          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/2041154123677126717",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 16时06分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 10时03分]"
-        },
-        {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 10时03分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.49%，报25430点。 恒生科技指数主连夜盘收跌0.74%，报4824点。",
-          "url": "https://wallstreetcn.com/livenews/3108206",
-          "source": "华尔街见闻-快讯",
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
         },
         {
-          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
-          "url": "https://flash.jin10.com/detail/20260523091339971800",
-          "source": "金十数据",
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
+          "title": "闻泰科技起诉安世荷兰：索赔至少80亿元，要求恢复完整控制权",
+          "url": "https://news.ifeng.com/c/8tMZVeAyacf",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
         },
         {
-          "title": "美光科技CEO Mehrotra：存储芯片供应短缺问题将持续到2026年之后。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3108195",
-          "source": "华尔街见闻-快讯",
+          "title": "AI 泡沫还能持续多久？",
+          "url": "https://www.zhihu.com/question/1903030274536743238",
+          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
         },
         {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
+          "url": "https://www.zhihu.com/question/2040505406502524785",
           "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
+        },
+        {
+          "title": "长鑫科技董事长拿出7.68亿股给员工",
+          "url": "https://www.toutiao.com/trending/7643027831630335542/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221203",
+          "source": "澎湃新闻",
           "ranks": [
-            27
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
+        },
+        {
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3108403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "02时56分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "国际贸易谈判代表兼副部长李成钢出席中国与《数字经济伙伴关系协定》成员部级会议",
-          "url": "https://wallstreetcn.com/livenews/3108284",
-          "source": "华尔街见闻-快讯",
+          "title": "国家数据局：将把推动词元经济发展纳入工作体系",
+          "url": "https://www.cls.cn/detail/2379850",
+          "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "李成钢国际贸易谈判代表兼副部长出席中国与《数字经济伙伴关系协定》成员部级会议",
-          "url": "https://flash.jin10.com/detail/20260523081331741800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "阿根廷经济部：将从七月起逐步降低工业部门的出口税。汽车、石化、化工、橡胶和机械的出口税将在12个月内从4.5%降至零。出口税率将每月下调0.375个百分点。",
-          "url": "https://flash.jin10.com/detail/20260523080951652800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果谷歌英伟达，集体松了口气",
-          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
-          "source": "凤凰网",
-          "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时23分 ~ 10时03分]"
-        },
-        {
-          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
-          "url": "https://wallstreetcn.com/livenews/3108281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "[02时55分 ~ 02时56分]"
         }
       ]
     }
