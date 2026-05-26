@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-05-26T03:16:44.983078+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-26T10:12:00.762420+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 10,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 10时12分]"
+        },
+        {
+          "title": "【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会",
+          "url": "https://www.cls.cn/detail/2381183",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "A股算力概念股震荡下挫，大位科技、华升股份触及跌停，行云科技跌近10%，紫光股份、直真科技、鸿博股份跌逾6%。",
+          "url": "https://wallstreetcn.com/livenews/3109122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "10时12分"
         },
         {
           "title": "长鑫科技这笔IPO，承销保荐费能赚几个亿？跟投更带来隐形收益",
@@ -41,6 +64,50 @@
           "time_info": "03时16分"
         },
         {
+          "title": "宇树科技科创板IPO将于6月1日上会",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E5%B0%86%E4%BA%8E6%E6%9C%881%E6%97%A5%E4%B8%8A%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 10时12分]"
+        },
+        {
+          "title": "宇树科技IPO将于6月1日上会",
+          "url": "https://www.douyin.com/hot/2512228",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "AI改编庾澄庆歌手舞台",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E7%BC%96%E5%BA%BE%E6%BE%84%E5%BA%86%E6%AD%8C%E6%89%8B%E8%88%9E%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
           "url": "https://www.cls.cn/detail/2380739",
           "source": "财联社热门",
@@ -61,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "A股先进封装概念继续活跃，华天科技、三佳科技2连板，甬矽电子涨超10%，晶方科技、快克智能、通富微电等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3109106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "追觅科技官宣C罗出任全球代言人",
@@ -96,15 +174,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "宇树科技科创板IPO将于6月1日上会",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E5%B0%86%E4%BA%8E6%E6%9C%881%E6%97%A5%E4%B8%8A%E4%BC%9A",
-          "source": "百度热搜",
+          "title": "恒指高开0.06%，恒生科技指数涨1.9%",
+          "url": "https://wallstreetcn.com/livenews/3109099",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "10时12分"
         },
         {
           "title": "追觅科技官宣C罗为全球代言人",
@@ -116,13 +194,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "华天科技5月26日在互动平台表示，公司与基板企业建立稳定供应关系，目前尚无自建或者收购基板企业的规划。",
+          "url": "https://flash.jin10.com/detail/20260526092721255800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "A股算力板块低开，恒为科技逼近跌停，中贝通信、红板科技、深圳华强等个股纷纷低开。",
+          "url": "https://flash.jin10.com/detail/20260526092644887800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
+          "url": "https://www.cls.cn/detail/2381067",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 10时12分]"
+        },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
           "url": "https://wallstreetcn.com/articles/3773014",
@@ -135,32 +247,143 @@
           "time_info": "03时16分"
         },
         {
-          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
-          "url": "https://www.cls.cn/detail/2381067",
-          "source": "财联社热门",
+          "title": "机器人概念股逆势活跃，首开股份触及涨停，长盛轴承、中大力德、金发科技、上纬新材、三瑞智能涨超6%，据上交所上市委消息，宇树科技科创板IPO将于6月1日上会，拟募资42.02亿元。",
+          "url": "https://wallstreetcn.com/livenews/3109114",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "10时12分"
+        },
+        {
+          "title": "商务部：4月份智能眼镜和人形机器人网零额分别增长175.2%和20.6%",
+          "url": "https://wallstreetcn.com/livenews/3109112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "A股人形机器人板块早盘拉升，中大力德涨停，飞荣达、杭州柯林盘中创新高，新亚制程2连板，长盛轴承涨超10%，三瑞智能、科达自控、上纬新材、露笑科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260526093658289800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "今年我国养老机器人市场规模将破百亿元",
+          "url": "https://flash.jin10.com/detail/20260526092940797800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "商务部：4月份智能眼镜和人形机器人网零额分别增长175.2%和20.6%",
+          "url": "https://flash.jin10.com/detail/20260526092802332800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 7,
       "titles": [
         {
           "title": "德国拟为自愿离境的叙利亚难民统一发「8000 欧元」回乡补贴，当下德国的难民经济包袱有多重？",
           "url": "https://www.zhihu.com/question/2041936789276022530",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 10时12分]"
+        },
+        {
+          "title": "中国商务部消息，5月22日，商务部国际贸易谈判代表兼副部长李成钢在苏州会见俄罗斯经济发展部副部长伊利乔夫，双方就中俄经贸合作、加强多边和区域机制协作等议题进行交流。",
+          "url": "https://wallstreetcn.com/livenews/3109126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "10时12分"
+        },
+        {
+          "title": "对华合作意愿强烈，德国经济部长将访问中国",
+          "url": "https://news.ifeng.com/c/8tQuyKe3Zhq",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：将根据经济和通胀情况进行加息。 日本的实际利率显著偏低。 市场对日本央行控制通胀的信任至关重要。",
+          "url": "https://wallstreetcn.com/livenews/3109104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "李成钢会见俄罗斯经济发展部副部长伊利乔夫",
+          "url": "https://flash.jin10.com/detail/20260526093015682800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：我们将密切关注中东局势对日本经济和物价的影响，同时评估基准情景实现的可能性，并据此考虑政策调整的时机和步伐。",
+          "url": "https://flash.jin10.com/detail/20260526092553750800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：日本央行将持续上调政策利率，并根据经济活动、物价及金融状况调整货币宽松力度。",
+          "url": "https://flash.jin10.com/detail/20260526092521698800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
@@ -173,11 +396,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33226182",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 10时12分]"
         }
       ]
     }
