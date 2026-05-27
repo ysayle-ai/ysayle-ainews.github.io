@@ -1,33 +1,67 @@
 {
-  "generated_at": "2026-05-27T17:02:17.661010+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-05-27T22:55:04.248576+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
           "url": "https://wallstreetcn.com/articles/3773116",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 17时02分]"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
+            1,
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 22时55分]"
+        },
+        {
+          "title": "国产存储迎来里程碑时刻！长鑫科技过会 科创板首单 “预先审阅” 项目迈出重要一步",
+          "url": "https://www.cls.cn/detail/2383105",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2042900633947038528",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "AI大行其道,古法PS吧没落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
@@ -58,9 +92,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "上交所：长鑫科技集团股份有限公司IPO审核状态变更为提交注册。",
+          "url": "https://wallstreetcn.com/livenews/3110156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -85,16 +130,40 @@
           "time_info": "10时31分"
         },
         {
+          "title": "据港交所文件：爱士惟科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260527222507592800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "AI坑爹,棒球名帅丢饭碗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
           "source": "贴吧",
           "ranks": [
             1,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 22时55分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 22时55分]"
         },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -103,11 +172,23 @@
           "ranks": [
             14,
             15,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[03时55分 ~ 22时55分]"
+        },
+        {
+          "title": "长鑫科技，科创板IPO过会！",
+          "url": "https://wallstreetcn.com/articles/3773236",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "AIDC供电架构变革 超级电容有望成为结构性必需品",
@@ -149,7 +230,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -237,7 +318,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -248,7 +329,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -292,7 +373,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -303,7 +384,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -314,7 +395,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -325,7 +406,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -339,12 +420,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "大语言模型成本六个月内翻番 或威胁AI看涨逻辑",
+          "url": "https://wallstreetcn.com/livenews/3110122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
@@ -369,6 +461,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "非洲开发银行预计2026年非洲经济增长4.2%",
+          "url": "https://wallstreetcn.com/livenews/3110153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "新西兰联储：三名委员会成员（新西兰联储主席布雷曼、助理行长Silk、首席经济学家保罗·康威）投票决定维持利率不变，三名成员则投票支持加息25个基点。",
           "url": "https://wallstreetcn.com/livenews/3109769",
           "source": "华尔街见闻-快讯",
@@ -391,6 +494,61 @@
           "time_info": "10时31分"
         },
         {
+          "title": "德国机构下调2026年本国经济增长预期",
+          "url": "https://wallstreetcn.com/livenews/3110151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "墨西哥经济部长埃布拉德：墨西哥与美国贸易代表办公室定于7月20日举行第三轮谈判。",
+          "url": "https://flash.jin10.com/detail/20260527221300415800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "墨西哥经济部长埃布拉德：与美国贸易代表的谈判定于6月16日至17日在华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260527221223087800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "墨西哥经济部长埃布拉德：墨西哥与美国贸易代表就新一轮美墨加协定（USMCA）谈判达成共识。",
+          "url": "https://flash.jin10.com/detail/20260527221202686800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美银CEO莫伊尼汉：5月份消费者支出数据与强劲的经济一致。",
+          "url": "https://flash.jin10.com/detail/20260527220704549800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "日本央行官员：日本的实际长期利率在短期和中期区域仍然为负，这对经济活动影响最大。",
           "url": "https://flash.jin10.com/detail/20260527101037226800",
           "source": "金十数据",
@@ -402,6 +560,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "墨西哥经济部长埃布拉德（Marcelo Ebrard）：与美国贸易办公室围绕新一轮美国墨西哥加拿大贸易协议（USMCA）评估达成共识。",
+          "url": "https://wallstreetcn.com/livenews/3110134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "日本央行官员：日本的金融环境依然宽松，支撑经济活动。",
           "url": "https://flash.jin10.com/detail/20260527100913228800",
           "source": "金十数据",
@@ -411,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美国贸易代表办公室：将于周四和周五与墨西哥举行关于美墨加协定的双边会谈，重点讨论经济安全和关键工业商品的原产地规则。",
+          "url": "https://flash.jin10.com/detail/20260527220038502800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "新西兰联储：委员会判断，通胀风险偏向上行，经济增长风险偏向下行。",
@@ -427,7 +607,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国机器人正在创造下一个奇迹",
@@ -450,6 +630,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落跌2.8%，机器人概念遭重挫，夏季用电高峰引爆电力股",
+          "url": "https://www.cls.cn/detail/2383049",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "武契奇观看机器人跳塞尔维亚舞蹈：跳得比我还好",
+          "url": "https://v.ifeng.com/c/8tSk6lTs1YR",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。 这次合作在Catalyst旗下Reno分发物流中心启动。",
@@ -497,7 +699,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         }
