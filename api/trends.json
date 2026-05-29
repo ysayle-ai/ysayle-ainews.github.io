@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-05-29T17:35:49.093621+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-05-29T22:40:05.019440+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 48,
+      "match_count": 63,
       "titles": [
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 22时40分]"
+        },
+        {
+          "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
+          "url": "https://www.cls.cn/detail/2385558",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
+          "title": "都叫科技基金，有些竟是亏的，基民调侃：误以为自己站在光里",
+          "url": "https://www.cls.cn/detail/2385586",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
           "url": "https://www.cls.cn/detail/2384785",
@@ -19,17 +53,6 @@
           "time_info": "10时10分"
         },
         {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
           "url": "https://www.cls.cn/detail/2384768",
           "source": "财联社热门",
@@ -39,6 +62,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 22时40分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 22时40分]"
+        },
+        {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 22时40分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 22时40分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
+          "url": "https://www.cls.cn/detail/2385444",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 22时40分]"
         },
         {
           "title": "最亮的星致敬中国科技工作者",
@@ -64,28 +150,15 @@
           "time_info": "[04时08分 ~ 10时10分]"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
+          "title": "科技股究竟因何调整？四大原因讨论最多",
+          "url": "https://www.cls.cn/detail/2385809",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时10分 ~ 17时35分]"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 17时35分]"
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -99,6 +172,28 @@
           "time_info": "[04时08分 ~ 10时10分]"
         },
         {
+          "title": "广东夏季高考用AI批卷系不实传言",
+          "url": "https://www.toutiao.com/trending/7644786880849182729/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
           "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
           "url": "https://news.ifeng.com/c/8tUekOdGeku",
           "source": "凤凰网",
@@ -110,16 +205,48 @@
           "time_info": "[04时08分 ~ 10时10分]"
         },
         {
-          "title": "AI改写黑袍纠察队结局",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "“广东夏季高考将用AI批卷”不实",
+          "url": "https://www.douyin.com/hot/2516863",
+          "source": "抖音",
           "ranks": [
-            13,
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时08分 ~ 10时10分]"
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
+          "title": "莫言接受央媒专访：有志气的作家不会屈服于AI压力，还是要坚持原创",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33260666",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
+        },
+        {
+          "title": "原来科技可以这么浪漫",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%A7%91%E6%8A%80%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -152,7 +279,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -174,7 +301,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -185,7 +312,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -218,7 +345,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -243,17 +370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
@@ -289,13 +405,35 @@
           "time_info": "10时10分"
         },
         {
+          "title": "博杰股份：子公司奥德维高速叠层机和测试机适用于AI服务器领域高端MLCC生产制造和检测",
+          "url": "https://flash.jin10.com/detail/20260529220202440800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "费城半导体指数涨超2%，超微电脑涨超16%，高通涨超6%，IBM涨近6%，ARM涨超5%，美光科技涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3111496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "AI就这么背刺大学生",
           "url": "https://s.weibo.com/weibo?q=AI%E5%B0%B1%E8%BF%99%E4%B9%88%E8%83%8C%E5%88%BA%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -306,7 +444,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -320,17 +458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
-          "url": "https://www.cls.cn/detail/2385444",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
@@ -361,9 +488,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，科技行业ETF涨超2%，全球科技股指数ETF、半导体ETF涨1.62%，日常消费品ETF、能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "A股科技股熄火 “老登股”爆发",
@@ -372,7 +510,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -399,13 +537,35 @@
           "time_info": "10时10分"
         },
         {
+          "title": "据港交所文件：浙江力积存储科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260529215643572800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数涨超1%，戴尔科技涨约33%，超微电脑涨约9%",
+          "url": "https://wallstreetcn.com/livenews/3111484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "联发科预计AI业务收入将在2027年迎来爆发式增长",
           "url": "https://wallstreetcn.com/livenews/3111299",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -438,9 +598,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "美股iShares科技软件行业ETF涨2.4%，创四个月新高。",
+          "url": "https://flash.jin10.com/detail/20260529214903634800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -471,7 +642,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -482,7 +653,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -544,6 +715,122 @@
       ]
     },
     {
+      "keyword_group": "经济",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "英国央行行长贝利：经济活动和劳动力市场状况正在影响第二轮效应。",
+          "url": "https://flash.jin10.com/detail/20260529171555480800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "英国央行行长贝利：经济已经受到影响。",
+          "url": "https://flash.jin10.com/detail/20260529171245201800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "英国央行行长贝利：必须密切关注中东局势及其对英国经济和通胀的影响，并根据需要调整政策。",
+          "url": "https://flash.jin10.com/detail/20260529171119936800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "克里姆林宫：亚美尼亚准备加入欧盟对欧亚经济联盟国家的经济安全构成重大风险。",
+          "url": "https://flash.jin10.com/detail/20260529215624931800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "克里姆林宫：关于亚美尼亚退出欧亚经济联盟后果的报告将于12月发布。",
+          "url": "https://flash.jin10.com/detail/20260529215613335800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "欧洲央行管委Radev：货币政策不能仅仅充当经济防御手段。 行动过晚的代价可能超过行动过早的代价。",
+          "url": "https://wallstreetcn.com/livenews/3111480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "克里姆林宫：欧亚经济联盟成员国称，任何未来关于亚美尼亚的公投都应同时包含“继续留在俄罗斯主导联盟”这一选项。",
+          "url": "https://flash.jin10.com/detail/20260529214714128800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "T1经济落后5000翻盘",
+          "url": "https://search.bilibili.com/all?keyword=T1%E7%BB%8F%E6%B5%8E%E8%90%BD%E5%90%8E5000%E7%BF%BB%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "加拿大经济陷入技术性衰退 为2020年以来首次",
+          "url": "https://wallstreetcn.com/livenews/3111478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯及其他欧亚经济联盟成员国将研究暂停亚美尼亚在欧亚经济联盟成员资格可能带来的后果。",
+          "url": "https://flash.jin10.com/detail/20260529214511223800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
       "match_count": 5,
       "titles": [
@@ -552,11 +839,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 22时40分]"
         },
         {
           "title": "一起来天津看工业机器人“天团”",
@@ -565,7 +853,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -588,7 +876,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -602,56 +890,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英国央行行长贝利：经济活动和劳动力市场状况正在影响第二轮效应。",
-          "url": "https://flash.jin10.com/detail/20260529171555480800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "英国央行行长贝利：经济已经受到影响。",
-          "url": "https://flash.jin10.com/detail/20260529171245201800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "英国央行行长贝利：必须密切关注中东局势及其对英国经济和通胀的影响，并根据需要调整政策。",
-          "url": "https://flash.jin10.com/detail/20260529171119936800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "T1经济落后5000翻盘",
-          "url": "https://search.bilibili.com/all?keyword=T1%E7%BB%8F%E6%B5%8E%E8%90%BD%E5%90%8E5000%E7%BF%BB%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
         }
       ]
     }
