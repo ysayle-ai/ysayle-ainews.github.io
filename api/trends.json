@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T10:10:47.829860+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-05-29T17:35:49.093621+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 33,
+      "match_count": 48,
       "titles": [
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
@@ -25,9 +36,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "最亮的星致敬中国科技工作者",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 17时35分]"
         },
         {
           "title": "大基金出手！沪硅产业、德邦科技等遭减持",
@@ -41,22 +64,35 @@
           "time_info": "[04时08分 ~ 10时10分]"
         },
         {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 17时35分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 17时35分]"
+        },
+        {
           "title": "AI会带来怎样的社会变革",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9",
           "source": "bilibili 热搜",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 10时10分]"
-        },
-        {
-          "title": "最亮的星致敬中国科技工作者",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -110,6 +146,17 @@
           "time_info": "[04时08分 ~ 10时10分]"
         },
         {
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "美联储Barkin：AI投资给中性利率带来压力。 某些AI相关的领域正表现出通胀压力。",
           "url": "https://wallstreetcn.com/livenews/3110908",
           "source": "华尔街见闻-快讯",
@@ -121,15 +168,26 @@
           "time_info": "04时08分"
         },
         {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
+          "title": "多家券商研判：A股结构性行情愈发鲜明 下半年可重点布局AI全产业链、周期板块及潜力消费赛道",
+          "url": "https://wallstreetcn.com/livenews/3111313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "17时35分"
         },
         {
           "title": "A股地下管网板块早盘冲高，诚邦股份、青龙管业涨停，韩建河山、利通科技、华建集团、国统股份、航宇微跟涨。消息面上，国务院印发《城市更新“十五五”规划》。",
@@ -138,18 +196,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -165,13 +212,24 @@
           "time_info": "04时08分"
         },
         {
+          "title": "从“卖卡”到“卖Token”：AI算力市场重构与国产芯片的窗口期|深度",
+          "url": "https://www.cls.cn/detail/2384876",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "联想集团(00992.HK)盘中涨超30%，联想控股(03396.HK)涨超15%，消息面上，联想集团跟天津签署了建设新一代AI基础设施的协议。",
           "url": "https://flash.jin10.com/detail/20260529093436292800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -185,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
@@ -215,9 +284,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "AI就这么背刺大学生",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B0%B1%E8%BF%99%E4%B9%88%E8%83%8C%E5%88%BA%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "AI存储竞争白热化！三星率先交付首批12层HBM4E样品 性能提升超20%",
+          "url": "https://www.cls.cn/detail/2384854",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -229,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
+          "url": "https://www.cls.cn/detail/2385444",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
@@ -248,9 +350,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "万斯：关于AI，我最担心它如何改变战争形态",
+          "url": "https://wallstreetcn.com/livenews/3111308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "A股科技股熄火 “老登股”爆发",
+          "url": "https://www.toutiao.com/trending/7645143409749278747/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
@@ -259,7 +383,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -270,9 +394,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "联发科预计AI业务收入将在2027年迎来爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3111299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "恒指高开0.62%，报25161.52点；恒生科技指数涨1.05%。联想集团涨近15%，舜宇光学科技、百度、腾讯音乐、比亚迪电子、比亚迪股份涨超2%。",
@@ -281,7 +416,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -295,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "多家券商研判：A股结构性行情愈发鲜明 下半年可重点布局AI全产业链、周期板块及潜力消费赛道",
+          "url": "https://flash.jin10.com/detail/20260529170520550800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -319,13 +465,35 @@
           "time_info": "04时08分"
         },
         {
+          "title": "工信部：推动科技创新和产业创新深度融合、推进信息化和工业化深度融合等方面改革",
+          "url": "https://wallstreetcn.com/livenews/3111289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "沐曦股份成立灵智科技公司，含集成电路芯片业务",
+          "url": "https://wallstreetcn.com/livenews/3111288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "香港恒生指数5月29日（周五）开盘上涨155.36点，涨幅0.62%，报25161.52点；<br/>香港恒生科技指数5月29日（周五）开盘上涨51.33点，涨幅1.05%，报4939.91点；<br/>国企指数5月29日（周五）开盘上涨41.97点，涨幅0.5%，报8406.38点；<br/>红筹指数5月29日（周五）开盘上涨2.61点，涨幅0.06%，报4338.67点。",
           "url": "https://flash.jin10.com/detail/20260529092130816800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -336,7 +504,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -347,7 +515,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -377,8 +545,30 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国年轻人街头暴揍机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "一起来天津看工业机器人“天团”",
+          "url": "https://www.toutiao.com/trending/7644559155341344804/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
         {
           "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
           "url": "https://wallstreetcn.com/articles/3773322",
@@ -392,13 +582,24 @@
           "time_info": "[04时08分 ~ 10时10分]"
         },
         {
+          "title": "机器人射门一脚下去墙都裂了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%84%E9%97%A8%E4%B8%80%E8%84%9A%E4%B8%8B%E5%8E%BB%E5%A2%99%E9%83%BD%E8%A3%82%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "当煎饼机器人来到煎饼果子之乡",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%85%8E%E9%A5%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E5%88%B0%E7%85%8E%E9%A5%BC%E6%9E%9C%E5%AD%90%E4%B9%8B%E4%B9%A1",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -406,8 +607,41 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "英国央行行长贝利：经济活动和劳动力市场状况正在影响第二轮效应。",
+          "url": "https://flash.jin10.com/detail/20260529171555480800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "英国央行行长贝利：经济已经受到影响。",
+          "url": "https://flash.jin10.com/detail/20260529171245201800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "英国央行行长贝利：必须密切关注中东局势及其对英国经济和通胀的影响，并根据需要调整政策。",
+          "url": "https://flash.jin10.com/detail/20260529171119936800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
         {
           "title": "T1经济落后5000翻盘",
           "url": "https://search.bilibili.com/all?keyword=T1%E7%BB%8F%E6%B5%8E%E8%90%BD%E5%90%8E5000%E7%BF%BB%E7%9B%98",
