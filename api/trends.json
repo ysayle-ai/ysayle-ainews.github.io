@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T10:05:53.496246+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-30T16:16:37.696763+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
@@ -30,6 +30,40 @@
           "time_info": "[04时08分 ~ 10时05分]"
         },
         {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 16时16分]"
+        },
+        {
+          "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
+          "url": "https://www.cls.cn/detail/2386026",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "走近“最美科技工作者”",
+          "url": "https://www.toutiao.com/trending/7645505278301113866/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
           "url": "https://wallstreetcn.com/articles/3773407",
           "source": "华尔街见闻",
@@ -39,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "科技工作者一生坚守的赤诚心声",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%E4%B8%80%E7%94%9F%E5%9D%9A%E5%AE%88%E7%9A%84%E8%B5%A4%E8%AF%9A%E5%BF%83%E5%A3%B0%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
@@ -52,17 +97,6 @@
           "time_info": "04时08分"
         },
         {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
           "title": "科技股究竟因何调整？四大原因讨论最多",
           "url": "https://www.cls.cn/detail/2385809",
           "source": "财联社热门",
@@ -71,8 +105,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 10时05分]"
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 16时16分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 16时16分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -108,17 +154,6 @@
           "time_info": "[04时08分 ~ 10时05分]"
         },
         {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 10时05分]"
-        },
-        {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
@@ -128,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
@@ -158,7 +204,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -172,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "网易副总裁、网易智企总经理阮良：正帮助企业构建“AI员工”",
+          "url": "https://wallstreetcn.com/livenews/3111746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.11%，报15780点。 恒生科技指数主连夜盘收涨0.44%，报25098点。",
@@ -191,7 +248,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -213,15 +270,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "中央企业科技成果产业化联合体在京成立",
+          "url": "https://wallstreetcn.com/livenews/3111731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "中央企业科技成果产业化联合体在京成立",
+          "url": "https://flash.jin10.com/detail/20260530130507461800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "普京：亚美尼亚若入欧盟，得先算算经济账",
@@ -230,9 +309,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 16时16分]"
         },
         {
           "title": "美国财长贝森特：人们对强势美元的含义存在误解。强势美元意味着为经济做正确的事情。",
@@ -246,6 +325,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "2026年1-4月苏州市经济运行情况公布",
+          "url": "https://flash.jin10.com/detail/20260530145430270800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "国际货币基金组织（IMF）、世界银行、国际能源署（IEA）、世贸组织（WTO）的主管们5月28日开会，随后发布联合声明。 据世贸组织：IEA、IMF、世界银行和世贸组织举行会晤，共同商讨如何应对中东战争对能源、贸易以及经济造成的冲击。 探讨了通过多边和双边行动，进一步加大集体支持力度的可行方案。",
           "url": "https://wallstreetcn.com/livenews/3111596",
           "source": "华尔街见闻-快讯",
@@ -255,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "日元汇率会压垮日本经济吗",
+          "url": "https://www.toutiao.com/trending/7645530013793521158/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "巴基斯坦外交部：美巴双方同意提升和加强经济及贸易关系、文化合作，以及在反恐和安全领域的伙伴关系。",
@@ -274,7 +375,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -288,12 +389,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "哈总统：欧亚经济联盟内贸易额今年将破千亿美元",
+          "url": "https://wallstreetcn.com/livenews/3111727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -301,18 +413,63 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 10时05分]"
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 16时16分]"
+        },
+        {
+          "title": "机器人即将承包你的飞机餐，希夕智能CEO：1-2个月内就能吃到，配餐准确率99.99%",
+          "url": "https://wallstreetcn.com/livenews/3111750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "美军人形机器人已实战部署",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
+          "url": "https://flash.jin10.com/detail/20260530151755010800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "为中国式现代化铸魂：社会主义核心价值观的培育与践行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262871",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "【伊朗外交部：伊美交流仍在继续 尚未达成最终共识】伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。巴加埃还表示，西方任何一方在谈论伊朗时，都不能使用“必须”这种语言。伊朗只会根据伊朗人民的利益和权利自行做决定。 在涉及霍尔木兹海峡通航的问题上，巴加埃表示，霍尔木兹海峡位于伊朗和阿曼的领海范围内，伊朗和阿曼必须采取机制，既保护作为沿海国家的自身利益和国家安全，也向国际社会保证该航道的航运安全。（央视）",
           "url": "https://wallstreetcn.com/livenews/3111587",
