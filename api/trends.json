@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T16:34:45.136198+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-05-31T21:15:02.439002+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -15,19 +15,54 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 21时15分]"
         },
         {
           "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
           "url": "https://www.cls.cn/detail/2386026",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 21时15分]"
+        },
+        {
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 21时15分]"
+        },
+        {
+          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
+          "url": "https://www.cls.cn/detail/2386314",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -60,18 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
-          "url": "https://wallstreetcn.com/articles/3773513",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -82,7 +106,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -93,7 +117,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -120,6 +144,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时59分 ~ 16时34分]"
+        },
+        {
+          "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
+          "url": "https://wallstreetcn.com/articles/3773512",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 21时15分]"
+        },
+        {
+          "title": "环球下周看点：英伟达芯片帝国扩张 博通、慧与科技发布财报",
+          "url": "https://www.cls.cn/detail/2386233",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 21时15分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -157,6 +205,17 @@
           "time_info": "[10时32分 ~ 16时34分]"
         },
         {
+          "title": "用AI整理会议记录或导致泄密",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E6%88%96%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
           "title": "数学会被AI消灭吗",
           "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E4%BC%9A%E8%A2%ABAI%E6%B6%88%E7%81%AD%E5%90%97",
           "source": "bilibili 热搜",
@@ -179,24 +238,13 @@
           "time_info": "02时59分"
         },
         {
-          "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
-          "url": "https://wallstreetcn.com/articles/3773512",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
           "title": "宝鼎科技：未与英伟达有过接触或业务合作 目前未有高速覆铜板M7和M9产品销售",
           "url": "https://flash.jin10.com/detail/20260531154015750800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -210,17 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "环球下周看点：英伟达芯片帝国扩张 博通、慧与科技发布财报",
-          "url": "https://www.cls.cn/detail/2386233",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -270,7 +307,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "5月全国各地经济社会发展观察",
@@ -279,7 +316,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -288,11 +325,12 @@
           "url": "https://www.zhihu.com/question/2042664557701763797",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 21时15分]"
         },
         {
           "title": "开票经济：形成、危害与治理",
@@ -306,6 +344,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时59分 ~ 16时34分]"
+        },
+        {
+          "title": "印度高温冲至 48.2℃，14 多亿人只有 9400 万台空调，普及率不到 10%，是经济原因还是生活习惯？",
+          "url": "https://www.zhihu.com/question/2044427993054017025",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "印度高温如何影响经济梦",
@@ -331,6 +380,17 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
+          "title": "美联储理事沃勒在第32届杜布罗夫尼克经济会议参加专题讨论会将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260531202000002800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "国家统计局：5月官方制造业PMI为50.0%，我国经济总体产出保持扩张",
           "url": "https://flash.jin10.com/detail/20260531093247274800",
           "source": "金十数据",
@@ -340,12 +400,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "《广东省低空经济发展条例（征求意见稿）》正公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3111934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
@@ -359,15 +430,27 @@
           "time_info": "02时59分"
         },
         {
+          "title": "美媒：美公司在乌克兰测试人形机器人，计划将技术引入美军",
+          "url": "https://wallstreetcn.com/livenews/3111943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
           "url": "https://www.cls.cn/detail/2386131",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 21时15分]"
         },
         {
           "title": "美军人形机器人已实战部署",
@@ -375,11 +458,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 21时15分]"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -388,11 +472,12 @@
           "ranks": [
             12,
             13,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 16时34分]"
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 21时15分]"
         }
       ]
     },
