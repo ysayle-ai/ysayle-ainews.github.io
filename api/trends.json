@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T00:17:07.137279+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-04T04:47:38.484977+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
           "title": "长线外资看好中国 持续加码硬科技",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "【焦点复盘】市场延续极致二八分化，个股炸板率超四成，科技与能源板块再现跷跷板",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
@@ -47,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -69,9 +69,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。 第二财季调整后每股收益（EPS）为2.44美元，分析师预期2.39美元。 预计第三财季营收大约294亿美元，分析师预期286.1亿美元。 预计第三财季AI芯片销售160亿美元，分析师预期172亿美元。 预计第三财季调整后EBITDA大约为68%。",
+          "url": "https://wallstreetcn.com/livenews/3114006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -81,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
@@ -92,30 +103,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "【每日收评】市场午后震荡加剧，创业板指冲高回落涨1.65%，科技赛道延续强势",
-          "url": "https://www.cls.cn/detail/2389664",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
           "url": "https://www.zhihu.com/question/2045380781644763655",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
@@ -125,15 +126,38 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
           "url": "https://www.cls.cn/detail/2389857",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
+        },
+        {
+          "title": "【每日收评】市场午后震荡加剧，创业板指冲高回落涨1.65%，科技赛道延续强势",
+          "url": "https://www.cls.cn/detail/2389664",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -151,21 +175,148 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "英特尔收涨4.43%，报112.71美元，该公司重磅发布18A至强6+芯片及机架级AI战略。",
+          "url": "https://wallstreetcn.com/livenews/3114004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3114001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "标普500指数初步收跌0.7%，可选消费、科技板块跌1.2%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.2%，成分股中，Lumentum初步收跌8.6%，特许通讯跌8%，软件股Datadog跌7.1%、Zscaler跌6.7%，Strategy跌6.6%，英特尔涨4.1%，Meta涨4.2%，高通涨4.3%，Diamondback Energy涨4.4%，西部数据涨5.6%，闪迪涨6.5%。 IBM初步收跌6.8%，Salesforce跌5%，霍尼韦尔跌5%，波音跌3.5%，美国运通跌3.4%，英伟达跌3.4%，领跌道指成分股，雪佛龙涨1.4%，卡特彼勒涨1.9%，安进涨3.1%，沃尔玛涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3113997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，奇富科技初步收跌8.2%，金山云跌6.9%，老虎证券跌5.9%，大全新能源跌5.3%，阿特斯太阳能跌5%，万国数据跌4.5%，世纪互联跌4.1%，阿里巴巴跌2.5%，再鼎医药涨0.1%，中通快递涨0.3%，华住、亚朵涨1.1%，文远知行涨2.9%，盛大科技涨10.6%。",
+          "url": "https://wallstreetcn.com/livenews/3113995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
+          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.70%，报25312点。 恒生科技指数主连夜盘收跌0.73%，报5006点。",
+          "url": "https://wallstreetcn.com/livenews/3113983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "高盛高管：AI是驱动市场的“一代人级别”的力量",
+          "url": "https://wallstreetcn.com/livenews/3113978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国财长贝森特：我们具备非常强劲经济的所有要素。",
+          "url": "https://flash.jin10.com/detail/20260603235627306800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "惠誉评级：德国经济将受益于欧洲增加国防开支。",
+          "url": "https://flash.jin10.com/detail/20260603234545750800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "据美国官员透露，经济补偿是伊朗协议的关键症结。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3113987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "印度高温会否影响经济发展",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E4%BC%9A%E5%90%A6%E5%BD%B1%E5%93%8D%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "墨西哥经济部发表声明称，符合美国墨西哥加拿大贸易协议（USMCA）的贸易将豁免于美国拟议的与强迫劳动相关的关税。 该拟议关税还将豁免汽车、钢铁和铝产品。 将在未来45天内与美国贸易代表办公室（USTR）就不符合USMCA规定的货物发运问题举行正式会谈。",
+          "url": "https://wallstreetcn.com/livenews/3113910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国机器人登上美国达人秀",
@@ -185,7 +336,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -196,9 +347,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "宇树机器人登上《美国达人秀》",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BB%E4%B8%8A%E3%80%8A%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
@@ -213,7 +375,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -224,7 +386,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -235,46 +397,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国财长贝森特：我们具备非常强劲经济的所有要素。",
-          "url": "https://flash.jin10.com/detail/20260603235627306800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "惠誉评级：德国经济将受益于欧洲增加国防开支。",
-          "url": "https://flash.jin10.com/detail/20260603234545750800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "墨西哥经济部发表声明称，符合美国墨西哥加拿大贸易协议（USMCA）的贸易将豁免于美国拟议的与强迫劳动相关的关税。 该拟议关税还将豁免汽车、钢铁和铝产品。 将在未来45天内与美国贸易代表办公室（USTR）就不符合USMCA规定的货物发运问题举行正式会谈。",
-          "url": "https://wallstreetcn.com/livenews/3113910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         }
@@ -289,11 +412,29 @@
           "url": "https://www.zhihu.com/question/2045440339406762131",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本停留现金社会的唯一好处",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%81%9C%E7%95%99%E7%8E%B0%E9%87%91%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%94%AF%E4%B8%80%E5%A5%BD%E5%A4%84&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     }
