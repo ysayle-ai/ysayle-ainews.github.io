@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-04T04:47:38.484977+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-06-04T10:43:11.404246+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 32,
       "titles": [
         {
           "title": "长线外资看好中国 持续加码硬科技",
           "url": "https://www.cls.cn/detail/2389959",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 10时43分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -41,6 +42,17 @@
           "time_info": "[00时16分 ~ 04时47分]"
         },
         {
+          "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
+          "url": "https://www.cls.cn/detail/2390108",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
           "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3113923",
           "source": "华尔街见闻-快讯",
@@ -63,6 +75,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "AI基础设施需求强劲 台积电预计2026年营收增长超30%",
+          "url": "https://flash.jin10.com/detail/20260604102710713800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "美银将迎4000名新人，打破AI引发的失业恐慌",
           "url": "https://wallstreetcn.com/livenews/3113918",
           "source": "华尔街见闻-快讯",
@@ -80,7 +103,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -92,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 10时43分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
@@ -103,8 +126,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 10时43分]"
+        },
+        {
+          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
+          "url": "https://wallstreetcn.com/articles/3773733",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 10时43分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 10时43分]"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
@@ -113,17 +159,6 @@
           "ranks": [
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
-        },
-        {
-          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
-          "url": "https://wallstreetcn.com/articles/3773733",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -142,15 +177,15 @@
           "time_info": "[00时16分 ~ 04时47分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "【每日收评】市场午后震荡加剧，创业板指冲高回落涨1.65%，科技赛道延续强势",
@@ -164,6 +199,50 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
+          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
+          "url": "https://wallstreetcn.com/articles/3773784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
+          "url": "https://www.cls.cn/detail/2390246",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "6月4日投资避雷针：2连板实益达公告 仅持有宇树科技约0.01%股权",
+          "url": "https://www.cls.cn/detail/2390227",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
           "title": "王珞丹谈手搓AI短片创作过程",
           "url": "https://www.toutiao.com/trending/7646685572421238803/",
           "source": "今日头条",
@@ -175,13 +254,24 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
+          "title": "【台积电魏哲家：预计今年全年营收成长仍将超过30%】台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。",
+          "url": "https://wallstreetcn.com/livenews/3114157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "英特尔收涨4.43%，报112.71美元，该公司重磅发布18A至强6+芯片及机架级AI战略。",
           "url": "https://wallstreetcn.com/livenews/3114004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -192,9 +282,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "A股超级电容概念再度走强，江海股份涨停，续创历史新高，此前华锋股份、祥和实业涨停，龙辰科技涨超10%，艾华集团、元力股份、新宙邦等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604102121122800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "标普500指数初步收跌0.7%，可选消费、科技板块跌1.2%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.2%，成分股中，Lumentum初步收跌8.6%，特许通讯跌8%，软件股Datadog跌7.1%、Zscaler跌6.7%，Strategy跌6.6%，英特尔涨4.1%，Meta涨4.2%，高通涨4.3%，Diamondback Energy涨4.4%，西部数据涨5.6%，闪迪涨6.5%。 IBM初步收跌6.8%，Salesforce跌5%，霍尼韦尔跌5%，波音跌3.5%，美国运通跌3.4%，英伟达跌3.4%，领跌道指成分股，雪佛龙涨1.4%，卡特彼勒涨1.9%，安进涨3.1%，沃尔玛涨3.5%。",
@@ -203,7 +304,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -214,9 +315,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "A股PCB概念股低开回升，世运电路涨停，矩子科技涨超10%，新锐股份、亨通股份、东威科技、东山精密涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3114141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -225,7 +337,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -236,7 +348,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -247,7 +359,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -255,8 +367,30 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美拟对中日印韩等45个经济体加征12.5%额外关税，多国强烈反对",
+          "url": "https://news.ifeng.com/c/8tfzpdrlBTq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "美方将借口“强迫劳动”对中方经济体征收额外关税，外交部：反对借此搞政治操弄",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33281165",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
         {
           "title": "美国财长贝森特：我们具备非常强劲经济的所有要素。",
           "url": "https://flash.jin10.com/detail/20260603235627306800",
@@ -280,13 +414,24 @@
           "time_info": "00时17分"
         },
         {
+          "title": "日本内阁官房长官木原稔：政府与日本央行在经济和金融趋势方面保持密切沟通，并将继续如此。",
+          "url": "https://flash.jin10.com/detail/20260604101141281800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "据美国官员透露，经济补偿是伊朗协议的关键症结。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3113987",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -297,7 +442,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -316,8 +461,31 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "中国机器人亮相美国达人秀",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        },
+        {
+          "title": "宇树机器人登上《美国达人秀》",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BB%E4%B8%8A%E3%80%8A%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 10时43分]"
+        },
         {
           "title": "中国机器人登上美国达人秀",
           "url": "https://www.toutiao.com/trending/7647031051694293042/",
@@ -328,6 +496,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "中国机器人亮相美国达人秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "字节跳动旗下AI聊天机器人豆包拟推出付费专业版",
@@ -350,17 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "宇树机器人登上《美国达人秀》",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BB%E4%B8%8A%E3%80%8A%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
         }
       ]
     },
@@ -413,11 +581,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 10时43分]"
         }
       ]
     },
@@ -432,7 +601,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
