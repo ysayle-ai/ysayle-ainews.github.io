@@ -1,251 +1,22 @@
 {
-  "generated_at": "2026-06-04T22:35:21.922192+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-06-05T03:54:36.136182+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 50,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "长线外资看好中国 持续加码硬科技",
-          "url": "https://www.cls.cn/detail/2389959",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 10时43分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
-        },
-        {
-          "title": "【焦点复盘】市场延续极致二八分化，个股炸板率超四成，科技与能源板块再现跷跷板",
-          "url": "https://www.cls.cn/detail/2389696",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
-        },
-        {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 22时35分]"
-        },
-        {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 22时35分]"
-        },
-        {
-          "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
-          "url": "https://www.cls.cn/detail/2390108",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
-          "url": "https://www.cls.cn/detail/2390489",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 22时35分]"
-        },
-        {
-          "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3113923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "2030年AI耗水量够13亿人用一年",
-          "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：从今天起，符合条件的美国谷歌AI Ultra订阅用户（18岁及以上）可以在安卓和iOS设备上使用DreamBeans服务。",
-          "url": "https://flash.jin10.com/detail/20260604001056714800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
-          "url": "https://www.cls.cn/detail/2390370",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "AI基础设施需求强劲 台积电预计2026年营收增长超30%",
-          "url": "https://flash.jin10.com/detail/20260604102710713800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美银将迎4000名新人，打破AI引发的失业恐慌",
-          "url": "https://wallstreetcn.com/livenews/3113918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。 第二财季调整后每股收益（EPS）为2.44美元，分析师预期2.39美元。 预计第三财季营收大约294亿美元，分析师预期286.1亿美元。 预计第三财季AI芯片销售160亿美元，分析师预期172亿美元。 预计第三财季调整后EBITDA大约为68%。",
-          "url": "https://wallstreetcn.com/livenews/3114006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
-          "url": "https://www.cls.cn/detail/2390246",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时43分]"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 22时35分]"
-        },
-        {
-          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时43分]"
-        },
         {
           "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
           "url": "https://www.zhihu.com/question/2041193028925264772",
           "source": "知乎",
           "ranks": [
-            18,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 22时35分]"
-        },
-        {
-          "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
-          "url": "https://www.zhihu.com/question/2044389352550164119",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 10时43分]"
-        },
-        {
-          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
-          "url": "https://wallstreetcn.com/articles/3773733",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 10时43分]"
-        },
-        {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 10时43分]"
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
@@ -255,180 +26,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 22时35分]"
-        },
-        {
-          "title": "6月4日投资避雷针：2连板实益达公告 仅持有宇树科技约0.01%股权",
-          "url": "https://www.cls.cn/detail/2390227",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时43分]"
-        },
-        {
-          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
-          "url": "https://wallstreetcn.com/articles/3773784",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时43分]"
-        },
-        {
-          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
-          "url": "https://www.zhihu.com/question/2045380781644763655",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时47分]"
-        },
-        {
-          "title": "【每日收评】市场午后震荡加剧，创业板指冲高回落涨1.65%，科技赛道延续强势",
-          "url": "https://www.cls.cn/detail/2389664",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
-          "url": "https://wallstreetcn.com/articles/3773802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 22时35分]"
-        },
-        {
-          "title": "新任湖北省委书记首次调研，关注科技创新和产业创新融合发展工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33303152",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 22时35分]"
-        },
-        {
-          "title": "猎鹰崛起AI先导片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 22时35分]"
-        },
-        {
-          "title": "王珞丹谈手搓AI短片创作过程",
-          "url": "https://www.toutiao.com/trending/7646685572421238803/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "【台积电魏哲家：预计今年全年营收成长仍将超过30%】台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。",
-          "url": "https://wallstreetcn.com/livenews/3114157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "宇树科技“闪电”过会引爆市场",
-          "url": "https://www.toutiao.com/trending/7647393659746258451/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "英特尔收涨4.43%，报112.71美元，该公司重磅发布18A至强6+芯片及机架级AI战略。",
-          "url": "https://wallstreetcn.com/livenews/3114004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "瑞银：A股科技股拥挤程度远未到峰值",
-          "url": "https://www.toutiao.com/trending/7646379761480089636/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
-        {
-          "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
+          "time_info": "03时54分"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
           "url": "https://www.cls.cn/detail/2390870",
           "source": "财联社热门",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时35分"
+          "time_info": "03时54分"
         },
         {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
@@ -437,181 +80,71 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
-        {
-          "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
-          "url": "https://wallstreetcn.com/livenews/3114001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "03时54分"
         },
         {
-          "title": "A股超级电容概念再度走强，江海股份涨停，续创历史新高，此前华锋股份、祥和实业涨停，龙辰科技涨超10%，艾华集团、元力股份、新宙邦等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260604102121122800",
-          "source": "金十数据",
+          "title": "恒生指数主连夜盘收涨0.27%，报25158点。 恒生科技指数主连夜盘收涨0.46%，报4980点。",
+          "url": "https://wallstreetcn.com/livenews/3114590",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "03时54分"
         },
         {
-          "title": "标普500指数初步收跌0.7%，可选消费、科技板块跌1.2%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.2%，成分股中，Lumentum初步收跌8.6%，特许通讯跌8%，软件股Datadog跌7.1%、Zscaler跌6.7%，Strategy跌6.6%，英特尔涨4.1%，Meta涨4.2%，高通涨4.3%，Diamondback Energy涨4.4%，西部数据涨5.6%，闪迪涨6.5%。 IBM初步收跌6.8%，Salesforce跌5%，霍尼韦尔跌5%，波音跌3.5%，美国运通跌3.4%，英伟达跌3.4%，领跌道指成分股，雪佛龙涨1.4%，卡特彼勒涨1.9%，安进涨3.1%，沃尔玛涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3113997",
-          "source": "华尔街见闻-快讯",
+          "title": "好怕现实中也有人长AI这样",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "纳指科技ETF景顺：将于2026年6月5日开市起停牌，自2026年6月5日10:30起复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260604171146432800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，奇富科技初步收跌8.2%，金山云跌6.9%，老虎证券跌5.9%，大全新能源跌5.3%，阿特斯太阳能跌5%，万国数据跌4.5%，世纪互联跌4.1%，阿里巴巴跌2.5%，再鼎医药涨0.1%，中通快递涨0.3%，华住、亚朵涨1.1%，文远知行涨2.9%，盛大科技涨10.6%。",
-          "url": "https://wallstreetcn.com/livenews/3113995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "A股PCB概念股低开回升，世运电路涨停，矩子科技涨超10%，新锐股份、亨通股份、东威科技、东山精密涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3114141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美股半导体板块盘前持续走低，博通(AVGO.O)跌超13%，美光科技(MU.O)跌6%，AMD(AMD.O)、英特尔(INTC.O)跌4%。",
-          "url": "https://flash.jin10.com/detail/20260604171141113800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
-          "url": "https://www.zhihu.com/question/2045160976878680020",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "03时54分"
         },
         {
           "title": "男子AI写歌月收入十几万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.70%，报25312点。 恒生科技指数主连夜盘收跌0.73%，报5006点。",
-          "url": "https://wallstreetcn.com/livenews/3113983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "03时54分"
         },
         {
-          "title": "港股收盘：恒生指数收跌1.48%，恒生科技指数收跌1.61%。半导体、芯片股上涨，兆易创新涨近7%，华虹半导体涨超3%；洛阳钼业跌近7%，中国宏桥跌逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3114300",
-          "source": "华尔街见闻-快讯",
+          "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
+          "url": "https://www.zhihu.com/question/13090511317",
+          "source": "知乎",
           "ranks": [
-            28
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "03时54分"
         },
         {
-          "title": "高盛高管：AI是驱动市场的“一代人级别”的力量",
-          "url": "https://wallstreetcn.com/livenews/3113978",
-          "source": "华尔街见闻-快讯",
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            30
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "03时54分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 11,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美拟对中日印韩等45个经济体加征12.5%额外关税，多国强烈反对",
-          "url": "https://news.ifeng.com/c/8tfzpdrlBTq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "美方将借口“强迫劳动”对中方经济体征收额外关税，外交部：反对借此搞政治操弄",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33281165",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "高盛发布世界杯预测报告，模型显示西班牙以 26% 概率成为最大夺冠热门，用经济模型预测足球比赛可靠吗？",
-          "url": "https://www.zhihu.com/question/2045154297281827321",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
         {
           "title": "美方拟对 60 个经济体加征关税，对中国征收 12.5% 的额外关税，该提案会被通过吗？影响有多大？",
           "url": "https://www.zhihu.com/question/2045806304581480535",
@@ -619,325 +152,109 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时35分"
+          "time_info": "03时54分"
         },
         {
-          "title": "美国财长贝森特：我们具备非常强劲经济的所有要素。",
-          "url": "https://flash.jin10.com/detail/20260603235627306800",
-          "source": "金十数据",
+          "title": "高盛发布世界杯预测报告，模型显示西班牙以 26% 概率成为最大夺冠热门，用经济模型预测足球比赛可靠吗？",
+          "url": "https://www.zhihu.com/question/2045154297281827321",
+          "source": "知乎",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "03时54分"
         },
         {
-          "title": "惠誉评级：德国经济将受益于欧洲增加国防开支。",
-          "url": "https://flash.jin10.com/detail/20260603234545750800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "世界经济论坛：地缘经济碎片化每年或致全球损失超3000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3114313",
+          "title": "阿根廷经济部长Luis Caputo：阿根廷批准RIGI投资方案中的两个项目，价值大约15.1亿美元。 San Matias天然气管道涉及13亿美元投资，将从Neuquen向Rio Negro输送2700万立方米/日的天然气。 Posco在Sal de Oro Lithium项目的第二阶段涉及0.2亿美元投资。",
+          "url": "https://wallstreetcn.com/livenews/3114581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "03时54分"
         },
         {
-          "title": "日本内阁官房长官木原稔：政府与日本央行在经济和金融趋势方面保持密切沟通，并将继续如此。",
-          "url": "https://flash.jin10.com/detail/20260604101141281800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "据美国官员透露，经济补偿是伊朗协议的关键症结。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3113987",
+          "title": "俄罗斯总统普京：那些用于支持俄经济的措施带来积极成果。",
+          "url": "https://wallstreetcn.com/livenews/3114578",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "03时54分"
         },
         {
-          "title": "印度高温会否影响经济发展",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E4%BC%9A%E5%90%A6%E5%BD%B1%E5%93%8D%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "墨西哥经济部发表声明称，符合美国墨西哥加拿大贸易协议（USMCA）的贸易将豁免于美国拟议的与强迫劳动相关的关税。 该拟议关税还将豁免汽车、钢铁和铝产品。 将在未来45天内与美国贸易代表办公室（USTR）就不符合USMCA规定的货物发运问题举行正式会谈。",
-          "url": "https://wallstreetcn.com/livenews/3113910",
+          "title": "普京：中国发展强劲，在全球经济、世界政治及国际事务中扮演着日益重要的角色",
+          "url": "https://wallstreetcn.com/livenews/3114571",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "03时54分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
-          "title": "宇树机器人登上《美国达人秀》",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BB%E4%B8%8A%E3%80%8A%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%E3%80%8B",
-          "source": "百度热搜",
+          "title": "不到一万即可入手，人形机器人价格大跌",
+          "url": "https://www.cls.cn/detail/2391108",
+          "source": "财联社热门",
           "ranks": [
-            25,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 10时43分]"
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "人形机器人集体降价",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9B%86%E4%BD%93%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "中国机器人亮相美国达人秀",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80",
           "source": "bilibili 热搜",
           "ranks": [
-            1,
-            16,
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 22时35分]"
-        },
-        {
-          "title": "中国机器人登上美国达人秀",
-          "url": "https://www.toutiao.com/trending/7647031051694293042/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "中国机器人亮相美国达人秀",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "字节跳动旗下AI聊天机器人豆包拟推出付费专业版",
-          "url": "https://wallstreetcn.com/livenews/3113914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "不到一万即可入手，人形机器人价格大跌",
-          "url": "https://www.cls.cn/detail/2391108",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
-        {
-          "title": "男童被景区机器人踢中腹部痛苦倒地，这属于谁的责任？该如何规避类似问题发生？",
-          "url": "https://www.zhihu.com/question/2045531346148095497",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "马斯克的xAI暂停招聘用于训练Grok聊天机器人的专业领域专家",
-          "url": "https://wallstreetcn.com/livenews/3113899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "比亚迪杀入人形机器人新战场",
-          "url": "https://www.toutiao.com/trending/7647372538242141705/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "03时54分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 22时35分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：DreamBeans利用个人智能将谷歌应用中的信息连接起来，从而构建故事内容。",
-          "url": "https://flash.jin10.com/detail/20260604001020298800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌实验室推出DreamBeans。",
-          "url": "https://flash.jin10.com/detail/20260604000920167800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "谷歌(GOOG.O)在网站上推出Gemma 4 12B。",
-          "url": "https://flash.jin10.com/detail/20260604000506999800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "Gemini 美国豆包",
-          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
-        {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
-        {
-          "title": "谷歌计划释放3200万只蚊子",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "谷歌：公司与能源开发商Intersect将建设Meitner能源中心，其中包括在德克萨斯州格雷县和罗伯茨县新建数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3114468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
-          "url": "https://www.zhihu.com/question/2045440339406762131",
-          "source": "知乎",
-          "ranks": [
-            18,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 10时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本停留现金社会的唯一好处",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%81%9C%E7%95%99%E7%8E%B0%E9%87%91%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%94%AF%E4%B8%80%E5%A5%BD%E5%A4%84&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "03时54分"
         }
       ]
     }
