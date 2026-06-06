@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T16:24:22.768734+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-06-06T21:08:48.408483+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 21时08分]"
         },
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
           "url": "https://www.cls.cn/detail/2392569",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 21时08分]"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 21时08分]"
         },
         {
           "title": "闻泰科技起诉安世荷兰已立案",
@@ -52,17 +64,6 @@
           "time_info": "03时42分"
         },
         {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -80,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -114,11 +115,25 @@
           "ranks": [
             10,
             13,
-            20
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 21时08分]"
+        },
+        {
+          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
+          "url": "https://www.zhihu.com/question/2046268823192302620",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时42分 ~ 16时24分]"
+          "time_info": "[10时09分 ~ 21时08分]"
         },
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
@@ -157,16 +172,16 @@
           "time_info": "[03时42分 ~ 10时09分]"
         },
         {
-          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
-          "url": "https://www.zhihu.com/question/2046268823192302620",
-          "source": "知乎",
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            12
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 16时24分]"
+          "time_info": "[16时24分 ~ 21时08分]"
         },
         {
           "title": "开麦丨AI在电话那头等你，接还是不接？",
@@ -179,6 +194,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 16时24分]"
+        },
+        {
+          "title": "AI文风太好认",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 21时08分]"
         },
         {
           "title": "印度高温背后的AI问题",
@@ -215,35 +242,13 @@
           "time_info": "03时42分"
         },
         {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
           "title": "高考要用AI改卷系谣言",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "AI文风太好认",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -287,7 +292,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -342,7 +347,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
@@ -476,11 +481,12 @@
           "ranks": [
             13,
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 21时08分]"
         },
         {
           "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
@@ -522,7 +528,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -533,7 +539,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
@@ -541,7 +547,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英国央行行长贝利：英国的关键问题在于经济增长。",
@@ -553,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "2026年圣彼得堡国际经济论坛期间签署价值6.6万亿卢布协议",
+          "url": "https://flash.jin10.com/detail/20260606192549099800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     }
