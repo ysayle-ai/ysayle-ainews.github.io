@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T03:06:02.867668+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-07T10:35:54.463514+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 9,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 10时35分]"
+        },
+        {
+          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
+          "url": "https://www.cls.cn/detail/2392569",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 10时35分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -30,15 +42,63 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
-          "url": "https://www.cls.cn/detail/2392569",
-          "source": "财联社热门",
+          "title": "中国航发动控所向时的科技交付“六合一”全集成航空电机",
+          "url": "https://flash.jin10.com/detail/20260607095948002800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
+          "url": "https://www.zhihu.com/question/2044941270087463980",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 10时35分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 10时35分]"
+        },
+        {
+          "title": "高考新增AI监考员",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 10时35分]"
+        },
+        {
+          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
+          "url": "https://wallstreetcn.com/livenews/3115486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
+          "time_info": "[03时06分 ~ 10时35分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -63,82 +123,137 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
-          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
-          "url": "https://www.zhihu.com/question/2044941270087463980",
-          "source": "知乎",
+          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3115505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "硅片行业的“结构性牛市”：AI芯片“喂饱”硅片巨头，国产硅片迎来黄金窗口",
+          "url": "https://wallstreetcn.com/premium/articles/3773871?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "麦捷科技股价创历史新高，同英伟达直接开展合作",
+          "url": "https://flash.jin10.com/detail/20260607094455383800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "韩国投资者持续买入中国硬科技",
+          "url": "https://flash.jin10.com/detail/20260607092824451800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
           "ranks": [
-            25
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
-          "title": "高考新增AI监考员",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
           "ranks": [
-            26
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
-          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
-          "url": "https://wallstreetcn.com/livenews/3115486",
-          "source": "华尔街见闻-快讯",
+          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
+          "url": "https://www.zhihu.com/question/2025012000539846038",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
+          "url": "https://wallstreetcn.com/articles/3774025",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
+          "url": "https://wallstreetcn.com/articles/3774016",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "标杆“芯片融资”交易：阿波罗、黑石和博通联手“募资”350亿美元，用于Anthropic向谷歌租赁TPU",
+          "url": "https://wallstreetcn.com/articles/3774013",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球首款全尺寸超仿生人形机器人来了",
-          "url": "https://www.toutiao.com/trending/7647117592154882091/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
-        },
-        {
-          "title": "机器人表演飞踢误伤小孩哥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354883&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E9%A3%9E%E8%B8%A2%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%AD%A9%E5%93%A5",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
+          "time_info": "10时35分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据《经济时报》引述印度报业托拉斯报道，印度将14.2公斤装家用液化石油气价格每瓶上调29卢比。",
@@ -147,7 +262,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -158,9 +273,66 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "港媒称「印度要想成为经济强国，最优解是找中国而非美国」，如何看待这一观点？",
+          "url": "https://www.zhihu.com/question/2046675992081610375",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机器人表演飞踢误伤小孩哥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354883&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E9%A3%9E%E8%B8%A2%E8%AF%AF%E4%BC%A4%E5%B0%8F%E5%AD%A9%E5%93%A5",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 10时35分]"
+        },
+        {
+          "title": "全球首款全尺寸超仿生人形机器人来了",
+          "url": "https://www.toutiao.com/trending/7647117592154882091/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 03时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《家有儿女》主角一家的生活水平在中国社会算什么水平？",
+          "url": "https://www.zhihu.com/question/4298531159",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     }
