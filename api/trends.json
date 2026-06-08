@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-08T10:40:22.177793+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-06-08T18:17:41.842085+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 17,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "北京高考英语作文：帮李华写信谈AI",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%EF%BC%9A%E5%B8%AE%E6%9D%8E%E5%8D%8E%E5%86%99%E4%BF%A1%E8%B0%88AI",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
         {
           "title": "A股PCB板块震荡回升，贝斯特涨超12%，金安国纪涨停，华正新材涨超9%，宝鼎科技、立方控股、则成电子、鹏鼎控股等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260608101559235800",
@@ -14,20 +25,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
         {
-          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
-          "url": "https://www.zhihu.com/question/1969653840065332479",
-          "source": "知乎",
+          "title": "利率担忧、大规模IPO等多重因素冲击科技板块 韩国科技股领跌全球",
+          "url": "https://flash.jin10.com/detail/20260608180901770800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "美股盘前科技股多数反弹，韩股收跌超8%，油价飙升5%、黄金跌破4300",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "18时17分"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -52,6 +74,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 10时40分]"
+        },
+        {
+          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
+          "url": "https://www.zhihu.com/question/1969653840065332479",
+          "source": "知乎",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 18时17分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -100,6 +134,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
           "url": "https://wallstreetcn.com/articles/3774027",
           "source": "华尔街见闻",
@@ -111,15 +156,48 @@
           "time_info": "03时06分"
         },
         {
+          "title": "SpaceX“世纪IPO”估值再引质疑！专家：实际低得多 AI业务离盈利还很远",
+          "url": "https://www.cls.cn/detail/2393282",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "6月8日投资避雷针：上周五纳指重挫逾4% 科技股大幅回调",
+          "url": "https://www.cls.cn/detail/2393073",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "A股减速器板块局部走强，宁波东力、丰光精密涨停，吉冈精密、万通液压涨超10%，德恩精工、鼎智科技、斯菱智驱、精进电动、金道科技跟涨。",
           "url": "https://flash.jin10.com/detail/20260608100339132800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
+          "url": "https://www.zhihu.com/question/2047267736485631665",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -139,9 +217,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2393646",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "董事长被曝亲密视频 胜宏科技回应",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E6%9B%9D%E4%BA%B2%E5%AF%86%E8%A7%86%E9%A2%91+%E8%83%9C%E5%AE%8F%E7%A7%91%E6%8A%80%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "A股光学光电子板块震荡走高，凯盛科技触及涨停，经纬辉开、聚飞光电涨超10%，光智科技、戈碧迦、雷曼光电、彩虹股份、利亚德跟涨。",
@@ -150,9 +261,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "黄仁勋访韩第三日：首尔网吧会晤游戏巨头负责人，聚焦实体AI合作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329627",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "京东与腾讯就AI Agent达成合作：目标走向生态协同",
@@ -161,9 +283,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "国产GPU“四小龙”燧原科技科创板IPO将于6月15日上会",
+          "url": "https://wallstreetcn.com/livenews/3116038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "中天科技盘中涨超7%，公司中标约15.18亿元数据中心用MPO光纤跳线及其配件项目。",
@@ -172,9 +305,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "软通动力与腾讯云签署AI战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3116031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "据港交所文件：苏州群策科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260608175316672800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
@@ -194,7 +349,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
@@ -202,7 +357,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "印度或将成全球第四大经济体",
@@ -223,9 +378,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "【国家数据局：到2028年底 建成一批覆盖重点领域、经过应用验证的行业高质量数据集】国家数据局发布《关于推进行业高质量数据集建设行动的实施方案》，其中提到，到2028年底，建成一批覆盖重点领域、经过应用验证的行业高质量数据集，打造一批数据驱动人工智能创新发展的典型应用场景，培育一批具备领先优势的创新型数据企业和专业人才，形成一批行业高质量数据集建设工具和标准。数据从供给到价值释放的良性循环基本形成，数据赋能人工智能创新发展的作用更加凸显，数据产业与人工智能深度融合，持续催生智能经济新增长点。",
+          "url": "https://wallstreetcn.com/livenews/3116064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "韩国总统李在明：韩国必须摆脱由房地产驱动的经济模式。 将加速住房供应。 应当增加非自住房产所有者的税收负担。 韩国的房地产持有税相对较低。",
@@ -234,15 +400,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "新加坡总理黄循财：经济前景依然不明朗。 预计下半年经济增长和通胀将面临更大压力。",
+          "url": "https://wallstreetcn.com/livenews/3116023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：与LG合作开发引擎、人形机器人和数据中心。",
@@ -251,9 +428,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
+          "url": "https://www.cls.cn/detail/2393263",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
+          "url": "https://wallstreetcn.com/articles/3774065",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "银行股和机器人板块为何逆市上涨",
+          "url": "https://www.toutiao.com/trending/7648941901596347923/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -285,7 +495,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
