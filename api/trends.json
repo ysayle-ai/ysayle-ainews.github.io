@@ -1,24 +1,23 @@
 {
-  "generated_at": "2026-06-09T17:01:47.863506+08:00",
-  "total_titles_processed": 768,
-  "failed_sources": [
-    "tieba"
-  ],
+  "generated_at": "2026-06-09T22:25:36.432529+08:00",
+  "total_titles_processed": 990,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 50,
+      "match_count": 62,
       "titles": [
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
           "url": "https://wallstreetcn.com/articles/3774148",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 22时25分]"
         },
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -31,6 +30,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时01分 ~ 10时06分]"
+        },
+        {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时00分 ~ 22时25分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -99,17 +110,6 @@
           "time_info": "[10时05分 ~ 10时06分]"
         },
         {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
-        },
-        {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
           "url": "https://www.cls.cn/detail/2393646",
           "source": "财联社热门",
@@ -176,6 +176,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "摩根大通将于今年部署更加强大的AI智能体。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3116890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
           "source": "澎湃新闻",
@@ -200,6 +211,19 @@
           "time_info": "[04时01分 ~ 10时06分]"
         },
         {
+          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2047261881392422944",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 22时25分]"
+        },
+        {
           "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
           "url": "https://wallstreetcn.com/articles/3774134",
           "source": "华尔街见闻",
@@ -217,18 +241,6 @@
           "ranks": [
             10,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 17时01分]"
-        },
-        {
-          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2047261881392422944",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -266,8 +278,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
+          "appearance_count": 3,
+          "time_info": "[17时00分 ~ 22时25分]"
         },
         {
           "title": "日韩股市突然暴跌 AI泡沫要破了吗",
@@ -402,6 +414,61 @@
           "time_info": "[04时01分 ~ 04时02分]"
         },
         {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
+          "url": "https://www.cls.cn/detail/2394851",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "中东局势缓和，美股高开，科技股反弹，美光科技涨超4%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2395176",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.04%，报24555点。 恒生科技指数主连夜盘收跌0.06%，报4748点。",
           "url": "https://wallstreetcn.com/livenews/3116321",
           "source": "华尔街见闻-快讯",
@@ -441,7 +508,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -455,6 +522,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "当AI大模型长出四个轮子",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%95%BF%E5%87%BA%E5%9B%9B%E4%B8%AA%E8%BD%AE%E5%AD%90%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "米哈游多款游戏已接入 AI，原神未来会引入 AI 功能吗？",
+          "url": "https://www.zhihu.com/question/2041514273738847722",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "A股MLCC概念大涨，康达新材涨停，东材科技涨超8%，商络电子、力源信息、国瓷材料、皖维高新等个股跟涨。消息面上，深圳华强表示，存储、电源管理芯片、模拟芯片和MLCC在内的众多元器件出现缺货涨价情况。",
@@ -474,9 +563,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "美股三大指数集体高开，美光科技涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3116867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
@@ -512,6 +612,28 @@
           "time_info": "10时06分"
         },
         {
+          "title": "Perplexity CEO：无论Anthropic或OpenAI上市进展如何，公司均计划2028年IPO",
+          "url": "https://wallstreetcn.com/livenews/3116874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "赛豆AI汽车AIVA亮相",
+          "url": "https://www.toutiao.com/trending/7649173735878443049/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "香港恒生指数6月9日（周二）开盘下跌105.13点，跌幅0.43%，报24551.93点；<br/>香港恒生科技指数6月9日（周二）开盘下跌12.39点，跌幅0.26%，报4743.52点；<br/>国企指数6月9日（周二）开盘下跌27.8点，跌幅0.33%，报8313.56点；<br/>红筹指数6月9日（周二）开盘下跌21.48点，跌幅0.5%，报4313.91点。",
           "url": "https://flash.jin10.com/detail/20260609092224644800",
           "source": "金十数据",
@@ -529,7 +651,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -556,6 +678,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "车圈AI主持首秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%9C%88AI%E4%B8%BB%E6%8C%81%E9%A6%96%E7%A7%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
           "url": "https://wallstreetcn.com/livenews/3116301",
           "source": "华尔街见闻-快讯",
@@ -570,7 +703,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "两部门：到2026年底人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署 开启“作业模式”",
@@ -661,13 +794,24 @@
           "time_info": "[17时00分 ~ 17时01分]"
         },
         {
+          "title": "人形机器人价格大跳水，最低不到一万可入手，为何价格快速下跌？机器人全民普及的时代要到来了吗？",
+          "url": "https://www.zhihu.com/question/2047236682659755773",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "实景实训行动启动 人形机器人加速开启“作业模式”",
           "url": "https://wallstreetcn.com/livenews/3116673",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -681,6 +825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "谁在买宇树机器人",
+          "url": "https://www.toutiao.com/trending/7649336554988506660/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
@@ -724,6 +879,34 @@
       ]
     },
     {
+      "keyword_group": "经济",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "穆迪首席经济学家：美国经济正处于衰退边缘。",
+          "url": "https://flash.jin10.com/detail/20260609214433597800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：相信在保持财政可持续性与采取措施提振经济之间取得平衡是可能的。 对当前汇率水平不予置评，我们准备采取果断行动的立场没有改变。",
+          "url": "https://wallstreetcn.com/livenews/3116414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -737,23 +920,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时00分 ~ 17时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本财务大臣片山皋月：相信在保持财政可持续性与采取措施提振经济之间取得平衡是可能的。 对当前汇率水平不予置评，我们准备采取果断行动的立场没有改变。",
-          "url": "https://wallstreetcn.com/livenews/3116414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         }
       ]
     },
