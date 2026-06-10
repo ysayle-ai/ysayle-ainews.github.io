@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T17:40:18.497834+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-10T22:53:44.919861+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 22时53分]"
         },
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -52,6 +52,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
+          "url": "https://www.cls.cn/detail/2396017",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "贝莱德亚太区负责人：预计亚洲ETF市场将实现“巨大增长”。 科技股抛售是创造超额收益（Alpha）的机会。 对日本私募市场有浓厚兴趣。 传统的60-40资产配置表现不佳。 在私人信贷中看到特有风险问题。 私人信贷违约率非常低。 在中国看到“巨大价值”和投资兴趣。 亚洲信贷市场蕴藏着“巨大机遇”。",
           "url": "https://wallstreetcn.com/livenews/3117165",
           "source": "华尔街见闻-快讯",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
-        },
-        {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。",
@@ -96,15 +96,38 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美国2026届大学毕业生强烈不满AI，微软回应称人类不会被取代",
+          "url": "https://wallstreetcn.com/livenews/3117585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "用AI复原孔子与苏格拉底教育之辩",
           "url": "https://www.douyin.com/hot/2528746",
           "source": "抖音",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 22时53分]"
         },
         {
           "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
@@ -143,6 +166,29 @@
           "time_info": "[10时31分 ~ 17时40分]"
         },
         {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 22时53分]"
+        },
+        {
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 22时53分]"
+        },
+        {
           "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
           "url": "https://www.cls.cn/detail/2394903",
           "source": "财联社热门",
@@ -160,7 +206,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -171,7 +217,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -185,17 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
@@ -242,6 +277,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "专家：AI淘汰的不是人而是重复性工作",
+          "url": "https://www.toutiao.com/trending/7649726725886053894/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
           "url": "https://www.cls.cn/detail/2395176",
           "source": "财联社热门",
@@ -253,15 +299,15 @@
           "time_info": "03时56分"
         },
         {
-          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
-          "url": "https://www.cls.cn/detail/2396047",
-          "source": "财联社热门",
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "22时53分"
         },
         {
           "title": "海尔智慧家庭首批接入微信AI生态，打造智慧家电“超级入口”",
@@ -270,7 +316,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -314,7 +360,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -325,7 +371,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -347,7 +393,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -358,7 +404,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -391,7 +437,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -402,9 +448,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "中东战火引发二次通胀，南非央行暗示年内将再度加息，并警告前沿AI模型威胁金融安全",
+          "url": "https://wallstreetcn.com/livenews/3117558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "为何说市场企稳后上涨主线仍是高科技",
@@ -413,7 +470,123 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "Meta达成印度AI数据中心交易，超大规模云厂商持续加码基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3117555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "加拿大央行行长麦克勒姆：我们尚未看到经济活动的广泛下降。",
+          "url": "https://flash.jin10.com/detail/20260610224952591800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "欧盟与韩国发布联合声明，双方启动高级别经济对话。",
+          "url": "https://flash.jin10.com/detail/20260610224929302800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：过去一年经济并没有真正增长，但也没有收缩。",
+          "url": "https://flash.jin10.com/detail/20260610224742838800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大经济并未明显陷入衰退。",
+          "url": "https://flash.jin10.com/detail/20260610224701248800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "加拿大央行行长Macklem：央行关于潜在加息的任何决定与时间线无太大关系，而关乎（行动的）条件。 当考虑潜加息可能性时，央行将关注通胀预期。 核心通胀已经下滑。 经济疲软，可能会给价格带来下行压力。",
+          "url": "https://wallstreetcn.com/livenews/3117581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "美国劳工部统计局（BLS）局长提名人Matsumoto在参议院听证会上表示：及时、准确的数据对于制定良好的经济政策至关重要。 我坚信劳工统计局的使命，即提供客观、高质量的劳动力市场活动指标与分析。",
+          "url": "https://wallstreetcn.com/livenews/3117578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "墨西哥经济部长埃布拉德：7月1日只是美墨加协定（USMCA）修订过程的开始。",
+          "url": "https://flash.jin10.com/detail/20260610224333927800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大经济疲软往往对价格施加下行压力。",
+          "url": "https://flash.jin10.com/detail/20260610224317455800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "商务部副部长兼国际贸易谈判副代表凌激与欧委会贸易和经济安全总司总司长约根森举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3117353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -517,23 +690,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "商务部副部长兼国际贸易谈判副代表凌激与欧委会贸易和经济安全总司总司长约根森举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3117353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         }
       ]
     }
