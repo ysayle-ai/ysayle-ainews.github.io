@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T23:34:48.794747+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-06-12T04:10:34.235086+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 52,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -15,43 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 23时34分]"
-        },
-        {
-          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 18时05分]"
-        },
-        {
-          "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3774176",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "韩国投资者持续加码中国硬科技，增持资产曝光",
-          "url": "https://www.cls.cn/detail/2396870",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "04时10分"
         },
         {
           "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
@@ -60,173 +25,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
-          "url": "https://www.cls.cn/detail/2396017",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "04时10分"
         },
         {
-          "title": "A股玻璃玻纤概念盘中拉升，宏和科技涨超7%，国际复材、山东玻纤、长海股份、中国巨石、九鼎新材等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260611102016468800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "标普500指数初步收跌1.4%，工业板块跌3.2%，原材料、可选消费、科技板块至少跌2%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.7%，成分股中，Insmed初步收跌7.7%，高通跌6.3%，西部数据跌5.4%，Arm控股跌4.9%，博通跌4.7%，特斯拉跌3.5%，英伟达跌3.2%，Lumentum则涨4.4%。 卡特彼勒初步收跌6.1%，霍尼韦尔跌4.3%，亚马逊、波音、高盛、Salesforce跌超2%，与英伟达领跌道指成分股，雪佛龙、VZ、可口可乐涨超2%。半导体指数跌3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3117681",
+          "title": "美国5-10年期国债收益率下跌10个基点，刷新日低。 标普500指数涨超1.6%，道指涨895点涨幅1.8%，纳指涨2.1%，纳斯达克100指数涨2.9%，生物科技指数涨3.1%，半导体指数涨6.8%。",
+          "url": "https://wallstreetcn.com/livenews/3118372",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "04时10分"
         },
         {
-          "title": "OpenAI宣布达成协议收购新闻机构ONA。",
-          "url": "https://flash.jin10.com/detail/20260611230642759800",
-          "source": "金十数据",
+          "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
+          "url": "https://www.cls.cn/detail/2397553",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            2,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 23时34分]"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 10时40分]"
-        },
-        {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 23时34分]"
-        },
-        {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 23时34分]"
-        },
-        {
-          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
-          "url": "https://wallstreetcn.com/articles/3774376",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 23时34分]"
-        },
-        {
-          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 23时34分]"
-        },
-        {
-          "title": "于娜看到已故丈夫AI形象崩溃大哭",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 10时40分]"
-        },
-        {
-          "title": "AI大神做漫剧真有一套",
-          "url": "https://www.douyin.com/hot/2530023",
-          "source": "抖音",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 23时34分]"
-        },
-        {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 10时40分]"
+          "time_info": "04时10分"
         },
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -235,152 +58,75 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "04时10分"
         },
         {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
+          "url": "https://wallstreetcn.com/articles/3774382",
           "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "OpenAI：将收购云平台Ona，从而支持AI智能体。 我们已经就此达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3118273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
-          "url": "https://www.cls.cn/detail/2396047",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
-          "url": "https://www.cls.cn/detail/2397553",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "雅克科技：公司关注到近期网络上有关于公司特种气体业务的相关讨论，公司的含氟类特种气体产品主要为四氟化碳和六氟化硫，目前没有六氟化钨相关业务。2025年度，公司含氟类特种气体的营业收入占公司总体营业收入的5.79%。",
-          "url": "https://wallstreetcn.com/livenews/3118060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "恒生科技指数跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260611101713250800",
-          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "04时10分"
         },
         {
-          "title": "恒生科技指数日内跌幅达2%，小鹏集团跌超6%，阿里巴巴跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3117858",
-          "source": "华尔街见闻-快讯",
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "04时10分"
         },
         {
-          "title": "据港交所文件：广东奥迪威传感科技股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260611225644031800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.12%，报24307点。 恒生科技指数主连夜盘收涨0.21%，报4720点。",
-          "url": "https://wallstreetcn.com/livenews/3117671",
-          "source": "华尔街见闻-快讯",
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "04时10分"
         },
         {
-          "title": "标普500科技板块指数下跌2.3%，较6月2日创下的历史最高收盘价下跌11%。",
-          "url": "https://flash.jin10.com/detail/20260611040211018800",
-          "source": "金十数据",
+          "title": "恒生指数主连夜盘收涨0.88%，报24376点。 恒生科技指数主连夜盘收涨0.75%，报4683点。",
+          "url": "https://wallstreetcn.com/livenews/3118360",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "04时10分"
         },
         {
-          "title": "恒生科技指数日内跌幅扩大至1.3%，恒生指数跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3117851",
-          "source": "华尔街见闻-快讯",
+          "title": "AI短片效果看到起鸡皮疙瘩了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "大众点评加大真实内容生态投入，加大AIGC评价治理力度",
-          "url": "https://wallstreetcn.com/livenews/3118262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "腾讯混元AI Infra新开源：HPC-Ops推理核心算子全面升级",
-          "url": "https://wallstreetcn.com/livenews/3118048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "04时10分"
         },
         {
           "title": "超模女球迷爆火后出镜 自证不是AI",
@@ -389,374 +135,54 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "宇树科技合作英伟达引争议",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%95%E4%BA%89%E8%AE%AE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "04时10分"
         },
         {
-          "title": "为什么感觉 AI Coding 剥夺了我写代码的乐趣？",
-          "url": "https://www.zhihu.com/question/2036188909328143670",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
-          "url": "https://wallstreetcn.com/livenews/3117664",
-          "source": "华尔街见闻-快讯",
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "道通科技澄清多项涉公司不实传闻",
-          "url": "https://flash.jin10.com/detail/20260611172858170800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "A股MLCC概念低开高走，风华高科逼近涨停，昀冢科技涨超10%，三环集团、火炬电子、国瓷材料、斯迪克跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3117839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "A股半导体产业链震荡拉升，炬光科技、康强电子涨停，江丰电子、杰华特、中微半导、欧莱新材涨超10%，晶丰明源、和林微纳、捷捷微电涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3117836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "小米汽车科技有限公司增加增程式电动乘用车产品品种",
-          "url": "https://wallstreetcn.com/livenews/3118042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "A股光纤概念低开高走，兴发集团、烽火通信双双涨停，三孚股份涨超6%，云南锗业、光库科技、长光华芯、永鼎股份、通光线缆等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260611095842545800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "纳指科技ETF景顺：本基金将于6月12日开市起至当日10:30停牌。",
-          "url": "https://flash.jin10.com/detail/20260611172607757800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "报道：OpenAI正考虑大幅降价",
-          "url": "https://wallstreetcn.com/livenews/3117833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "贝索斯在推出新项目之际 淡化了AI可能导致的失业担忧",
-          "url": "https://flash.jin10.com/detail/20260611223315369800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "恒指、恒生科技指数转涨。",
-          "url": "https://wallstreetcn.com/livenews/3117831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股贵金属板块低开高走，湖南黄金涨近5%，晓程科技、盛达资源、兴业银锡、山东黄金、湖南白银、四川黄金等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260611095602349800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "亚马逊创始人贝佐斯：在“普罗米修斯计划”（Project Prometheus）方面的目标是打造一个智能工程师。 对于“普罗米修斯计划”而言，工程师就是客户。 “普罗米修斯计划”是我这个时代的“主要工作”。 我们还有很远的路要走，仍然处于（项目开发的）早期阶段。 我们拥有足够的计算（能力），将需要更多。 我们拥有许多的算力来源，包括亚马逊的AWS。 还需要创造数据，这是一个非常昂贵的投资。 还参与了B轮融资，（但）并没有考虑C轮融资。 由于AI的缘故，我们将面临“劳动力短缺”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3118250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "消息人士：此次白宫与防务公司的会议与此前3月的会议类似，参会企业包括洛克希德马丁(LMT.N)、雷神科技(RTX.N)、波音(BA.N)和L3Harris。",
-          "url": "https://flash.jin10.com/detail/20260611031354848800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "Crusoe Energy Systems LLC.：谷歌公司出现顾虑之后，公司位于美国怀俄明州的AI项目被搁置。 谷歌公司正与现存合作伙伴们讨论怀俄明州数据中心的使用事宜。 公司与潜在客户独家洽谈。 公司无法为怀俄明州设施锁定客户。",
-          "url": "https://wallstreetcn.com/livenews/3118246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "04时10分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "京东MALL引入首批实习机器人员工",
-          "url": "https://wallstreetcn.com/livenews/3118072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "京东MALL引入首批实习机器人员工",
-          "url": "https://flash.jin10.com/detail/20260611173730064800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
         {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
           "url": "https://www.cls.cn/detail/2397230",
           "source": "财联社热门",
           "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 23时34分]"
-        },
-        {
-          "title": "英伟达、亚马逊等巨头参投 德国机器人公司Neura获最高14亿美元融资",
-          "url": "https://www.cls.cn/detail/2396520",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "北证50指数跌超3%，创业板指冲高回落翻绿，沪指、深成指均跌超0.4%，影视传媒、物理AI、旅游、机器人等板块跌幅居前，沪深京三市下跌个股超4300只。",
-          "url": "https://wallstreetcn.com/livenews/3117853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "恒生指数跌超1%，恒生科技指数现跌1.73%，电力设备、光伏太阳能、机器人、航空、生物医药等概念跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260611101216169800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "埃夫特：决定对旗下喷涂机器人全系列产品等实施价格调整 整体价格上调5%—8%",
-          "url": "https://wallstreetcn.com/livenews/3118251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "恒指低开0.11%，报24380.02点；恒生科技指数跌0.20%。MINIMAX跌超4%，小鹏汽车、地平线机器人等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3117820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "04时10分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "马来西亚经济部长：厄尔尼诺现象可能导致作物产量整体减少8%至10%。",
-          "url": "https://flash.jin10.com/detail/20260611173754666800",
-          "source": "金十数据",
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
+          "source": "财联社热门",
           "ranks": [
-            3
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "马来西亚经济部长：厄尔尼诺可能导致部分州降雨量减少40%-60%。",
-          "url": "https://flash.jin10.com/detail/20260611173727220800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "美国总统特朗普：美国不能再忍受出生公民权的束缚。这在经济上或其他方面都不可持续，世界上没有其他重要国家这样做！",
-          "url": "https://flash.jin10.com/detail/20260611225548663800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "国务院新闻办公室将于2026年6月16日（星期二）上午10时举行新闻发布会，请国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍2026年5月份国民经济运行情况，并答记者问。",
-          "url": "https://wallstreetcn.com/livenews/3118053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "疫情后最差预期出炉！世行大砍今年全球经济增长预估",
-          "url": "https://flash.jin10.com/detail/20260611223554260800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时34分"
-        },
-        {
-          "title": "巴基斯坦经济调查：预计2026财年实际GDP增长为3.7%。",
-          "url": "https://flash.jin10.com/detail/20260611172342209800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
+          "time_info": "04时10分"
         }
       ]
     }
