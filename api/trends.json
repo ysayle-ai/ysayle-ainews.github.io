@@ -1,178 +1,55 @@
 {
-  "generated_at": "2026-06-14T21:28:53.919962+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-06-15T03:09:31.466203+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 21时28分]"
-        },
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 17时19分]"
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
           "url": "https://wallstreetcn.com/articles/3774601",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 21时28分]"
-        },
-        {
-          "title": "科技让文物可看可感",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E8%AE%A9%E6%96%87%E7%89%A9%E5%8F%AF%E7%9C%8B%E5%8F%AF%E6%84%9F",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "天风证券：电子布年内第五轮涨价落地 AI链拉动玻纤景气延续",
-          "url": "https://flash.jin10.com/detail/20260614171030729800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "蚂蚁集团正秘密测试AI版支付宝",
-          "url": "https://flash.jin10.com/detail/20260614170709289800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "03时09分"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时08分 ~ 21时28分]"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
+          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
+          "url": "https://wallstreetcn.com/articles/3774621",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 10时40分]"
-        },
-        {
-          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
-          "url": "https://www.cls.cn/detail/2399104",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时08分 ~ 21时28分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时08分 ~ 21时28分]"
-        },
-        {
-          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
-          "url": "https://wallstreetcn.com/articles/3774579",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 17时19分]"
-        },
-        {
-          "title": "经过两周调整，美国大型科技股仓位已经回落至“中性水平”、甚至略低于盈利增长",
-          "url": "https://wallstreetcn.com/articles/3774576",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 17时19分]"
-        },
-        {
-          "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
-          "url": "https://wallstreetcn.com/articles/3774574",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
           "url": "https://wallstreetcn.com/articles/3774608",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时09分"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -181,70 +58,81 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时09分"
         },
         {
-          "title": "业绩下滑遭炮轰、新战略被指“不务正业” 同仁堂科技转型困局凸显|直击股东会",
-          "url": "https://www.cls.cn/detail/2398830",
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
+          "url": "https://www.cls.cn/detail/2399104",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "03时09分"
         },
         {
-          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
-          "url": "https://www.zhihu.com/question/1997586495188521827",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美禁止外国主体使用安特罗匹克最新AI模型",
-          "url": "https://wallstreetcn.com/livenews/3119219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时09分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "织密“六张网”锻造中国经济硬核底座",
-          "url": "https://www.toutiao.com/trending/7650281429661925412/",
-          "source": "今日头条",
+          "title": "下周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
+          "url": "https://wallstreetcn.com/articles/3774492",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
+          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "织密六张网锻造中国经济硬核底座",
@@ -253,116 +141,70 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时09分"
         },
         {
-          "title": "下周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
-          "url": "https://wallstreetcn.com/articles/3774492",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
-          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "日本公司请求阻止LNG罢工、宣称将危害澳洲经济，被澳大利亚法庭驳回",
-          "url": "https://wallstreetcn.com/livenews/3119232",
+          "title": "中华人民共和国和蒙古国外交部长会谈联合新闻公报：双方同意，加强发展战略对接，推进高质量共建“一带一路”和“草原之路”倡议框架内项目，扩大矿业、能源、工业、基础设施、互联互通、绿色发展、数字经济、农牧业等领域互利合作，携手走好符合各自国情的现代化之路。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3119267",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "唐宁街10号（英国首相府）：双方领导人一致认为，必须恢复航行自由，以缓解全球经济影响。",
-          "url": "https://flash.jin10.com/detail/20260614005900810800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "03时09分"
+        },
+        {
+          "title": "据以色列第12频道报道，美国正向伊朗提供经济利益，以换取对方不对以色列在贝鲁特的袭击作出回应。",
+          "url": "https://flash.jin10.com/detail/20260615020402568800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "机器人伴侣开售,人机恋成真",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355151&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%BC%80%E5%94%AE%2C%E4%BA%BA%E6%9C%BA%E6%81%8B%E6%88%90%E7%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 21时28分]"
-        },
         {
           "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
           "url": "https://www.cls.cn/detail/2399188",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 21时28分]"
-        },
-        {
-          "title": "走出实验室 机器人如何“上岗”",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B0%E5%87%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "03时09分"
         },
         {
-          "title": "机器人伴侣仅限成人购买使用",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0%E4%BD%BF%E7%94%A8",
-          "source": "百度热搜",
+          "title": "机器人伴侣开售,人机恋成真",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355151&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%BC%80%E5%94%AE%2C%E4%BA%BA%E6%9C%BA%E6%81%8B%E6%88%90%E7%9C%9F",
+          "source": "贴吧",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
-          "title": "“机器人伴侣”来了！10天已预售3800台，男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
-          "url": "https://wallstreetcn.com/articles/3774586",
-          "source": "华尔街见闻",
+          "title": "经济日报：人形机器人为何热衷秀才艺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376361",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     }
