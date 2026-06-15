@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T00:56:58.155734+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-16T04:45:34.368859+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "习近平：一体推进教育科技人才发展",
@@ -19,15 +19,39 @@
           "time_info": "00时56分"
         },
         {
+          "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3119872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
           "title": "【焦点复盘】硬科技、小金属携手发力，沪指日线6连阳收复20日均线，全市场超280股涨逾10%",
           "url": "https://www.cls.cn/detail/2400159",
           "source": "财联社热门",
           "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
+        },
+        {
+          "title": "AI为何成为能源之战",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
         },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
@@ -37,30 +61,100 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "AI为何成为能源之战",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
         },
         {
           "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
           "url": "https://www.cls.cn/detail/2400118",
           "source": "财联社热门",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
+        },
+        {
+          "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
+          "url": "https://www.cls.cn/detail/2400342",
+          "source": "财联社热门",
+          "ranks": [
+            9,
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
+        },
+        {
+          "title": "信披整改承诺仅保持九个月 国晟科技再收监管“双罚单”|速读公告",
+          "url": "https://www.cls.cn/detail/2400460",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
+        },
+        {
+          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
+          "url": "https://www.zhihu.com/question/2049845138457719674",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
+        },
+        {
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
+          "url": "https://wallstreetcn.com/livenews/3119870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时45分"
+        },
+        {
+          "title": "周一（6月15日），彭博电动汽车价格回报指数涨1.88%，报3859.15点。 指数在亚太早盘显著上涨，日内过半时间交投于3850点上方，北京时间21:30刷新日高至3878.04点。 成分股中，印尼安塔姆矿业收涨9.82%，淡水河谷印尼公司涨7.75%，中创新航科技集团H股涨6.82%，Panasonic株式会社涨5.53%，智利化工矿业公司（SQM）则跌1.79%，小鹏集团H股跌3.47%，Ola Electric Mobility Ltd.跌3.54%。",
+          "url": "https://wallstreetcn.com/livenews/3119869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
@@ -74,15 +168,15 @@
           "time_info": "00时56分"
         },
         {
-          "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
-          "url": "https://www.cls.cn/detail/2400342",
-          "source": "财联社热门",
+          "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
+          "url": "https://wallstreetcn.com/livenews/3119866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时45分"
         },
         {
           "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
@@ -96,43 +190,43 @@
           "time_info": "00时56分"
         },
         {
-          "title": "信披整改承诺仅保持九个月 国晟科技再收监管“双罚单”|速读公告",
-          "url": "https://www.cls.cn/detail/2400460",
-          "source": "财联社热门",
+          "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
+          "url": "https://wallstreetcn.com/livenews/3119863",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时45分"
         },
         {
-          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
-          "url": "https://www.zhihu.com/question/2049845138457719674",
-          "source": "知乎",
+          "title": "周一（6月15日），美股存储芯片与硬件供应链指数涨8.54%，报253.05点，再次创收盘历史新高，最近三个交易日累计上涨25%。 成分股西部数据涨16.10%，创1月份以来最佳单日表现，报653.53美元，创收盘历史新高，美光科技涨涨10.8%，希捷科技涨9.4%，泰瑞达涨7.2%，闪迪涨超6.4%，拉姆研究涨6%，应用材料涨3.3%，Rambus跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119862",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时45分"
         },
         {
-          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
-          "source": "澎湃新闻",
+          "title": "纳斯达克金龙中国指数收涨0.39%，报6351.43点。 热门中概股里，金山云初步收涨5.8%，世纪互联涨5.1%，万国数据涨2.6%，拼多多涨2.4%，携程涨1.9%，日月光半导体涨1.2%，新东方涨0.7%，百度涨0.6%，网易涨0.1%。 ETF中，中国科技指数ETF（CQQQ）收涨4.60%，中概互联网指数ETF（KWEB）收涨0.49%。 MSCI新兴市场ex中国ETF（EMXC）收涨3.83%，德银嘉实沪深300指数ETF（ASHR）收涨2.32%，XtrackersHarvest中证50（ASHS）收涨3.74%。",
+          "url": "https://wallstreetcn.com/livenews/3119860",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时45分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "机器人伴侣开售,人机恋成真",
@@ -142,8 +236,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
+        },
+        {
+          "title": "优必选「机器人伴侣」10 天预售 3800 台，限成年人购买，不做家务只做陪伴，你看好这款产品市场前景吗？",
+          "url": "https://www.zhihu.com/question/2049162105648051147",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "04时45分"
         }
       ]
     },
@@ -176,8 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 04时45分]"
         }
       ]
     }
