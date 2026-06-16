@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-16T10:47:35.518781+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-06-16T18:54:20.999251+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "返利科技：实际控制人及其一致行动人正在筹划公司股份协议转让事宜，该事项可能导致公司控制权发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3120272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
         {
           "title": "习近平：一体推进教育科技人才发展",
           "url": "https://www.cls.cn/detail/2399978",
@@ -25,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -170,6 +192,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "扬杰科技：获欧盟理事会九个月豁免期",
+          "url": "https://flash.jin10.com/detail/20260616182516578800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "周一（6月15日），彭博电动汽车价格回报指数涨1.88%，报3859.15点。 指数在亚太早盘显著上涨，日内过半时间交投于3850点上方，北京时间21:30刷新日高至3878.04点。 成分股中，印尼安塔姆矿业收涨9.82%，淡水河谷印尼公司涨7.75%，中创新航科技集团H股涨6.82%，Panasonic株式会社涨5.53%，智利化工矿业公司（SQM）则跌1.79%，小鹏集团H股跌3.47%，Ola Electric Mobility Ltd.跌3.54%。",
           "url": "https://wallstreetcn.com/livenews/3119869",
           "source": "华尔街见闻-快讯",
@@ -187,9 +220,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "A股存储芯片概念板块持续走强，大普微涨超10%，此前雅创电子20cm涨停，同有科技、成都华微、深科技、兆易创新等跟涨。",
@@ -198,7 +242,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -236,6 +280,28 @@
           "time_info": "00时56分"
         },
         {
+          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
+          "url": "https://www.cls.cn/detail/2401117",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "【午报】创业板指震荡走高涨超2%，AI硬件持续爆发，MLCC、玻纤等细分领涨",
+          "url": "https://www.cls.cn/detail/2400951",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
           "url": "https://wallstreetcn.com/livenews/3119863",
           "source": "华尔街见闻-快讯",
@@ -269,13 +335,35 @@
           "time_info": "04时45分"
         },
         {
+          "title": "宝鼎科技澄清：公司未与英伟达有过接触，也未与其开展任何形式的业务合作",
+          "url": "https://flash.jin10.com/detail/20260616182013466800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "抖音利用AI打击诈骗",
+          "url": "https://wallstreetcn.com/livenews/3120248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -286,9 +374,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "会畅科技：目前未参与相关世界杯赛事的视频转播",
+          "url": "https://flash.jin10.com/detail/20260616181633631800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "A股PCB概念股继续走强，宝鼎科技2连板，逸豪新材、国际复材涨超10%，华正新材、生益科技、大族数控涨超7%。",
@@ -297,9 +396,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "鸿蒙智行首款科技豪华硬派SUV享界G9官宣",
+          "url": "https://wallstreetcn.com/livenews/3120241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "恒指低开0.07%，报24826.19点；恒生科技指数开盘基本持平。美团、哔哩哔哩跌超1%；MINIMAX、联想集团、小鹏集团、中芯国际等上涨。",
@@ -308,7 +418,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
@@ -316,7 +426,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "机器人伴侣开售,人机恋成真",
@@ -324,11 +434,23 @@
           "source": "贴吧",
           "ranks": [
             18,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 18时54分]"
+        },
+        {
+          "title": "中国5月规模以上工业增加值同比加速至4.5%，3D打印、锂电池、工业机器人等增长较快",
+          "url": "https://wallstreetcn.com/articles/3774757",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "优必选「机器人伴侣」10 天预售 3800 台，限成年人购买，不做家务只做陪伴，你看好这款产品市场前景吗？",
@@ -365,7 +487,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
@@ -382,7 +504,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -393,7 +515,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
