@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-17T04:38:10.882442+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-06-17T10:43:57.955316+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 18,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
+          "url": "https://wallstreetcn.com/articles/3774806",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 10时43分]"
+        },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
           "url": "https://www.cls.cn/detail/2401113",
@@ -19,15 +30,15 @@
           "time_info": "[00时23分 ~ 04时38分]"
         },
         {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "OpenAI开发者：本周，Codex的更多功能正在向欧洲各地陆续推出。我们正在向欧洲经济区、英国和瑞士的Codex用户提供计算机操作功能、CodexChrome扩展程序、个性化记忆功能以及Chronicle。",
@@ -51,6 +62,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 04时38分]"
+        },
+        {
+          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
+          "url": "https://www.zhihu.com/question/2050239948306092201",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 10时43分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -99,17 +122,6 @@
           "time_info": "[00时23分 ~ 04时38分]"
         },
         {
-          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
-          "url": "https://www.zhihu.com/question/2050239948306092201",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 04时38分]"
-        },
-        {
           "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/2050039889400435846",
           "source": "知乎",
@@ -127,9 +139,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "曝微信正测试AI支付功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BE%AE%E4%BF%A1%E6%AD%A3%E6%B5%8B%E8%AF%95AI%E6%94%AF%E4%BB%98%E5%8A%9F%E8%83%BD%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "苹果2027年将推出搭载摄像头的AirPods 智能眼镜最早明年末推出",
@@ -171,9 +205,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "A股面板板块盘中持续走强，长信科技、京东方A、沃格光电、彩虹股份、凯盛科技等多股涨停，龙腾光电、秋田微、TCL科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617095511703800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.11%，报24510点。 恒生科技指数主连夜盘收跌0.45%，报4641点。",
@@ -182,7 +238,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -204,15 +260,70 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "商业航天概念低开高走，再升科技、九鼎新材双双涨停，上海瀚讯涨超10%，西测测试、航宇科技、超捷股份涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3120624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "A股超级电容概念板块盘中异动拉升，海星股份三连板，艾华集团、铜峰电子封板涨停，江海股份、东阳光、龙辰科技、万顺新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617094905452800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "GENERAL ATLANTIC据悉洽谈领投快手视频AI部门20亿美元融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3120618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "A股稀土永磁板块盘中震荡走弱，三川智慧跌超7%，中铝国际跌超6%，龙磁科技、中科磁业、东方锆业、英洛华等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260617094811804800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "CPO概念股低开高走，光华科技3连板，一博科技涨超10%，南亚新材、超声电子、烽火通信、智立方跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3120616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "前5个月国民经济延续向新向优发展态势",
@@ -226,6 +337,28 @@
           "time_info": "[00时23分 ~ 04时38分]"
         },
         {
+          "title": "国民经济持续向新向优",
+          "url": "https://www.toutiao.com/trending/7651222804691517494/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "我国5月份经济数据发布",
+          "url": "https://www.douyin.com/hot/2537562",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
           "url": "https://www.zhihu.com/question/2049776018660103123",
           "source": "知乎",
@@ -237,13 +370,24 @@
           "time_info": "[00时23分 ~ 04时38分]"
         },
         {
+          "title": "莫迪与特朗普将在G7峰会上讨论双边贸易协定。（印度《经济时报》）",
+          "url": "https://wallstreetcn.com/livenews/3120644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "法国央行下调2026年经济预期：预计2026年GDP将增长0.5%，之前预计增长0.9%。 预计2026年通胀为2.5%，之前预计为1.7%；预计2027年为1.7%，之前预计为1.4%。 央行行长表示，自己（对欧洲央行货币政策）既不持鹰派立场、也不持鸽派立场。",
           "url": "https://wallstreetcn.com/livenews/3120457",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         }
@@ -281,6 +425,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     }
