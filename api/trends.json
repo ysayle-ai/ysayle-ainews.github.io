@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T18:26:05.543880+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-06-17T22:50:42.516412+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 39,
+      "match_count": 47,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -19,6 +19,17 @@
           "time_info": "[00时23分 ~ 18时26分]"
         },
         {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 22时50分]"
+        },
+        {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
           "url": "https://www.cls.cn/detail/2401113",
           "source": "财联社热门",
@@ -30,37 +41,26 @@
           "time_info": "[00时23分 ~ 04时38分]"
         },
         {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 18时26分]"
-        },
-        {
-          "title": "微信支付宝打响AI支付战",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
           "title": "花旗将美光科技目标价从840美元上调至1200美元。",
           "url": "https://wallstreetcn.com/livenews/3120928",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美国总统特朗普：就人工智能（AI）问题进行了一次不错的会议。 与Anthropic的对话不错。",
+          "url": "https://wallstreetcn.com/livenews/3121083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "OpenAI开发者：本周，Codex的更多功能正在向欧洲各地陆续推出。我们正在向欧洲经济区、英国和瑞士的Codex用户提供计算机操作功能、CodexChrome扩展程序、个性化记忆功能以及Chronicle。",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "高盛企业并购主管Stephan Feldgoise：2026年企业并购活动超过预期。 对私募（PE）和企业并购而言，2026年都是一个大年。 AI是2026年并购活动的一个驱动力。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3121080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -96,6 +107,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时37分 ~ 10时43分]"
+        },
+        {
+          "title": "证监会实质举措推动科技革命，三类企业受益，一线解读来了",
+          "url": "https://www.cls.cn/detail/2402254",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时50分]"
+        },
+        {
+          "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
+          "url": "https://www.cls.cn/detail/2402510",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时50分]"
+        },
+        {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时50分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -168,26 +215,16 @@
           "time_info": "[10时43分 ~ 18时26分]"
         },
         {
-          "title": "证监会实质举措推动科技革命，三类企业受益，一线解读来了",
-          "url": "https://www.cls.cn/detail/2402254",
-          "source": "财联社热门",
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
           "ranks": [
-            7
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
-          "url": "https://www.cls.cn/detail/2402510",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时50分]"
         },
         {
           "title": "AI支付",
@@ -212,17 +249,6 @@
           "time_info": "[04时37分 ~ 04时38分]"
         },
         {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
           "title": "A股科技板块市值占比超过3成",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E6%9D%BF%E5%9D%97%E5%B8%82%E5%80%BC%E5%8D%A0%E6%AF%94%E8%B6%85%E8%BF%873%E6%88%90%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -243,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "曝微信正测试AI支付功能",
@@ -267,6 +304,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "苹果(AAPL.O)计划于2027年底推出新款带摄像头的AirPods。",
           "url": "https://flash.jin10.com/detail/20260617000315981800",
           "source": "金十数据",
@@ -278,6 +326,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
           "url": "https://wallstreetcn.com/livenews/3120418",
           "source": "华尔街见闻-快讯",
@@ -287,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
@@ -306,7 +376,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -328,9 +398,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "普通人选什么专业最不容易被 AI 替代？",
+          "url": "https://www.zhihu.com/question/2042985698823861883",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "据港交所文件：北京融信数联科技股份有限公司向港交所提交上市申请书。",
@@ -339,7 +420,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -438,15 +519,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近3%，全球科技股指数ETF、科技行业ETF涨超1%，医疗业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3121054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "前5个月国民经济延续向新向优发展态势",
@@ -493,6 +585,17 @@
           "time_info": "[00时23分 ~ 04时38分]"
         },
         {
+          "title": "NAR首席经济学家Lawrence Yun在一份声明中表示：在抵押贷款利率没有变动的情况下，美国春季晚期的购房热潮表明，住房市场存在被压抑的需求，且消费者已经接受了6%以上的抵押贷款利率成为新常态。",
+          "url": "https://wallstreetcn.com/livenews/3121078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "莫迪与特朗普将在G7峰会上讨论双边贸易协定。（印度《经济时报》）",
           "url": "https://wallstreetcn.com/livenews/3120644",
           "source": "华尔街见闻-快讯",
@@ -502,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "美国总统特朗普宣称：美国各项经济数据都非常出色。",
+          "url": "https://wallstreetcn.com/livenews/3121071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "法国央行下调2026年经济预期：预计2026年GDP将增长0.5%，之前预计增长0.9%。 预计2026年通胀为2.5%，之前预计为1.7%；预计2027年为1.7%，之前预计为1.4%。 央行行长表示，自己（对欧洲央行货币政策）既不持鹰派立场、也不持鸽派立场。",
@@ -518,8 +632,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "中国机器人开始治理沙漠了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B2%BB%E7%90%86%E6%B2%99%E6%BC%A0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
         {
           "title": "中国5月规模以上工业增加值同比加速至4.5%，3D打印、锂电池、工业机器人等增长较快",
           "url": "https://wallstreetcn.com/articles/3774757",
@@ -539,7 +664,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -550,7 +675,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -561,7 +686,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         }
@@ -569,7 +694,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌：推出用于数据中心的Brazos液冷系统。",
@@ -581,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
+          "url": "https://www.cls.cn/detail/2402553",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
@@ -598,6 +734,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家发展改革委、人力资源社会保障部有关负责人就《实施就业优先战略“十五五”规划》答记者问",
+          "url": "https://wallstreetcn.com/livenews/3121074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     }
