@@ -1,415 +1,106 @@
 {
-  "generated_at": "2026-06-22T19:34:47.708326+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-06-23T00:28:35.462057+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 26,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
-          "url": "https://www.cls.cn/detail/2404743",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 10时46分]"
-        },
-        {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "【早报】美油大幅高开，伊朗代表团离开谈判地点；多只科技牛股本周解禁；比利时0-0平伊朗、西班牙获首胜",
-          "url": "https://www.cls.cn/detail/2405023",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "科技赋能 全国夏播粮食进度近七成",
-          "url": "https://www.toutiao.com/trending/7653411322935803946/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
         {
           "title": "罕见券商股与科技股共振，这一波行情或许不同？",
           "url": "https://www.cls.cn/detail/2405663",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "市场“不可调和的矛盾”：如何给科技股估值",
-          "url": "https://wallstreetcn.com/articles/3775123",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 10时46分]"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 10时46分]"
-        },
-        {
-          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-          "url": "https://wallstreetcn.com/articles/3775129",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 10时46分]"
-        },
-        {
-          "title": "“加息”涨科技？",
-          "url": "https://wallstreetcn.com/articles/3775132",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 10时46分]"
-        },
-        {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 10时46分]"
-        },
-        {
-          "title": "盘后观察：科技退潮金融接棒",
-          "url": "https://www.toutiao.com/trending/7654123612265267206/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "00时28分"
         },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "香港恒生指数跌幅扩大至1.86%，恒生科技指数跌1.53%。智谱涨超30%。",
-          "url": "https://wallstreetcn.com/livenews/3122481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "00时28分"
+        },
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2405983",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         },
         {
           "title": "数学博士生 2 年研究被 AI 抢发，这种现象会越来越普遍吗？如何看待 AI 对数学研究的冲击？",
           "url": "https://www.zhihu.com/question/2052067691926484153",
           "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
-          "url": "https://www.cls.cn/detail/2404712",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "AI如此预测今晚焦点战算懂球吗",
-          "url": "https://www.douyin.com/hot/2543848",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "骏亚科技：拟投资15.57亿元建设年产60万平米高多层、HDI线路板项目",
-          "url": "https://wallstreetcn.com/livenews/3122798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "【午报】三大指数集体收红，有色金属等AI上游材料概念持续活跃，大金融板块爆发",
-          "url": "https://www.cls.cn/detail/2405347",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "香港恒生指数开盘跌0.47%，恒生科技指数跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3122464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "港股存储概念走高，南方两倍做多海力士涨超15%，兆易创新(03986.HK)涨超8%，澜起科技(06809.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260622100542843800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "长川科技：预计上半年净利润9亿元-10亿元，同比增长110.76%-134.18%；公司数字测试机等多产品线销售业绩大幅度增长，规模效应显现，销售收入规模大幅度增长，利润随之迅速增长。",
-          "url": "https://wallstreetcn.com/livenews/3122772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "家长吐槽高报师不如AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E9%AB%98%E6%8A%A5%E5%B8%88%E4%B8%8D%E5%A6%82AI%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "开局之年看中国经济“力”与“势”",
-          "url": "https://www.toutiao.com/trending/7654038645603287094/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "龙舟经济火爆",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E7%BB%8F%E6%B5%8E%E7%81%AB%E7%88%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "假日经济活力迸发",
-          "url": "https://www.douyin.com/hot/2543080",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "“经济沙皇”格林斯潘去世",
-          "url": "https://www.toutiao.com/trending/7654176264806449202/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们攻击了他们的桥梁，攻击了许多目标。我们对“伊朗革命卫队经济”的累计破坏规模不是以百万计，也不是以数亿美元、数百亿美元计，而是以数千亿美元计算。他们需要很长时间才能恢复。",
-          "url": "https://flash.jin10.com/detail/20260622023414406800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "巴基斯坦总理：感谢瑞士在签署具有历史意义的伊斯兰堡谅解备忘录之后所提供的支持以及建设性参与。双方一致认为，该备忘录的成功落实将有助于地区和平、稳定以及全球经济繁荣。",
-          "url": "https://flash.jin10.com/detail/20260622020221202800",
-          "source": "金十数据",
-          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "00时28分"
         },
         {
-          "title": "蔡磊妻子谈渐冻症带来的经济压力",
-          "url": "https://www.toutiao.com/trending/7654107504103935526/",
-          "source": "今日头条",
+          "title": "Alphabet创2月以来最大跌幅，该公司两名AI领军人物相继离职",
+          "url": "https://wallstreetcn.com/livenews/3122939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "SpaceX与美国开源人工智能（AI）初创公司Reflection签署价值至多63亿美元的算力协议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3122934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "Getty Images一度涨超133%，公司与OpenAI达成“展示协议”。",
+          "url": "https://wallstreetcn.com/livenews/3122931",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "刘强东说将来根本不需要快递员，一定是机器人送货，这是行业趋势吗？技术上，机器人送快递离我们还有多远？",
-          "url": "https://www.zhihu.com/question/2052132938649531488",
-          "source": "知乎",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 10时46分]"
-        },
-        {
-          "title": "刘强东称未来根本不需要快递员，要保住 70 万兄弟的工作，让他们给机器人做维修保养，如何评价这番话？",
-          "url": "https://www.zhihu.com/question/2052154478204400622",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
         {
           "title": "刘强东：未来不需要快递员，将送70万快递员学修机器人",
           "url": "https://news.ifeng.com/c/8uAQS5NAC0O",
@@ -417,37 +108,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "刘强东：将来都是机器人送货了，但是我并不希望我们70万兄弟没有饭吃、没有工作",
-          "url": "https://wallstreetcn.com/livenews/3122784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
-      "keyword_group": "社会",
+      "keyword_group": "经济",
       "match_count": 1,
       "titles": [
         {
-          "title": "专家：骚扰电话让全社会支付信任税",
-          "url": "https://www.toutiao.com/trending/7653346348079022134/",
+          "title": "蔡磊妻子谈渐冻症带来的经济压力",
+          "url": "https://www.toutiao.com/trending/7654107504103935526/",
           "source": "今日头条",
           "ranks": [
-            17
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "00时28分"
         }
       ]
     }
