@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T00:28:35.462057+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-23T04:34:49.984832+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "罕见券商股与科技股共振，这一波行情或许不同？",
@@ -15,19 +15,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 04时34分]"
+        },
+        {
+          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
+          "url": "https://flash.jin10.com/detail/20260623043203412800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "04时34分"
+        },
+        {
+          "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
+          "url": "https://wallstreetcn.com/livenews/3123013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 04时34分]"
         },
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
@@ -37,19 +60,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 04时34分]"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 04时34分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.4%，电信板块跌3.7%，可选消费板块跌2.1%，科技板块跌0.5%，能源板块涨1.2%，房地产板块涨1.3%。 纳斯达克100指数初步收跌0.2%，成分股中，Arm控股初步收跌7.1%，Palantir跌6.8%，Rocket Lab跌6.4%，奈飞、CoreWeave、谷歌C、谷歌A至少跌5%，亚马逊、博通跌超4%，闪迪涨4.1%，Lumentum涨5%，英特尔涨5.1%，美光涨6%。 卡特彼勒初步收涨3.3%，摩根大通、安进涨超2%，领跑道指成分股，英伟达则跌1.2%，微软跌3%跌幅第三大，耐克跌4.3%，亚马逊领跌。纳指跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3123009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "04时34分"
         },
         {
           "title": "数学博士生 2 年研究被 AI 抢发，这种现象会越来越普遍吗？如何看待 AI 对数学研究的冲击？",
@@ -72,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.29%，报23830点。 恒生科技指数主连夜盘收涨0.26%，报4565点。",
+          "url": "https://wallstreetcn.com/livenews/3122993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "SpaceX与美国开源人工智能（AI）初创公司Reflection签署价值至多63亿美元的算力协议。（CNBC）",
@@ -98,8 +144,48 @@
       ]
     },
     {
+      "keyword_group": "经济",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国总统特朗普谈经济：我们现在的情况与萧条相反。",
+          "url": "https://wallstreetcn.com/livenews/3123016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "蔡磊妻子谈渐冻症带来的经济压力",
+          "url": "https://www.toutiao.com/trending/7654107504103935526/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 04时34分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于经济）我们正处于与经济萧条相反的状态，油价大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260623040846901800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "刘强东：未来不需要快递员，将送70万快递员学修机器人",
@@ -109,25 +195,36 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 04时34分]"
+        },
+        {
+          "title": "清华教授造的机器人去顺丰打工了",
+          "url": "https://www.toutiao.com/trending/7654134773532262463/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "04时34分"
         }
       ]
     },
     {
-      "keyword_group": "经济",
+      "keyword_group": "社会",
       "match_count": 1,
       "titles": [
         {
-          "title": "蔡磊妻子谈渐冻症带来的经济压力",
-          "url": "https://www.toutiao.com/trending/7654107504103935526/",
-          "source": "今日头条",
+          "title": "36 岁香港男子 10 个月内性侵 4 名男受害者，其专门在酒吧「捡」醉酒男性，这一案件反映了哪些社会问题？",
+          "url": "https://www.zhihu.com/question/2050904911584432937",
+          "source": "知乎",
           "ranks": [
-            30
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "04时34分"
         }
       ]
     }
