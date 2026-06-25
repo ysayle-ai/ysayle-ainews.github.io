@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T10:14:52.421828+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-25T16:47:25.980971+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 36,
+      "match_count": 49,
       "titles": [
         {
           "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 10时14分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 16时47分]"
         },
         {
           "title": "产业扎根大地 科技赋能民生",
@@ -42,6 +53,17 @@
           "time_info": "[03时26分 ~ 10时14分]"
         },
         {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 16时47分]"
+        },
+        {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -51,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
         },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -92,20 +103,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
         {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "16时47分"
         },
         {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
@@ -119,13 +130,24 @@
           "time_info": "03时26分"
         },
         {
+          "title": "建议大家不要和AI太好了",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%92%8CAI%E5%A4%AA%E5%A5%BD%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
           "url": "https://www.cls.cn/detail/2408510",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -136,7 +158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -145,11 +167,12 @@
           "url": "https://wallstreetcn.com/articles/3775422",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 16时47分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
@@ -157,11 +180,23 @@
           "source": "贴吧",
           "ranks": [
             8,
-            11
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 16时47分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时26分 ~ 10时14分]"
+          "time_info": "[10时14分 ~ 16时47分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -206,7 +241,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -217,20 +252,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
+          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3124540",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "16时47分"
         },
         {
           "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
@@ -250,7 +285,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -277,15 +312,59 @@
           "time_info": "03时26分"
         },
         {
+          "title": "恒生指数收盘跌1.43%，恒生科技指数跌1.63%",
+          "url": "https://wallstreetcn.com/livenews/3124536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
           "url": "https://wallstreetcn.com/articles/3775365",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "亚马逊拟于2030年前在印度新增130亿美元投资 用于AI领域",
+          "url": "https://wallstreetcn.com/livenews/3124535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "AI时代计算机专业怎么选",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "高通数据中心业务主管：高通第一代高带宽计算机（配备AI250）的商业样品预计将于2027年中期推出。",
@@ -299,15 +378,48 @@
           "time_info": "03时26分"
         },
         {
+          "title": "“下一个英伟达”？高通剑指AI算力赛道 发布全新CPU并收购AI软件企业",
+          "url": "https://www.cls.cn/detail/2408607",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "恒生指数跌1%，恒生科技指数跌1.2%。",
           "url": "https://flash.jin10.com/detail/20260625093750700800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "美股盘前：存储板块大涨，美光科技涨约18%",
+          "url": "https://wallstreetcn.com/livenews/3124530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "Scale AI与Circadence构建合作伙伴关系。",
@@ -327,7 +439,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -338,7 +450,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -354,13 +466,24 @@
           "time_info": "03时26分"
         },
         {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "浙江大学1978年就有AI专业了",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A61978%E5%B9%B4%E5%B0%B1%E6%9C%89AI%E4%B8%93%E4%B8%9A%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -371,7 +494,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -382,7 +505,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -398,21 +521,43 @@
           "time_info": "03时26分"
         },
         {
+          "title": "索尼将终止在日本销售机器狗AIBO ERS-1000。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3124517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "A股光纤概念股延续涨势，通鼎互联盘中创新高，宏柏新材3连板，昀冢科技、泰和新材、德龙激光、兴发集团跟涨。",
           "url": "https://flash.jin10.com/detail/20260625093205734800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "港股算力硬件股继续走强，壁仞科技涨超15%，建滔积层板、国民技术、兆易创新涨超10%，长飞光纤光缆涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3124513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
@@ -432,7 +577,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -448,15 +593,54 @@
           "time_info": "03时26分"
         },
         {
+          "title": "商务部回应近期日本经济界人士接连访华",
+          "url": "https://wallstreetcn.com/livenews/3124509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "日本央行委员田村直树：近期长期利率的上升符合经济基本面，反映了市场参与者对通胀、货币政策以及财政政策前景的看法。",
           "url": "https://wallstreetcn.com/livenews/3124330",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
+          "url": "https://www.cls.cn/detail/2407968",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
+          "url": "https://www.cls.cn/detail/2408999",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
@@ -481,23 +665,6 @@
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
-          "url": "https://www.cls.cn/detail/2407968",
-          "source": "财联社热门",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
