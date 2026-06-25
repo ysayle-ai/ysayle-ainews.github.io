@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-25T16:47:25.980971+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-06-25T22:03:58.176793+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 49,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 22时03分]"
+        },
         {
           "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 10时14分]"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 16时47分]"
         },
         {
           "title": "产业扎根大地 科技赋能民生",
@@ -53,6 +54,18 @@
           "time_info": "[03时26分 ~ 10时14分]"
         },
         {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 22时03分]"
+        },
+        {
           "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
           "source": "澎湃新闻",
@@ -62,6 +75,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 16时47分]"
+        },
+        {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美光科技(MU.O)盘初涨幅扩大至超19.0%，公司市值首次超过Meta Platforms(META.O)，此前其发布的业绩展望超出预期。",
+          "url": "https://flash.jin10.com/detail/20260625213603758800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -86,6 +121,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "谷歌重组AI编码“特遣队” 加速追赶Anthropic",
+          "url": "https://flash.jin10.com/detail/20260625213526169800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "高通投资者日活动开始，数据中心主管表示：将于2028年年中推出数据中心CPU。 从2027年第一季度（即2026年底）开始，高通的定制芯片（Custom Silicon）业务将开始贡献实质性收入。 微软将在其Azure数据中心部署高通的高带宽计算（HBC）芯片。 配备AI250的高通第一代高带宽计算（HBC Gen 1）芯片预计将于2027年年中开启商业采样。 高通将于2028年推出第二代高带宽计算（HBC）芯片。",
           "url": "https://wallstreetcn.com/livenews/3124200",
           "source": "华尔街见闻-快讯",
@@ -108,17 +154,6 @@
           "time_info": "10时14分"
         },
         {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
           "url": "https://www.cls.cn/detail/2408036",
           "source": "财联社热门",
@@ -136,7 +171,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -163,6 +198,53 @@
           "time_info": "10时14分"
         },
         {
+          "title": "美国内存芯片制造商股上涨，闪迪(SNDK.O)上涨16%，西部数据(WDC.O)上涨9.5%，希捷科技(STX.O)上涨9.7%。",
+          "url": "https://flash.jin10.com/detail/20260625213321725800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美光科技盘初涨幅扩大至超19%，公司市值首次超过Meta Platforms。",
+          "url": "https://wallstreetcn.com/livenews/3124717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 22时03分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 22时03分]"
+        },
+        {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
           "url": "https://wallstreetcn.com/articles/3775422",
           "source": "华尔街见闻",
@@ -175,28 +257,28 @@
           "time_info": "[03时26分 ~ 16时47分]"
         },
         {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 16时47分]"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
+            14,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时14分 ~ 16时47分]"
+          "time_info": "[16时47分 ~ 22时03分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 22时03分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -263,9 +345,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨近5%，全球科技股指数ETF涨近3%，科技行业ETF涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3124716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
@@ -318,9 +411,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.9%，费城半导体指数涨超5%，美光科技涨约17%",
+          "url": "https://wallstreetcn.com/livenews/3124712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
@@ -334,26 +438,59 @@
           "time_info": "10时14分"
         },
         {
+          "title": "高考志愿要选AI专业吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A6%81%E9%80%89AI%E4%B8%93%E4%B8%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "亚马逊拟于2030年前在印度新增130亿美元投资 用于AI领域",
           "url": "https://wallstreetcn.com/livenews/3124535",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
         {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美股开盘，道指涨0.58%、标普500指数涨0.79%、纳指涨0.97%。IBM(IBM.N)开涨0.91%，公司周四宣布推出全球首款小于1纳米芯片技术，美光科技(MU.O)大涨17%，此前公司公布的强劲业绩大超预期，苹果(AAPL.O)开跌2.27%，公司因存储芯片短缺问题，上调Mac、iPad等多个产品价格。",
+          "url": "https://flash.jin10.com/detail/20260625213034354800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "广电总局发布AI微短剧分类分层标准",
+          "url": "https://wallstreetcn.com/livenews/3124710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "AI时代计算机专业怎么选",
@@ -362,7 +499,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -378,26 +515,59 @@
           "time_info": "03时26分"
         },
         {
+          "title": "广电总局发布AI微短剧分类分层标准",
+          "url": "https://flash.jin10.com/detail/20260625212733615800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "“下一个英伟达”？高通剑指AI算力赛道 发布全新CPU并收购AI软件企业",
           "url": "https://www.cls.cn/detail/2408607",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
         {
-          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
-          "source": "澎湃新闻",
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美国银行策略师质疑AI热潮 建议关注防御性板块",
+          "url": "https://wallstreetcn.com/livenews/3124707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "恒生指数跌1%，恒生科技指数跌1.2%。",
@@ -417,9 +587,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "美光科技、闪迪股价大涨近20%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E3%80%81%E9%97%AA%E8%BF%AA%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8%E8%BF%9120%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "Scale AI与Circadence构建合作伙伴关系。",
@@ -444,6 +625,28 @@
           "time_info": "10时14分"
         },
         {
+          "title": "美光科技市值首超Meta",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E9%A6%96%E8%B6%85Meta",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "谷歌正对新的AI编码工具“突击队”进行重组",
+          "url": "https://wallstreetcn.com/livenews/3124704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "存储芯片板块延续涨势，太极实业2连板，股价续创历史新高，汇成股份涨超10%，雅克科技、佰维存储、江波龙、长电科技、深科技、聚辰股份涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3124348",
           "source": "华尔街见闻-快讯",
@@ -466,13 +669,24 @@
           "time_info": "03时26分"
         },
         {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "谷歌前CEO批中国AI开源",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -527,7 +741,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -549,7 +763,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         }
@@ -557,8 +771,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "经济数据提振，美股开盘走高，存储板块大涨，美光上涨17%，黄金重回4000，白银转涨",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
         {
           "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
           "url": "https://wallstreetcn.com/livenews/3124184",
@@ -599,7 +824,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -618,8 +843,20 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
+          "url": "https://www.cls.cn/detail/2408999",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 22时03分]"
+        },
         {
           "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
           "url": "https://www.cls.cn/detail/2407968",
@@ -632,15 +869,15 @@
           "time_info": "03时26分"
         },
         {
-          "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
-          "url": "https://www.cls.cn/detail/2408999",
-          "source": "财联社热门",
+          "title": "我国首台重载智能盾构换刀机器人正式发布 机器人整机软硬件实现100%国产化",
+          "url": "https://wallstreetcn.com/livenews/3124706",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时47分"
+          "time_info": "22时03分"
         }
       ]
     },
