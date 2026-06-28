@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T03:04:56.953149+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-28T10:33:11.067358+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -15,8 +15,77 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 10时33分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 10时33分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 10时33分]"
+        },
+        {
+          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
+          "url": "https://wallstreetcn.com/articles/3775674",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "国防科技大学新开设专业发展前景如何",
+          "url": "https://www.toutiao.com/trending/7655605368503992346/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 10时32分]"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -24,17 +93,6 @@
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,34 +108,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
-        },
-        {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中央社会工作部副部长贺志亮，任上被查",
@@ -87,8 +123,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 10时33分]"
+        },
+        {
+          "title": "全国律协：坚决拥护中国共产党领导、拥护我国社会主义法治，努力做党和人民满意的好律师",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33469598",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 10时33分]"
         },
         {
           "title": "中央社会工作部副部长贺志亮被查",
@@ -112,11 +159,12 @@
           "url": "https://wallstreetcn.com/livenews/3125605",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 10时33分]"
         }
       ]
     }
