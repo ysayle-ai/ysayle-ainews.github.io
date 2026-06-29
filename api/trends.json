@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T03:03:18.966900+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-29T10:33:42.606964+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 25,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -15,19 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 10时33分]"
         },
         {
-          "title": "人民日报评“AI脸看腻了”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
+          "title": "PCB概念股震荡下挫，宝鼎科技、光华科技触及跌停，天承科技、德福科技、东威科技、南亚新材跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3125815",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "10时33分"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -63,6 +63,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "A股印制电路板板块冲高回落跌超4%，宝鼎科技跌停，鹏鼎控股、中京电子、贤丰控股、南亚新材跟跌。",
+          "url": "https://flash.jin10.com/detail/20260629101317862800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "券商“把脉”下半年可转债市场投资主线，看好科技板块机遇",
           "url": "https://wallstreetcn.com/livenews/3125704",
           "source": "华尔街见闻-快讯",
@@ -74,15 +85,51 @@
           "time_info": "03时03分"
         },
         {
+          "title": "恒生科技指数日内涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3125806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
           "url": "https://wallstreetcn.com/articles/3775696",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 10时33分]"
+        },
+        {
+          "title": "人民日报评“AI脸看腻了”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 10时33分]"
+        },
+        {
+          "title": "科技仍是主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2411118",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 10时33分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -96,6 +143,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "特朗普发扛地球AI照，伊以都不服！",
           "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
           "source": "凤凰网",
@@ -107,15 +165,26 @@
           "time_info": "03时03分"
         },
         {
-          "title": "科技仍是主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2411118",
-          "source": "财联社热门",
+          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
+          "url": "https://wallstreetcn.com/articles/3775715",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "10时33分"
+        },
+        {
+          "title": "恒生科技指数持续走强涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260629100602991800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -140,6 +209,61 @@
           "time_info": "03时03分"
         },
         {
+          "title": "恒生科技指数盘中涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3125779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "可控核聚变概念开盘活跃，西部超导涨超10%，百利电气、联创光电、国光电气、常辅股份、哈焊华通纷纷高开，消息上，国家重大科技基础设施“聚变堆主机关键系统综合研究设施”最大的超导部件——环向场磁体完成最后制备工艺，并通过专家验收。",
+          "url": "https://wallstreetcn.com/livenews/3125778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "A股澜起科技成交额超100亿元，现涨超10%，股价盘中创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260629100219482800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "A股半导体产业链延续涨势，银河微电20cm涨停，神工股份涨超10%，宏微科技、扬杰科技、雅克科技、富满微涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3125775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "恒指高开0.69%，报22827.65点；恒生科技指数涨1.6%。网易、携程集团涨超4%，京东集团、美团涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3125769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
           "url": "https://flash.jin10.com/detail/20260629000635210800",
           "source": "金十数据",
@@ -149,23 +273,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "A股玻璃玻纤板块震荡下跌，宏和科技、山东玻纤盘中一度跌停，长海股份、九鼎新材、国际复材等股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260629094901594800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
     {
       "keyword_group": "社会",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国社会科学院原常务副院长、厦门大学党委原书记王洛林逝世",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470539",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 10时33分]"
+        },
+        {
+          "title": "贺志亮被查，中央社会工作部：坚决拥护党中央决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470481",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "10时33分"
         },
         {
           "title": "黎巴嫩国会议长表示，我们重申避免冲突的必要性，并将尽一切努力维护稳定和社会和平。",
@@ -181,6 +328,34 @@
       ]
     },
     {
+      "keyword_group": "经济",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日菲“专属经济区划界谈判”无效，中国维权合理合法",
+          "url": "https://news.ifeng.com/c/8uLOs38oapM",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "日本政府的经济政策蓝图显示，日本政府目标是确保年实际经济增长超过1%。",
+          "url": "https://flash.jin10.com/detail/20260629101053036800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -189,11 +364,12 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 10时33分]"
         }
       ]
     }
