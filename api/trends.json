@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-30T03:43:01.359851+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T10:28:12.705066+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
         {
           "title": "恒生指数主连夜盘收涨0.04%，报22976点。 恒生科技指数主连夜盘收涨0.45%，报4419点。",
           "url": "https://wallstreetcn.com/livenews/3126294",
@@ -14,9 +25,55 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "恒指盘中跌逾1%，恒生科技指数涨幅收窄至0.5%。",
+          "url": "https://flash.jin10.com/detail/20260630101212471800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "A股商业航天概念异动拉升，中天火箭直线涨停，金风科技触及涨停，盛路通信、天银机电、航宇科技、广联航空跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3126416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 10时28分]"
+        },
+        {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 10时28分]"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -41,31 +98,42 @@
           "time_info": "[03时42分 ~ 03时43分]"
         },
         {
-          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2412084",
+          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
+          "url": "https://wallstreetcn.com/articles/3775756",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
+          "url": "https://www.cls.cn/detail/2412167",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
           "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
-        },
-        {
-          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
-          "url": "https://www.cls.cn/detail/2411865",
-          "source": "财联社热门",
           "ranks": [
             11
           ],
@@ -107,13 +175,57 @@
           "time_info": "[03时42分 ~ 03时43分]"
         },
         {
+          "title": "吴启华卖肖像权拍AI电影",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%90%AF%E5%8D%8E%E5%8D%96%E8%82%96%E5%83%8F%E6%9D%83%E6%8B%8DAI%E7%94%B5%E5%BD%B1%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "玻璃基板概念反复活跃，莱宝高科3天2板，雷曼光电涨超12%，长信科技、帝尔激光、京东方A、彩虹股份、华映科技等多股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3126414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "A股算力租赁概念快速拉升，宏景科技涨超10%，润建股份逼近涨停，大位科技、铜牛信息、首都在线、网宿科技、利通电子、优刻得跟涨。",
+          "url": "https://flash.jin10.com/detail/20260630100405613800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "恒指低开0.08%，报23007.87点；恒生科技指数涨0.54%。百度涨近6%，小鹏集团涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3126389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
           "url": "https://wallstreetcn.com/livenews/3126270",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -124,15 +236,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "A股工业气体板块短线走低，和远气体跌停，郴电国际、福斯达、广钢气体、中泰股份、创元科技、雅克科技跟跌。",
+          "url": "https://flash.jin10.com/detail/20260630094443662800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "观察｜日菲“专属经济区划界谈判”无效，中国维权合理合法",
@@ -146,13 +269,35 @@
           "time_info": "[03时42分 ~ 03时43分]"
         },
         {
+          "title": "澳洲联储会议纪要：委员们注意到房地产市场可能出现实质性疲软的风险。 房地产市场走软、预计住房信贷放缓是金融状况趋紧的迹象。 委员会注意到，受加息和税收政策变化影响，房地产市场比预期更为疲软。 生产率持续疲软可能会阻碍通胀回归目标的进程。 近期数据错综复杂，但表明经济正大致如预期般放缓。 讨论了数据中心活动的强劲增长是否会加剧经济中的产能压力。 居民家庭支出增长并未出现实质性走软。",
+          "url": "https://wallstreetcn.com/livenews/3126407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "澳洲联储会议纪要：政策需要保持限制性，以消除经济中的超额需求。 委员会认为，利用此前加息所带来的空间来评估经济状况是有价值的。 维持利率不变将最平衡通胀与就业目标。 经济运行存在超额需求，通胀压力广泛存在。 将采取必要措施实现价格稳定，包括在必要时加息。 中东冲突仍对通胀构成实质性的上行风险，对增长构成下行风险。 委员会一致认为，目前的金融状况可能已经具有一定的限制性。 持续的高油价可能会传导至价格和薪资制定行为。",
+          "url": "https://wallstreetcn.com/livenews/3126404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "阿根廷4月经济活动指数同比增长1.6%，低于预期的增长2.2%。",
           "url": "https://flash.jin10.com/detail/20260630030931290800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -163,7 +308,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -174,7 +319,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -185,7 +330,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
@@ -193,18 +338,47 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "港股AI应用板块持续走强，智谱(02513.HK)涨超10%，知行科技(01274.HK)涨超5%，地平线机器人(09660.HK)、文远知行-W(00800.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260630101740283800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
         {
           "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
           "url": "https://www.zhihu.com/question/2053454703569244163",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 10时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人文",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曹雪芹为什么写贾母痛批私定终身，才子佳人小说不是婚姻自主、人文觉醒的反封建文学吗？",
+          "url": "https://www.zhihu.com/question/1978386297254089270",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
+          "time_info": "[10时27分 ~ 10时28分]"
         }
       ]
     }
