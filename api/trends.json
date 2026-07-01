@@ -1,604 +1,309 @@
 {
-  "generated_at": "2026-07-01T22:08:09.132966+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-07-02T03:30:08.454630+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 37,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
+          "url": "https://wallstreetcn.com/articles/3775982",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时30分]"
+        },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 22时08分]"
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时30分]"
         },
         {
-          "title": "纳睿雷达：发布超460公里探测范围S波段全极化相控阵雷达及AI大模型",
-          "url": "https://wallstreetcn.com/livenews/3127315",
+          "title": "恒生指数主连夜盘收涨0.63%，报22990点。 恒生科技指数主连夜盘收涨0.94%，报4510点。",
+          "url": "https://wallstreetcn.com/livenews/3127583",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "据上交所官网显示，苏州信诺维医药科技股份有限公司科创板IPO审核状态变更为“提交注册”。",
-          "url": "https://flash.jin10.com/detail/20260701170619369800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
-          "url": "https://www.cls.cn/detail/2412980",
-          "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
-          "url": "https://www.cls.cn/detail/2413771",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 22时08分]"
-        },
-        {
-          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
-          "url": "https://www.cls.cn/detail/2414258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 22时08分]"
-        },
-        {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 22时08分]"
-        },
-        {
-          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
-          "url": "https://www.cls.cn/detail/2414015",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 22时08分]"
-        },
-        {
-          "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
-          "url": "https://www.zhihu.com/question/2055569067063375363",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "90岁院士钟掘践行科技报国初心",
-          "url": "https://www.toutiao.com/trending/7657034588229484571/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
-          "url": "https://www.cls.cn/detail/2413162",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "03时30分"
         },
         {
           "title": "如何评价AI巨头之间的混战",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "AI漫剧 好看",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[03时29分 ~ 03时30分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
           "url": "https://www.toutiao.com/trending/7657394487626416137/",
           "source": "今日头条",
           "ranks": [
-            27
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[03时29分 ~ 03时30分]"
         },
         {
-          "title": "为什么有人愿意花百万买一个AI恋人",
-          "url": "https://www.toutiao.com/trending/7657146718630461482/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
+          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时30分]"
         },
         {
-          "title": "恒生指数主连夜盘收涨0.63%，报22990点。 恒生科技指数主连夜盘收涨0.94%，报4510点。",
-          "url": "https://wallstreetcn.com/livenews/3126953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "A股存储芯片板块再度拉升，太极实业、时空科技双双涨停，股价均续创历史新高，亚威股份此前封板，普冉股份涨超10%，香农芯创、长电科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3127093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
-          "url": "https://www.cls.cn/detail/2413870",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "纳指科技ETF景顺：将于2026年7月2日开市起停牌，自2026年7月2日10:30起复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260701170454578800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
+          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
+          "url": "https://www.cls.cn/detail/2414258",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时30分]"
         },
         {
-          "title": "博主：A股行情靠科技",
-          "url": "https://www.toutiao.com/trending/7656601188129046591/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "927页“史上最长”财务文件：特朗普去年炒币大赚12亿美元，重仓科技巨头！",
-          "url": "https://www.cls.cn/detail/2413671",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "A股科技股集体回调背后",
-          "url": "https://www.toutiao.com/trending/7657138212615815222/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
-          "url": "https://www.zhihu.com/question/2053591589927262082",
+          "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
+          "url": "https://www.zhihu.com/question/2055569067063375363",
           "source": "知乎",
           "ranks": [
-            15
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时30分]"
         },
         {
-          "title": "美股三大股指集体低开，道指跌0.2%，标普500指数跌0.3%，纳指跌0.6%。Meta股票开盘上涨7.9%，创4月8日以来最大涨幅；闪迪股价下跌8.6%；美光科技开盘下跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3127454",
+          "title": "蓝箭航天IPO恢复审核，金风科技年内再度涨停站上千亿市值",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33488166",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时30分]"
+        },
+        {
+          "title": "报道：SpaceX开发出类似手机的AI原型机",
+          "url": "https://wallstreetcn.com/livenews/3127573",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "03时30分"
         },
         {
-          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055252813568119737",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "美股光通信板块盘前持续走低，康宁跌超4%，迈威尔科技跌近3%，Coherent、Lumentum跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3127290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "美联储主席沃什：美国不惧怕生产力驱动的经济增长。 AI模型改进的变化率是指数级的。 关于AI对就业影响的时间节点，存在严重疑问。 必须在就业和物价稳定方面都取得成效。",
-          "url": "https://wallstreetcn.com/livenews/3127452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "曾因AI裁员，如今雇主们却开始后悔",
-          "url": "https://wallstreetcn.com/livenews/3127456",
-          "source": "华尔街见闻-快讯",
+          "title": "费城半导体指数扩大跌幅至5.87%，泛林集团(LRCX.O)跌11.24%，应用材料(AMAT.O)跌11.24%，美光科技(MU.O)跌9.42%，英特尔(INTC.O)跌8.11%，阿斯麦(ASML.O)跌7.51%。",
+          "url": "https://flash.jin10.com/detail/20260702022742162800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "03时30分"
         },
         {
-          "title": "美联储主席沃什：AI是否具有通胀效应，应由央行来决定。 货币政策会在我们的经济体之间产生溢出效应。 AI的蓬勃发展在美国表现得最为突出。 供给扩张将对政策产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3127450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "泰晶科技全系列晶振产品上涨10%-30%",
-          "url": "https://flash.jin10.com/detail/20260701094333358800",
+          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
+          "url": "https://flash.jin10.com/detail/20260702020830991800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "算力租赁商Nebius和CoreWeave盘前跌超9%，此前报道称，Meta筹划进军云计算市场，以出售富余的AI算力资源。",
-          "url": "https://wallstreetcn.com/livenews/3127442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "03时30分"
         },
         {
-          "title": "AI裁员 硅谷叶文洁出现了",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "美光科技盘前股价跌幅扩大至6%。",
-          "url": "https://wallstreetcn.com/livenews/3127438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "人形机器人",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
-          "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
-          "url": "https://wallstreetcn.com/articles/3775850",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 17时29分]"
-        },
-        {
-          "title": "订单破万!机器人伴侣卖爆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355782&amp;topic_name=%E8%AE%A2%E5%8D%95%E7%A0%B4%E4%B8%87%21%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%8D%96%E7%88%86",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 22时08分]"
-        },
-        {
-          "title": "“机器人伴侣”订单破1.1万台",
-          "url": "https://www.toutiao.com/trending/7656983269552439339/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "机器人伴侣订单破1万 仅限成人购买",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%A0%B41%E4%B8%87+%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "机器人伴侣价格11.98万至99万",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%B7%E6%A0%BC11.98%E4%B8%87%E8%87%B399%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "中国第一所机器人学校开学，30台机器人率先入学",
-          "url": "https://news.ifeng.com/c/8uNt8EVi3R1",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
-          "title": "A股机器人板块持续走高，拓斯达20CM涨停，埃斯顿2连板，申昊科技涨停，信邦智能、亿嘉和、埃夫特、三丰智能、巨能股份跟涨。",
-          "url": "https://flash.jin10.com/detail/20260701095325995800",
+          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
+          "url": "https://flash.jin10.com/detail/20260702020102144800",
           "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "金力永磁：预计上半年净利润4亿元-4.6亿元，同比增长31.17%-50.84%。在新能源汽车及汽车零部件领域，营业收入同比增长约30%；在机器人及工业伺服电机领域，营业收入同比增长约90%，具身机器人电机转子产品已有小批量交付。",
-          "url": "https://wallstreetcn.com/livenews/3127284",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "03时30分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "“带娃送外卖”可能是摆拍，经济日报：别让虚假苦情透支社会善意",
           "url": "https://m.thepaper.cn/newsDetail_forward_33490990",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "time_info": "[03时29分 ~ 03时30分]"
         },
         {
           "title": "一条视频看懂世界杯经济",
           "url": "https://www.douyin.com/hot/2553958",
           "source": "抖音",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "time_info": "[03时29分 ~ 03时30分]"
         },
         {
-          "title": "中国政企合作基金：网传《中国政企合作基金携手国家数据局 推动数字经济建设》报道不实",
-          "url": "https://wallstreetcn.com/livenews/3127299",
-          "source": "华尔街见闻-快讯",
+          "title": "墨西哥经济部长：减少对亚洲在计算机和电子产品方面的依赖，是墨西哥经济增长前景的关键。",
+          "url": "https://flash.jin10.com/detail/20260702025309827800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时30分"
+        },
+        {
+          "title": "墨西哥经济部长：保护汽车行业一直是讨论的重点。",
+          "url": "https://flash.jin10.com/detail/20260702024848778800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时30分"
+        },
+        {
+          "title": "墨西哥经济部长：我们在钢铁和铝关税问题上未达成一致，在汽车零部件的区域性成分不被纳入考虑以及农产品季节性等问题存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260702024838414800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时30分"
+        },
+        {
+          "title": "墨西哥经济部长：墨西哥汽车行业的原产地规则是世界上最复杂的规则之一。",
+          "url": "https://flash.jin10.com/detail/20260702024556028800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时30分"
+        },
+        {
+          "title": "墨西哥经济部长：我们仍需讨论原产地规则的标准，这里存在系统性差异。",
+          "url": "https://flash.jin10.com/detail/20260702024553626800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时30分"
+        },
+        {
+          "title": "墨西哥经济部长：未来几周需要观察加拿大将如何参与其中。",
+          "url": "https://flash.jin10.com/detail/20260702024552070800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "美联储主席沃什：美国经济的供给侧强劲。 已重新致力于实现价格稳定。 不想就过去两周的数据提供新的信息。 我们能做的最重要的事就是制定正确的政策。 如果模型阻碍了良好政策的制定，那就舍弃它们。",
-          "url": "https://wallstreetcn.com/livenews/3127457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "03时30分"
         },
         {
-          "title": "美联储主席沃什：如果美联储能够实现其价格稳定的目标，我对美国经济增长潜力的乐观程度前所未有。",
-          "url": "https://flash.jin10.com/detail/20260701214852076800",
+          "title": "墨西哥经济部长：认为墨西哥、美国和加拿大之间并无无法解决的实质性差异。建议美国减少对钢铁和铝的第232条关税，并在区域层面进行协调。",
+          "url": "https://flash.jin10.com/detail/20260702024153103800",
           "source": "金十数据",
           "ranks": [
-            18
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "03时30分"
         },
         {
-          "title": "英国央行行长贝利：经济正在放缓，劳动力市场疲软。",
-          "url": "https://wallstreetcn.com/livenews/3127446",
-          "source": "华尔街见闻-快讯",
+          "title": "墨西哥经济部长：墨西哥希望解决美国对墨西哥对外依赖性的担忧。",
+          "url": "https://flash.jin10.com/detail/20260702023400751800",
+          "source": "金十数据",
           "ranks": [
-            25
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "03时30分"
+        },
+        {
+          "title": "美联储主席沃什计划在一年内利用更优经济数据",
+          "url": "https://wallstreetcn.com/livenews/3127555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“机器人伴侣”订单破1.1万台",
+          "url": "https://www.toutiao.com/trending/7656983269552439339/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时30分]"
+        },
+        {
+          "title": "订单破万!机器人伴侣卖爆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355782&amp;topic_name=%E8%AE%A2%E5%8D%95%E7%A0%B4%E4%B8%87%21%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%8D%96%E7%88%86",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 03时30分]"
         }
       ]
     },
@@ -607,32 +312,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
-          "url": "https://wallstreetcn.com/livenews/3126939",
+          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3127564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我国全社会用电量迈上新里程碑",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%85%A8%E7%A4%BE%E4%BC%9A%E7%94%A8%E7%94%B5%E9%87%8F%E8%BF%88%E4%B8%8A%E6%96%B0%E9%87%8C%E7%A8%8B%E7%A2%91%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "03时30分"
         }
       ]
     }
