@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-02T03:30:08.454630+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T10:13:35.367389+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 24,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
           "url": "https://wallstreetcn.com/articles/3775982",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 10时13分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -30,13 +31,24 @@
           "time_info": "[03时29分 ~ 03时30分]"
         },
         {
+          "title": "越来越多公司证明AI无法替代人工",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%85%AC%E5%8F%B8%E8%AF%81%E6%98%8EAI%E6%97%A0%E6%B3%95%E6%9B%BF%E4%BB%A3%E4%BA%BA%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.63%，报22990点。 恒生科技指数主连夜盘收涨0.94%，报4510点。",
           "url": "https://wallstreetcn.com/livenews/3127583",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -45,11 +57,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 10时13分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -107,15 +120,103 @@
           "time_info": "[03时29分 ~ 03时30分]"
         },
         {
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "韩国投资者加仓中国资产！上半年扫货科技ETF，半导体赛道获重点配置",
+          "url": "https://www.cls.cn/detail/2414865",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
+          "url": "https://wallstreetcn.com/articles/3775997",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
+          "url": "https://www.cls.cn/detail/2414781",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
+          "url": "https://www.cls.cn/detail/2414744",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "PCB、CPO等算力硬件股盘初下挫，剑桥科技触及跌停，泰金新能、方邦股份跌超10%，东山精密、中京电子等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3127720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "报道：SpaceX开发出类似手机的AI原型机",
           "url": "https://wallstreetcn.com/livenews/3127573",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "费城半导体指数扩大跌幅至5.87%，泛林集团(LRCX.O)跌11.24%，应用材料(AMAT.O)跌11.24%，美光科技(MU.O)跌9.42%，英特尔(INTC.O)跌8.11%，阿斯麦(ASML.O)跌7.51%。",
@@ -124,9 +225,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "恒指高开0.83%，报23071.43点；恒生科技指数涨1.25%。小鹏、百度、比亚迪股份涨近5%，零跑汽车、京东、快手等多股涨超3%。华虹宏力跌逾7%，中芯国际跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3127708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "港股AI应用板块走势分化，智谱(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超6%，汇量科技(01860.HK)涨超9%，美图(01357.HK)涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260702093349607800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
@@ -135,7 +258,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -146,7 +269,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         }
@@ -154,8 +277,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "韩国副财长：韩国将在必要时立即采取措施稳定韩元汇率。 韩元国际化是韩国经济的重要任务。 外国投资者抛售股票加剧了韩元波动。 韩国当局有足够的能力针对韩元采取措施。",
+          "url": "https://wallstreetcn.com/livenews/3127745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
         {
           "title": "“带娃送外卖”可能是摆拍，经济日报：别让虚假苦情透支社会善意",
           "url": "https://m.thepaper.cn/newsDetail_forward_33490990",
@@ -185,7 +319,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -196,7 +330,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -207,7 +341,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -218,7 +352,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -229,7 +363,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -240,7 +374,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -251,7 +385,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -262,7 +396,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -273,7 +407,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         }
@@ -281,8 +415,31 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "恒生科技指数日内涨幅扩大至2.1%，地平线机器人、比亚迪股份涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3127741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "订单破万!机器人伴侣卖爆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355782&amp;topic_name=%E8%AE%A2%E5%8D%95%E7%A0%B4%E4%B8%87%21%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%8D%96%E7%88%86",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 10时13分]"
+        },
         {
           "title": "“机器人伴侣”订单破1.1万台",
           "url": "https://www.toutiao.com/trending/7656983269552439339/",
@@ -295,15 +452,26 @@
           "time_info": "[03时29分 ~ 03时30分]"
         },
         {
-          "title": "订单破万!机器人伴侣卖爆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355782&amp;topic_name=%E8%AE%A2%E5%8D%95%E7%A0%B4%E4%B8%87%21%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%8D%96%E7%88%86",
-          "source": "贴吧",
+          "title": "机器人伴侣价格 11.98 万至 99 万，不同价格之间有啥区别？定价合理吗？你看好它的市场前景吗？",
+          "url": "https://www.zhihu.com/question/2055620022316131446",
+          "source": "知乎",
           "ranks": [
-            21
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 03时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股人形机器人概念逆势活跃，日盈电子涨停，五洲新春、锋龙股份、奥比中光、斯菱智驱、力星股份、步科股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702094240717800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
@@ -318,7 +486,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         }
