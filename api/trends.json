@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-04T09:56:36.738339+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-07-04T16:24:24.730152+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 16时24分]"
+        },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
@@ -52,15 +63,26 @@
           "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "三部门发文规范国际科技组织成立登记",
+          "url": "https://wallstreetcn.com/livenews/3128918",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "16时24分"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（7月4日）",
@@ -69,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -136,9 +158,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
@@ -147,7 +180,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -158,7 +191,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -180,9 +213,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
@@ -191,26 +235,132 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
       ]
     },
     {
+      "keyword_group": "经济",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "未来我国循环经济发展重点",
+          "url": "https://www.toutiao.com/trending/7658187084221464617/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 09时56分]"
+        },
+        {
+          "title": "福建：未来5年力争数字经济核心产业增加值年均增长8%以上",
+          "url": "https://flash.jin10.com/detail/20260704091644842800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "拉加德将罕见亲自出席下周的欧盟经济和财政事务理事会会议",
+          "url": "https://flash.jin10.com/detail/20260704022128126800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
+          "url": "https://flash.jin10.com/detail/20260704090134990800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "一碗面38块,日本还在吹经济",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
+          "url": "https://wallstreetcn.com/livenews/3128807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
+          "url": "https://flash.jin10.com/detail/20260704135129983800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "新华时评｜以严法明规促进平台经济健康发展",
+          "url": "https://wallstreetcn.com/livenews/3128898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
+          "url": "https://wallstreetcn.com/livenews/3128897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "售价十几万至九十九万的「机器人伴侣」订单破万，仅限成人购买，花高价买仿生陪伴机器人值得吗？",
           "url": "https://www.zhihu.com/question/2055671696800143351",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 16时24分]"
         },
         {
           "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
@@ -248,76 +398,37 @@
           "time_info": "[03时01分 ~ 03时02分]"
         },
         {
+          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
+          "url": "https://wallstreetcn.com/livenews/3128913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+          "url": "https://flash.jin10.com/detail/20260704150630005800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "机器人走进生活背后",
           "url": "https://www.toutiao.com/trending/7658320648371965478/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "未来我国循环经济发展重点",
-          "url": "https://www.toutiao.com/trending/7658187084221464617/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 09时56分]"
-        },
-        {
-          "title": "福建：未来5年力争数字经济核心产业增加值年均增长8%以上",
-          "url": "https://flash.jin10.com/detail/20260704091644842800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "拉加德将罕见亲自出席下周的欧盟经济和财政事务理事会会议",
-          "url": "https://flash.jin10.com/detail/20260704022128126800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
-          "url": "https://flash.jin10.com/detail/20260704090134990800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
-          "url": "https://wallstreetcn.com/livenews/3128807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
         }
       ]
     }
