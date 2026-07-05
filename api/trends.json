@@ -1,259 +1,99 @@
 {
-  "generated_at": "2026-07-05T21:08:39.964207+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-07-06T03:02:26.376601+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 18,
+      "match_count": 8,
       "titles": [
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
+          "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
+          "url": "https://wallstreetcn.com/livenews/3129017",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时56分 ~ 16时40分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 02时57分]"
-        },
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 21时08分]"
-        },
-        {
-          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
-          "url": "https://wallstreetcn.com/livenews/3129011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时08分"
+          "time_info": "03时02分"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "中信证券：两因素有望催化部分有业绩支撑的非AI板块的修复",
-          "url": "https://flash.jin10.com/detail/20260705160505673800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "03时02分"
         },
         {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 16时40分]"
-        },
-        {
-          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
-          "url": "https://www.cls.cn/detail/2417055",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时56分 ~ 16时40分]"
-        },
-        {
-          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
-          "url": "https://wallstreetcn.com/articles/3776203",
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 16时40分]"
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
-          "title": "A股超520亿资金撤离9只科技股",
-          "url": "https://www.toutiao.com/trending/7658142757459165220/",
-          "source": "今日头条",
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            26
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 21时08分]"
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（7月5日）",
-          "url": "https://flash.jin10.com/detail/20260705085433904800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "03时02分"
         },
         {
           "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
           "url": "https://wallstreetcn.com/livenews/3129005",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
-          "url": "https://flash.jin10.com/detail/20260705082204108800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "03时02分"
         },
         {
-          "title": "中国银河证券：结构突围聚焦科创制造 主线切换至半导体、AI与航空航天三大方向",
-          "url": "https://flash.jin10.com/detail/20260705152738731800",
-          "source": "金十数据",
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "03时02分"
         },
         {
-          "title": "挑战和AI玩猜历史人物",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8C%91%E6%88%98%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
-          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
+          "title": "电诈人员用AI同时和100多人聊天",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E7%94%A8AI%E5%90%8C%E6%97%B6%E5%92%8C100%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9",
           "source": "百度热搜",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "三部门发文规范国际科技组织成立登记",
-          "url": "https://wallstreetcn.com/livenews/3128918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一碗面38块,日本还在吹经济",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355884&amp;topic_name=%E4%B8%80%E7%A2%97%E9%9D%A238%E5%9D%97%2C%E6%97%A5%E6%9C%AC%E8%BF%98%E5%9C%A8%E5%90%B9%E7%BB%8F%E6%B5%8E",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            22,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时56分 ~ 21时08分]"
-        },
-        {
-          "title": "鸿海：仍有必要监测动荡的全球政治和经济形势的影响。",
-          "url": "https://flash.jin10.com/detail/20260705153727469800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "吴政隆在湖北湖南调研时指出 持续增强内生动力 推动经济向新向优向好发展",
-          "url": "https://wallstreetcn.com/livenews/3128924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "time_info": "03时02分"
         }
       ]
     },
@@ -262,27 +102,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "贝斯特：股票交易异常波动 人形机器人业务仍处样品阶段",
-          "url": "https://flash.jin10.com/detail/20260705161543702800",
-          "source": "金十数据",
+          "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
+          "url": "https://wallstreetcn.com/livenews/3129014",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "03时02分"
         },
         {
           "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
           "url": "https://wallstreetcn.com/livenews/3128970",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            22
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 21时08分]"
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "数说中国经济6月成绩单",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E6%E6%9C%88%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     }
