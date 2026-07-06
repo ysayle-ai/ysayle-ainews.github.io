@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-06T10:09:57.863029+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-07-06T17:56:02.304295+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
+          "url": "https://www.cls.cn/detail/2417526",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
@@ -32,6 +43,17 @@
           "time_info": "[03时02分 ~ 10时09分]"
         },
         {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
+        {
           "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
           "url": "https://wallstreetcn.com/livenews/3129017",
           "source": "华尔街见闻-快讯",
@@ -41,6 +63,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "TCL科技：玻璃基封装技术尚处前期调研阶段，商业化存不确定性",
+          "url": "https://wallstreetcn.com/livenews/3129285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "中央网信办深入开展“清朗·整治AI应用乱象”专项行动第一阶段工作",
+          "url": "https://wallstreetcn.com/livenews/3129280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -59,11 +103,34 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时02分 ~ 17时56分]"
+        },
+        {
+          "title": "全球科技投资者翘首以待！存储巨头SK海力士周五将登陆纳斯达克",
+          "url": "https://www.cls.cn/detail/2417719",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时02分 ~ 10时09分]"
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
+        {
+          "title": "美股下半年何去何从？华尔街普遍乐观看涨，但警惕AI和半导体等“抢手货”！",
+          "url": "https://www.cls.cn/detail/2417506",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -83,9 +150,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "科技产业链涨价潮蔓延",
+          "url": "https://flash.jin10.com/detail/20260706173134654800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "A股钛白粉概念拉升，振华股份涨停，金浦钛业、惠云钛业、坤彩科技跟涨。",
@@ -94,7 +172,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -116,7 +194,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -127,9 +205,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "德邦科技：公司适配玻璃基板封装的相关产品尚处于与客户设计磨合和送样验证阶段",
+          "url": "https://wallstreetcn.com/livenews/3129272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "恒指高开0.23%，报23404.61点；恒生科技指数涨0.55%。中芯国际涨2.9%，华虹宏力涨2.2%。",
@@ -138,7 +227,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -152,13 +241,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.14%，恒生科技指数收涨0.94%。科网股走高，快手涨近8%，腾讯控股涨超4%，美团涨超4%；大模型概念股智谱跌超14%。",
+          "url": "https://wallstreetcn.com/livenews/3129253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3129248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "AI基础设施进入“预期锁定”阶段",
+          "url": "https://flash.jin10.com/detail/20260706171932027800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "TCL科技：玻璃基封装技术尚处前期调研阶段，商业化存不确定性",
+          "url": "https://flash.jin10.com/detail/20260706171551985800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
+          "url": "https://www.cls.cn/detail/2417841",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
+        {
+          "title": "国产机器人加速走向全球",
+          "url": "https://www.douyin.com/hot/2560666",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
         {
           "title": "99万元机器人伴侣续航撑不过一晚",
           "url": "https://www.toutiao.com/trending/7659051533732642857/",
@@ -166,7 +321,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -182,13 +337,35 @@
           "time_info": "03时02分"
         },
         {
+          "title": "创业板跌近2%，PCB、CPO领跌，机器人板块调整，创新药再爆发，恒科指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
+        {
+          "title": "99万元机器人伴侣续航撑不过一晚",
+          "url": "https://www.baidu.com/s?wd=99%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E7%BB%AD%E8%88%AA%E6%92%91%E4%B8%8D%E8%BF%87%E4%B8%80%E6%99%9A",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        },
+        {
           "title": "已进入多家本体、模组厂商和灵巧手企业供应链 人形机器人概念股单日涨超14% 本周机构密集调研相关上市公司",
           "url": "https://www.cls.cn/detail/2417369",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -199,9 +376,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "创耀科技推出低功耗机器人运动控制通信芯片",
+          "url": "https://flash.jin10.com/detail/20260706172859165800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "99万元机器人伴侣发布引争议",
@@ -210,7 +398,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -224,12 +412,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "99万机器人“伴侣”续航撑不过一晚？优必选：属行业普遍情况",
+          "url": "https://wallstreetcn.com/livenews/3129246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "数说中国经济6月成绩单",
@@ -243,13 +442,24 @@
           "time_info": "[03时02分 ~ 10时09分]"
         },
         {
+          "title": "国家发改委价格成本和认证中心召开《虚拟电厂参与电力系统调节技术经济研究》开题会",
+          "url": "https://flash.jin10.com/detail/20260706173852571800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "斐济总理：这些举措将以深化安全合作、加强经济一体化与韧性、以及增进人民间联系为基础。",
           "url": "https://flash.jin10.com/detail/20260706094107496800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -260,7 +470,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
