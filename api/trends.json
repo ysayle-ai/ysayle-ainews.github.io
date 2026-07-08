@@ -1,51 +1,78 @@
 {
-  "generated_at": "2026-07-08T03:41:31.001316+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-08T09:46:21.578096+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "机器人",
-      "match_count": 3,
+      "keyword_group": "科技 AI",
+      "match_count": 17,
       "titles": [
         {
-          "title": "我国人形机器人整机产量有望破十万台",
-          "url": "https://www.toutiao.com/trending/7659749336267640329/",
-          "source": "今日头条",
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "09时46分"
         },
         {
-          "title": "人形机器人成高端制造出口新名片",
-          "url": "https://www.douyin.com/hot/2562518",
-          "source": "抖音",
+          "title": "广合科技(01989.HK)涨超6%，公司上半年净利润最高预增95.29%。",
+          "url": "https://flash.jin10.com/detail/20260708093907155800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "09时46分"
         },
         {
-          "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
-          "url": "https://wallstreetcn.com/livenews/3130132",
+          "title": "恒生科技指数日内涨幅扩大至2%，恒指涨超1%，联想集团涨近7%，华虹涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3130285",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技 AI",
-      "match_count": 3,
-      "titles": [
+          "time_info": "09时46分"
+        },
+        {
+          "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3130284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
+          "url": "https://www.cls.cn/detail/2419748",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "锦浪科技：三季度公司订单饱满 逆变器业务预计发货环比增长30%左右",
+          "url": "https://flash.jin10.com/detail/20260708093619277800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
         {
           "title": "恒生指数主连夜盘收涨0.11%，报23499点。 恒生科技指数主连夜盘收涨0.02%，报4513点。",
           "url": "https://wallstreetcn.com/livenews/3130140",
@@ -62,11 +89,67 @@
           "url": "https://wallstreetcn.com/articles/3776368",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 09时46分]"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "09时46分"
+        },
+        {
+          "title": "恒指高开0.19%，报23541.22点；恒生科技指数涨0.42%。联想集团涨超4%，小米、阿里巴巴涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3130275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "港股高开高走，恒指涨1%，恒生科技指数涨超2%，半导体板块走强，华虹宏力(01347.HK)涨超5%，中芯国际(00981.HK)涨近4%。",
+          "url": "https://flash.jin10.com/detail/20260708093218206800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股光纤概念走高，魅视科技2连板创新高，航天电器、长盈通、正帆科技、兆驰股份均涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260708093049219800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "Papi酱AI单曲《生气了》爆火",
+          "url": "https://www.toutiao.com/trending/7658713514379345961/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "闪迪、美光科技跌超6%",
@@ -78,12 +161,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "A股CPO概念高开，威尔高开涨超16%，紫光股份、锐捷网络、华丰科技、华天科技、星网锐捷等个股纷纷高开。",
+          "url": "https://flash.jin10.com/detail/20260708092647628800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "香港恒生指数7月8日（周三）开盘上涨44.33点，涨幅0.19%，报23541.22点；<br/>香港恒生科技指数7月8日（周三）开盘上涨18.73点，涨幅0.42%，报4525.77点；<br/>国企指数7月8日（周三）开盘上涨33.19点，涨幅0.43%，报7803.45点；<br/>红筹指数7月8日（周三）开盘上涨1.17点，涨幅0.03%，报3806.3点。",
+          "url": "https://flash.jin10.com/detail/20260708092132133800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "陈果：韩存储若走熊，并不能代表全球科技牛结束",
+          "url": "https://wallstreetcn.com/livenews/3130250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "“这是中国第二次拯救世界经济”",
@@ -97,6 +213,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "著名经济学家高善文逝世，终年55岁",
+          "url": "https://wallstreetcn.com/articles/3776392",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "经济学家高善文离世，享年55岁",
           "url": "https://finance.ifeng.com/c/8uZYDwu3bID",
           "source": "凤凰网",
@@ -108,11 +235,84 @@
           "time_info": "03时41分"
         },
         {
+          "title": "澳洲联储助理主席Hunter：大型经济冲击可能会带来不确定性、降低信心并抑制消费。 澳洲联储委员会将根据需要采取行动，以确保通胀重回目标水平。 到目前为止，几乎没有迹象表明经济活动出现了明显的放缓。 石油冲击可能会改变通胀预期。 供给冲击并不会降低维持低且稳定通胀率的重要性。 货币政策有可能限制间接影响和第二轮效应。 如果通胀预期上升，可能需要经历一段低通胀和高失业率率的时期。 某些经济代价是无法避免的，政策制定者所能做的只有取得平衡。",
+          "url": "https://wallstreetcn.com/livenews/3130269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "国际货币基金组织：总裁格奥尔基耶娃任命西尔瓦娜·滕雷罗为经济顾问兼研究部主任。",
           "url": "https://flash.jin10.com/detail/20260708024607510800",
           "source": "金十数据",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "澳洲联储助理主席亨特：近期油价冲击尚未导致澳洲经济放缓",
+          "url": "https://flash.jin10.com/detail/20260708092409376800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人形机器人成高端制造出口新名片",
+          "url": "https://www.douyin.com/hot/2562518",
+          "source": "抖音",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 09时46分]"
+        },
+        {
+          "title": "我国人形机器人整机产量有望破十万台",
+          "url": "https://www.toutiao.com/trending/7659749336267640329/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 09时46分]"
+        },
+        {
+          "title": "A股人形机器人概念股盘初下挫，埃斯顿触及跌停，丰光精密跌超10%，绿的谐波、大洋电机、巨轮智能、日发精机、奥比中光跟跌。",
+          "url": "https://flash.jin10.com/detail/20260708093803629800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
+          "url": "https://wallstreetcn.com/livenews/3130132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
