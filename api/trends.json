@@ -1,22 +1,90 @@
 {
-  "generated_at": "2026-07-09T03:07:32.704245+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-09T09:57:50.065280+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 10,
+      "match_count": 25,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
           "url": "https://www.cls.cn/detail/2420693",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 09时57分]"
+        },
+        {
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "09时57分"
+        },
+        {
+          "title": "长鑫科技，7月16日打新！",
+          "url": "https://www.cls.cn/detail/2421004",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "MLCC概念震荡拉升，艾华集团、中京电子双双涨停，南亚新材、江海股份、麦捷科技、法拉电子跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3131013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 09时57分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 09时57分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 09时57分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -30,22 +98,33 @@
           "time_info": "03时07分"
         },
         {
+          "title": "A股电池板块短线走低，龙蟠科技跌停，天华新能、德新科技、天赐材料、雄韬股份、杉杉股份等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260709094655702800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "美联储会议纪要：AI持续推动数据中心、高科技设备和软件的实际投资支出",
           "url": "https://flash.jin10.com/detail/20260709022916976800",
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,6 +142,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "A股算力租赁板块再度拉升，浪潮信息2连板创新高，广脉科技涨超10%，赛意信息、利通电子、深桑达A、宏景科技、广电运通跟涨。",
+          "url": "https://flash.jin10.com/detail/20260709094111441800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
           "url": "https://wallstreetcn.com/livenews/3130843",
           "source": "华尔街见闻-快讯",
@@ -74,15 +164,48 @@
           "time_info": "03时07分"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
+          "url": "https://www.cls.cn/detail/2420934",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股半导体产业链开盘活跃，合肥城建接近涨停，普冉股份、汇成股份、沐曦股份、晶合集成、神工股份纷纷高开，消息上，长鑫科技披露科创板上市招股意向书及《发行安排及初步询价公告》，正式启动科创板IPO发行程序，公司新股网下申购日和网上申购日均为2026年7月16日。",
+          "url": "https://wallstreetcn.com/livenews/3130996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "阶跃星辰将发布AI智能体手机",
+          "url": "https://wallstreetcn.com/livenews/3130994",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "09时57分"
+        },
+        {
+          "title": "港股算力硬件股走高，兆易创新(03986.HK)涨近12%，澜起科技(06809.HK)涨8.6%，大族数控(03200.HK)涨超7%，联想集团(00992.HK)涨超5%，长飞光纤光缆(06869.HK)涨4.8%。",
+          "url": "https://flash.jin10.com/detail/20260709094024581800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "OpenAI推出GPT-Live语音模型",
@@ -96,6 +219,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "恒指低开0.07%，报24181.34点；恒生科技指数涨0.29%。华虹宏力涨3.7%，智谱涨近3%，阿里巴巴、中芯国际涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3130991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "“中国天眼”获国家科技进步奖一等奖",
           "url": "https://www.toutiao.com/trending/7659271576501092402/",
           "source": "今日头条",
@@ -107,15 +241,88 @@
           "time_info": "03时07分"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
+          "title": "长鑫科技7月16日开启新股申购",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%807%E6%9C%8816%E6%97%A5%E5%BC%80%E5%90%AF%E6%96%B0%E8%82%A1%E7%94%B3%E8%B4%AD",
+          "source": "百度热搜",
           "ranks": [
-            19
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "长鑫科技新股申购",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%96%B0%E8%82%A1%E7%94%B3%E8%B4%AD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "Meta测试“超级感知”AI眼镜 “全视全听”挑战隐私边界",
+          "url": "https://flash.jin10.com/detail/20260709093845465800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "科创50指数涨超2%，澜起科技、沐曦股份涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260709093811693800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33543824",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 09时57分]"
+        },
+        {
+          "title": "网传知名经济学家高善文治疗淋巴瘤全过程，从发现到离世不到两年，他得的淋巴瘤有多凶险？",
+          "url": "https://www.zhihu.com/question/2057939455160185245",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "09时57分"
+        },
+        {
+          "title": "经纬度：全球经济踩刹车，中国靠什么稳住油门",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33540626",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
@@ -129,23 +336,6 @@
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33543824",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
