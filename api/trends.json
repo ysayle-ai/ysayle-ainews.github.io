@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T17:19:24.198027+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-07-10T21:59:27.620664+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -107,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
-          "url": "https://www.cls.cn/detail/2422609",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.31%，报24052点。 恒生科技指数主连夜盘收涨0.27%，报4741点。",
@@ -165,6 +154,30 @@
           "time_info": "[09时56分 ~ 17时19分]"
         },
         {
+          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
+          "url": "https://www.cls.cn/detail/2422609",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 21时59分]"
+        },
+        {
+          "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
+          "url": "https://www.cls.cn/detail/2422854",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 21时59分]"
+        },
+        {
           "title": "广西洪水致大批学生被困，「救援航母」开入校园，这是种什么装备？救灾中还有哪些硬核科技派上了用场？",
           "url": "https://www.zhihu.com/question/2058504856239970003",
           "source": "知乎",
@@ -182,11 +195,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 21时59分]"
         },
         {
           "title": "长鑫科技申购",
@@ -221,6 +235,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。闪迪跌超4%，美光科技跌超3%；Meta涨4.9%；加密货币概念股Circle涨超11%，公司已获美国货币监理署（OCC）批准，可设立国家信托银行。沃达丰大涨12%，尼尔溢价收购阿联酋电信股权。",
+          "url": "https://wallstreetcn.com/livenews/3132112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "长鑫科技最高估值超4万亿",
@@ -273,7 +309,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -284,7 +320,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -317,20 +353,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
         {
-          "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
-          "url": "https://www.cls.cn/detail/2422854",
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。美光科技(MU.O)跌3%，高通(QCOM.O)跌2%，闪迪(SNDK.O)跌4%，西部数据(WDC.O)跌1.9%，Meta Platforms(META.O)涨4.9%。",
+          "url": "https://flash.jin10.com/detail/20260710213029119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "AI投资狂潮之下 科技巨头债务规模翻倍",
+          "url": "https://wallstreetcn.com/livenews/3132102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "A股光刻机板块盘初活跃，旭光电子涨超7%，大族激光涨超6%，美埃科技、泰晶科技、沃格光电跟涨。",
@@ -342,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "SpaceXAI 发布 Grok 4.5，和 Cursor 一起联合开发的 AI 模型有什么特别的？",
+          "url": "https://www.zhihu.com/question/2058472497230648834",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
@@ -424,7 +493,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储：美联储工作组成员还包括经济学家曼昆、萨金特、切蒂，风险投资家安德森及Xbox CEO夏尔马。",
@@ -444,9 +513,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
+          "url": "https://www.cls.cn/detail/2423220",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "“只有一半患者活过3年”，知名经济学家因少见疾病离世",
@@ -532,7 +612,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -551,7 +631,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature",
@@ -560,7 +640,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -571,9 +651,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "宇树机器人给猪做了台手术，登上Nature",
+          "url": "https://wallstreetcn.com/livenews/3132091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
@@ -587,11 +678,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 21时59分]"
         }
       ]
     },
