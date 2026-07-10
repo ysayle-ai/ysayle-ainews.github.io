@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T03:22:31.693193+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-10T09:56:37.802135+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 31,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -15,8 +15,52 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 09时56分]"
+        },
+        {
+          "title": "港股光通信板块震荡拉升，长飞光纤光缆(06869.HK)涨超12%，剑桥科技(06166.HK)涨超9%，华虹宏力(01347.HK)涨超7%，海光芯正(01191.HK)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260710094130246800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "09时56分"
+        },
+        {
+          "title": "光刻机、光刻胶概念震荡走强，国林科技20cm涨停，波长光电、茂莱光学涨超10%，赛微电子、久日新材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3131650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "广西洪水致大批学生被困，「救援航母」开入校园，这是种什么装备？救灾中还有哪些硬核科技派上了用场？",
+          "url": "https://www.zhihu.com/question/2058504856239970003",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -28,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "A股光纤概念盘初拉升，必创科技涨超12%，光迅科技涨超8%，至纯科技涨超7%，天孚通信、炬光科技涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260710093718113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -52,15 +107,83 @@
           "time_info": "03时22分"
         },
         {
+          "title": "A股CPO概念股表现活跃，剑桥科技涨停，联特科技、铭普光磁、光迅科技、天孚通信、奕东电子涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3131640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
+          "url": "https://www.zhihu.com/question/2058734226548250080",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
           "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 09时56分]"
+        },
+        {
+          "title": "长鑫科技申购",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%94%B3%E8%B4%AD%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 09时56分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 09时56分]"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "09时56分"
+        },
+        {
+          "title": "长鑫科技IPO豪华承销团抢眼！6家券商同框不常见，真正看点不止承销保荐费",
+          "url": "https://www.cls.cn/detail/2422351",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "长鑫科技最高估值超4万亿",
@@ -74,6 +197,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "无人机救援正是科技最美的样子",
+          "url": "https://www.toutiao.com/trending/7660030208611844123/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
           "url": "https://wallstreetcn.com/articles/3776515",
           "source": "华尔街见闻",
@@ -83,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
@@ -107,6 +252,28 @@
           "time_info": "03时22分"
         },
         {
+          "title": "恒指高开0.76%，报24213.44点；恒生科技指数涨1.25%。联想集团涨近9%，百度涨超3%，阿里巴巴、京东、中芯国际等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3131631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "A股光刻机板块盘初活跃，旭光电子涨超7%，大族激光涨超6%，美埃科技、泰晶科技、沃格光电跟涨。",
+          "url": "https://flash.jin10.com/detail/20260710092854306800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
           "url": "https://wallstreetcn.com/livenews/3131501",
           "source": "华尔街见闻-快讯",
@@ -116,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "长鑫科技最高估值超4万亿",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%9C%80%E9%AB%98%E4%BC%B0%E5%80%BC%E8%B6%854%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "富兰克林·邓普顿：AI基础设施看涨逻辑将延续至2027年",
@@ -129,15 +307,26 @@
           "time_info": "03时22分"
         },
         {
-          "title": "长鑫科技申购",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%94%B3%E8%B4%AD%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "A股CPO板块高开，华天科技涨停，深科达涨超9%，剑桥科技涨超8%，光迅科技、长电科技涨超5%，华工科技、天孚通信跟涨。",
+          "url": "https://flash.jin10.com/detail/20260710092637225800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "摩根大通打造的AI代理在回测中跑赢60/40投资组合",
+          "url": "https://wallstreetcn.com/livenews/3131613",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "09时56分"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -151,21 +340,21 @@
           "time_info": "03时22分"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "一条AI短片演绎杨戬劈山",
+          "url": "https://www.douyin.com/hot/2564959",
+          "source": "抖音",
           "ranks": [
-            29
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美联储：美联储工作组成员还包括经济学家曼昆、萨金特、切蒂，风险投资家安德森及Xbox CEO夏尔马。",
@@ -212,6 +401,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "日本经济财政大臣城内实：必须尊重日本央行的自主权",
+          "url": "https://wallstreetcn.com/livenews/3131625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "经济数据增强加息预期，纽元涨至两周来新高",
           "url": "https://flash.jin10.com/detail/20260710023414998800",
           "source": "金十数据",
@@ -223,6 +423,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "日本经济大臣称政府不会提前透露对央行政策的偏好倾向，驳斥政治干预疑虑",
+          "url": "https://flash.jin10.com/detail/20260710092723262800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "提醒：美国达拉斯联储主席Lorie Logan（2026年FOMC票委）并未置评FOMC货币政策或美国经济前景。",
           "url": "https://wallstreetcn.com/livenews/3131494",
           "source": "华尔街见闻-快讯",
@@ -232,6 +443,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不对具体的债券收益率水平发表评论。 知悉执政党正在调整经济蓝图中的措辞。 具体的货币政策工具由日本央行决定，至关重要的是，要确保政府的这一立场获得市场的信任。 正密切关注经济指标与市场形势。 将确保财政可持续性以赢得市场信任。 无论政府怎么说，日本央行都可以自行调整货币政策。 由于政府正在推行积极的财政政策，此前已预测利率会逐步上升。 希望加快讨论针对居民家庭扩大日本国债产品规模的事宜。",
+          "url": "https://wallstreetcn.com/livenews/3131608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
@@ -244,11 +483,12 @@
           "url": "https://www.zhihu.com/question/2057607966665265962",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 09时56分]"
         }
       ]
     }
