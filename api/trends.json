@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T02:51:36.344173+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-20T10:02:09.669501+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 13,
+      "match_count": 23,
       "titles": [
         {
           "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "AI服务器、算力租赁概念大幅走强，浪潮信息、行云科技、利通电子、杭钢股份、紫光股份、美利云、浙大网新等多股涨停，亚康股份、首都在线、宏景科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3136464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -37,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 10时02分]"
         },
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -48,8 +59,53 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 10时02分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 10时02分]"
+        },
+        {
+          "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
+          "url": "https://www.zhihu.com/question/2062127994513183627",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "恒生科技指数日内涨3%，华虹宏力涨超8%，哔哩哔哩涨超6%，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3136458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时51分"
+          "time_info": "10时02分"
         },
         {
           "title": "用AI预测西班牙vs阿根廷",
@@ -61,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "A股半导体芯片股盘初反弹，星宸科技20cm涨停，盛科通信、富瀚微涨超10%，普冉股份、银河微电、杰华特、芯导科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3136450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
@@ -96,15 +163,26 @@
           "time_info": "02时51分"
         },
         {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
+          "title": "A股算力概念震荡走高，星宸科技、行云科技20CM涨停，并行科技涨超16%，平治信息、协创数据、宏景科技、利通电子等个股跟涨。消息面上，月之暗面Kimi表示，因算力紧缺，暂停C端新用户订阅。",
+          "url": "https://flash.jin10.com/detail/20260720094631333800",
+          "source": "金十数据",
           "ranks": [
-            12
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时51分"
+          "time_info": "10时02分"
+        },
+        {
+          "title": "恒指高开1.11%，恒生科技指数涨2.2%",
+          "url": "https://wallstreetcn.com/livenews/3136436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "Kimi K3让全球AI圈炸锅了",
@@ -129,6 +207,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "港股光通信板块走强，长飞光纤光缆(06869.HK)涨超7%，华虹宏力(01347.HK)涨超7%，汇聚科技(01729.HK)、蓝思科技(06613.HK)、曦智科技-P(01879.HK)、剑桥科技(06166.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260720093734648800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "长鑫科技770万个中签号背后",
           "url": "https://www.toutiao.com/trending/7664182019143765546/",
           "source": "今日头条",
@@ -138,6 +227,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "创业板指涨超3%，半导体板块走强；成分股中，星宸科技20CM涨停，协创数据涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260720093544502800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "报道：渣打银行牵头成立的碇点金融科技料最快本月推出港元稳定币",
+          "url": "https://wallstreetcn.com/livenews/3136419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
@@ -154,25 +265,48 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "解读机器人格斗",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            26
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 10时02分]"
+        },
+        {
+          "title": "恒生科技指数涨超3%，存储、光通信、芯片、机器人等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260720093802599800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时51分"
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
           "url": "https://wallstreetcn.com/articles/3777171",
