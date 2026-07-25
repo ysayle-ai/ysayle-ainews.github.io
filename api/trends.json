@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-07-25T03:12:31.523970+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-25T09:47:42.383180+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
+          "url": "https://www.cls.cn/detail/2436602",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 09时47分]"
+        },
+        {
+          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
+          "url": "https://www.cls.cn/detail/2436740",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 09时47分]"
+        },
+        {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "李在明：韩国将成为全球AI供应链中不可替代的核心国家",
+          "url": "https://flash.jin10.com/detail/20260725092900836800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3777754",
@@ -30,28 +76,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
-          "url": "https://www.cls.cn/detail/2436602",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
-          "url": "https://www.cls.cn/detail/2436740",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -63,26 +87,63 @@
           "time_info": "03时12分"
         },
         {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 09时47分]"
+        },
+        {
+          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 09时47分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 09时47分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 09时47分]"
+        },
+        {
+          "title": "OpenAI称将发布Hugging Face被黑事件技术报告",
+          "url": "https://flash.jin10.com/detail/20260725090502293800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "09时47分"
         },
         {
           "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -107,15 +168,15 @@
           "time_info": "03时12分"
         },
         {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
+          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
+          "url": "https://wallstreetcn.com/livenews/3139690",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "09时47分"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
@@ -145,17 +206,6 @@
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -263,8 +313,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 09时47分]"
         }
       ]
     },
@@ -280,8 +330,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 09时47分]"
         }
       ]
     }
