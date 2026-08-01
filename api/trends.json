@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-01T16:03:50.839414+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-08-01T20:57:12.989399+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 20时57分]"
+        },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
           "url": "https://www.cls.cn/detail/2442818",
@@ -20,15 +31,28 @@
           "time_info": "[03时08分 ~ 16时03分]"
         },
         {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时53分 ~ 16时03分]"
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 20时57分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -77,6 +101,18 @@
           "time_info": "[03时08分 ~ 16时03分]"
         },
         {
+          "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
+          "url": "https://www.zhihu.com/question/2066620089789407496",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时57分]"
+        },
+        {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
           "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
@@ -89,29 +125,18 @@
           "time_info": "[03时08分 ~ 09时53分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 16时03分]"
-        },
-        {
           "title": "AI生成的作品算艺术吗",
           "url": "https://www.douyin.com/hot/2591797",
           "source": "抖音",
           "ranks": [
             6,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[03时08分 ~ 20时57分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -119,22 +144,71 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[03时08分 ~ 20时57分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
           "url": "https://www.cls.cn/detail/2443109",
           "source": "财联社热门",
           "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 20时57分]"
+        },
+        {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时57分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时57分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时57分]"
+        },
+        {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时53分 ~ 16时03分]"
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -147,6 +221,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 09时53分]"
+        },
+        {
+          "title": "C罗回应被AI评为史上最出名运动员",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E8%AF%84%E4%B8%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%87%BA%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "Aiming回应宫斗:对方先骂人",
@@ -170,6 +255,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 09时53分]"
+        },
+        {
+          "title": "农民误信AI致百亩芝麻全毁",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E8%AF%AF%E4%BF%A1AI%E8%87%B4%E7%99%BE%E4%BA%A9%E8%8A%9D%E9%BA%BB%E5%85%A8%E6%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -227,17 +323,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
           "title": "00后AI股神清仓血亏1400亿",
           "url": "https://s.weibo.com/weibo?q=00%E5%90%8EAI%E8%82%A1%E7%A5%9E%E6%B8%85%E4%BB%93%E8%A1%80%E4%BA%8F1400%E4%BA%BF&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -260,24 +345,13 @@
           "time_info": "03时08分"
         },
         {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
           "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
           "url": "https://flash.jin10.com/detail/20260801151758117800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -288,18 +362,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
-          "url": "https://www.zhihu.com/question/2066620089789407496",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -343,18 +406,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -365,7 +417,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -420,7 +472,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -461,7 +513,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "下半年经济工作发力方向划重点",
@@ -476,12 +528,23 @@
         },
         {
           "title": "这四个字读懂上半年中国经济",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%AD%97%E8%AF%BB%E6%87%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "这四个字读懂上半年中国经济",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%AD%97%E8%AF%BB%E6%87%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -553,11 +616,29 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356702&amp;topic_name=%E7%95%A5%E6%83%8A%E6%82%9A%21%E7%BE%8E%E4%BC%81%E5%BC%80%E5%8F%91%E5%8D%8A%E4%BA%BA%E9%A9%AC%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "社会",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗霍尔木兹甘省省长政治、安全与社会事务副手：关于撤离霍尔木兹甘省部分地区的传言完全是无稽之谈。",
+          "url": "https://flash.jin10.com/detail/20260801183717159800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "20时57分"
         }
       ]
     }
