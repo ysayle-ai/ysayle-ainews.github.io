@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T08:55:43.273149+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-08-09T14:38:22.216465+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -14,17 +14,6 @@
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 08时55分]"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -42,6 +31,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
           "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
           "source": "澎湃新闻",
@@ -51,6 +51,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 14时38分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -73,8 +85,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 14时38分]"
+        },
+        {
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 14时38分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -89,16 +114,16 @@
           "time_info": "[02时22分 ~ 08时55分]"
         },
         {
-          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
-          "source": "澎湃新闻",
+          "title": "央媒：用Token还是词元事关科技话语权",
+          "url": "https://www.toutiao.com/trending/7671123642835566598/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            19
+            20,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时22分 ~ 08时55分]"
+          "time_info": "[08时55分 ~ 14时38分]"
         },
         {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
@@ -107,7 +132,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -118,7 +143,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -129,9 +154,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
@@ -140,9 +176,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "宇树科技上市",
@@ -151,7 +198,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -162,18 +209,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "央媒：用Token还是词元事关科技话语权",
-          "url": "https://www.toutiao.com/trending/7671123642835566598/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -200,11 +236,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 14时38分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -222,7 +259,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
@@ -230,11 +267,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 14时38分]"
+        },
+        {
+          "title": "经济学家普遍预期美国通胀年率将略有放缓",
+          "url": "https://flash.jin10.com/detail/20260809123549225800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     }
