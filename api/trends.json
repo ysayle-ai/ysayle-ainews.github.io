@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T15:10:16.059712+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-08-10T20:44:41.586393+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 40,
+      "match_count": 56,
       "titles": [
         {
           "title": "【早报】宇树科技，今日申购；伊方批准霍尔木兹海峡安全纲要；寒武纪、江波龙、药明康德发布重要公告",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时58分 ~ 15时10分]"
+        },
+        {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 20时44分]"
         },
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -52,17 +64,6 @@
           "time_info": "[02时25分 ~ 08时58分]"
         },
         {
-          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
-          "url": "https://www.cls.cn/detail/2449732",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
           "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2449376",
           "source": "财联社热门",
@@ -76,6 +77,17 @@
           "time_info": "[02时25分 ~ 15时10分]"
         },
         {
+          "title": "AI算力CPI",
+          "url": "https://flash.jin10.com/detail/20260810203159138800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "宇树科技中签率远低于长鑫科技",
           "url": "https://wallstreetcn.com/livenews/3147117",
           "source": "华尔街见闻-快讯",
@@ -87,6 +99,17 @@
           "time_info": "02时25分"
         },
         {
+          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
+          "url": "https://wallstreetcn.com/articles/3779065",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
           "url": "https://wallstreetcn.com/livenews/3147116",
           "source": "华尔街见闻-快讯",
@@ -96,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "宇树科技：网上发行最终中签率0.0181%",
+          "url": "https://www.toutiao.com/trending/7672361613353029174/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "本周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -121,16 +155,41 @@
           "time_info": "[02时25分 ~ 15时10分]"
         },
         {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 20时44分]"
+        },
+        {
+          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
+          "url": "https://wallstreetcn.com/articles/3779037",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 20时44分]"
+        },
+        {
           "title": "宇树科技今日申购",
           "url": "https://www.douyin.com/hot/2603801",
           "source": "抖音",
           "ranks": [
             10,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 20时44分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -145,6 +204,18 @@
           "time_info": "[02时25分 ~ 15时10分]"
         },
         {
+          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
+          "url": "https://www.zhihu.com/question/2069770698055050765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 20时44分]"
+        },
+        {
           "title": "【数读IPO】宇树科技今日申购",
           "url": "https://www.cls.cn/detail/2449470",
           "source": "财联社热门",
@@ -156,44 +227,11 @@
           "time_info": "[15时09分 ~ 15时10分]"
         },
         {
-          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
-          "url": "https://www.zhihu.com/question/2069770698055050765",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
           "title": "宇树科技 8 月 10 日申购，中一签需缴 7.54 万，打新性价比如何？高预期背后哪些风险值得警惕？",
           "url": "https://www.zhihu.com/question/2069822063146004694",
           "source": "知乎",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
-          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
-          "url": "https://wallstreetcn.com/articles/3779037",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -322,6 +360,72 @@
           "time_info": "02时25分"
         },
         {
+          "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现",
+          "url": "https://wallstreetcn.com/articles/3779070",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "金宏气体在互动平台表示，截至目前，公司控股子公司云南汉兴德方气体科技有限公司未开展实际经营活动，未规划六氟化钨相关设计产能，相关信息请以公司官方发布内容为准。",
+          "url": "https://flash.jin10.com/detail/20260810202447483800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
+          "url": "https://wallstreetcn.com/articles/3779085",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "科技股延续涨势，美股盘前光模块集体走高，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
+          "url": "https://www.cls.cn/detail/2450137",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
+          "url": "https://www.cls.cn/detail/2449895",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "宇树科技今起申购",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BB%8A%E8%B5%B7%E7%94%B3%E8%B4%AD",
           "source": "百度热搜",
@@ -372,7 +476,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -388,15 +492,59 @@
           "time_info": "08时58分"
         },
         {
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "商汤科技斩获沙特千万元级教育订单",
           "url": "https://flash.jin10.com/detail/20260810143529045800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "美国禁令如何影响自身AI基建",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%87%AA%E8%BA%ABAI%E5%9F%BA%E5%BB%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "ai漫剧顶流已经出了8季了",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "宇树科技上市后或冲刺1000亿估值",
@@ -410,15 +558,37 @@
           "time_info": "02时25分"
         },
         {
+          "title": "国林科技：子公司新疆国林决定适度延长停产周期",
+          "url": "https://flash.jin10.com/detail/20260810200520389800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
           "url": "https://wallstreetcn.com/livenews/3147290",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "英特尔美股盘前跌超3%，公司将发行150亿美元普通股，趁AI数据中心热潮之际融资",
+          "url": "https://wallstreetcn.com/livenews/3147494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -452,12 +622,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "Meta美股盘前涨近3%，此前公司发布轻量化版AI模型，单张显卡即可运行。",
+          "url": "https://wallstreetcn.com/livenews/3147486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价阿根廷总统米莱的《经济思想的激辩：凯恩斯、弗里德曼与奥地利学派》？",
@@ -548,15 +729,37 @@
           "time_info": "08时58分"
         },
         {
+          "title": "白宫经济顾问哈塞特：如果我现在在美联储，我会选择维持利率不变或降息。 人工智能或许是未来两年最重要的政策议题。 政府正在认真研究人工智能安全问题。 我不会接替丽莎·库克出任美联储理事。 希望丽莎·库克确实是清白的。 日元行动属于贝森特的职权范围，无可奉告。 沃什是再独立不过的人了。 无需为稳定日元而炮制美债理论。 稳定的日元有助于防止危机蔓延。 美国政府将持有英特尔股票多久，由特朗普决定。",
+          "url": "https://wallstreetcn.com/livenews/3147493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "美国头部私募信贷基金违约率攀升，风暴或在经济放缓时引爆",
           "url": "https://flash.jin10.com/detail/20260810142032789800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "日本经济财政大臣城内实为财政状况辩护 称投资计划将为日元带来长期提振",
+          "url": "https://wallstreetcn.com/livenews/3147489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
@@ -571,7 +774,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
