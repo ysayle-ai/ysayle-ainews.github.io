@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-13T02:48:25.175788+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-13T09:05:33.029236+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
           "url": "https://wallstreetcn.com/articles/3779161",
@@ -30,17 +41,6 @@
           "time_info": "02时48分"
         },
         {
-          "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
-          "url": "https://wallstreetcn.com/livenews/3148728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
           "title": "光速关服,AI虚拟歌姬停运",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
           "source": "贴吧",
@@ -48,26 +48,75 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 09时05分]"
         },
         {
           "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
           "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 09时05分]"
+        },
+        {
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 09时05分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
           "url": "https://www.cls.cn/detail/2452579",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 09时05分]"
+        },
+        {
+          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
+          "url": "https://www.zhihu.com/question/2070508935673378471",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 09时05分]"
+        },
+        {
+          "title": "三角洲AI夏日晚会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 09时05分]"
+        },
+        {
+          "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
+          "url": "https://wallstreetcn.com/livenews/3148728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,37 +134,70 @@
           "time_info": "02时48分"
         },
         {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
+          "title": "宇树科技黄牛收购价涨到410元",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%BB%84%E7%89%9B%E6%94%B6%E8%B4%AD%E4%BB%B7%E6%B6%A8%E5%88%B0410%E5%85%83&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "09时05分"
         },
         {
-          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
-          "url": "https://www.zhihu.com/question/2070508935673378471",
-          "source": "知乎",
+          "title": "宇树能否超越长鑫科技",
+          "url": "https://www.toutiao.com/trending/7673257106593566246/",
+          "source": "今日头条",
           "ranks": [
-            20
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "09时05分"
         },
         {
-          "title": "三角洲AI夏日晚会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "宇树科技中签股民：计划全款提车",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E8%82%A1%E6%B0%91%EF%BC%9A%E8%AE%A1%E5%88%92%E5%85%A8%E6%AC%BE%E6%8F%90%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            29
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "09时05分"
+        },
+        {
+          "title": "美股AI算力和存储芯片爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%AE%97%E5%8A%9B%E5%92%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "95家公募获配宇树科技，金额超18亿元",
+          "url": "https://wallstreetcn.com/livenews/3148792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "梁文锋打新宇树科技有望浮盈超7亿",
+          "url": "https://www.toutiao.com/trending/7673280015613627950/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "SpaceXAI宣布推出Grok 4.6",
@@ -132,7 +214,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
@@ -144,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         },
         {
           "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
@@ -182,7 +275,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国人形机器人一骑绝尘",
@@ -192,8 +285,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 09时05分]"
+        },
+        {
+          "title": "机器人手机发布首日官网商城售罄",
+          "url": "https://www.toutiao.com/trending/7673201821930995748/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "09时05分"
         },
         {
           "title": "荣耀发布首款机器人手机 9999元起售",
@@ -221,8 +325,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "伊朗目前经济状况如何？专家：正面临两大困境",
+          "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
         {
           "title": "消息人士：巴西经济团队在提交国会的一项法案中加入了削减开支的条款。拟议措施将在2027年节省约100亿雷亚尔的开支。",
           "url": "https://flash.jin10.com/detail/20260813015642695800",
@@ -233,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "哥伦比亚宣布进入经济紧急状态以应对强震",
+          "url": "https://wallstreetcn.com/livenews/3148790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
@@ -245,11 +371,12 @@
           "url": "https://www.cls.cn/detail/2452559",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 09时05分]"
         }
       ]
     }
