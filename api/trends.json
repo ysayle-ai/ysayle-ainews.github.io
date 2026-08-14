@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-14T09:05:04.488006+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-08-14T15:09:05.120005+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
         {
           "title": "AI给假网,吧友中招银狐病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 09时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 15时09分]"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -38,8 +50,58 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 09时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 15时09分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 15时09分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 15时09分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            24,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 15时09分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 15时09分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -54,51 +116,37 @@
           "time_info": "[02时49分 ~ 09时05分]"
         },
         {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
           "ranks": [
-            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
+          "title": "长鑫科技单日市值超越腾讯，成 A 股、港股两市市值最高的中国上市公司，如何看待当下市场给出的估值水平？",
+          "url": "https://www.zhihu.com/question/2071276837125334204",
+          "source": "知乎",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 09时05分]"
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
+          "title": "AI用配音演员声线接广告",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            22,
-            24
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 09时05分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 09时05分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 09时05分]"
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -123,13 +171,57 @@
           "time_info": "02时49分"
         },
         {
+          "title": "高盛经济学家：印度不太可能因AI出现大规模失业",
+          "url": "https://flash.jin10.com/detail/20260814144019435800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "A股PCB概念股震荡拉升，中富电路涨近15%，华正新材此前涨停，南亚新材、奕东电子、威尔高、德福科技等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3149531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "百度文库网盘GenFlow官宣中文名“库库AI”",
+          "url": "https://wallstreetcn.com/livenews/3149529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "AI前沿日报-8月14日",
+          "url": "https://flash.jin10.com/detail/20260814143631651800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "华泰证券：算力升级下AI电源或呈现四大趋势",
           "url": "https://flash.jin10.com/detail/20260814081717011800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -156,6 +248,39 @@
           "time_info": "02时49分"
         },
         {
+          "title": "港股AI应用股午后跌幅扩大，MINIMAX跌超10%，智谱跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3149519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "A股电子化学品板块持续走高，海星股份涨停，中石科技此前封板, 思泉新材、龙辰科技涨超10%，方邦股份、国瓷材料、同宇新材、天承科技、金宏气体等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814142845425800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "A股游戏板块持续走高，迅游科技、世纪华通涨超6%，恺英网络、中青宝、三七互娱跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "宇树科技遭弃购8734股",
           "url": "https://www.toutiao.com/trending/7673094694310805555/",
           "source": "今日头条",
@@ -165,13 +290,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "百度文库网盘GenFlow官宣中文名“库库AI”",
+          "url": "https://flash.jin10.com/detail/20260814142704236800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "A股算力租赁概念探底回升，网宿科技涨超17%，行云科技涨超10%，数据港、奥飞数据、利通电子跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "一图世界｜快被烤干的莱茵河？历史性低水位冲击欧洲经济",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33776256",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 15时09分]"
+        },
+        {
+          "title": "里士满联储主席讲话全文：美国经济四大“谜题”仍未解",
+          "url": "https://flash.jin10.com/detail/20260814144526850800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "经济日报：精准反制有助于维护正常竞争秩序",
+          "url": "https://flash.jin10.com/detail/20260814082157414800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
+        },
+        {
+          "title": "顶级经济学家：油价守住80美元，美联储9月大概率不加息",
+          "url": "https://flash.jin10.com/detail/20260814144036184800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "博主：日本经济深陷无解死局",
+          "url": "https://www.toutiao.com/trending/7673513687360998963/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "中信证券：下阶段央行或继续加大金融对于实体经济的支持力度",
+          "url": "https://flash.jin10.com/detail/20260814075957390800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时05分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+          "url": "https://www.zhihu.com/question/2071408739723302257",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
         {
           "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
           "url": "https://flash.jin10.com/detail/20260814012101785800",
@@ -219,53 +451,19 @@
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 4,
+      "keyword_group": "机器人",
+      "match_count": 1,
       "titles": [
         {
-          "title": "一图世界｜快被烤干的莱茵河？历史性低水位冲击欧洲经济",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33776256",
-          "source": "澎湃新闻",
+          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
+          "url": "https://www.cls.cn/detail/2454041",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            14
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 09时05分]"
-        },
-        {
-          "title": "经济日报：精准反制有助于维护正常竞争秩序",
-          "url": "https://flash.jin10.com/detail/20260814082157414800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "博主：日本经济深陷无解死局",
-          "url": "https://www.toutiao.com/trending/7673513687360998963/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "中信证券：下阶段央行或继续加大金融对于实体经济的支持力度",
-          "url": "https://flash.jin10.com/detail/20260814075957390800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
         }
       ]
     },
@@ -280,7 +478,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         }
