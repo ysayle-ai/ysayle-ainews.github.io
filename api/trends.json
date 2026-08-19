@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-18T08:39:19.730942+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-19T08:39:45.700796+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
+          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
+          "url": "https://www.cls.cn/detail/2457709",
           "source": "财联社热门",
           "ranks": [
             1
@@ -19,22 +19,154 @@
           "time_info": "08时39分"
         },
         {
-          "title": "宇树科技8月19日上市",
-          "url": "https://www.douyin.com/hot/2613555",
-          "source": "抖音",
+          "title": "AI暗雷！美科技巨头表外负债膨胀至3万亿美元，约为年资本开支的5倍",
+          "url": "https://wallstreetcn.com/articles/3779679",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
         },
         {
-          "title": "微软、Salesforce与ADP意向收购人力资源科技公司Darwinbox。（Mint）",
-          "url": "https://wallstreetcn.com/livenews/3150735",
-          "source": "华尔街见闻-快讯",
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸： 今日宇树科技上市，快手举行财报电话会。",
+          "url": "https://flash.jin10.com/detail/20260819080548814800",
+          "source": "金十数据",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
+          "url": "https://www.cls.cn/detail/2457697",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "如何评价网传消息「3700 均订起点作者因使用 AI 被斩杀」？",
+          "url": "https://www.zhihu.com/question/2073007368435151461",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "宇树科技今日上市",
+          "url": "https://www.toutiao.com/trending/7674826639377334298/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "宇树科技今日上市",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BB%8A%E6%97%A5%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "“新债王”Gundlach警告：芯片变“新资产类别”是AI牛市见顶信号",
+          "url": "https://wallstreetcn.com/articles/3779682",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "自制AI电影出马仙镇东北",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "【数读IPO】宇树科技，今日上市",
+          "url": "https://www.cls.cn/detail/2457712",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "AI热潮与能源冲击之下，东南亚经济体增长态势分化",
+          "url": "https://flash.jin10.com/detail/20260819080244177800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "兆易创新上半年净利润同比增长逾10倍 所持长鑫科技股份市值已超640亿|财报解读",
+          "url": "https://www.cls.cn/detail/2457600",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "新规一刀切,AI漫剧被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月19日）",
+          "url": "https://flash.jin10.com/detail/20260819075311788800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -45,165 +177,71 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
           "source": "贴吧",
           "ranks": [
-            4
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
         },
         {
-          "title": "大批AI博主停更了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "title": "AirPods5曝光",
+          "url": "https://s.weibo.com/weibo?q=%23AirPods5%E6%9B%9D%E5%85%89%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
         },
         {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
+          "title": "美债收益率攀升，华尔街看不到拐点！AI科技股迎来估值压力测试",
+          "url": "https://flash.jin10.com/detail/20260819072724367800",
+          "source": "金十数据",
           "ranks": [
-            5
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
         },
         {
-          "title": "黄仁勋称失去中国市场美国AI必败",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E5%A4%B1%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%BE%8E%E5%9B%BDAI%E5%BF%85%E8%B4%A5&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "宇树科技，8月19日上市",
-          "url": "https://www.cls.cn/detail/2456358",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
-          "url": "https://www.zhihu.com/question/2063294189954250663",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.toutiao.com/trending/7675142828237786670/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "宇树科技：8月19日上市",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33800029",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "姜月初刷新AI漫剧女打一天花板",
-          "url": "https://www.douyin.com/hot/2613313",
-          "source": "抖音",
+          "title": "看好AI投资机遇，QFII资金“广撒网”",
+          "url": "https://wallstreetcn.com/livenews/3151369",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
         },
         {
-          "title": "宇树发布超人机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "宇树超人机器人原地跳高约2米",
-          "url": "https://www.toutiao.com/trending/7674877112751112198/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月18日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic年化营收在IPO前突破650亿美元。</span><br/><span class=\"section-news\">2. 字节跳动与美国电影协会签署协议，加强AI模型版权保护。</span><br/><span class=\"section-news\">3. 英伟达与SB Energy合作开发美国俄亥俄州8吉瓦超大规模AI数据中心，并向SB Energy投资15亿美元。</span><br/><span class=\"section-news\">4. 英伟达：OpenAI承诺在2030年前大规模部署英伟达AI基础设施，对应约6000亿美元计算业务规模。</span><br/>其他：<br/><span class=\"section-news\">1. Meta天价索赔案将于周二开始庭审。</span><br/><span class=\"section-news\">2. 九光发布人形机械人 能举起50公斤重杠铃。</span><br/><span class=\"section-news\">3. 中信资本收购阿里旗下灵犀互娱已正式生效。</span><br/><span class=\"section-news\">4. 小米汽车：小米SU7系列，28.5个月交付突破50万台。</span><br/><span class=\"section-news\">5. 宇树机器人原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。 </span>",
-          "url": "https://flash.jin10.com/detail/20260818072606933800",
+          "title": "今日新股上市：上交所科创板宇树科技",
+          "url": "https://flash.jin10.com/detail/20260819071358767800",
           "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "资金加速涌向硬科技赛道，A股并购重组聚焦“补链强链”",
+          "url": "https://wallstreetcn.com/livenews/3151365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "柯洁装弱智赢AI围棋",
+          "url": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E8%A3%85%E5%BC%B1%E6%99%BA%E8%B5%A2AI%E5%9B%B4%E6%A3%8B&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
             28
           ],
@@ -218,33 +256,61 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "前7个月国民经济总体平稳向新向优",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D7%E4%B8%AA%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%23&t=31&band_rank=3&Refer=top",
+          "title": "胖东来胜诉经济学家宋清辉侵犯名誉权，法院判赔 30 万元并登报致歉，这对公众人物的商业评论有何影响？",
+          "url": "https://www.zhihu.com/question/2072673321167106436",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "你的经济属于什么水平",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            3
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
         },
         {
-          "title": "三星Samsung Display将建设额外的OLED显示设施。（韩国每日经济新闻Maeil）",
-          "url": "https://wallstreetcn.com/livenews/3150723",
+          "title": "经济日报金观平：支持基础研究贵在长期稳定",
+          "url": "https://wallstreetcn.com/livenews/3151373",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人形机器人热身赛飞速过弯撞上电箱",
+          "url": "https://www.toutiao.com/trending/7674197389583056938/",
+          "source": "今日头条",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
         },
         {
-          "title": "日本经济陷入三重困局",
-          "url": "https://www.toutiao.com/trending/7675135750429478419/",
-          "source": "今日头条",
+          "title": "宇树发布超人机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            23
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
