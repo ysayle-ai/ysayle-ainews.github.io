@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T01:57:49.993924+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-20T05:55:49.938282+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "外网评最烂AI命名榜,DS夺冠",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
         },
         {
           "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
         },
         {
           "title": "【焦点复盘】沪指低开高走涨0.39%，物理AI概念异军突起，工行重夺总市值“一哥”",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
         },
         {
           "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
@@ -48,19 +48,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
         },
         {
           "title": "不用AI特效的中国功夫什么样",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
         },
         {
           "title": "北大教授预言AI催生弃民",
@@ -70,8 +71,64 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
+        },
+        {
+          "title": "女子用AI救了前夫一命",
+          "url": "https://www.toutiao.com/trending/7698189752482365483/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
+        },
+        {
+          "title": "女子离婚6天用AI救了前夫一命",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
+        },
+        {
+          "title": "AI同人抢跑官方,追番党忧心",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367613&amp;topic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
+        },
+        {
+          "title": "洛手转投玩家AI创作遭吐槽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367575&amp;topic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
+        },
+        {
+          "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34282373",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时55分"
         },
         {
           "title": "零售商Ahold Delhaize向荷兰警方报告网络安全事件",
@@ -85,37 +142,26 @@
           "time_info": "01时57分"
         },
         {
-          "title": "女子用AI救了前夫一命",
-          "url": "https://www.toutiao.com/trending/7698189752482365483/",
-          "source": "今日头条",
+          "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
+          "url": "https://wallstreetcn.com/livenews/3181415",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时55分"
         },
         {
-          "title": "女子离婚6天用AI救了前夫一命",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%A4%A9%E7%94%A8AI%E6%95%91%E4%BA%86%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD",
-          "source": "百度热搜",
+          "title": "标普500指数的11个板块中，公用事业板块收跌1.97%，房地产ETF跌1.17%，电信板块涨0.28%，信息技术/科技板块涨1.19%，可选消费板块涨2.73%——成分股亚马逊、特斯拉领跑。",
+          "url": "https://wallstreetcn.com/livenews/3181414",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "AI同人抢跑官方,追番党忧心",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367613&amp;topic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时55分"
         },
         {
           "title": "标普全球警告：超大规模云服务商的AI相关债务可能高于目前已知水平",
@@ -129,15 +175,59 @@
           "time_info": "01时57分"
         },
         {
-          "title": "洛手转投玩家AI创作遭吐槽",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367575&amp;topic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD",
-          "source": "贴吧",
+          "title": "周一（10月19日），美股行业ETF多数下跌，公用事业ETF收跌2.01%，全球航空业ETF跌1.04%，金融业ETF、银行业ETF、区域银行ETF至多跌0.83%，能源业ETF跌0.64%。 生物科技指数ETF、网络股指数ETF、科技行业ETF、全球航空业ETF至少涨1.02%，半导体ETF涨1.61%，可选消费ETF涨1.78%。",
+          "url": "https://wallstreetcn.com/livenews/3181412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "Aijing",
+          "url": "https://s.weibo.com/weibo?q=Aijing&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.27%，报5680.44点。 热门中概股里，网易有道初步收涨7.4%，禾赛涨4.3%，再鼎医药涨3.6%，日月光半导体涨3.4%，拼多多涨0.5%，百度跌0.4%，网易跌0.5%，阿里巴巴跌0.5%，腾讯跌0.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.53%，中国科技指数ETF（CQQQ）收跌0.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.13%，XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3181405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "老人去见苦命“小海” 上车才知是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI",
+          "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时55分"
+        },
+        {
+          "title": "标普500指数收涨31.29点，涨幅0.41%，报7690.73点。标普500相等权重指数跌0.40%，报8674.08点，跳空高开之后持续高位震荡。 道琼斯工业平均指数收跌36.38点，跌幅0.07%，报51966.03点。 纳斯达克综合指数（纳指）收涨290.852点，涨幅1.11%，报26430.886点。 纳斯达克100指数收涨341.796点，涨幅1.17%，报29529.345点。 纳斯达克科技市值加权指数收涨1.13%，报2994.7688点，跳空高开之后持续高位震荡。 费城半导体指数收涨179.056点，涨幅1.61%，结束此前连续八个交易日下跌（创2008年金融危机以来最长连跌天数）的趋势，报11316.343点。",
+          "url": "https://wallstreetcn.com/livenews/3181404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     },
@@ -145,6 +235,17 @@
       "keyword_group": "经济",
       "match_count": 5,
       "titles": [
+        {
+          "title": "读懂中国经济的韧性和活力",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%9F%A7%E6%80%A7%E5%92%8C%E6%B4%BB%E5%8A%9B",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
+        },
         {
           "title": "德国总理默茨：英伟达计划在德国投资数十亿美元。 欧洲具备在经济上追赶的潜力。 德国需要改革社会保障系统。 如有必要，欧洲央行能迅速就（央行行长等）职位安排做决定，但没必要“快速做决定”。",
           "url": "https://wallstreetcn.com/livenews/3181358",
@@ -168,44 +269,46 @@
           "time_info": "01时57分"
         },
         {
-          "title": "读懂中国经济的韧性和活力",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%9F%A7%E6%80%A7%E5%92%8C%E6%B4%BB%E5%8A%9B",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
           "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
           "url": "https://wallstreetcn.com/articles/3783889",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
         },
         {
           "title": "国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳",
           "url": "https://m.thepaper.cn/newsDetail_forward_34278967",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国先进机器人禁令波及芯片制造，英特尔申请豁免：关键设备暂无本土替代品",
+          "url": "https://flash.jin10.com/detail/20261020054252174800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
         {
           "title": "Bitcoin Japan签署独家协议，将优必选人形机器人引入日本。",
           "url": "https://wallstreetcn.com/livenews/3181356",
@@ -225,6 +328,56 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
+        },
+        {
+          "title": "英特尔请求FCC允许对被禁外部机器人进行升级",
+          "url": "https://wallstreetcn.com/livenews/3181435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)前首席执行官埃里克·施密特在Anthropic公司拥有约1%的股份。",
+          "url": "https://flash.jin10.com/detail/20261020053341203800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "原谷歌CEO Eric Schmidt对Anthropic持股大约1%。",
+          "url": "https://wallstreetcn.com/livenews/3181434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
+          "url": "https://wallstreetcn.com/livenews/3181344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         }
@@ -239,11 +392,12 @@
           "url": "https://www.zhihu.com/question/2095225318562689664",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时55分]"
         },
         {
           "title": "法国社会动荡背后的现实矛盾",
@@ -251,23 +405,6 @@
           "source": "今日头条",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
-          "url": "https://wallstreetcn.com/livenews/3181344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
