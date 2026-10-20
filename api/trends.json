@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T10:36:30.051643+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-10-20T18:38:43.336042+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 31,
+      "match_count": 43,
       "titles": [
         {
           "title": "科技巨头护盘，标普、纳指反弹，芯片指数终结八连跌，美油八连涨，黄金冲高转跌",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 18时38分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 18时38分]"
         },
         {
           "title": "受AI融资压力影响，软银集团信用风险升至四年高位",
@@ -25,9 +36,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "宇树科技涨超10%，成交额超26亿元。",
@@ -36,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -47,32 +69,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
         {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
-          "url": "https://www.zhihu.com/question/2095476625228019430",
-          "source": "知乎",
+          "title": "似曾相识？再度打爆“AI股神”后，AI交易迎来反弹",
+          "url": "https://wallstreetcn.com/articles/3783975",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "18时38分"
         },
         {
-          "title": "外网评最烂AI命名榜,DS夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
+          "title": "澜起科技：预计2026年第三季度净利润同比增长153.6%~174.7%",
+          "url": "https://wallstreetcn.com/livenews/3181851",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            7
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34282373",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时57分 ~ 10时36分]"
+          "time_info": "[05时55分 ~ 18时38分]"
         },
         {
           "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
@@ -87,16 +120,29 @@
           "time_info": "[01时57分 ~ 10时36分]"
         },
         {
-          "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34282373",
-          "source": "澎湃新闻",
+          "title": "外网评最烂AI命名榜,DS夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
           "ranks": [
-            15,
-            2
+            2,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 18时38分]"
+        },
+        {
+          "title": "长鑫科技股价跳水，市值跌破 3 万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
+          "url": "https://www.zhihu.com/question/2095452033461511103",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时55分 ~ 10时36分]"
+          "time_info": "[10时36分 ~ 18时38分]"
         },
         {
           "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
@@ -104,11 +150,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 18时38分]"
         },
         {
           "title": "不用AI特效的中国功夫什么样",
@@ -117,11 +164,12 @@
           "ranks": [
             17,
             30,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 18时38分]"
         },
         {
           "title": "北大教授预言AI催生弃民",
@@ -129,11 +177,25 @@
           "source": "贴吧",
           "ranks": [
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 18时38分]"
+        },
+        {
+          "title": "AI同人抢跑官方,追番党忧心",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367613&amp;topic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 18时38分]"
         },
         {
           "title": "女子离婚6天用AI救了前夫一命",
@@ -142,18 +204,6 @@
           "ranks": [
             22,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 10时36分]"
-        },
-        {
-          "title": "AI同人抢跑官方,追番党忧心",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367613&amp;topic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            25
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -169,6 +219,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 05时55分]"
+        },
+        {
+          "title": "系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34282923",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 18时38分]"
         },
         {
           "title": "女子用AI救了前夫一命",
@@ -194,15 +256,81 @@
           "time_info": "[01时57分 ~ 05时55分]"
         },
         {
-          "title": "长鑫科技股价跳水，市值跌破 3 万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
-          "url": "https://www.zhihu.com/question/2095452033461511103",
+          "title": "市场真慌了？AI相关CDS需求出现“井喷”！",
+          "url": "https://www.cls.cn/detail/2509620",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "科森科技：暂缓推进收购展固科技53.26%股权",
+          "url": "https://flash.jin10.com/detail/20261020181143193800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
+          "url": "https://www.zhihu.com/question/2090228809819862141",
           "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬",
+          "url": "https://wallstreetcn.com/articles/3783991",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱",
+          "url": "https://www.cls.cn/detail/2509936",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "科森科技：暂缓推进收购惠州展固科技53.26%股权事项",
+          "url": "https://wallstreetcn.com/livenews/3181838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "AI“新雷”炸响？这次是在韩国……",
+          "url": "https://www.cls.cn/detail/2509354",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "18时38分"
         },
         {
           "title": "10月20日投资避雷针：高盛数据显示 对冲基金以至少十年来最快速度减持科技股",
@@ -211,9 +339,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
+          "url": "https://www.cls.cn/detail/2509215",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "美光科技(MU.O)在中国台湾桃园的工会表示，将于周四发起罢工。",
@@ -222,20 +361,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
         {
-          "title": "系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34282923",
+          "title": "明查｜霍尔木兹海峡散落大量苹果手机？网传视频多为AI生成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34282214",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "18时38分"
         },
         {
           "title": "调查：营销行业加速采用AI，但投资回报评估严重不足",
@@ -244,7 +383,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -310,7 +449,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -362,7 +501,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "读懂中国经济的韧性和活力",
@@ -398,13 +537,24 @@
           "time_info": "01时57分"
         },
         {
+          "title": "据路透调查：全部15位经济学家预计，以色列央行将在10月27日周三维持基准利率在3.25%不变。",
+          "url": "https://flash.jin10.com/detail/20261020181210736800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "国家发展改革委：将根据需要及时出台新的增量政策，确保经济运行保持在合理区间",
           "url": "https://flash.jin10.com/detail/20261020103355791800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -415,9 +565,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "前三季度国民经济四大亮点",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%9B%9B%E5%A4%A7%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "国家发展改革委：前三季度智能经济等新动能对经济增长贡献率超过40%",
@@ -426,7 +587,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -462,7 +623,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -473,7 +634,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         }
@@ -481,7 +642,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国先进机器人禁令波及芯片制造，英特尔申请豁免：关键设备暂无本土替代品",
@@ -512,7 +673,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -528,6 +689,17 @@
           "time_info": "[01时57分 ~ 05时55分]"
         },
         {
+          "title": "【每日收评】科创50指数探底回升涨1%，全市场超3700股收红，机器人概念股全线爆发",
+          "url": "https://www.cls.cn/detail/2509894",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "英特尔请求FCC允许对被禁外部机器人进行升级",
           "url": "https://wallstreetcn.com/livenews/3181435",
           "source": "华尔街见闻-快讯",
@@ -539,13 +711,24 @@
           "time_info": "05时55分"
         },
         {
+          "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
+          "url": "https://wallstreetcn.com/articles/3783987",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "A股机器人概念股继续活跃，京城股份3连板，福莱新材2连板，宁波东力、科森科技、浙江荣泰、科达自控涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3181507",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -556,15 +739,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "刘强东要开全国最大机器人4S店吗",
+          "url": "https://www.toutiao.com/trending/7697543480939282474/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)前首席执行官埃里克·施密特在Anthropic公司拥有约1%的股份。",
@@ -587,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "谷歌云：在谷歌分布式云上推出搭载Gemini的企业搜索预览版。",
+          "url": "https://flash.jin10.com/detail/20261020180706755800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
