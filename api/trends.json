@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T10:32:05.383534+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-10-23T18:52:01.827278+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 42,
+      "match_count": 51,
       "titles": [
         {
           "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 10时32分]"
+        },
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 18时52分]"
         },
         {
           "title": "基金经理为重仓AI致歉，又到了集体反思时刻",
@@ -67,15 +78,15 @@
           "time_info": "[00时21分 ~ 04时59分]"
         },
         {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
+          "title": "中际旭创、新易盛、天孚通信、光迅科技、源杰科技，联讯仪器集体公告",
+          "url": "https://www.cls.cn/detail/2513252",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
@@ -98,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "全球AI股惨遭拋售？摩根大通：不要慌，本轮抛售可能已近尾声",
+          "url": "https://www.cls.cn/detail/2513145",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "程序员解读AI挖出PHP安全漏洞",
@@ -128,7 +150,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -212,6 +234,30 @@
           "time_info": "[00时21分 ~ 10时32分]"
         },
         {
+          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时59分 ~ 18时52分]"
+        },
+        {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 18时52分]"
+        },
+        {
           "title": "具身智能“奇点”将至？宇树科技王兴兴：我真的非常害怕浪费每一天",
           "url": "https://www.cls.cn/detail/2512428",
           "source": "财联社热门",
@@ -271,17 +317,6 @@
           "time_info": "[00时21分 ~ 04时59分]"
         },
         {
-          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 10时32分]"
-        },
-        {
           "title": "科技股调整，高增长逻辑还在吗？科创板龙头公司发声：订单饱满、景气向上",
           "url": "https://www.cls.cn/detail/2512952",
           "source": "财联社热门",
@@ -293,15 +328,48 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
+          "title": "股价首超中际旭创！宇树科技获首个20cm涨停，A股股价排行榜更迭，这些为新晋标的",
+          "url": "https://www.cls.cn/detail/2513615",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "宇树科技，20cm涨停",
+          "url": "https://www.cls.cn/detail/2513370",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "宇树科技20cm涨停",
+          "url": "https://www.douyin.com/hot/2709708",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        },
+        {
+          "title": "AI短片妖怪衙门",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "美国科技股遭抛售重燃避险需求，日元汇率一度创下一个月新高",
@@ -310,7 +378,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -354,9 +422,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "国投中鲁：全资孙公司世源科技与中建八局签署存算一体制造基地项目一标段土建工程B施工合同，签约合同价含税36.68亿元",
+          "url": "https://wallstreetcn.com/livenews/3184603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "据CNBC：OpenAI即将完成由阿联酋投资者领投的至多300亿美元融资，估值达1.25万亿美元。",
@@ -370,13 +449,24 @@
           "time_info": "04时59分"
         },
         {
+          "title": "九州一轨：全资子公司苏州晶禧半导体科技有限公司与光模块头部客户签署晶圆划片代加工服务项目合同，合同金额3407.21万元（含税），预计利润总额占公司最近一个会计年度经审计净利润50%以上。",
+          "url": "https://wallstreetcn.com/livenews/3184597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "恒生科技指数涨幅扩大至1%。小米盘中拉升涨近5%。",
           "url": "https://wallstreetcn.com/livenews/3184094",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -414,6 +504,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "澜起科技：完成本次A股回购方案 实际回购208.8万股耗资4.1亿元",
+          "url": "https://wallstreetcn.com/livenews/3184570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "OpenAI：决策API正式全面开放。 决策API将每输入100万Tokens定价在0.10美元，其输入成本为0.01美元。",
           "url": "https://wallstreetcn.com/livenews/3183947",
           "source": "华尔街见闻-快讯",
@@ -442,7 +543,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -464,7 +565,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -483,7 +584,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "人形机器人板块集体涨停释放何信号",
@@ -495,6 +596,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
+          "url": "https://wallstreetcn.com/articles/3784272",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？",
@@ -542,12 +654,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "【国家信息化“十五五”规划：研制高性能人工智能芯片和高可用基础软件栈】中央网络安全和信息化委员会印发《国家信息化“十五五”规划》。其中提出，研制高性能人工智能芯片和高可用基础软件栈。布局高度智能的手机、计算机、可穿戴设备等技术。发展无人载具终端、人形机器人等具身智能技术。加快量子计算、量子通信、量子精密测量等技术研发。推动量子安全防护技术研究，加快抗量子计算密码研究。动脑机接口系统研发及应用，研制信号采集、神经解码、疾病诊疗、虚实操控等系统和器件。",
+          "url": "https://wallstreetcn.com/livenews/3184583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "5.5%增速背后，上海经济动能向新、结构向优",
@@ -572,13 +695,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "俄罗斯央行：通胀预期仍处于高位。2026年下半年，整体经济正以温和步伐增长。",
+          "url": "https://flash.jin10.com/detail/20261023183037050800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "国家税务总局最新发票数据显示：前三季度我国经济保持平稳运行、持续向新向优",
           "url": "https://wallstreetcn.com/livenews/3184071",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -600,7 +734,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         }
@@ -617,7 +751,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         }
