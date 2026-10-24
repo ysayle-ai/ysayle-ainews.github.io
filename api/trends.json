@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T10:30:58.510154+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-10-24T17:59:42.868104+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -19,6 +19,20 @@
           "time_info": "[00时06分 ~ 04时48分]"
         },
         {
+          "title": "图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34301129",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 17时59分]"
+        },
+        {
           "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
           "url": "https://wallstreetcn.com/articles/3784249",
           "source": "华尔街见闻",
@@ -30,28 +44,26 @@
           "time_info": "[00时06分 ~ 04时48分]"
         },
         {
-          "title": "图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34301129",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 10时30分]"
-        },
-        {
           "title": "AI短剧公司几乎不需要基础岗",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E5%85%AC%E5%8F%B8%E5%87%A0%E4%B9%8E%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9F%BA%E7%A1%80%E5%B2%97&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
+          "url": "https://wallstreetcn.com/articles/3784376",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "标普500指数的11个板块中，日用消费品板块收跌1.83%，可选消费、电信、金融、工业、保健板块至多跌1.39%，信息技术/科技板块涨0.35%，能源板块涨2.51%。",
@@ -71,9 +83,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+          "url": "https://www.cls.cn/detail/2513560",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "美国两党批AI高管脱离民众 要求他们少说多做",
+          "url": "https://flash.jin10.com/detail/20261024172440762800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "【焦点复盘】双创指数全天现超7%巨震，两市成交额逼近2万亿，宇树科技收获上市以来首个涨停",
@@ -110,6 +144,19 @@
           "time_info": "[00时06分 ~ 04时48分]"
         },
         {
+          "title": "AI算力市场需求持续旺盛：寒武纪三季度营收翻倍，净利14亿元增近1.5倍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34320341",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 17时59分]"
+        },
+        {
           "title": "成都“龟速车”被AI锁定",
           "url": "https://www.toutiao.com/trending/7699370850386542611/",
           "source": "今日头条",
@@ -122,16 +169,27 @@
           "time_info": "[00时06分 ~ 04时48分]"
         },
         {
-          "title": "AI算力市场需求持续旺盛：寒武纪三季度营收翻倍，净利14亿元增近1.5倍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34320341",
-          "source": "澎湃新闻",
+          "title": "谁推动了宇树科技首个涨停板？",
+          "url": "https://wallstreetcn.com/articles/3784342",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            11
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时48分 ~ 10时30分]"
+          "time_info": "[10时30分 ~ 17时59分]"
+        },
+        {
+          "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784326",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 17时59分]"
         },
         {
           "title": "科技股试图喘口气 原油市场又传来压力 | 今夜看点",
@@ -143,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "当AI开始写代码，还需要什么样的程序员？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34225156",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "周五（10月23日），美股行业ETF多数下跌，全球航空业ETF收跌2.5%，可选消费ETF、金融业ETF、工业指数ETF、医疗业ETF至多跌1.66%，科技行业ETF涨0.49%，半导体ETF涨0.74%，能源业ETF涨2.6%。 2026年迄今，能源业ETF累涨58.14%，半导体ETF涨46.39%，全球科技股指数ETF涨30.60%，科技行业ETF、生物科技指数ETF至多涨27.73%，可选消费ETF则跌4.7%，航空业ETF跌7.02%。",
@@ -162,7 +231,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -173,20 +242,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
         {
-          "title": "谁推动了宇树科技首个涨停板？",
-          "url": "https://wallstreetcn.com/articles/3784342",
-          "source": "华尔街见闻",
+          "title": "抖音通报“AI小海”治理结果：相关人物系AI合成数字人，相关账号及内容已被依规处置",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34320317",
+          "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "17时59分"
         },
         {
           "title": "周五（10月23日），彭博电动汽车价格回报指数涨0.63%，报2867.55点，本周累计下跌3.59%，10月21-22日持续走低。 周五当天，成分股中，H股地平线收涨8.14%，禾赛ADR涨8.15%，安霸股份涨5.35%，H股小鹏涨5.1%、中创新航科技集团涨4.88%、蔚来集团涨4.11%、理想涨3.92%、小米集团涨3.88%、速腾聚创科技涨3.68%，小马智行ADR涨2.39%表现第十。 H股雅迪集团控股则收跌3.44%跌幅靠前，Ola Electric Mobility Ltd.跌6.29%，北欧沃尔沃汽车集团跌24.23%表现最差。",
@@ -206,18 +275,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784326",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -228,9 +286,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "美晨科技：旗下美晨工业集团中标国内头部客户储能液冷管路总成项目",
+          "url": "https://flash.jin10.com/detail/20261024165932662800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
+          "url": "https://www.cls.cn/detail/2513542",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "本周，标普累跌约0.4%，道指涨超0.4%，纳指跌0.7%。费城半导体指数累跌3.3%，存储芯片指数跌3.4%，半导体设备指数跌2.1%，AI赢家指数跌3.2%、AI软件先驱指数涨4.7%。费城银行指数涨1.1%。科技股七巨头指数跌1.6%，超大市值科技股指数跌1.6%。 周五当天，标普500指数初步收跌0.5%，日用消费品板块跌1.8%，电信、可选消费、金融、工业、保健板块跌超1%，能源板块涨2.5%。 纳斯达克100指数初步大致收平，成分股中，T-Mobile初步收跌7.8%，罗斯百货跌3.1%，西部数据跌3%，CoreWeave跌2.4%，SpaceX涨1.8%，美光涨2.3%，Datadog涨4.7%，派拓网络PANW涨7.3%，CrowdStrike涨8.3%。",
@@ -250,7 +330,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -283,9 +363,50 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
+          "url": "https://wallstreetcn.com/articles/3784272",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 10时30分]"
+        },
+        {
+          "title": "机器人概念领涨两市 VIP栏目策划专题解读",
+          "url": "https://www.cls.cn/detail/2513677",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 10时30分]"
+        },
+        {
+          "title": "智元110台人形机器人同时跳舞，创吉尼斯世界纪录",
+          "url": "https://wallstreetcn.com/livenews/3185109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
@@ -337,22 +458,24 @@
           "url": "https://www.cls.cn/detail/2513857",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 10时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 17时59分]"
         },
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
           "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 10时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 17时59分]"
         },
         {
           "title": "国常会：要加快建设生育友好型社会",
@@ -364,36 +487,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 00时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
-          "url": "https://wallstreetcn.com/articles/3784272",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 10时30分]"
-        },
-        {
-          "title": "机器人概念领涨两市 VIP栏目策划专题解读",
-          "url": "https://www.cls.cn/detail/2513677",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 10时30分]"
         }
       ]
     },
