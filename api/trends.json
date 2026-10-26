@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T02:17:45.664741+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-10-27T06:05:46.539096+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 19,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
@@ -15,8 +15,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
+          "url": "https://www.zhihu.com/question/2097984108207027914",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "OpenAI：我们的模型推翻了长期被广泛接受的指数时间假设。",
+          "url": "https://flash.jin10.com/detail/20261027054525046800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "06时05分"
         },
         {
           "title": "IBM(IBM.N)与英伟达(NVDA.O)将AI智能体身份与运行时访问控制相绑定。",
@@ -30,37 +64,37 @@
           "time_info": "02时17分"
         },
         {
-          "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
-          "url": "https://www.zhihu.com/question/2097984108207027914",
-          "source": "知乎",
+          "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
+          "url": "https://wallstreetcn.com/livenews/3186491",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "06时05分"
         },
         {
-          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
+          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "06时05分"
         },
         {
-          "title": "周末，物理AI“刷屏”",
-          "url": "https://wallstreetcn.com/articles/3784428",
-          "source": "华尔街见闻",
+          "title": "OpenAI：宣布数学、计算机科学和物理学领域的三项新发现，涉及调和分析、复杂性理论和量子场论。",
+          "url": "https://flash.jin10.com/detail/20261027053948614800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "06时05分"
         },
         {
           "title": "OpenAI发布ChatGPT Work在100个国家的活动数据。",
@@ -74,15 +108,120 @@
           "time_info": "02时17分"
         },
         {
+          "title": "周末，物理AI“刷屏”",
+          "url": "https://wallstreetcn.com/articles/3784428",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
           "title": "A股又一波增持回购来了，金发科技拟最高回购5亿元",
           "url": "https://www.cls.cn/detail/2515503",
           "source": "财联社热门",
           "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足",
+          "url": "https://www.cls.cn/detail/2515369",
+          "source": "财联社热门",
+          "ranks": [
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
+          "url": "https://wallstreetcn.com/articles/3784484",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2098146460403615476",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "AI短片《齐天大圣》为何能引发关注",
+          "url": "https://www.toutiao.com/trending/7700837515682578495/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "专家：AI视频生成下一步是更高级智能",
+          "url": "https://www.toutiao.com/trending/7700830683280687131/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "AI伪人广告正在集体“霸凌”人类",
+          "url": "https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
         },
         {
           "title": "IBM与英伟达将AI智能体身份和运行时访问控制绑定。",
@@ -96,15 +235,15 @@
           "time_info": "02时17分"
         },
         {
-          "title": "马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足",
-          "url": "https://www.cls.cn/detail/2515369",
-          "source": "财联社热门",
+          "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34335625",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "06时05分"
         },
         {
           "title": "Cadenc推出一套AI模型，芯片制造商可在内部运行这些模型",
@@ -118,53 +257,20 @@
           "time_info": "02时17分"
         },
         {
-          "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
-          "url": "https://wallstreetcn.com/articles/3784484",
-          "source": "华尔街见闻",
+          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2515881",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2098146460403615476",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "AI短片《齐天大圣》为何能引发关注",
-          "url": "https://www.toutiao.com/trending/7700837515682578495/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "06时05分"
         },
         {
           "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3186395",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
           "ranks": [
             20
           ],
@@ -184,44 +290,66 @@
           "time_info": "02时17分"
         },
         {
-          "title": "AI伪人广告正在集体“霸凌”人类",
-          "url": "https://www.baidu.com/s?wd=AI%E4%BC%AA%E4%BA%BA%E5%B9%BF%E5%91%8A%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E2%80%9C%E9%9C%B8%E5%87%8C%E2%80%9D%E4%BA%BA%E7%B1%BB",
-          "source": "百度热搜",
+          "title": "周一（10月26日），美股行业ETF多数收涨，半导体ETF涨2.74%，科技行业ETF、全球科技股指数ETF、工业指数ETF、全球航空业ETF、可选消费ETF至多涨1.69%。 标普500指数的11个板块中，信息技术/科技板块涨1.5%，工业、可选消费板块至多涨1.4%，电信板块则跌1.42%。",
+          "url": "https://wallstreetcn.com/livenews/3186466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "博通从2027年开始将通过SPV供应XPU AI加速器芯片。 该公司XPU AI芯片将租赁给Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3186464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美银、黑石、花旗和大摩联合博通宣布里程碑式的630亿美元融资结构，助力AI算力部署",
+          "url": "https://wallstreetcn.com/livenews/3186463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "06时05分"
         },
         {
-          "title": "专家：AI视频生成下一步是更高级智能",
-          "url": "https://www.toutiao.com/trending/7700830683280687131/",
-          "source": "今日头条",
+          "title": "博通(AVGO.O)：根据协议，交付预计将于2027年开始；新特殊目的载体将为Anthropic购买博通XPU AI加速器和网络解决方案。",
+          "url": "https://flash.jin10.com/detail/20261027042059145800",
+          "source": "金十数据",
           "ranks": [
-            26
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "06时05分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "新西兰经济研究所（NZIER）：新西兰联储影子委员会建议，本周应加息25个基点，让官方现金利率（OCR）达到3%。",
+          "url": "https://wallstreetcn.com/livenews/3186493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
         {
           "title": "既然国家允许重新高考，为什么不少经济条件尚可、没有巨大生存压力的成年人，依然不选择报考？",
           "url": "https://www.zhihu.com/question/2089867471700414788",
@@ -238,11 +366,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34334688",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
         },
         {
           "title": "据伊朗国际电视台：美国财长贝森特呼吁伊朗民众停止缴税，并在冬季来临前囤积燃料。他预测，到2027年3月，伊朗经济将萎缩超过25%。",
@@ -269,8 +398,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 06时05分]"
         }
       ]
     }
