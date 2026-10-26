@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-10-26T10:18:31.004325+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-10-26T19:52:14.842905+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 32,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "url": "https://wallstreetcn.com/articles/3784282",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时18分 ~ 19时52分]"
+        },
+        {
+          "title": "宇树科技大涨超8%，近7日股价飙升超6成",
+          "url": "https://www.cls.cn/detail/2514756",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
         {
           "title": "两周前“精准喊顶”的德银：科技股距离“长期趋势底部”还要“跌5%”",
           "url": "https://wallstreetcn.com/articles/3784409",
@@ -17,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 10时18分]"
+        },
+        {
+          "title": "周末，物理AI“刷屏”",
+          "url": "https://wallstreetcn.com/articles/3784428",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -30,24 +64,13 @@
           "time_info": "04时09分"
         },
         {
-          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
-          "url": "https://wallstreetcn.com/articles/3784282",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
           "title": "港股芯片股多数下跌，华虹宏力(01347.HK)跌超7%，ASMPT(00522.HK)跌超6%，壁仞科技(06082.HK)、天数智芯(09903.HK)、兆易创新(03986.HK)跌超5%。",
           "url": "https://flash.jin10.com/detail/20261026095021081800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -58,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -69,7 +92,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -97,6 +120,32 @@
           "time_info": "[04时09分 ~ 10时18分]"
         },
         {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 19时52分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 19时52分]"
+        },
+        {
           "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
           "url": "https://wallstreetcn.com/articles/3784410",
           "source": "华尔街见闻",
@@ -106,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 10时18分]"
+        },
+        {
+          "title": "周期股总在“最便宜”时见顶——最早看多AI硬件的“芯片网红”Citrini，为何正在悄然离场",
+          "url": "https://wallstreetcn.com/articles/3784436",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
@@ -143,16 +203,26 @@
           "time_info": "[04时09分 ~ 10时18分]"
         },
         {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
+          "title": "AI越界撞上中期选举？Anthropic Claude“翻付费墙”，调取州选民数据！",
+          "url": "https://www.cls.cn/detail/2514973",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "老干妈回应“用AI把600人裁到48人”",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%B9%B2%E5%A6%88%E5%9B%9E%E5%BA%94%E2%80%9C%E7%94%A8AI%E6%8A%8A600%E4%BA%BA%E8%A3%81%E5%88%B048%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时09分 ~ 10时18分]"
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
@@ -164,6 +234,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 10时18分]"
+        },
+        {
+          "title": "老干妈回应AI裁员传闻",
+          "url": "https://www.toutiao.com/trending/7700257751846469658/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "丈母娘也开始抢AI人了",
@@ -190,16 +271,37 @@
           "time_info": "[04时09分 ~ 10时18分]"
         },
         {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
+          "title": "菲尔兹奖得主邓煜批 OpenAI 双标「蒸馏」，如何看待该观点？",
+          "url": "https://www.zhihu.com/question/2097984108207027914",
+          "source": "知乎",
           "ranks": [
-            19,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时09分 ~ 10时18分]"
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "学霸为何扎堆硅谷疯狂搞AI",
+          "url": "https://www.toutiao.com/trending/7700906897032875574/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
+          "title": "AI探店火了 有代做公司月流水800万",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8E%A2%E5%BA%97%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BB%A3%E5%81%9A%E5%85%AC%E5%8F%B8%E6%9C%88%E6%B5%81%E6%B0%B4800%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
@@ -208,7 +310,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -219,7 +321,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -241,7 +343,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -274,7 +376,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -285,7 +387,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -296,7 +398,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -307,9 +409,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
+        },
+        {
+          "title": "Meta拟通过股权融资筹集最多950亿美元以支持 AI 支出",
+          "url": "https://wallstreetcn.com/livenews/3186088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "科创50指数跌超2%，成分股中，源杰科技、盛合晶微跌超5%。",
@@ -318,7 +431,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -329,7 +442,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -340,7 +453,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -365,13 +478,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "行云科技：中标项目补充协议总金额上调至88.48亿元",
+          "url": "https://wallstreetcn.com/livenews/3186024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%",
+          "url": "https://wallstreetcn.com/articles/3784435",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
         {
           "title": "机器人IPO门槛提高 具身智能一级市场预期变了",
           "url": "https://www.cls.cn/detail/2514289",
@@ -385,13 +520,24 @@
           "time_info": "[04时09分 ~ 10时18分]"
         },
         {
+          "title": "【焦点复盘】沪指低开高走涨0.19%，人形机器人概念火热依旧，宇树科技股价一度站上700元",
+          "url": "https://www.cls.cn/detail/2515278",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
+        {
           "title": "起猛了 爬泰山被机器人超过去了",
           "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E7%88%AC%E6%B3%B0%E5%B1%B1%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B6%85%E8%BF%87%E5%8E%BB%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -402,7 +548,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -432,8 +578,19 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "既然国家允许重新高考，为什么不少经济条件尚可、没有巨大生存压力的成年人，依然不选择报考？",
+          "url": "https://www.zhihu.com/question/2089867471700414788",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 19时52分]"
+        },
         {
           "title": "以色列总理内塔尼亚胡：全球各地电价飙升，部分国家涨幅高达数百个百分点，但以色列并未出现这种情况，因为“我们这里懂经济”。",
           "url": "https://flash.jin10.com/detail/20261026034251440800",
@@ -474,7 +631,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         }
