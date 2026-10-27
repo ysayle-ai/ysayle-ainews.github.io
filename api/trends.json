@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T06:05:46.539096+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-10-27T10:54:17.030350+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 29,
+      "match_count": 47,
       "titles": [
         {
           "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
@@ -19,27 +19,27 @@
           "time_info": "[02时17分 ~ 06时05分]"
         },
         {
-          "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
-          "url": "https://www.zhihu.com/question/2097984108207027914",
-          "source": "知乎",
+          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            4,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时05分]"
+          "time_info": "[06时05分 ~ 10时54分]"
         },
         {
-          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
+          "title": "【早报】科技股回暖，美股全线上涨；国际油价，从六个月高点回落；药明康德、中信证券发布三季报",
+          "url": "https://www.cls.cn/detail/2515908",
+          "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "OpenAI：我们的模型推翻了长期被广泛接受的指数时间假设。",
@@ -48,9 +48,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "OpenAI发布GPT6.1 Terra",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT6.1%20Terra",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "IBM(IBM.N)与英伟达(NVDA.O)将AI智能体身份与运行时访问控制相绑定。",
@@ -70,18 +81,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -92,9 +92,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2515893",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "OpenAI发布ChatGPT Work在100个国家的活动数据。",
@@ -106,6 +117,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
+          "url": "https://www.zhihu.com/question/2097984108207027914",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 10时54分]"
+        },
+        {
+          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 10时54分]"
         },
         {
           "title": "周末，物理AI“刷屏”",
@@ -132,23 +168,71 @@
           "time_info": "[02时17分 ~ 06时05分]"
         },
         {
-          "title": "马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足",
-          "url": "https://www.cls.cn/detail/2515369",
+          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2515881",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            12,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时05分]"
+          "time_info": "[06时05分 ~ 10时54分]"
+        },
+        {
+          "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34335625",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 10时54分]"
         },
         {
           "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
           "url": "https://wallstreetcn.com/articles/3784484",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 10时54分]"
+        },
+        {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 10时54分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 10时54分]"
+        },
+        {
+          "title": "马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足",
+          "url": "https://www.cls.cn/detail/2515369",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -202,26 +286,15 @@
           "time_info": "[02时17分 ~ 06时05分]"
         },
         {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
+          "title": "OpenAI公布三项科学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时05分]"
-        },
-        {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "IBM与英伟达将AI智能体身份和运行时访问控制绑定。",
@@ -235,17 +308,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34335625",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
           "title": "Cadenc推出一套AI模型，芯片制造商可在内部运行这些模型",
           "url": "https://wallstreetcn.com/livenews/3186410",
           "source": "华尔街见闻-快讯",
@@ -257,15 +319,136 @@
           "time_info": "02时17分"
         },
         {
-          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2515881",
+          "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
+          "url": "https://www.zhihu.com/question/2098291700204622696",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "马斯克预警：200多家AI云厂商面临清洗，Nebius、CoreWeave盘前跌超4%",
+          "url": "https://wallstreetcn.com/articles/3784479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算",
+          "url": "https://www.cls.cn/detail/2515838",
           "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34336116",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "蚂蚁灵光2.0全新升级“能管事的AI助理”",
+          "url": "https://wallstreetcn.com/livenews/3186576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "韩国AI基金拟充当债市“财政堤坝”：半导体税收激增，为政府削减发债规模提供底气",
+          "url": "https://flash.jin10.com/detail/20261027101621494800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时05分"
+          "time_info": "10时54分"
+        },
+        {
+          "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
+          "url": "https://www.zhihu.com/question/2098252387312058852",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "老干妈HR回应AI裁员传闻",
+          "url": "https://www.douyin.com/hot/2714511",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股 科技股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%20%E7%A7%91%E6%8A%80%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "史上最大IPO 史上最亏AI公司",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO+%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BA%8FAI%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "Meta拟融资950亿美元砸向AI，英伟达、AMD、博通有意认购至多50亿美元股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34335837",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股PEEK材料板块震荡走高，明阳科技涨超17%，横河精密涨超15%，恒勃股份涨超6%，长盈精密跟涨。",
+          "url": "https://flash.jin10.com/detail/20261027100228814800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
@@ -296,7 +479,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -307,9 +490,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "A股半导体芯片股开盘领涨，天德钰涨超10%，东芯股份、中晶科技、力芯微、普冉股份、长川科技等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3186557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "美银、黑石、花旗和大摩联合博通宣布里程碑式的630亿美元融资结构，助力AI算力部署",
@@ -318,9 +512,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "恒指高开0.21%，报23260.14点；恒生科技指数涨0.74%。联想集团涨超5%，药明康德涨近5%，华虹宏力、智谱涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3186550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "博通(AVGO.O)：根据协议，交付预计将于2027年开始；新特殊目的载体将为Anthropic购买博通XPU AI加速器和网络解决方案。",
@@ -329,7 +534,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         }
@@ -346,7 +551,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -388,7 +593,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%",
@@ -398,8 +603,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 06时05分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 10时54分]"
+        },
+        {
+          "title": "10月27日投资避雷针：福莱新材、宇树科技等机器人概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2515947",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股机器人概念股反复活跃，多伦科技4连板，光洋股份2连板，秦安股份、多利科技涨停，襄阳轴承、瑞迪智驱、怡合达、宏昌科技、山东矿机跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3186571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     }
