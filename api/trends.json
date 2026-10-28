@@ -1,821 +1,265 @@
 {
-  "generated_at": "2026-10-28T19:50:23.046636+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-10-29T01:39:32.461195+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 AI",
-      "match_count": 55,
+      "match_count": 14,
       "titles": [
         {
           "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
           "url": "https://wallstreetcn.com/articles/3784535",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 19时50分]"
-        },
-        {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "张坤还是笃信科技：独管产品十大重仓半数押注全球AI半导体",
-          "url": "https://www.cls.cn/detail/2516819",
-          "source": "财联社热门",
-          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
-          "url": "https://wallstreetcn.com/articles/3784535",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "17岁AI研究员被曝获700万年薪邀约",
-          "url": "https://www.toutiao.com/trending/7701221553450598938/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时39分"
         },
         {
-          "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2517192",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "金十图示：2026年10月28日（周三）港A科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20261028105203731800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "各地科技赋能助力金秋丰收",
-          "url": "https://www.douyin.com/hot/2717634",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "AI能复原被破坏的二维码吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%A4%8D%E5%8E%9F%E8%A2%AB%E7%A0%B4%E5%9D%8F%E7%9A%84%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "公募三季度如何持仓腾挪？减算力、加医药，科技筹码仍在出清",
-          "url": "https://www.cls.cn/detail/2517615",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "2026胡润百富榜出炉，每10位上榜者就有1位靠AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34309375",
+          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
           "source": "澎湃新闻",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "12个AI预测S16瑞士轮第四轮",
-          "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BS16%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E5%9B%9B%E8%BD%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时39分"
         },
         {
-          "title": "长鑫科技已被纳入上证指数，位列第一大权重股",
-          "url": "https://www.cls.cn/detail/2517601",
-          "source": "财联社热门",
+          "title": "男子回应借助AI买彩票中508万",
+          "url": "https://www.toutiao.com/trending/7701562501992824874/",
+          "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "“这种模式我们见过！”大空头交易员详解：为何做空AI新贵CoreWeave",
-          "url": "https://wallstreetcn.com/articles/3784579",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 19时50分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
-          "title": "“纯垃圾”“毫无品味”，马斯克的AI电影被喷爆了",
-          "url": "https://news.ifeng.com/c/8xZM7R9oqpX",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 11时01分]"
-        },
-        {
-          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 11时01分]"
-        },
-        {
-          "title": "AI概念股有望延续反弹 红利龙头业绩强劲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2516945",
+          "title": "美联储议息夜 存储、液冷绩优股带动科技板块延续反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2518310",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
-          "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34336116",
-          "source": "澎湃新闻",
+          "title": "谷歌(GOOG.O)：将通过Fairwind计划逐步向更多可信合作伙伴开放Gemini Carbon的使用权限。",
+          "url": "https://flash.jin10.com/detail/20261029011039503800",
+          "source": "金十数据",
           "ranks": [
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
-          "url": "https://www.zhihu.com/question/2096860633161545316",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "英伟达拟出资30亿美元认购Meta新股 双方深化AI智能体合作",
-          "url": "https://www.cls.cn/detail/2516726",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "基金经理重仓 AI 巨亏公开致歉，称没必要低位离场，等流动性恢复，当基金经理也靠信仰持股，算不算风险信号？",
-          "url": "https://www.zhihu.com/question/2096884168970061409",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "AI制药走到哪一步了？多位基金经理把脉",
-          "url": "https://www.cls.cn/detail/2516897",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "如果程序员可以用AI写代码，作者为什么不能用AI写文章？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34273979",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-          "url": "https://www.zhihu.com/question/2098331248469062137",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
-        },
-        {
-          "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
-          "url": "https://www.zhihu.com/question/2097626035961455067",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时39分"
         },
         {
-          "title": "这种奇异天象是什么高科技",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E7%A7%8D%E5%A5%87%E5%BC%82%E5%A4%A9%E8%B1%A1%E6%98%AF%E4%BB%80%E4%B9%88%E9%AB%98%E7%A7%91%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "特朗普炮轰：“AI”一词糟糕且不准确 将很快禁用！",
-          "url": "https://www.cls.cn/detail/2517911",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "A股CPO概念股震荡走强，共进股份触及涨停，杰普特涨超15%，仕佳光子、炬光科技、新易盛、天孚通信、中际旭创均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3188060",
-          "source": "华尔街见闻-快讯",
+          "title": "宇树科技Q3营收同比增长69.93%，净利润同比下降17.42%、环比降49%，研发费用激增249.58% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784681",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时39分"
         },
         {
-          "title": "美国总统特朗普：我们很快会在所有相关文件中正式禁用“AI/人工智能”这一术语。 华尔街日报何时才会开始将人工智能（AI）这个糟糕且不准确的名称改称为超级智能（SI）？ 几乎其他所有人都在使用这个名称，或者很快就会使用。 很快，我们将正式禁止在所有相关文件及其他一切场合使用“AI/人工智能”这一术语，因为该名称不准确。",
-          "url": "https://wallstreetcn.com/livenews/3187829",
-          "source": "华尔街见闻-快讯",
+          "title": "【明日主题前瞻】物理AI稀缺的底层资源，真实数据面临巨大的缺口",
+          "url": "https://www.cls.cn/detail/2517890",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时39分"
         },
         {
-          "title": "宁德时代新设储能科技公司 含AI相关业务",
-          "url": "https://flash.jin10.com/detail/20261028104456728800",
-          "source": "金十数据",
+          "title": "AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了",
+          "url": "https://www.cls.cn/detail/2518352",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.5%，报401.41点，创9月8日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦生物科技公司Genmab A/S涨29.06%，在一众北欧个股里领跑，报3868.00丹麦克朗，创2020年哥本哈根IPO以来收盘新高。",
+          "url": "https://wallstreetcn.com/livenews/3189302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
+          "url": "https://www.cls.cn/detail/2518311",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时39分"
         },
         {
-          "title": "樱井政博怒斥 AI 游戏只是「无法游玩的抄袭品」，为什么 AI 能生成完美代码和美术，却很难做得「好玩」？",
-          "url": "https://www.zhihu.com/question/2096639617629939625",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "OpenAI推翻ETH",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8E%A8%E7%BF%BBETH",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "钱塘联合宇树科技等共建具身智能产业基础设施",
-          "url": "https://flash.jin10.com/detail/20261028192139015800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "英特尔与甲骨文计划扩大合作 以支持甲骨文云基础设施上的企业级和智能体AI",
-          "url": "https://wallstreetcn.com/livenews/3187826",
-          "source": "华尔街见闻-快讯",
+          "title": "东山精密香港发售认购倍数创近21个月新低 携“AI光环”仍遭散户弃购",
+          "url": "https://www.cls.cn/detail/2518077",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "男子借助AI买彩票中508万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E5%8A%A9AI%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD508%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "甲骨文云基础设施（Oracle Cloud Infrastructure）总裁蒂亚加拉扬（Mahesh Thiagarajan）：不同的AI工作负载有着不同的计算需求。 这种选择为（客户）提供了灵活性，使其能够针对每项AI工作负载的性能、吞吐量和经济性选择恰当的基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3187824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "博通安排金融合作伙伴购买基于定制AI加速器的AI机架。 为特殊目的载体（SPV）提供剩余价值支持，担保安排下的最大潜在责任约为430亿美元。 该公司承担最高430亿美元AI机架兜底赔付责任，兜底保障覆盖客户租赁金额的72.5%。",
-          "url": "https://wallstreetcn.com/livenews/3187912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "恒生科技指数涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3188048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "Crusoe首席执行官：OpenAI正与Abilene合作开发另一款尚未发布的模型。 OpenAI尚未发布的新模型旨在解决数学问题。",
-          "url": "https://wallstreetcn.com/livenews/3187821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "A股半导体芯片股早盘走强，中晶科技一字涨停，富瀚微、普冉股份、凯华材料、联动科技、思瑞浦涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3188046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时39分"
         },
         {
           "title": "明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成",
           "url": "https://m.thepaper.cn/newsDetail_forward_34350138",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "美国总统特朗普：很快，我们将正式在所有相关文件中禁用“人工智能（AI）”这一术语。",
-          "url": "https://flash.jin10.com/detail/20261028001620792800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "周二（10月27日），美股行业ETF涨跌各异，半导体ETF收涨3.02%，全球航空业ETF涨2.23%，全球科技股指数ETF、科技行业ETF至多涨1.84%，能源业ETF跌2.05%。 标普500指数的11个板块中，信息技术/科技板块收涨1.49%，可选消费板块涨1.36%，能源板块跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3187908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "炬华科技：2026年第三季度净利润1.21亿元，同比下降10.25%",
-          "url": "https://flash.jin10.com/detail/20261028191408337800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "宇树科技：前三季度归母净利润3.87亿元，同比增长270.54%",
-          "url": "https://wallstreetcn.com/livenews/3189009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "石头科技回应与皇马合作",
-          "url": "https://www.toutiao.com/trending/7701647639091200562/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "胡润百富榜每10位上榜者就有1位靠AI",
-          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%E7%99%BE%E5%AF%8C%E6%A6%9C%E6%AF%8F10%E4%BD%8D%E4%B8%8A%E6%A6%9C%E8%80%85%E5%B0%B1%E6%9C%891%E4%BD%8D%E9%9D%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "恒指高开0.19%，报23083.99点；恒生科技指数涨0.78%。联想集团涨5%，天数智芯、MINIMAX、智谱涨超3%，华虹宏力、中芯国际涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3188035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时39分"
         },
         {
           "title": "罗翔用AI做了个视频",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "01时39分"
         },
         {
-          "title": "卢拉胜选冲击巴西市场，但GQG的Jain称此时抛售是个“错误”",
-          "url": "https://wallstreetcn.com/livenews/3187814",
+          "title": "谷歌调整云业务策略，联合合作伙伴扩大AI芯片销售",
+          "url": "https://wallstreetcn.com/livenews/3189305",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "AI小狗男主进入白切黑时代",
-          "url": "https://www.douyin.com/hot/2716263",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "据CNBC：甲骨文(ORCL.N)扩大与OpenAI的合作关系。",
-          "url": "https://flash.jin10.com/detail/20261028000336548800",
-          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.11%，报5501.01点，跳空低开之后，持续地逐步收复失地。 热门中概股里，世纪互联初步收跌3.9%，网易跌3.6%，禾赛跌2.6%，阿里大致持平，拼多多涨0.3%，百度涨0.5%，京东涨1.3%，小鹏涨1.6%，晶科控股涨1.9%，大全新能源涨8.3%，阿特斯太阳能涨9.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.35%，中概互联网指数ETF（KWEB）收跌0.30%。XtrackersHarvest中证50（ASHS）收跌2.13%，德银嘉实沪深300指数ETF（ASHR）收跌0.52%，MSCI新兴市场ex中国ETF（EMXC）收涨1.52%。",
-          "url": "https://wallstreetcn.com/livenews/3187900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "宇树科技涨超10%，成交额超30亿元。",
-          "url": "https://flash.jin10.com/detail/20261028103245080800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "男子借助AI买彩票中508万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%9F%E5%8A%A9AI%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD508%E4%B8%87%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "经济",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "乌克兰总统泽连斯基：将与荷兰讨论防务和经济合作、加强乌克兰防空以及支持乌克兰的新举措。我还计划会见乌克兰和荷兰企业代表。",
-          "url": "https://flash.jin10.com/detail/20261028192716270800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "新西兰联储主席Breman：认同需要收紧政策，但这取决于经济形势。 委员会讨论了纽元贬值的问题，如果这一趋势持续下去，可能会加剧输入型通胀。 如果通胀持续，可能需要采取限制性利率。 可能在即将召开的会议上提高官方现金利率。 将通胀率恢复到目标水平的条件依然有利。",
-          "url": "https://wallstreetcn.com/livenews/3188066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "一组数据 看我国经济动能向新",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE+%E7%9C%8B%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8A%A8%E8%83%BD%E5%90%91%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "【国泰海通：全资子公司拟出资40亿元参与设立200亿元科创基金】 国泰海通公告，全资子公司国泰海通开元投资有限公司拟与公司实际控制人上海国际集团有限公司全资子公司上海国际集团资产管理有限公司等共同出资设立上海领航科创基金合伙企业（有限合伙）（暂定名），认缴出资总额拟为200亿元，其中国泰海通开元认缴40亿元、国际集团资管公司认缴20亿元，国泰海通开元担任基金管理人和执行事务合伙人，工银资本管理有限公司共同担任执行事务合伙人。基金仅投资于经合伙人会议审议通过的下层基金，下层基金投资方向为新一代信息技术、高端装备、新材料、生物医药、人工智能、数字经济等重点产业。",
-          "url": "https://wallstreetcn.com/livenews/3189023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "日本经济再生大臣赤泽亮正：当前，以规则为基础的自由贸易体制正在动摇。感谢各位委员积极向APEC传递商业一线的声音，为维护和加强自由、公平的贸易与投资环境作出努力。",
-          "url": "https://flash.jin10.com/detail/20261028103305862800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "广东经济增速追平全国为何来之不易",
-          "url": "https://www.toutiao.com/trending/7700395139386654756/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "澳洲联储副主席Hauser：预计澳大利亚不会出现经济衰退。",
-          "url": "https://wallstreetcn.com/livenews/3188029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时39分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
-          "title": "谷歌Genie 4亮相：一句话创造虚拟世界、敲键盘自由探索",
-          "url": "https://www.cls.cn/detail/2517161",
-          "source": "财联社热门",
+          "title": "谷歌公司称，公司与XREAL发布XREAL AURA有线XR眼镜，由安卓XR支持。 11月2日，美国、加拿大、韩国、日本可以下单。 面向开发者发布Connected APPs Platforms。",
+          "url": "https://wallstreetcn.com/livenews/3189312",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时39分"
         },
         {
-          "title": "谷歌：向一小批受信任的测试者推出Genie 4。 发布Genie 4相关研究成果。",
-          "url": "https://wallstreetcn.com/livenews/3187827",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：自本周起，将向部分网络防御人员开放Google Carbon。",
+          "url": "https://flash.jin10.com/detail/20261029010947727800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：正以审慎方式推进Gemini 4 Carbon的发布，并积极参与美国政府关于模型发布前测试的自愿流程。",
+          "url": "https://flash.jin10.com/detail/20261029010931073800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：正式推出XREAL Aura。",
+          "url": "https://flash.jin10.com/detail/20261029010758918800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时39分"
         },
         {
-          "title": "甲骨文扩大与英伟达的芯片供应协议，扩充云端芯片阵容，将首次采用谷歌TPU芯片",
-          "url": "https://wallstreetcn.com/livenews/3187820",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：将对输入词元定价每百万2美元，对输出词元定价每百万10美元。",
+          "url": "https://flash.jin10.com/detail/20261029010425967800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "谷歌(GOOG.O)基准测试显示，Gemini 4 Carbon在大多数指标上都优于GPT-6 Astra和Claude Opus 5.5。",
+          "url": "https://flash.jin10.com/detail/20261029010354410800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "谷歌(GOOG.O)推出Gemini 4 Carbon 前沿模型。",
+          "url": "https://flash.jin10.com/detail/20261029010241765800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布我们关于Genie 4的研究；向一小部分受信任的测试者推出Genie 4。",
-          "url": "https://flash.jin10.com/detail/20261028001501349800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "谷歌推出最强世界模型Genie4",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BA%E6%9C%80%E5%BC%BA%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8BGenie4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "甲骨文扩大英伟达芯片合作 引入谷歌、Cerebras等供应商",
-          "url": "https://flash.jin10.com/detail/20261028000727897800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时39分"
         }
       ]
     },
     {
       "keyword_group": "机器人",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "【焦点复盘】沪指、创业板指放量收复5日线，AI制药概念卷土重来，机器人概念午后现批量炸板",
-          "url": "https://www.cls.cn/detail/2517952",
+          "title": "宇树科技上市后首份季报出炉：Q3净利环比下降49.55%，人形机器人商业化进程迎关键验证期",
+          "url": "https://www.cls.cn/detail/2518195",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "【每日收评】创业板指放量涨超3%，机器人概念延续强势，算力硬件股集体反弹",
-          "url": "https://www.cls.cn/detail/2517912",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "马斯克坚定看好内存需求 称机器人所需内存将超过其他任何领域",
-          "url": "https://www.cls.cn/detail/2516641",
-          "source": "财联社热门",
-          "ranks": [
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时39分"
         },
         {
           "title": "创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%",
@@ -824,54 +268,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "01时39分"
         },
         {
-          "title": "智元机器人在郑州成立具身智能技术公司",
-          "url": "https://flash.jin10.com/detail/20261028103359909800",
-          "source": "金十数据",
+          "title": "30多万元机器人进厂目前速度比人慢",
+          "url": "https://www.toutiao.com/trending/7700583596558336041/",
+          "source": "今日头条",
           "ranks": [
-            24
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时39分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "经济",
       "match_count": 1,
       "titles": [
         {
-          "title": "31岁女生按ChatGPT指示减药后去世",
-          "url": "https://www.baidu.com/s?wd=31%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8C%89ChatGPT%E6%8C%87%E7%A4%BA%E5%87%8F%E8%8D%AF%E5%90%8E%E5%8E%BB%E4%B8%96",
-          "source": "百度热搜",
+          "title": "数说中国经济澎湃动能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "社会",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外交部回应姆巴佩代言解约事件，「伤害中国人民感情的言行自然会遭到中国社会各界的共同抵制」，这有何警示？",
-          "url": "https://www.zhihu.com/question/2098468913931608699",
-          "source": "知乎",
-          "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 05时37分]"
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     }
